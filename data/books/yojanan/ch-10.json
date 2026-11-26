@@ -1,0 +1,320 @@
+{
+  "bookId": "yojanan",
+  "titleEntryId": "book_yojanan",
+  "bookTitle": "Yojanan",
+  "chapter": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "DE cierto, de cierto os digo: El que no entra por la puerta en el corral de las ovejas, mas sube por otra parte, el tal es ladrón y robador."
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Mas el que entra por la puerta, el pastor de las ovejas es."
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "A éste abre el portero, y las ovejas oyen su voz: y a sus ovejas llama por nombre, y las saca."
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Y como ha sacado fuera todas las propias, va delante de ellas; y las ovejas le siguen, porque conocen su voz."
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Mas al extraño no seguirán, antes huirán de él: porque no conocen la voz de los extraños."
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Esta parábola les dijo ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        "; mas ellos no entendieron qué era lo que les decía."
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "Volvióles, pues, ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " a decir: De cierto, de cierto os digo: Yo soy la puerta de las ovejas."
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Todos los que antes de mí vinieron, ladrones son y robadores; mas no los oyeron las ovejas."
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Yo soy la puerta: el que por mí entrare, será salvo; y entrará, y saldrá, y hallará pastos."
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "El ladrón no viene sino para hurtar, y matar, y destruir: yo he venido para que tengan vida, y para que la tengan en abundancia."
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "Yo soy el buen pastor: el buen pastor su vida da por las ovejas."
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Mas el asalariado, y que no es el pastor, de quien no son propias las ovejas, ve al lobo que viene, y deja las ovejas, y huye, y el lobo las arrebata, y esparce las ovejas."
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Así que, el asalariado, huye, porque es asalariado, y no tiene cuidado de las ovejas."
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Yo soy el buen pastor; y conozco mis ovejas, y las mías me conocen."
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Como el Padre me conoce, y yo conozco al Padre; y pongo mi vida por las ovejas."
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "También tengo otras ovejas que no son de este redil; aquéllas también me conviene traer, y oirán mi voz; y habrá un rebaño, y un pastor."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Por eso me ama el Padre, porque yo pongo mi vida, para volverla a tomar."
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Nadie me la quita, mas yo la pongo de mí mismo. Tengo poder para ponerla, y tengo poder para volverla a tomar. Este mandamiento recibí de mi Padre."
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Y volvió a haber disensión entre los Judíos por estas palabras."
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Y muchos de ellos decían: Demonio tiene, y está fuera de sí; ¿para qué le oís?"
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "Decían otros: Estas palabras no son de endemoniado: ¿puede el demonio abrir los ojos de los ciegos?"
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "Y se hacía la fiesta de la dedicación en ",
+        {
+          "entryId": "yerushalayim",
+          "form": "Yerushalayim"
+        },
+        "; y era invierno;"
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " andaba en el templo por el portal de Salomón."
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "Y rodeáronle los Judíos y dijéronle: ¿Hasta cuándo nos has de turbar el alma? Si tú eres el ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        ", dínoslo abiertamente."
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "Respondióles ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": Os lo he dicho, y no creéis: las obras que yo hago en nombre de mi Padre, ellas dan testimonio de mí;"
+      ]
+    },
+    {
+      "verse": 26,
+      "segments": [
+        "Mas vosotros no creéis, porque no sois de mis ovejas, como os he dicho."
+      ]
+    },
+    {
+      "verse": 27,
+      "segments": [
+        "Mis ovejas oyen mi voz, y yo las conozco, y me siguen;"
+      ]
+    },
+    {
+      "verse": 28,
+      "segments": [
+        "Y yo les doy vida eterna: y no perecerán para siempre, ni nadie las arrebatará de mi mano."
+      ]
+    },
+    {
+      "verse": 29,
+      "segments": [
+        "Mi Padre que me las dio, mayor que todos es: y nadie las puede arrebatar de la mano de mi Padre."
+      ]
+    },
+    {
+      "verse": 30,
+      "segments": [
+        "Yo y el Padre una cosa somos."
+      ]
+    },
+    {
+      "verse": 31,
+      "segments": [
+        "Entonces volvieron a tomar piedras los Judíos para apedrearle."
+      ]
+    },
+    {
+      "verse": 32,
+      "segments": [
+        "Respondióles ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": Muchas buenas obras os he mostrado de mi Padre; ¿por cuál obra de esas me apedreáis?"
+      ]
+    },
+    {
+      "verse": 33,
+      "segments": [
+        "Respondiéronle los Judíos, diciendo: Por buena obra no te apedreamos, sino por la blasfemia; y porque tú, siendo hombre, te haces Dios."
+      ]
+    },
+    {
+      "verse": 34,
+      "segments": [
+        "Respondióles ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": ¿No está escrito en vuestra ley: Yo dije, Dioses sois?"
+      ]
+    },
+    {
+      "verse": 35,
+      "segments": [
+        "Si dijo, dioses, a aquellos a los cuales fue hecha palabra de Dios (y la Escritura no puede ser quebrantada);"
+      ]
+    },
+    {
+      "verse": 36,
+      "segments": [
+        "¿A quien el Padre santificó y envió al mundo, vosotros decís: Tú blasfemas, porque dije: Hijo de Dios soy?"
+      ]
+    },
+    {
+      "verse": 37,
+      "segments": [
+        "Si no hago obras de mi Padre, no me creáis."
+      ]
+    },
+    {
+      "verse": 38,
+      "segments": [
+        "Mas si las hago, aunque a mí no creáis, creed a las obras; para que conozcáis y creáis que el Padre está en mí, y yo en el Padre."
+      ]
+    },
+    {
+      "verse": 39,
+      "segments": [
+        "Y procuraban otra vez prenderle; mas él se salió de sus manos;"
+      ]
+    },
+    {
+      "verse": 40,
+      "segments": [
+        "Y volvióse tras el ",
+        {
+          "entryId": "yarden",
+          "form": "Yarden"
+        },
+        ", a aquel lugar donde primero había estado bautizando ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        "; y estúvose allí."
+      ]
+    },
+    {
+      "verse": 41,
+      "segments": [
+        "Y muchos venían a él, y decían: ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        ", a la verdad, ninguna señal hizo; mas todo lo que ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        " dijo de éste, era verdad."
+      ]
+    },
+    {
+      "verse": 42,
+      "segments": [
+        "Y muchos creyeron allí en él."
+      ]
+    }
+  ]
+}

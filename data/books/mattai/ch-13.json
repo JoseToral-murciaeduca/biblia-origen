@@ -1,0 +1,466 @@
+{
+  "bookId": "mattai",
+  "titleEntryId": "book_mattai",
+  "bookTitle": "Mattai",
+  "chapter": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "Y AQUEL día, saliendo ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " de casa, se sentó junto a la mar."
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Y se allegaron a él muchas gentes; y entrándose él en el barco, se sentó, y toda la gente estaba a la ribera."
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Y les habló muchas cosas por parábolas, diciendo: He aquí el que sembraba salió a sembrar."
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Y sembrando, parte de la simiente cayó junto al camino; y vinieron las aves, y la comieron."
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Y parte cayó en pedregales, donde no tenía mucha tierra; y nació luego, porque no tenía profundidad de tierra:"
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Mas en saliendo el sol, se quemó; y secóse, porque no tenía raíz."
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "Y parte cayó en espinas; y las espinas crecieron, y la ahogaron."
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Y parte cayó en buena tierra, y dio fruto, cuál a ciento, cuál a sesenta, y cuál a treinta."
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Quien tiene oídos para oir, oiga."
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Entonces, llegándose los discípulos, le dijeron: ¿Por qué les hablas por parábolas?"
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "Y él respondiendo, les dijo: Por que a vosotros es concedido saber los misterios del ",
+        {
+          "entryId": "basileia",
+          "form": "reino"
+        },
+        " de los cielos; mas a ellos no es concedido."
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Porque a cualquiera que tiene, se le dará, y tendrá más; pero al que no tiene, aun lo que tiene le será quitado."
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Por eso les hablo por parábolas; porque viendo no ven, y oyendo no oyen, ni entienden."
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "De manera que se cumple en ellos la profecía de ",
+        {
+          "entryId": "yeshayahu",
+          "form": "Yeshayahu"
+        },
+        ", que dice: De oído oiréis, y no entenderéis; y viendo veréis, y no miraréis."
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Porque el corazón de este pueblo está engrosado, y de los oídos oyen pesadamente, y de sus ojos guiñan: para que no vean de los ojos, y oigan de los oídos, y del corazón entiendan, y se conviertan, y yo los sane."
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "Mas bienaventurados vuestros ojos, porque ven; y vuestros oídos, porque oyen."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Porque ",
+        {
+          "entryId": "amen",
+          "form": "Amén"
+        },
+        " os digo, que muchos profetas y justos desearon ver lo que veis, y no lo vieron: y oir lo que oís, y no lo oyeron."
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Oid, pues, vosotros la parábola del que siembra:"
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Oyendo cualquiera la palabra del ",
+        {
+          "entryId": "basileia",
+          "form": "reino"
+        },
+        ", y no entendiéndola, viene el malo, y arrebata lo que fue sembrado en su corazón: éste es el que fue sembrado junto al camino."
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Y el que fue sembrado en pedregales, éste es el que oye la palabra, y luego la recibe con gozo."
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "Mas no tiene raíz en sí, antes es temporal: que venida la aflicción o la persecución por la palabra, luego se ofende."
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "Y el que fue sembrado en espinas, éste es el que oye la palabra; pero el afán de este siglo y el engaño de las riquezas, ahogan la palabra, y hácese infructuosa."
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "Mas el que fue sembrado en buena tierra, éste es el que oye y entiende la palabra, y el que lleva fruto: y lleva uno a ciento, y otro a sesenta, y otro a treinta."
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "Otra parábola les propuso, diciendo: El ",
+        {
+          "entryId": "basileia",
+          "form": "reino"
+        },
+        " de los cielos es semejante al hombre que siembra buena simiente en su campo:"
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "Mas durmiendo los hombres, vino su enemigo, y sembró cizaña entre el trigo, y se fue."
+      ]
+    },
+    {
+      "verse": 26,
+      "segments": [
+        "Y como la hierba salió e hizo fruto, entonces apareció también la cizaña."
+      ]
+    },
+    {
+      "verse": 27,
+      "segments": [
+        "Y llegándose los siervos del padre de la familia, le dijeron: Señor, ¿no sembraste buena simiente en tu campo? ¿de dónde, pues, tiene cizaña?"
+      ]
+    },
+    {
+      "verse": 28,
+      "segments": [
+        "Y él les dijo: Un hombre enemigo ha hecho esto. Y los siervos le dijeron: ¿Quieres, pues, que vayamos y la cojamos?"
+      ]
+    },
+    {
+      "verse": 29,
+      "segments": [
+        "Y él dijo: No; porque cogiendo la cizaña, no arranquéis también con ella el trigo."
+      ]
+    },
+    {
+      "verse": 30,
+      "segments": [
+        "Dejad crecer juntamente lo uno y lo otro hasta la siega; y al tiempo de la siega yo diré a los segadores: Coged primero la cizaña, y atadla en manojos para quemarla; mas recoged el trigo en mi alfolí."
+      ]
+    },
+    {
+      "verse": 31,
+      "segments": [
+        "Otra parábola les propuso, diciendo: El ",
+        {
+          "entryId": "basileia",
+          "form": "reino"
+        },
+        " de los cielos es semejante al grano de mostaza, que tomándolo alguno lo sembró en su campo:"
+      ]
+    },
+    {
+      "verse": 32,
+      "segments": [
+        "El cual a la verdad es la más pequeña de todas las simientes; mas cuando ha crecido, es la mayor de las hortalizas, y se hace árbol, que vienen las aves del cielo y hacen nidos en sus ramas."
+      ]
+    },
+    {
+      "verse": 33,
+      "segments": [
+        "Otra parábola les dijo: El ",
+        {
+          "entryId": "basileia",
+          "form": "reino"
+        },
+        " de los cielos es semejante a la levadura que tomó una mujer, y escondió en tres medidas de harina, hasta que todo quedó leudo."
+      ]
+    },
+    {
+      "verse": 34,
+      "segments": [
+        "Todo esto habló ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " por parábolas a las gentes, y sin parábolas no les hablaba:"
+      ]
+    },
+    {
+      "verse": 35,
+      "segments": [
+        "Para que se cumpliese lo que fue dicho por el profeta, que dijo: Abriré en parábolas mi boca; rebosaré cosas escondidas desde la fundación del mundo."
+      ]
+    },
+    {
+      "verse": 36,
+      "segments": [
+        "Entonces, despedidas las gentes, ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " se vino a casa; y llegándose a él sus discípulos, le dijeron: Decláranos la parábola de la cizaña del campo."
+      ]
+    },
+    {
+      "verse": 37,
+      "segments": [
+        "Y respondiendo él, les dijo: El que siembra la buena simiente es el Hijo del hombre;"
+      ]
+    },
+    {
+      "verse": 38,
+      "segments": [
+        "Y el campo es el mundo; y la buena simiente son los hijos del ",
+        {
+          "entryId": "basileia",
+          "form": "reino"
+        },
+        ", y la cizaña son los hijos del malo;"
+      ]
+    },
+    {
+      "verse": 39,
+      "segments": [
+        "Y el enemigo que la sembró, es el diablo; y la siega es el fin del mundo, y los segadores son los ángeles."
+      ]
+    },
+    {
+      "verse": 40,
+      "segments": [
+        "De manera que como es cogida la cizaña, y quemada al fuego, así será en el fin de este siglo."
+      ]
+    },
+    {
+      "verse": 41,
+      "segments": [
+        "Enviará el Hijo del hombre sus ángeles, y cogerán de su ",
+        {
+          "entryId": "basileia",
+          "form": "reino"
+        },
+        " todos los escándalos, y los que hacen iniquidad,"
+      ]
+    },
+    {
+      "verse": 42,
+      "segments": [
+        "Y los echarán en el horno de fuego: allí será el lloro y el crujir de dientes."
+      ]
+    },
+    {
+      "verse": 43,
+      "segments": [
+        "Entonces los justos resplandecerán como el sol en el ",
+        {
+          "entryId": "basileia",
+          "form": "reino"
+        },
+        " de su Padre: el que tiene oídos para oir, oiga."
+      ]
+    },
+    {
+      "verse": 44,
+      "segments": [
+        "Además, el ",
+        {
+          "entryId": "basileia",
+          "form": "reino"
+        },
+        " de los cielos es semejante al tesoro escondido en el campo; el cual hallado, el hombre lo encubre, y de gozo de ello va, y vende todo lo que tiene, y compra aquel campo."
+      ]
+    },
+    {
+      "verse": 45,
+      "segments": [
+        "También el ",
+        {
+          "entryId": "basileia",
+          "form": "reino"
+        },
+        " de los cielos es semejante al hombre tratante, que busca buenas perlas;"
+      ]
+    },
+    {
+      "verse": 46,
+      "segments": [
+        "Que hallando una preciosa perla, fue y vendió todo lo que tenía, y la compró."
+      ]
+    },
+    {
+      "verse": 47,
+      "segments": [
+        "Asimismo el ",
+        {
+          "entryId": "basileia",
+          "form": "reino"
+        },
+        " de los cielos es semejante a la red, que echada en la mar, coge de todas suertes de peces:"
+      ]
+    },
+    {
+      "verse": 48,
+      "segments": [
+        "La cual estando llena, la sacaron a la orilla; y sentados, cogieron lo bueno en vasos, y lo malo echaron fuera."
+      ]
+    },
+    {
+      "verse": 49,
+      "segments": [
+        "Así será al fin del siglo: saldrán los ángeles, y apartarán a los malos de entre los justos,"
+      ]
+    },
+    {
+      "verse": 50,
+      "segments": [
+        "Y los echarán en el horno del fuego: allí será el lloro y el crujir de dientes."
+      ]
+    },
+    {
+      "verse": 51,
+      "segments": [
+        "Díceles ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": ¿Habéis entendido todas estas cosas? Ellos responden: Sí, Señor."
+      ]
+    },
+    {
+      "verse": 52,
+      "segments": [
+        "Y él les dijo: Por eso todo escriba docto en el ",
+        {
+          "entryId": "basileia",
+          "form": "reino"
+        },
+        " de los cielos, es semejante a un padre de familia, que saca de su tesoro cosas nuevas y cosas viejas."
+      ]
+    },
+    {
+      "verse": 53,
+      "segments": [
+        "Y aconteció que acabando ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " estas parábolas, pasó de allí."
+      ]
+    },
+    {
+      "verse": 54,
+      "segments": [
+        "Y venido a su tierra, les enseñaba en la sinagoga de ellos, de tal manera que ellos estaban atónitos, y decían: ¿De dónde tiene éste esta sabiduría, y estas maravillas?"
+      ]
+    },
+    {
+      "verse": 55,
+      "segments": [
+        "¿No es éste el hijo del carpintero? ¿no se llama su madre ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        ", y sus hermanos Jacobo y ",
+        {
+          "entryId": "yosef",
+          "form": "Yosef"
+        },
+        ", y Simón, y Judas?"
+      ]
+    },
+    {
+      "verse": 56,
+      "segments": [
+        "¿Y no están todas sus hermanas con nosotros? ¿De dónde, pues, tiene éste todas estas cosas?"
+      ]
+    },
+    {
+      "verse": 57,
+      "segments": [
+        "Y se escandalizaban en él. Mas ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " les dijo: No hay profeta sin honra sino en su tierra y en su casa."
+      ]
+    },
+    {
+      "verse": 58,
+      "segments": [
+        "Y no hizo allí muchas maravillas, a causa de la incredulidad de ellos."
+      ]
+    }
+  ]
+}

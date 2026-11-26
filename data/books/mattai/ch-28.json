@@ -1,0 +1,193 @@
+{
+  "bookId": "mattai",
+  "titleEntryId": "book_mattai",
+  "bookTitle": "Mattai",
+  "chapter": 28,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "Y LA víspera de ",
+        {
+          "entryId": "shabbat",
+          "form": "Shabbat"
+        },
+        ", que amanece para el primer día de la semana, vino ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        " Magdalena, y la otra ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        ", a ver el sepulcro."
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Y he aquí, fue hecho un gran terremoto: porque el ángel del Señor, descendiendo del cielo y llegando, había revuelto la piedra, y estaba sentado sobre ella."
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Y su aspecto era como un relámpago, y su vestido blanco como la nieve."
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Y de miedo de él los guardas se asombraron, y fueron vueltos como muertos."
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Y respondiendo el ángel, dijo a las mujeres: No temáis vosotras; porque yo sé que buscáis a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", que fue crucificado."
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "No está aquí; porque ha resucitado, como dijo. Venid, ved el lugar donde fue puesto el Señor."
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "E id presto, decid a sus discípulos que ha resucitado de los muertos: y he aquí va delante de vosotros a ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        "; allí le veréis; he aquí, os lo he dicho."
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Entonces ellas, saliendo del sepulcro con temor y gran gozo, fueron corriendo a dar las nuevas a sus discípulos. Y mientras iban a dar las nuevas a sus discípulos,"
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "He aquí, ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " les sale al encuentro, diciendo: Salve. Y ellas se llegaron y abrazaron sus pies, y le adoraron."
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Entonces ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " les dice: No temáis: id, dad las nuevas a mis hermanos, para que vayan a ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        ", y allí me verán."
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "Y yendo ellas, he aquí unos de la guardia vinieron a la ciudad, y dieron aviso a los príncipes de los sacerdotes de todas las cosas que habían acontecido."
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Y juntados con los ancianos, y habido consejo, dieron mucho dinero a los soldados,"
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Diciendo: Decid: Sus discípulos vinieron de noche, y le hurtaron, durmiendo nosotros."
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Y si esto fuere oído del presidente, nosotros le persuadiremos, y os haremos seguros."
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Y ellos, tomando el dinero, hicieron como estaban instruídos: y este dicho fue divulgado entre los Judíos hasta el día de hoy."
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "Mas los once discípulos se fueron a ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        ", al monte donde ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " les había ordenado."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Y como le vieron, le adoraron: mas algunos dudaban."
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Y llegando ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", les habló, diciendo: Toda potestad me es dada en el cielo y en la tierra."
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Por tanto, id, y doctrinad a todos los Gentiles, bautizándolos en el nombre del Padre, y del Hijo, y del ",
+        {
+          "entryId": "ruaj_haqodesh",
+          "form": "Ruaj HaQodesh"
+        },
+        ":"
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Enseñándoles que guarden todas las cosas que os he mandado: y he aquí, yo estoy con vosotros todos los días, hasta el fin del mundo. ",
+        {
+          "entryId": "amen",
+          "form": "Amén"
+        },
+        "."
+      ]
+    }
+  ]
+}

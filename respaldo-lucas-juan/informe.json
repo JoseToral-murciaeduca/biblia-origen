@@ -1,0 +1,136 @@
+{
+  "fuente": "C:\\Users\\kiko_\\Documents\\GitHub\\biblia-origen\\spa-rv1909.usfx.xml",
+  "libros": {
+    "LUK": {
+      "bookId": "loukas",
+      "chapters": 24,
+      "verses": 1151,
+      "terms": {
+        "teofilos": 1,
+        "herodes": 14,
+        "yehuda_region": 10,
+        "zejaryah_padre": 9,
+        "elisheva": 9,
+        "yojanan_bautista": 22,
+        "ruaj_haqodesh": 12,
+        "eliyahu": 8,
+        "gavriel": 2,
+        "galil": 15,
+        "natzeret": 5,
+        "yosef": 11,
+        "david": 13,
+        "miryam": 17,
+        "yeshua": 102,
+        "yaaqov_patriarca": 3,
+        "avraham": 16,
+        "beit_lejem": 2,
+        "mashiaj": 11,
+        "moshe": 10,
+        "yerushalayim": 33,
+        "shimon_templo": 2,
+        "jannah": 1,
+        "pesaj": 8,
+        "tiberius": 1,
+        "pilatus": 12,
+        "philippos": 3,
+        "janan_sumosacerdote": 1,
+        "qayafa": 1,
+        "yarden": 2,
+        "metanoia": 5,
+        "yeshayahu": 2,
+        "zerubavel": 1,
+        "shealtiel": 1,
+        "yishai": 1,
+        "oved": 1,
+        "boaz": 1,
+        "salmon": 1,
+        "najshon": 1,
+        "aminadav": 1,
+        "ram": 1,
+        "jetzron": 1,
+        "peretz": 1,
+        "yehuda_patriarca": 1,
+        "yitzjaq": 3,
+        "satan": 6,
+        "shabbat": 18,
+        "kefar_najum": 4,
+        "euangelion": 5,
+        "simon_kefa": 29,
+        "epistates": 7,
+        "yaaqov_zebedeo": 5,
+        "yojanan_apostol": 7,
+        "zavdai": 1,
+        "perushim": 21,
+        "andreas": 1,
+        "bar_talmai": 1,
+        "mattai": 1,
+        "toma": 1,
+        "yaaqov_alfai": 1,
+        "yehuda_iscariote": 4,
+        "naim": 1,
+        "yojana": 2,
+        "shoshanna": 1,
+        "yerijo": 3,
+        "marta": 4,
+        "siloam": 1,
+        "mamona": 3,
+        "lazan": 4,
+        "hades": 1,
+        "shomron_region": 1,
+        "zakkai": 3,
+        "beit_ania": 2,
+        "tzaduqim": 1,
+        "bar_abba": 1,
+        "paradeisos": 1,
+        "emmaus": 1,
+        "kleopas": 1,
+        "amen": 1
+      },
+      "ambiguous": []
+    }
+  },
+  "entradas_nuevas": 24,
+  "conflictos_de_forma": {
+    "yojanan_bautista": {
+      "existente": "Yojanán",
+      "propuesta": "Yojanan"
+    },
+    "ruaj_haqodesh": {
+      "existente": "Rúaj HaQódesh",
+      "propuesta": "Ruaj HaQodesh"
+    },
+    "yeshua": {
+      "existente": "Yeshúa",
+      "propuesta": "Yeshua"
+    },
+    "mashiaj": {
+      "existente": "Mashíaj",
+      "propuesta": "Mashiaj"
+    },
+    "moshe": {
+      "existente": "Moshé",
+      "propuesta": "Moshe"
+    },
+    "yerushalayim": {
+      "existente": "Yerushaláyim",
+      "propuesta": "Yerushalayim"
+    },
+    "yarden": {
+      "existente": "Yardén",
+      "propuesta": "Yarden"
+    },
+    "simon_kefa": {
+      "existente": "Shim'on Kefa",
+      "propuesta": "Shimón Kefa"
+    },
+    "yaaqov_zebedeo": {
+      "existente": "Ya'aqov",
+      "propuesta": "Yaaqov"
+    },
+    "yojanan_apostol": {
+      "existente": "Yojanán",
+      "propuesta": "Yojanan"
+    }
+  },
+  "pendiente": "Revisión humana contextual. No es una edición interlineal exhaustiva."
+}

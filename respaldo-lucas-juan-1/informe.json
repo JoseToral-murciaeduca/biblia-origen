@@ -1,0 +1,105 @@
+{
+  "fuente": "C:\\Users\\kiko_\\Documents\\GitHub\\biblia-origen\\spa-rv1909.usfx.xml",
+  "libros": {
+    "JHN": {
+      "bookId": "yojanan",
+      "chapters": 21,
+      "verses": 879,
+      "terms": {
+        "logos": 4,
+        "yojanan_bautista": 20,
+        "monogenes": 4,
+        "moshe": 13,
+        "yeshua": 256,
+        "mashiaj": 22,
+        "yerushalayim": 13,
+        "eliyahu": 2,
+        "yeshayahu": 4,
+        "perushim": 20,
+        "yarden": 3,
+        "ruaj_haqodesh": 4,
+        "rabbi": 8,
+        "andreas": 5,
+        "simon_kefa": 39,
+        "galil": 16,
+        "philippos": 12,
+        "natanael": 6,
+        "yosef": 4,
+        "natzeret": 2,
+        "qana": 4,
+        "kefar_najum": 5,
+        "pesaj": 12,
+        "nikodemos": 5,
+        "anothen": 2,
+        "yehuda_region": 7,
+        "shomron_region": 3,
+        "yaaqov_patriarca": 3,
+        "betesda": 1,
+        "shabbat": 11,
+        "yehuda_iscariote": 8,
+        "david": 2,
+        "beit_lejem": 1,
+        "avraham": 11,
+        "ego_eimi": 4,
+        "siloam": 2,
+        "elazar_betania": 11,
+        "beit_ania": 3,
+        "miryam": 15,
+        "marta": 9,
+        "toma": 8,
+        "didymos": 3,
+        "qayafa": 5,
+        "hosanna": 1,
+        "satan": 1,
+        "parakletos": 4,
+        "maljos": 1,
+        "janan_sumosacerdote": 2,
+        "pilatus": 21,
+        "bar_abba": 2,
+        "gabbatha": 1,
+        "golgota": 1,
+        "klopas": 1,
+        "rabbouni": 1,
+        "zavdai": 1,
+        "amen": 1
+      },
+      "ambiguous": []
+    }
+  },
+  "entradas_nuevas": 16,
+  "conflictos_de_forma": {
+    "yojanan_bautista": {
+      "existente": "Yojanán",
+      "propuesta": "Yojanan"
+    },
+    "moshe": {
+      "existente": "Moshé",
+      "propuesta": "Moshe"
+    },
+    "yeshua": {
+      "existente": "Yeshúa",
+      "propuesta": "Yeshua"
+    },
+    "mashiaj": {
+      "existente": "Mashíaj",
+      "propuesta": "Mashiaj"
+    },
+    "yerushalayim": {
+      "existente": "Yerushaláyim",
+      "propuesta": "Yerushalayim"
+    },
+    "yarden": {
+      "existente": "Yardén",
+      "propuesta": "Yarden"
+    },
+    "ruaj_haqodesh": {
+      "existente": "Rúaj HaQódesh",
+      "propuesta": "Ruaj HaQodesh"
+    },
+    "simon_kefa": {
+      "existente": "Shim'on Kefa",
+      "propuesta": "Shimón Kefa"
+    }
+  },
+  "pendiente": "Revisión humana contextual. No es una edición interlineal exhaustiva."
+}

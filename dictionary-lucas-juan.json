@@ -1,0 +1,1331 @@
+{
+  "yeshua": {
+    "category": "person",
+    "defaultForm": "Yeshua",
+    "traditional": "Jesús",
+    "bridgeGloss": "Jesús",
+    "originalScript": {
+      "greek": "Ἰησοῦς",
+      "hebrew": "ישוע",
+      "latin": "Iesus"
+    },
+    "transliteration": "Yeshua",
+    "meaning": "Nombre personal de Jesús de Nazaret; forma hebrea abreviada relacionada con Yehoshua.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/2424.htm"
+  },
+  "mashiaj": {
+    "category": "title",
+    "defaultForm": "Mashiaj",
+    "traditional": "Cristo",
+    "bridgeGloss": "Cristo",
+    "originalScript": {
+      "greek": "Χριστός",
+      "hebrew": "משיח",
+      "latin": "Christus"
+    },
+    "transliteration": "Mashiaj",
+    "meaning": "Ungido; título, no apellido.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/5547.htm"
+  },
+  "david": {
+    "category": "person",
+    "defaultForm": "David",
+    "traditional": "David",
+    "bridgeGloss": "David",
+    "originalScript": {
+      "greek": "Δαυίδ",
+      "hebrew": "דוד"
+    },
+    "transliteration": "David",
+    "meaning": "Rey de Israel y antepasado citado en la genealogía.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/interlinear/matthew/1.htm"
+  },
+  "avraham": {
+    "category": "person",
+    "defaultForm": "Avraham",
+    "traditional": "Abraham",
+    "bridgeGloss": "Abraham",
+    "originalScript": {
+      "greek": "Ἀβραάμ",
+      "hebrew": "אברהם"
+    },
+    "transliteration": "Avraham",
+    "meaning": "Patriarca de Israel.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/interlinear/matthew/1.htm"
+  },
+  "yitzjaq": {
+    "category": "person",
+    "defaultForm": "Yitzjaq",
+    "traditional": "Isaac",
+    "bridgeGloss": "Isaac",
+    "originalScript": {
+      "greek": "Ἰσαάκ",
+      "hebrew": "יצחק"
+    },
+    "transliteration": "Yitzjaq",
+    "meaning": "Hijo de Abraham.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/interlinear/matthew/1.htm"
+  },
+  "yaaqov_patriarca": {
+    "category": "person",
+    "defaultForm": "Yaaqov",
+    "traditional": "Jacob",
+    "bridgeGloss": "Jacob",
+    "originalScript": {
+      "greek": "Ἰακώβ",
+      "hebrew": "יעקב"
+    },
+    "transliteration": "Yaaqov",
+    "meaning": "Patriarca de Israel, hijo de Isaac.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/interlinear/matthew/1.htm"
+  },
+  "yehuda_patriarca": {
+    "category": "person",
+    "defaultForm": "Yehudá",
+    "traditional": "Judá",
+    "bridgeGloss": "Judá",
+    "originalScript": {
+      "greek": "Ἰούδας",
+      "hebrew": "יהודה"
+    },
+    "transliteration": "Yehudá",
+    "meaning": "Hijo de Jacob y antepasado de la línea davídica.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/interlinear/matthew/1.htm"
+  },
+  "peretz": {
+    "category": "person",
+    "defaultForm": "Peretz",
+    "traditional": "Fares",
+    "bridgeGloss": "Fares",
+    "originalScript": {
+      "greek": "Φαρές",
+      "hebrew": "פרץ"
+    },
+    "transliteration": "Peretz",
+    "meaning": "Hijo de Judá y Tamar.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/interlinear/matthew/1.htm"
+  },
+  "jetzron": {
+    "category": "person",
+    "defaultForm": "Jetzrón",
+    "traditional": "Esrom",
+    "bridgeGloss": "Esrom",
+    "originalScript": {
+      "greek": "Ἑσρώμ",
+      "hebrew": "חצרון"
+    },
+    "transliteration": "Jetzrón",
+    "meaning": "Descendiente de Peretz.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/interlinear/matthew/1.htm"
+  },
+  "ram": {
+    "category": "person",
+    "defaultForm": "Ram",
+    "traditional": "Aram",
+    "bridgeGloss": "Aram",
+    "originalScript": {
+      "greek": "Ἀράμ",
+      "hebrew": "רם"
+    },
+    "transliteration": "Ram",
+    "meaning": "Antepasado davídico.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/interlinear/matthew/1.htm"
+  },
+  "aminadav": {
+    "category": "person",
+    "defaultForm": "Aminadav",
+    "traditional": "Aminadab",
+    "bridgeGloss": "Aminadab",
+    "originalScript": {
+      "greek": "Ἀμιναδάβ",
+      "hebrew": "עמינדב"
+    },
+    "transliteration": "Aminadav",
+    "meaning": "Antepasado davídico.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/interlinear/matthew/1.htm"
+  },
+  "najshon": {
+    "category": "person",
+    "defaultForm": "Najshón",
+    "traditional": "Naasón",
+    "bridgeGloss": "Naasón",
+    "originalScript": {
+      "greek": "Ναασσών",
+      "hebrew": "נחשון"
+    },
+    "transliteration": "Najshón",
+    "meaning": "Antepasado davídico.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/interlinear/matthew/1.htm"
+  },
+  "salmon": {
+    "category": "person",
+    "defaultForm": "Salmón",
+    "traditional": "Salmón",
+    "bridgeGloss": "Salmón",
+    "originalScript": {
+      "greek": "Σαλμών",
+      "hebrew": "שלמון"
+    },
+    "transliteration": "Salmón",
+    "meaning": "Antepasado davídico.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/interlinear/matthew/1.htm"
+  },
+  "boaz": {
+    "category": "person",
+    "defaultForm": "Boaz",
+    "traditional": "Booz",
+    "bridgeGloss": "Booz",
+    "originalScript": {
+      "greek": "Βόες",
+      "hebrew": "בעז"
+    },
+    "transliteration": "Boaz",
+    "meaning": "Esposo de Rut.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/interlinear/matthew/1.htm"
+  },
+  "oved": {
+    "category": "person",
+    "defaultForm": "Oved",
+    "traditional": "Obed",
+    "bridgeGloss": "Obed",
+    "originalScript": {
+      "greek": "Ἰωβήδ",
+      "hebrew": "עובד"
+    },
+    "transliteration": "Oved",
+    "meaning": "Hijo de Boaz y Rut.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/interlinear/matthew/1.htm"
+  },
+  "yishai": {
+    "category": "person",
+    "defaultForm": "Yishai",
+    "traditional": "Isaí",
+    "bridgeGloss": "Isaí",
+    "originalScript": {
+      "greek": "Ἰεσσαί",
+      "hebrew": "ישי"
+    },
+    "transliteration": "Yishai",
+    "meaning": "Padre de David.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/interlinear/matthew/1.htm"
+  },
+  "shealtiel": {
+    "category": "person",
+    "defaultForm": "Shealtiel",
+    "traditional": "Salatiel",
+    "bridgeGloss": "Salatiel",
+    "originalScript": {
+      "greek": "Σαλαθιήλ",
+      "hebrew": "שאלתיאל"
+    },
+    "transliteration": "Shealtiel",
+    "meaning": "Antepasado de Zorobabel.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/interlinear/matthew/1.htm"
+  },
+  "zerubavel": {
+    "category": "person",
+    "defaultForm": "Zerubavel",
+    "traditional": "Zorobabel",
+    "bridgeGloss": "Zorobabel",
+    "originalScript": {
+      "greek": "Ζοροβαβέλ",
+      "hebrew": "זרבבל"
+    },
+    "transliteration": "Zerubavel",
+    "meaning": "Figura de la restauración posterior al exilio.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/interlinear/matthew/1.htm"
+  },
+  "yosef": {
+    "category": "person",
+    "defaultForm": "Yosef",
+    "traditional": "José",
+    "bridgeGloss": "José",
+    "originalScript": {
+      "greek": "Ἰωσήφ",
+      "hebrew": "יוסף"
+    },
+    "transliteration": "Yosef",
+    "meaning": "Nombre personal; puede corresponder a distintas personas.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/2501.htm"
+  },
+  "miryam": {
+    "category": "person",
+    "defaultForm": "Miryam",
+    "traditional": "María",
+    "bridgeGloss": "María",
+    "originalScript": {
+      "greek": "Μαριάμ / Μαρία",
+      "hebrew": "מרים"
+    },
+    "transliteration": "Miryam",
+    "meaning": "Nombre personal; Mateo menciona a varias mujeres con este nombre.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/3137.htm"
+  },
+  "moshe": {
+    "category": "person",
+    "defaultForm": "Moshe",
+    "traditional": "Moisés",
+    "bridgeGloss": "Moisés",
+    "originalScript": {
+      "greek": "Μωϋσῆς",
+      "hebrew": "משה"
+    },
+    "transliteration": "Moshe",
+    "meaning": "Moisés, figura de la Torá.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/3475.htm"
+  },
+  "yeshayahu": {
+    "category": "person",
+    "defaultForm": "Yeshayahu",
+    "traditional": "Isaías",
+    "bridgeGloss": "Isaías",
+    "originalScript": {
+      "greek": "Ἠσαΐας",
+      "hebrew": "ישעיהו"
+    },
+    "transliteration": "Yeshayahu",
+    "meaning": "Profeta de Israel.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/2268.htm"
+  },
+  "eliyahu": {
+    "category": "person",
+    "defaultForm": "Eliyahu",
+    "traditional": "Elías",
+    "bridgeGloss": "Elías",
+    "originalScript": {
+      "greek": "Ἠλίας",
+      "hebrew": "אליהו"
+    },
+    "transliteration": "Eliyahu",
+    "meaning": "Profeta de Israel.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/2243.htm"
+  },
+  "yirmeyahu": {
+    "category": "person",
+    "defaultForm": "Yirmeyahu",
+    "traditional": "Jeremías",
+    "bridgeGloss": "Jeremías",
+    "originalScript": {
+      "greek": "Ἰερεμίας",
+      "hebrew": "ירמיהו"
+    },
+    "transliteration": "Yirmeyahu",
+    "meaning": "Profeta de Judá.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/2408.htm"
+  },
+  "yojanan_bautista": {
+    "category": "person",
+    "defaultForm": "Yojanan",
+    "traditional": "Juan el Bautista",
+    "bridgeGloss": "Juan el Bautista",
+    "originalScript": {
+      "greek": "Ἰωάννης ὁ βαπτιστής",
+      "hebrew": "יוחנן"
+    },
+    "transliteration": "Yojanan",
+    "meaning": "Juan, predicador y bautista.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/2491.htm"
+  },
+  "yojanan_apostol": {
+    "category": "person",
+    "defaultForm": "Yojanan",
+    "traditional": "Juan",
+    "bridgeGloss": "Juan",
+    "originalScript": {
+      "greek": "Ἰωάννης",
+      "hebrew": "יוחנן"
+    },
+    "transliteration": "Yojanan",
+    "meaning": "Discípulo, hijo de Zebedeo.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/2491.htm"
+  },
+  "simon_kefa": {
+    "category": "person",
+    "defaultForm": "Shimón Kefa",
+    "traditional": "Simón Pedro",
+    "bridgeGloss": "Simón Pedro",
+    "originalScript": {
+      "greek": "Σίμων Πέτρος",
+      "hebrew": "שמעון",
+      "aramaic": "כיפא",
+      "syriac": "ܟܐܦܐ"
+    },
+    "transliteration": "Shimón Kefa",
+    "meaning": "Discípulo llamado Pedro; Kefa es el equivalente arameo de roca.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://www.biblegateway.com/passage/?search=Matthew%2016%3A18&version=NABRE La grafía siríaca se aporta como equivalente de la Peshitta: https://tips.translation.bible/tip_verse/matt-1618/"
+  },
+  "andreas": {
+    "category": "person",
+    "defaultForm": "Andreas",
+    "traditional": "Andrés",
+    "bridgeGloss": "Andrés",
+    "originalScript": {
+      "greek": "Ἀνδρέας"
+    },
+    "transliteration": "Andreas",
+    "meaning": "Discípulo, hermano de Simón; nombre griego.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/406.htm"
+  },
+  "yaaqov_zebedeo": {
+    "category": "person",
+    "defaultForm": "Yaaqov",
+    "traditional": "Jacobo",
+    "bridgeGloss": "Jacobo",
+    "originalScript": {
+      "greek": "Ἰάκωβος",
+      "hebrew": "יעקב"
+    },
+    "transliteration": "Yaaqov",
+    "meaning": "Discípulo, hijo de Zebedeo.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/2385.htm"
+  },
+  "yaaqov_alfai": {
+    "category": "person",
+    "defaultForm": "Yaaqov",
+    "traditional": "Jacobo de Alfeo",
+    "bridgeGloss": "Jacobo de Alfeo",
+    "originalScript": {
+      "greek": "Ἰάκωβος",
+      "hebrew": "יעקב"
+    },
+    "transliteration": "Yaaqov",
+    "meaning": "Discípulo, hijo de Alfeo.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/2385.htm"
+  },
+  "zavdai": {
+    "category": "person",
+    "defaultForm": "Zavdai",
+    "traditional": "Zebedeo",
+    "bridgeGloss": "Zebedeo",
+    "originalScript": {
+      "greek": "Ζεβεδαῖος"
+    },
+    "transliteration": "Zavdai",
+    "meaning": "Padre de Jacobo y Juan.",
+    "sourceNote": "Forma semítica editorial; grafía original no fijada aquí. La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/2199.htm"
+  },
+  "mattai": {
+    "category": "person",
+    "defaultForm": "Mattai",
+    "traditional": "Mateo",
+    "bridgeGloss": "Mateo",
+    "originalScript": {
+      "greek": "Ματθαῖος",
+      "aramaic": "מתי"
+    },
+    "transliteration": "Mattai",
+    "meaning": "Discípulo y recaudador de impuestos identificado en Mateo.",
+    "sourceNote": "Mattai es forma semítica relacionada, no grafía manuscrita griega. La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/3156.htm"
+  },
+  "philippos": {
+    "category": "person",
+    "defaultForm": "Philippos",
+    "traditional": "Felipe",
+    "bridgeGloss": "Felipe",
+    "originalScript": {
+      "greek": "Φίλιππος"
+    },
+    "transliteration": "Philippos",
+    "meaning": "Nombre griego; puede designar a varias personas en el evangelio.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/5376.htm"
+  },
+  "bar_talmai": {
+    "category": "person",
+    "defaultForm": "Bar-Talmai",
+    "traditional": "Bartolomé",
+    "bridgeGloss": "Bartolomé",
+    "originalScript": {
+      "greek": "Βαρθολομαῖος"
+    },
+    "transliteration": "Bar-Talmai",
+    "meaning": "Nombre de un discípulo; patronímico semítico.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/918.htm"
+  },
+  "toma": {
+    "category": "person",
+    "defaultForm": "Toma",
+    "traditional": "Tomás",
+    "bridgeGloss": "Tomás",
+    "originalScript": {
+      "greek": "Θωμᾶς",
+      "aramaic": "תאומא"
+    },
+    "transliteration": "Toma",
+    "meaning": "Nombre arameo relacionado con gemelo.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/2381.htm"
+  },
+  "taddai": {
+    "category": "person",
+    "defaultForm": "Taddai",
+    "traditional": "Tadeo",
+    "bridgeGloss": "Tadeo",
+    "originalScript": {
+      "greek": "Θαδδαῖος"
+    },
+    "transliteration": "Taddai",
+    "meaning": "Discípulo; la tradición textual de 10:3 presenta variantes.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/2280.htm"
+  },
+  "yehuda_iscariote": {
+    "category": "person",
+    "defaultForm": "Yehudá Iscariote",
+    "traditional": "Judas Iscariote",
+    "bridgeGloss": "Judas Iscariote",
+    "originalScript": {
+      "greek": "Ἰούδας Ἰσκαριώτης",
+      "hebrew": "יהודה"
+    },
+    "transliteration": "Yehudá Iscariote",
+    "meaning": "Discípulo que entrega a Jesús; etimología de Iscariote discutida.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/2455.htm"
+  },
+  "yerushalayim": {
+    "category": "place",
+    "defaultForm": "Yerushalayim",
+    "traditional": "Jerusalén",
+    "bridgeGloss": "Jerusalén",
+    "originalScript": {
+      "greek": "Ἱεροσόλυμα / Ἱερουσαλήμ",
+      "hebrew": "ירושלים"
+    },
+    "transliteration": "Yerushalayim",
+    "meaning": "Ciudad de Jerusalén.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/2414.htm"
+  },
+  "yarden": {
+    "category": "place",
+    "defaultForm": "Yarden",
+    "traditional": "Jordán",
+    "bridgeGloss": "Jordán",
+    "originalScript": {
+      "greek": "Ἰορδάνης",
+      "hebrew": "ירדן"
+    },
+    "transliteration": "Yarden",
+    "meaning": "Río Jordán.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/2446.htm"
+  },
+  "galil": {
+    "category": "place",
+    "defaultForm": "Galil",
+    "traditional": "Galilea",
+    "bridgeGloss": "Galilea",
+    "originalScript": {
+      "greek": "Γαλιλαία",
+      "hebrew": "גליל"
+    },
+    "transliteration": "Galil",
+    "meaning": "Región de Galilea.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/1056.htm"
+  },
+  "natzeret": {
+    "category": "place",
+    "defaultForm": "Natzeret",
+    "traditional": "Nazaret",
+    "bridgeGloss": "Nazaret",
+    "originalScript": {
+      "greek": "Ναζαρέτ / Ναζαρά",
+      "hebrew": "נצרת"
+    },
+    "transliteration": "Natzeret",
+    "meaning": "Población de Galilea; la etimología es discutida.",
+    "sourceNote": "La grafía hebrea es el nombre tradicional del lugar. La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/3478.htm"
+  },
+  "beit_lejem": {
+    "category": "place",
+    "defaultForm": "Beit Lejem",
+    "traditional": "Belén",
+    "bridgeGloss": "Belén",
+    "originalScript": {
+      "greek": "Βηθλέεμ",
+      "hebrew": "בית לחם"
+    },
+    "transliteration": "Beit Lejem",
+    "meaning": "Localidad de Judá; nombre hebreo asociado a casa de pan.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/965.htm"
+  },
+  "yehuda_region": {
+    "category": "place",
+    "defaultForm": "Yehudá",
+    "traditional": "Judea",
+    "bridgeGloss": "Judea",
+    "originalScript": {
+      "greek": "Ἰουδαία",
+      "hebrew": "יהודה"
+    },
+    "transliteration": "Yehudá",
+    "meaning": "Región de Judea.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/2449.htm"
+  },
+  "kefar_najum": {
+    "category": "place",
+    "defaultForm": "Kefar Najum",
+    "traditional": "Capernaum",
+    "bridgeGloss": "Capernaum",
+    "originalScript": {
+      "greek": "Καφαρναούμ"
+    },
+    "transliteration": "Kefar Najum",
+    "meaning": "Población junto al lago de Galilea.",
+    "sourceNote": "Forma semítica tradicional del topónimo. La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/2584.htm"
+  },
+  "beit_ania": {
+    "category": "place",
+    "defaultForm": "Beit Ania",
+    "traditional": "Betania",
+    "bridgeGloss": "Betania",
+    "originalScript": {
+      "greek": "Βηθανία"
+    },
+    "transliteration": "Beit Ania",
+    "meaning": "Localidad cercana a Jerusalén.",
+    "sourceNote": "Etimología discutida. La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/963.htm"
+  },
+  "yerijo": {
+    "category": "place",
+    "defaultForm": "Yerijo",
+    "traditional": "Jericó",
+    "bridgeGloss": "Jericó",
+    "originalScript": {
+      "greek": "Ἰεριχώ",
+      "hebrew": "יריחו"
+    },
+    "transliteration": "Yerijo",
+    "meaning": "Ciudad de Jericó.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/2410.htm"
+  },
+  "perushim": {
+    "category": "group",
+    "defaultForm": "Perushim",
+    "traditional": "fariseos",
+    "bridgeGloss": "fariseos",
+    "originalScript": {
+      "greek": "Φαρισαῖοι",
+      "hebrew": "פרושים"
+    },
+    "transliteration": "Perushim",
+    "meaning": "Grupo judío del período del Segundo Templo.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/5330.htm"
+  },
+  "tzaduqim": {
+    "category": "group",
+    "defaultForm": "Tzaduqim",
+    "traditional": "saduceos",
+    "bridgeGloss": "saduceos",
+    "originalScript": {
+      "greek": "Σαδδουκαῖοι",
+      "hebrew": "צדוקים"
+    },
+    "transliteration": "Tzaduqim",
+    "meaning": "Grupo judío del período del Segundo Templo.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/4523.htm"
+  },
+  "shabbat": {
+    "category": "term",
+    "defaultForm": "Shabbat",
+    "traditional": "sábado",
+    "bridgeGloss": "sábado",
+    "originalScript": {
+      "greek": "σάββατον",
+      "hebrew": "שבת"
+    },
+    "transliteration": "Shabbat",
+    "meaning": "Día de descanso semanal.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/4521.htm"
+  },
+  "ruaj_haqodesh": {
+    "category": "term",
+    "defaultForm": "Ruaj HaQodesh",
+    "traditional": "Espíritu Santo",
+    "bridgeGloss": "Espíritu Santo",
+    "originalScript": {
+      "greek": "πνεῦμα ἅγιον",
+      "hebrew": "רוח הקודש"
+    },
+    "transliteration": "Ruaj HaQodesh",
+    "meaning": "Espíritu Santo; el hebreo es una equivalencia semántica.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/4151.htm"
+  },
+  "satan": {
+    "category": "term",
+    "defaultForm": "Satán",
+    "traditional": "Satanás",
+    "bridgeGloss": "Satanás",
+    "originalScript": {
+      "greek": "Σατανᾶς",
+      "hebrew": "שטן"
+    },
+    "transliteration": "Satán",
+    "meaning": "Adversario; denominación del tentador.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/4567.htm"
+  },
+  "pesaj": {
+    "category": "term",
+    "defaultForm": "Pesaj",
+    "traditional": "Pascua",
+    "bridgeGloss": "Pascua",
+    "originalScript": {
+      "greek": "πάσχα",
+      "hebrew": "פסח"
+    },
+    "transliteration": "Pesaj",
+    "meaning": "Fiesta judía que recuerda la salida de Egipto.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/3957.htm"
+  },
+  "amen": {
+    "category": "term",
+    "defaultForm": "Amén",
+    "traditional": "de cierto",
+    "bridgeGloss": "de cierto",
+    "originalScript": {
+      "greek": "ἀμήν",
+      "hebrew": "אמן"
+    },
+    "transliteration": "Amén",
+    "meaning": "Expresión de afirmación o certeza.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://israelbiblicalstudies.com/es/blog/category/jewish-studies/transliteraciones-griegas-del-hebreo-y-arameo-por-david-bivin-y-joshua-tilton/"
+  },
+  "mamona": {
+    "category": "term",
+    "defaultForm": "Mamoná",
+    "traditional": "riquezas",
+    "bridgeGloss": "riquezas",
+    "originalScript": {
+      "greek": "μαμωνᾶς",
+      "hebrew": "ממון",
+      "aramaic": "ממונא"
+    },
+    "transliteration": "Mamoná",
+    "meaning": "Riqueza o bienes materiales.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://israelbiblicalstudies.com/es/blog/category/jewish-studies/transliteraciones-griegas-del-hebreo-y-arameo-por-david-bivin-y-joshua-tilton/"
+  },
+  "gehenna": {
+    "category": "term",
+    "defaultForm": "Gehena",
+    "traditional": "infierno",
+    "bridgeGloss": "infierno",
+    "originalScript": {
+      "greek": "γέεννα",
+      "hebrew": "גי הנם"
+    },
+    "transliteration": "Gehena",
+    "meaning": "Nombre relacionado con el valle de Hinom; en Mateo se usa en advertencias de juicio.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://israelbiblicalstudies.com/es/blog/category/jewish-studies/transliteraciones-griegas-del-hebreo-y-arameo-por-david-bivin-y-joshua-tilton/"
+  },
+  "hades": {
+    "category": "term",
+    "defaultForm": "Hades",
+    "traditional": "infierno",
+    "bridgeGloss": "infierno",
+    "originalScript": {
+      "greek": "ᾅδης"
+    },
+    "transliteration": "Hades",
+    "meaning": "En este contexto, ámbito de los muertos; no se identifica automáticamente con Gehena.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/86.htm"
+  },
+  "rabbi": {
+    "category": "term",
+    "defaultForm": "Rabbí",
+    "traditional": "rabí",
+    "bridgeGloss": "rabí",
+    "originalScript": {
+      "greek": "ῥαββί",
+      "hebrew": "רבי"
+    },
+    "transliteration": "Rabbí",
+    "meaning": "Título de respeto dirigido a un maestro.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://israelbiblicalstudies.com/es/blog/category/jewish-studies/transliteraciones-griegas-del-hebreo-y-arameo-por-david-bivin-y-joshua-tilton/"
+  },
+  "hosanna": {
+    "category": "term",
+    "defaultForm": "Hoshia na",
+    "traditional": "Hosanna",
+    "bridgeGloss": "Hosanna",
+    "originalScript": {
+      "greek": "ὡσαννά",
+      "hebrew": "הושיעה נא"
+    },
+    "transliteration": "Hoshia na",
+    "meaning": "Aclamación vinculada a la petición de salvación del Salmo 118:25.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://israelbiblicalstudies.com/es/blog/category/jewish-studies/transliteraciones-griegas-del-hebreo-y-arameo-por-david-bivin-y-joshua-tilton/",
+    "otReference": "Salmos 118:25"
+  },
+  "getsemani": {
+    "category": "place",
+    "defaultForm": "Gat Shemanim",
+    "traditional": "Getsemaní",
+    "bridgeGloss": "Getsemaní",
+    "originalScript": {
+      "greek": "Γεθσημανί"
+    },
+    "transliteration": "Gat Shemanim",
+    "meaning": "Nombre del lugar al que Jesús va a orar; asociado tradicionalmente a una prensa de aceite.",
+    "sourceNote": "Etimología semítica propuesta, no una reconstrucción de las palabras de Jesús. La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/1068.htm"
+  },
+  "golgota": {
+    "category": "place",
+    "defaultForm": "Golgota",
+    "traditional": "Gólgota",
+    "bridgeGloss": "Gólgota",
+    "originalScript": {
+      "greek": "Γολγοθᾶ",
+      "aramaic": "גלגלתא"
+    },
+    "transliteration": "Golgota",
+    "meaning": "Topónimo traducido como lugar del cráneo.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/1115.htm"
+  },
+  "bar_abba": {
+    "category": "person",
+    "defaultForm": "Bar-Abba",
+    "traditional": "Barrabás",
+    "bridgeGloss": "Barrabás",
+    "originalScript": {
+      "greek": "Βαραββᾶς",
+      "aramaic": "בר אבא"
+    },
+    "transliteration": "Bar-Abba",
+    "meaning": "Prisionero mencionado en el relato de la pasión; nombre de origen arameo.",
+    "sourceNote": "La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/greek/912.htm"
+  },
+  "euangelion": {
+    "category": "term",
+    "defaultForm": "evangelio",
+    "traditional": "evangelio",
+    "bridgeGloss": "evangelio",
+    "originalScript": {
+      "greek": "εὐαγγέλιον"
+    },
+    "transliteration": "evangelio",
+    "meaning": "Buena noticia.",
+    "sourceNote": "Se conserva la palabra española visible; el lema griego se consulta en el inspector. La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/interlinear/matthew.htm"
+  },
+  "metanoia": {
+    "category": "term",
+    "defaultForm": "arrepentimiento",
+    "traditional": "arrepentimiento",
+    "bridgeGloss": "arrepentimiento",
+    "originalScript": {
+      "greek": "μετάνοια"
+    },
+    "transliteration": "arrepentimiento",
+    "meaning": "Arrepentimiento o cambio de orientación.",
+    "sourceNote": "Se conserva la palabra española visible; el lema griego se consulta en el inspector. La grafía griega se ofrece como lema o forma nominal; las equivalencias semíticas no implican un original arameo de los evangelios. Referencia: https://biblehub.com/interlinear/matthew.htm"
+  },
+  "book_loukas": {
+    "category": "book",
+    "defaultForm": "Loukas",
+    "traditional": "Lucas",
+    "bridgeGloss": "Lucas",
+    "originalScript": {
+      "greek": "Λουκᾶς",
+      "latin": "Lucas"
+    },
+    "transliteration": "Loukas",
+    "meaning": "Evangelio según Lucas, tercero en el orden habitual del Nuevo Testamento.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/greek/3065.htm",
+    "studyNote": "La forma Loukas corresponde al nombre griego; la atribución a Lucas pertenece a la tradición antigua."
+  },
+  "book_yojanan": {
+    "category": "book",
+    "defaultForm": "Yojanan",
+    "traditional": "Juan",
+    "bridgeGloss": "Juan",
+    "originalScript": {
+      "greek": "Ἰωάννης",
+      "hebrew": "יוחנן",
+      "latin": "Ioannes"
+    },
+    "transliteration": "Yojanan",
+    "meaning": "Evangelio según Juan, cuarto en el orden habitual del Nuevo Testamento.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/greek/2491.htm",
+    "studyNote": "La atribución al apóstol Juan es tradicional; el texto no identifica explícitamente por nombre al discípulo amado."
+  },
+  "teofilos": {
+    "category": "person",
+    "defaultForm": "Theophilos",
+    "traditional": "Teófilo",
+    "bridgeGloss": "Teófilo",
+    "originalScript": {
+      "greek": "Θεόφιλος"
+    },
+    "transliteration": "Theophilos",
+    "meaning": "Destinatario del prólogo de Lucas.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/1-3.htm"
+  },
+  "zejaryah_padre": {
+    "category": "person",
+    "defaultForm": "Zejaryah",
+    "traditional": "Zacarías",
+    "bridgeGloss": "Zacarías",
+    "originalScript": {
+      "greek": "Ζαχαρίας",
+      "hebrew": "זכריה"
+    },
+    "transliteration": "Zejaryah",
+    "meaning": "Sacerdote y padre de Juan el Bautista.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/1-13.htm"
+  },
+  "elisheva": {
+    "category": "person",
+    "defaultForm": "Elisheva",
+    "traditional": "Elisabet",
+    "bridgeGloss": "Elisabet",
+    "originalScript": {
+      "greek": "Ἐλισάβετ",
+      "hebrew": "אלישבע"
+    },
+    "transliteration": "Elisheva",
+    "meaning": "Esposa de Zacarías y madre de Juan el Bautista.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/1-13.htm"
+  },
+  "gavriel": {
+    "category": "person",
+    "defaultForm": "Gavriel",
+    "traditional": "Gabriel",
+    "bridgeGloss": "Gabriel",
+    "originalScript": {
+      "greek": "Γαβριήλ",
+      "hebrew": "גבריאל"
+    },
+    "transliteration": "Gavriel",
+    "meaning": "Ángel mensajero en el relato de las anunciaciones.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/1-19.htm"
+  },
+  "shimon_templo": {
+    "category": "person",
+    "defaultForm": "Shimón",
+    "traditional": "Simeón",
+    "bridgeGloss": "Simeón",
+    "originalScript": {
+      "greek": "Συμεών",
+      "hebrew": "שמעון"
+    },
+    "transliteration": "Shimón",
+    "meaning": "Hombre que recibe a Jesús en el templo.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/2-25.htm"
+  },
+  "jannah": {
+    "category": "person",
+    "defaultForm": "Jannah",
+    "traditional": "Ana",
+    "bridgeGloss": "Ana",
+    "originalScript": {
+      "greek": "Ἄννα",
+      "hebrew": "חנה"
+    },
+    "transliteration": "Jannah",
+    "meaning": "Profetisa que aparece en el templo.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/2-36.htm"
+  },
+  "janan_sumosacerdote": {
+    "category": "person",
+    "defaultForm": "Janan",
+    "traditional": "Anás",
+    "bridgeGloss": "Anás",
+    "originalScript": {
+      "greek": "Ἅννας",
+      "hebrew": "חנן"
+    },
+    "transliteration": "Janan",
+    "meaning": "Sumo sacerdote mencionado en Lucas y Juan.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/3-2.htm"
+  },
+  "qayafa": {
+    "category": "person",
+    "defaultForm": "Qayafa",
+    "traditional": "Caifás",
+    "bridgeGloss": "Caifás",
+    "originalScript": {
+      "greek": "Καϊάφας"
+    },
+    "transliteration": "Qayafa",
+    "meaning": "Sumo sacerdote mencionado en los evangelios.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/3-2.htm"
+  },
+  "pilatus": {
+    "category": "person",
+    "defaultForm": "Pilatus",
+    "traditional": "Pilato",
+    "bridgeGloss": "Pilato",
+    "originalScript": {
+      "greek": "Πιλᾶτος"
+    },
+    "transliteration": "Pilatus",
+    "meaning": "Prefecto romano de Judea.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/3-1.htm"
+  },
+  "herodes": {
+    "category": "person",
+    "defaultForm": "Herodes",
+    "traditional": "Herodes",
+    "bridgeGloss": "Herodes",
+    "originalScript": {
+      "greek": "Ἡρῴδης"
+    },
+    "transliteration": "Herodes",
+    "meaning": "Nombre de miembros de la dinastía herodiana; el referente depende del pasaje.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/3-1.htm"
+  },
+  "tiberius": {
+    "category": "person",
+    "defaultForm": "Tiberius",
+    "traditional": "Tiberio",
+    "bridgeGloss": "Tiberio",
+    "originalScript": {
+      "greek": "Τιβέριος"
+    },
+    "transliteration": "Tiberius",
+    "meaning": "Emperador romano citado en la datación de Lucas.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/3-1.htm"
+  },
+  "lazan": {
+    "category": "person",
+    "defaultForm": "Elazar",
+    "traditional": "Lázaro",
+    "bridgeGloss": "Lázaro",
+    "originalScript": {
+      "greek": "Λάζαρος",
+      "hebrew": "אלעזר"
+    },
+    "transliteration": "Elazar",
+    "meaning": "Personaje de la parábola del rico y Lázaro.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/16-20.htm"
+  },
+  "zakkai": {
+    "category": "person",
+    "defaultForm": "Zakkai",
+    "traditional": "Zaqueo",
+    "bridgeGloss": "Zaqueo",
+    "originalScript": {
+      "greek": "Ζακχαῖος",
+      "hebrew": "זכי"
+    },
+    "transliteration": "Zakkai",
+    "meaning": "Jefe de recaudadores en Jericó.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/19-2.htm"
+  },
+  "marta": {
+    "category": "person",
+    "defaultForm": "Marta",
+    "traditional": "Marta",
+    "bridgeGloss": "Marta",
+    "originalScript": {
+      "greek": "Μάρθα"
+    },
+    "transliteration": "Marta",
+    "meaning": "Mujer mencionada en Lucas 10 y Juan 11–12.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/10-38.htm"
+  },
+  "yojana": {
+    "category": "person",
+    "defaultForm": "Yojana",
+    "traditional": "Juana",
+    "bridgeGloss": "Juana",
+    "originalScript": {
+      "greek": "Ἰωάννα"
+    },
+    "transliteration": "Yojana",
+    "meaning": "Discípula mencionada en Lucas.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/8-3.htm"
+  },
+  "shoshanna": {
+    "category": "person",
+    "defaultForm": "Shoshanna",
+    "traditional": "Susana",
+    "bridgeGloss": "Susana",
+    "originalScript": {
+      "greek": "Σουσάννα",
+      "hebrew": "שושנה"
+    },
+    "transliteration": "Shoshanna",
+    "meaning": "Mujer que acompaña al grupo de Jesús.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/8-3.htm"
+  },
+  "kleopas": {
+    "category": "person",
+    "defaultForm": "Kleopas",
+    "traditional": "Cleofás",
+    "bridgeGloss": "Cleofás",
+    "originalScript": {
+      "greek": "Κλεοπᾶς"
+    },
+    "transliteration": "Kleopas",
+    "meaning": "Discípulo del relato del camino a Emaús; no se identifica automáticamente con Clopás de Juan.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/24-18.htm"
+  },
+  "emmaus": {
+    "category": "place",
+    "defaultForm": "Emmaous",
+    "traditional": "Emaús",
+    "bridgeGloss": "Emaús",
+    "originalScript": {
+      "greek": "Ἐμμαούς"
+    },
+    "transliteration": "Emmaous",
+    "meaning": "Localidad del relato de Lucas 24.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/24-13.htm"
+  },
+  "naim": {
+    "category": "place",
+    "defaultForm": "Nain",
+    "traditional": "Naín",
+    "bridgeGloss": "Naín",
+    "originalScript": {
+      "greek": "Ναΐν"
+    },
+    "transliteration": "Nain",
+    "meaning": "Localidad mencionada en Lucas 7.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/7-11.htm"
+  },
+  "siloam": {
+    "category": "place",
+    "defaultForm": "Shiloaj",
+    "traditional": "Siloé",
+    "bridgeGloss": "Siloé",
+    "originalScript": {
+      "greek": "Σιλωάμ",
+      "hebrew": "שלח"
+    },
+    "transliteration": "Shiloaj",
+    "meaning": "Lugar mencionado en Lucas 13 y estanque en Juan 9.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/13-4.htm"
+  },
+  "paradeisos": {
+    "category": "term",
+    "defaultForm": "Parádeisos",
+    "traditional": "paraíso",
+    "bridgeGloss": "paraíso",
+    "originalScript": {
+      "greek": "παράδεισος"
+    },
+    "transliteration": "Parádeisos",
+    "meaning": "Paraíso; término griego de origen iranio transmitido por otras lenguas.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/23-43.htm",
+    "studyNote": "Se conserva la puntuación de la edición base."
+  },
+  "epistates": {
+    "category": "term",
+    "defaultForm": "Epistátes",
+    "traditional": "Maestro",
+    "bridgeGloss": "Maestro",
+    "originalScript": {
+      "greek": "ἐπιστάτης"
+    },
+    "transliteration": "Epistátes",
+    "meaning": "Título de autoridad o trato dirigido a Jesús.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/greek/1988.htm"
+  },
+  "natanael": {
+    "category": "person",
+    "defaultForm": "Netanel",
+    "traditional": "Natanael",
+    "bridgeGloss": "Natanael",
+    "originalScript": {
+      "greek": "Ναθαναήλ",
+      "hebrew": "נתנאל"
+    },
+    "transliteration": "Netanel",
+    "meaning": "Discípulo mencionado en Juan 1 y 21.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/john/1-45.htm"
+  },
+  "nikodemos": {
+    "category": "person",
+    "defaultForm": "Nikodemos",
+    "traditional": "Nicodemo",
+    "bridgeGloss": "Nicodemo",
+    "originalScript": {
+      "greek": "Νικόδημος"
+    },
+    "transliteration": "Nikodemos",
+    "meaning": "Fariseo mencionado en Juan 3, 7 y 19.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/john/3-1.htm"
+  },
+  "elazar_betania": {
+    "category": "person",
+    "defaultForm": "Elazar",
+    "traditional": "Lázaro",
+    "bridgeGloss": "Lázaro",
+    "originalScript": {
+      "greek": "Λάζαρος",
+      "hebrew": "אלעזר"
+    },
+    "transliteration": "Elazar",
+    "meaning": "Hermano de Marta y María de Betania.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/john/11-1.htm"
+  },
+  "maljos": {
+    "category": "person",
+    "defaultForm": "Maljos",
+    "traditional": "Malco",
+    "bridgeGloss": "Malco",
+    "originalScript": {
+      "greek": "Μάλχος"
+    },
+    "transliteration": "Maljos",
+    "meaning": "Siervo del sumo sacerdote identificado por nombre en Juan.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/john/18-10.htm"
+  },
+  "qana": {
+    "category": "place",
+    "defaultForm": "Qana",
+    "traditional": "Caná",
+    "bridgeGloss": "Caná",
+    "originalScript": {
+      "greek": "Κανά"
+    },
+    "transliteration": "Qana",
+    "meaning": "Localidad de Galilea mencionada en Juan.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/john/2-1.htm"
+  },
+  "syjar": {
+    "category": "place",
+    "defaultForm": "Syjar",
+    "traditional": "Sicar",
+    "bridgeGloss": "Sicar",
+    "originalScript": {
+      "greek": "Συχάρ"
+    },
+    "transliteration": "Syjar",
+    "meaning": "Localidad samaritana del relato de Juan 4.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/john/4-5.htm"
+  },
+  "betesda": {
+    "category": "place",
+    "defaultForm": "Betesda",
+    "traditional": "Bethesda",
+    "bridgeGloss": "Bethesda",
+    "originalScript": {
+      "greek": "Βηθεσδά"
+    },
+    "transliteration": "Betesda",
+    "meaning": "Estanque de Jerusalén; su nombre presenta variantes manuscritas.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/john/5-2.htm"
+  },
+  "gabbatha": {
+    "category": "place",
+    "defaultForm": "Gabbatha",
+    "traditional": "Gabbatha",
+    "bridgeGloss": "Gabbatha",
+    "originalScript": {
+      "greek": "Γαββαθά"
+    },
+    "transliteration": "Gabbatha",
+    "meaning": "Nombre semítico transmitido por el griego, asociado al lugar del tribunal.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/john/19-13.htm"
+  },
+  "rabbouni": {
+    "category": "term",
+    "defaultForm": "Rabbuní",
+    "traditional": "Rabboni",
+    "bridgeGloss": "Rabboni",
+    "originalScript": {
+      "greek": "ῥαββουνί",
+      "aramaic": "רבוני"
+    },
+    "transliteration": "Rabbuní",
+    "meaning": "Tratamiento respetuoso; Juan 20:16 explica su sentido como maestro.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/john/20-16.htm"
+  },
+  "didymos": {
+    "category": "term",
+    "defaultForm": "Didymos",
+    "traditional": "Dídimo",
+    "bridgeGloss": "Dídimo",
+    "originalScript": {
+      "greek": "Δίδυμος"
+    },
+    "transliteration": "Didymos",
+    "meaning": "Gemelo; equivalente griego del nombre semítico Tomás.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/john/11-16.htm"
+  },
+  "klopas": {
+    "category": "person",
+    "defaultForm": "Klopas",
+    "traditional": "Cleofás",
+    "bridgeGloss": "Cleofás",
+    "originalScript": {
+      "greek": "Κλωπᾶς"
+    },
+    "transliteration": "Klopas",
+    "meaning": "Persona mencionada en Juan 19:25; no se identifica sin reservas con Cleopas de Lucas.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/john/19-25.htm"
+  },
+  "logos": {
+    "category": "term",
+    "defaultForm": "Logos",
+    "traditional": "Verbo",
+    "bridgeGloss": "Verbo",
+    "originalScript": {
+      "greek": "λόγος"
+    },
+    "transliteration": "Logos",
+    "meaning": "Palabra, discurso o razón según contexto; en el prólogo designa al Logos.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/john/1.htm",
+    "studyNote": "Se limita al prólogo; no toda aparición de logos tiene el mismo sentido."
+  },
+  "parakletos": {
+    "category": "term",
+    "defaultForm": "Parákletos",
+    "traditional": "Consolador",
+    "bridgeGloss": "Consolador",
+    "originalScript": {
+      "greek": "παράκλητος"
+    },
+    "transliteration": "Parákletos",
+    "meaning": "Ayudante, defensor o intercesor, según contexto.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/greek/3875.htm"
+  },
+  "monogenes": {
+    "category": "term",
+    "defaultForm": "Monogenés",
+    "traditional": "unigénito",
+    "bridgeGloss": "unigénito",
+    "originalScript": {
+      "greek": "μονογενής"
+    },
+    "transliteration": "Monogenés",
+    "meaning": "Único de su clase; tradicionalmente traducido como unigénito.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/greek/3439.htm"
+  },
+  "ego_eimi": {
+    "category": "term",
+    "defaultForm": "Egō eimi",
+    "traditional": "Yo soy",
+    "bridgeGloss": "Yo soy",
+    "originalScript": {
+      "greek": "ἐγώ εἰμι"
+    },
+    "transliteration": "Egō eimi",
+    "meaning": "Expresión griega que significa yo soy; su interpretación depende del contexto.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/john/8-58.htm",
+    "studyNote": "No equivale automáticamente al tetragrámaton hebreo."
+  },
+  "anothen": {
+    "category": "term",
+    "defaultForm": "de nuevo",
+    "traditional": "de nuevo",
+    "bridgeGloss": "de nuevo",
+    "originalScript": {
+      "greek": "ἄνωθεν"
+    },
+    "transliteration": "de nuevo",
+    "meaning": "Adverbio que puede significar de arriba o de nuevo según contexto.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/john/3-3.htm",
+    "studyNote": "Se conserva el español del versículo; el lema griego explica la ambigüedad."
+  },
+  "shomron_region": {
+    "category": "place",
+    "defaultForm": "Shomron",
+    "traditional": "Samaria",
+    "bridgeGloss": "Samaria",
+    "originalScript": {
+      "greek": "Σαμάρεια",
+      "hebrew": "שמרון"
+    },
+    "transliteration": "Shomron",
+    "meaning": "Región de Samaria.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/greek/4540.htm"
+  }
+}

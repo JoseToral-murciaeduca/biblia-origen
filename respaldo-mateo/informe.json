@@ -1,0 +1,153 @@
+{
+  "fuente": "https://raw.githubusercontent.com/seven1m/open-bibles/master/spa-rv1909.usfx.xml",
+  "capitulos": 28,
+  "versiculos": 1071,
+  "entradas_nuevas": 80,
+  "referencias_por_id": {
+    "yeshua": 172,
+    "mashiaj": 17,
+    "david": 17,
+    "avraham": 7,
+    "yitzjaq": 4,
+    "yaaqov_patriarca": 4,
+    "yehuda_patriarca": 2,
+    "tamar": 1,
+    "peretz": 2,
+    "zeraj": 1,
+    "jetzron": 2,
+    "ram": 2,
+    "aminadav": 2,
+    "najshon": 2,
+    "salmon": 2,
+    "rajav": 1,
+    "boaz": 2,
+    "rut": 1,
+    "oved": 2,
+    "yishai": 2,
+    "shlomo": 2,
+    "uriyah": 1,
+    "rejavam": 2,
+    "aviyah": 2,
+    "asa": 2,
+    "yehoshafat": 2,
+    "yehoram": 2,
+    "uziyah": 2,
+    "yotam": 2,
+    "ajaz": 2,
+    "jizqiyahu": 2,
+    "menashe": 2,
+    "amon": 2,
+    "yoshiyahu": 2,
+    "yejoniyah": 2,
+    "shealtiel": 2,
+    "zerubavel": 2,
+    "abioud": 2,
+    "azor": 2,
+    "sadok_genealogia": 2,
+    "ajeim": 2,
+    "elioud": 2,
+    "eleazar": 2,
+    "matthan": 2,
+    "yaaqov_padre_yosef": 2,
+    "yosef": 11,
+    "miryam": 11,
+    "ruaj_haqodesh": 5,
+    "elohim": 57,
+    "beit_lejem": 5,
+    "yehuda_region": 8,
+    "yerushalayim": 13,
+    "yirmeyahu": 3,
+    "galil": 16,
+    "natzeret": 3,
+    "yojanan_bautista": 23,
+    "basileia": 16,
+    "yeshayahu": 6,
+    "yahweh_nt": 6,
+    "yarden": 6,
+    "perushim": 30,
+    "tzaduqim": 7,
+    "metanoia": 3,
+    "satan": 4,
+    "kefar_najum": 4,
+    "simon_kefa": 28,
+    "andreas": 2,
+    "yaaqov_zebedeo": 3,
+    "zavdai": 6,
+    "yojanan_apostol": 3,
+    "euangelion": 5,
+    "amen": 32,
+    "raka": 1,
+    "gehenna": 7,
+    "mamona": 1,
+    "moshe": 7,
+    "mattai": 2,
+    "philippos": 2,
+    "bar_talmai": 1,
+    "toma": 1,
+    "yaaqov_alfai": 1,
+    "taddai": 1,
+    "yehuda_iscariote": 5,
+    "eliyahu": 9,
+    "shabbat": 10,
+    "yonah": 5,
+    "petra": 1,
+    "ekklesia": 3,
+    "hades": 1,
+    "yerijo": 1,
+    "hosanna": 3,
+    "beit_ania": 2,
+    "rabbi": 3,
+    "pesaj": 4,
+    "getsemani": 1,
+    "bar_abba": 5,
+    "golgota": 1,
+    "eli_eli": 1
+  },
+  "conflictos_de_forma": {
+    "mashiaj": {
+      "existente": "Mashíaj",
+      "propuesta": "Mashiaj"
+    },
+    "moshe": {
+      "existente": "Moshé",
+      "propuesta": "Moshe"
+    },
+    "ruaj_haqodesh": {
+      "existente": "Rúaj HaQódesh",
+      "propuesta": "Ruaj HaQodesh"
+    },
+    "simon_kefa": {
+      "existente": "Shim'on Kefa",
+      "propuesta": "Shimón Kefa"
+    },
+    "yaaqov_zebedeo": {
+      "existente": "Ya'aqov",
+      "propuesta": "Yaaqov"
+    },
+    "yahweh_nt": {
+      "existente": "Marya",
+      "propuesta": "Yahweh"
+    },
+    "yarden": {
+      "existente": "Yardén",
+      "propuesta": "Yarden"
+    },
+    "yerushalayim": {
+      "existente": "Yerushaláyim",
+      "propuesta": "Yerushalayim"
+    },
+    "yeshua": {
+      "existente": "Yeshúa",
+      "propuesta": "Yeshua"
+    },
+    "yojanan_apostol": {
+      "existente": "Yojanán",
+      "propuesta": "Yojanan"
+    },
+    "yojanan_bautista": {
+      "existente": "Yojanán",
+      "propuesta": "Yojanan"
+    }
+  },
+  "pendiente": "Revisión humana versículo por versículo; las reglas son selectivas, no una alineación interlineal completa."
+}

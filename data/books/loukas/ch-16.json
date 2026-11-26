@@ -1,0 +1,289 @@
+{
+  "bookId": "loukas",
+  "titleEntryId": "book_loukas",
+  "bookTitle": "Loukas",
+  "chapter": 16,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "Y DIJO también a sus discípulos: Había un hombre rico, el cual tenía un mayordomo, y éste fue acusado delante de él como disipador de sus bienes."
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Y le llamó, y le dijo: ¿Qué es esto que oigo de ti? Da cuenta de tu mayordomía, porque ya no podrás más ser mayordomo."
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Entonces el mayordomo dijo dentro de sí: ¿Qué haré? que mi señor me quita la mayordomía. Cavar, no puedo; mendigar, tengo vergüenza."
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Yo sé lo que haré para que cuando fuere quitado de la mayordomía, me reciban en sus casas."
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Y llamando a cada uno de los deudores de su señor, dijo al primero: ¿Cuánto debes a mi señor?"
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Y él dijo: Cien barriles de aceite. Y le dijo: Toma tu obligación, y siéntate presto, y escribe cincuenta."
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "Después dijo a otro: ¿Y tú, cuánto debes? Y él dijo: Cien coros de trigo. Y él le dijo: Toma tu obligación, y escribe ochenta."
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Y alabó el señor al mayordomo malo por haber hecho discretamente; porque los hijos de este siglo son en su generación más sagaces que los hijos de luz."
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Y yo os digo: Haceos amigos de las ",
+        {
+          "entryId": "mamona",
+          "form": "Mamoná"
+        },
+        " de maldad, para que cuando faltareis, os reciban en las moradas eternas."
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "El que es fiel en lo muy poco, también en lo más es fiel: y el que en lo muy poco es injusto, también en lo más es injusto."
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "Pues si en las malas ",
+        {
+          "entryId": "mamona",
+          "form": "Mamoná"
+        },
+        " no fuisteis fieles, ¿quién os confiará lo verdadero?"
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Y si en lo ajeno no fuisteis fieles, ¿quién os dará lo que es vuestro?"
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Ningún siervo puede servir a dos señores; porque o aborrecerá al uno y amará al otro, o se allegará al uno y menospreciará al otro. No podéis servir a Dios y a las ",
+        {
+          "entryId": "mamona",
+          "form": "Mamoná"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Y oían también todas estas cosas los ",
+        {
+          "entryId": "perushim",
+          "form": "Perushim"
+        },
+        ", los cuales eran avaros, y se burlaban de él."
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Y díjoles: Vosotros sois los que os justificáis a vosotros mismos delante de los hombres; mas Dios conoce vuestros corazones; porque lo que los hombres tienen por sublime, delante de Dios es abominación."
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "La ley y los profetas hasta ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        ": desde entonces el reino de Dios es anunciado, y quienquiera se esfuerza a entrar en él."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Empero más fácil cosa es pasar el cielo y la tierra, que frustrarse un tilde de la ley."
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Cualquiera que repudia a su mujer, y se casa con otra, adultera: y el que se casa con la repudiada del marido, adultera."
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Había un hombre rico, que se vestía de púrpura y de lino fino, y hacía cada día banquete con esplendidez."
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Había también un mendigo llamado ",
+        {
+          "entryId": "lazan",
+          "form": "Elazar"
+        },
+        ", el cual estaba echado a la puerta de él, lleno de llagas,"
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "Y deseando hartarse de las migajas que caían de la mesa del rico; y aun los perros venían y le lamían las llagas."
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "Y aconteció que murió el mendigo, y fue llevado por los ángeles al seno de ",
+        {
+          "entryId": "avraham",
+          "form": "Avraham"
+        },
+        ": y murió también el rico, y fue sepultado."
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "Y en el ",
+        {
+          "entryId": "hades",
+          "form": "Hades"
+        },
+        " alzó sus ojos, estando en los tormentos, y vio a ",
+        {
+          "entryId": "avraham",
+          "form": "Avraham"
+        },
+        " de lejos, y a ",
+        {
+          "entryId": "lazan",
+          "form": "Elazar"
+        },
+        " en su seno."
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "Entonces él, dando voces, dijo: Padre ",
+        {
+          "entryId": "avraham",
+          "form": "Avraham"
+        },
+        ", ten misericordia de mí, y envía a ",
+        {
+          "entryId": "lazan",
+          "form": "Elazar"
+        },
+        " que moje la punta de su dedo en agua, y refresque mi lengua; porque soy atormentado en esta llama."
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "Y díjole ",
+        {
+          "entryId": "avraham",
+          "form": "Avraham"
+        },
+        ": Hijo, acuérdate que recibiste tus bienes en tu vida, y ",
+        {
+          "entryId": "lazan",
+          "form": "Elazar"
+        },
+        " también males; mas ahora éste es consolado aquí, y tú atormentado."
+      ]
+    },
+    {
+      "verse": 26,
+      "segments": [
+        "Y además de todo esto, una grande sima está constituída entre nosotros y vosotros, que los que quisieren pasar de aquí a vosotros, no pueden, ni de allá pasar acá."
+      ]
+    },
+    {
+      "verse": 27,
+      "segments": [
+        "Y dijo: Ruégote pues, padre, que le envíes a la casa de mi padre;"
+      ]
+    },
+    {
+      "verse": 28,
+      "segments": [
+        "Porque tengo cinco hermanos; para que les testifique, porque no vengan ellos también a este lugar de tormento."
+      ]
+    },
+    {
+      "verse": 29,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "avraham",
+          "form": "Avraham"
+        },
+        " le dice: A ",
+        {
+          "entryId": "moshe",
+          "form": "Moshe"
+        },
+        " y a los profetas tienen: óiganlos."
+      ]
+    },
+    {
+      "verse": 30,
+      "segments": [
+        "El entonces dijo: No, padre ",
+        {
+          "entryId": "avraham",
+          "form": "Avraham"
+        },
+        ": mas si alguno fuere a ellos de los muertos, se arrepentirán."
+      ]
+    },
+    {
+      "verse": 31,
+      "segments": [
+        "Mas ",
+        {
+          "entryId": "avraham",
+          "form": "Avraham"
+        },
+        " le dijo: Si no oyen a ",
+        {
+          "entryId": "moshe",
+          "form": "Moshe"
+        },
+        " y a los profetas, tampoco se persuadirán, si alguno se levantare de los muertos."
+      ]
+    }
+  ]
+}

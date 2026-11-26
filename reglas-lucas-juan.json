@@ -1,0 +1,1553 @@
+{
+  "LUK": [
+    {
+      "entryId": "yeshua",
+      "aliases": [
+        "Jesús",
+        "Jesus"
+      ],
+      "form": "Yeshua"
+    },
+    {
+      "entryId": "mashiaj",
+      "aliases": [
+        "Cristo"
+      ],
+      "form": "Mashiaj"
+    },
+    {
+      "entryId": "yeshua",
+      "aliases": [
+        "Jesucristo"
+      ],
+      "form": "Yeshua",
+      "suffix": {
+        "entryId": "mashiaj",
+        "form": "Mashiaj"
+      }
+    },
+    {
+      "entryId": "david",
+      "aliases": [
+        "David"
+      ],
+      "form": "David"
+    },
+    {
+      "entryId": "avraham",
+      "aliases": [
+        "Abraham"
+      ],
+      "form": "Avraham"
+    },
+    {
+      "entryId": "yitzjaq",
+      "aliases": [
+        "Isaac"
+      ],
+      "form": "Yitzjaq"
+    },
+    {
+      "entryId": "yosef",
+      "aliases": [
+        "José",
+        "Joseph"
+      ],
+      "form": "Yosef"
+    },
+    {
+      "entryId": "miryam",
+      "aliases": [
+        "María"
+      ],
+      "form": "Miryam"
+    },
+    {
+      "entryId": "moshe",
+      "aliases": [
+        "Moisés",
+        "Moyses"
+      ],
+      "form": "Moshe"
+    },
+    {
+      "entryId": "yeshayahu",
+      "aliases": [
+        "Isaías",
+        "Esaías"
+      ],
+      "form": "Yeshayahu"
+    },
+    {
+      "entryId": "eliyahu",
+      "aliases": [
+        "Elías"
+      ],
+      "form": "Eliyahu"
+    },
+    {
+      "entryId": "yirmeyahu",
+      "aliases": [
+        "Jeremías"
+      ],
+      "form": "Yirmeyahu"
+    },
+    {
+      "entryId": "yojanan_bautista",
+      "aliases": [
+        "Juan el Bautista",
+        "Juan Bautista"
+      ],
+      "form": "Yojanan el Bautista"
+    },
+    {
+      "entryId": "simon_kefa",
+      "aliases": [
+        "Simón Pedro"
+      ],
+      "form": "Shimón Kefa"
+    },
+    {
+      "entryId": "simon_kefa",
+      "aliases": [
+        "Pedro"
+      ],
+      "form": "Kefa"
+    },
+    {
+      "entryId": "andreas",
+      "aliases": [
+        "Andrés"
+      ],
+      "form": "Andreas"
+    },
+    {
+      "entryId": "zavdai",
+      "aliases": [
+        "Zebedeo"
+      ],
+      "form": "Zavdai"
+    },
+    {
+      "entryId": "mattai",
+      "aliases": [
+        "Mateo"
+      ],
+      "form": "Mattai"
+    },
+    {
+      "entryId": "philippos",
+      "aliases": [
+        "Felipe",
+        "Philipo"
+      ],
+      "form": "Philippos"
+    },
+    {
+      "entryId": "bar_talmai",
+      "aliases": [
+        "Bartolomé"
+      ],
+      "form": "Bar-Talmai"
+    },
+    {
+      "entryId": "toma",
+      "aliases": [
+        "Tomás"
+      ],
+      "form": "Toma"
+    },
+    {
+      "entryId": "taddai",
+      "aliases": [
+        "Tadeo",
+        "Thaddeo"
+      ],
+      "form": "Taddai"
+    },
+    {
+      "entryId": "yehuda_iscariote",
+      "aliases": [
+        "Judas Iscariote"
+      ],
+      "form": "Yehudá Iscariote"
+    },
+    {
+      "entryId": "yerushalayim",
+      "aliases": [
+        "Jerusalem",
+        "Jerusalén"
+      ],
+      "form": "Yerushalayim"
+    },
+    {
+      "entryId": "yarden",
+      "aliases": [
+        "Jordán"
+      ],
+      "form": "Yarden"
+    },
+    {
+      "entryId": "galil",
+      "aliases": [
+        "Galilea"
+      ],
+      "form": "Galil"
+    },
+    {
+      "entryId": "natzeret",
+      "aliases": [
+        "Nazaret",
+        "Nazareth"
+      ],
+      "form": "Natzeret"
+    },
+    {
+      "entryId": "beit_lejem",
+      "aliases": [
+        "Bethlehem",
+        "Beth-lehem",
+        "Belén"
+      ],
+      "form": "Beit Lejem"
+    },
+    {
+      "entryId": "yehuda_region",
+      "aliases": [
+        "Judea"
+      ],
+      "form": "Yehudá"
+    },
+    {
+      "entryId": "kefar_najum",
+      "aliases": [
+        "Capernaum",
+        "Capharnaum",
+        "Cafarnaúm",
+        "Capernaúm"
+      ],
+      "form": "Kefar Najum"
+    },
+    {
+      "entryId": "beit_ania",
+      "aliases": [
+        "Bethania",
+        "Betania"
+      ],
+      "form": "Beit Ania"
+    },
+    {
+      "entryId": "yerijo",
+      "aliases": [
+        "Jericó"
+      ],
+      "form": "Yerijo"
+    },
+    {
+      "entryId": "perushim",
+      "aliases": [
+        "Fariseos"
+      ],
+      "form": "Perushim"
+    },
+    {
+      "entryId": "tzaduqim",
+      "aliases": [
+        "Saduceos"
+      ],
+      "form": "Tzaduqim"
+    },
+    {
+      "entryId": "shabbat",
+      "aliases": [
+        "sábado"
+      ],
+      "form": "Shabbat"
+    },
+    {
+      "entryId": "shabbat",
+      "aliases": [
+        "sábados"
+      ],
+      "form": "sábados"
+    },
+    {
+      "entryId": "ruaj_haqodesh",
+      "aliases": [
+        "Espíritu Santo"
+      ],
+      "form": "Ruaj HaQodesh"
+    },
+    {
+      "entryId": "satan",
+      "aliases": [
+        "Satanás"
+      ],
+      "form": "Satán"
+    },
+    {
+      "entryId": "pesaj",
+      "aliases": [
+        "Pascua"
+      ],
+      "form": "Pesaj"
+    },
+    {
+      "entryId": "rabbi",
+      "aliases": [
+        "Rabbi",
+        "Rabí",
+        "Rabbí"
+      ],
+      "form": "Rabbí"
+    },
+    {
+      "entryId": "hosanna",
+      "aliases": [
+        "Hosanna",
+        "Hosana"
+      ],
+      "form": "Hoshia na"
+    },
+    {
+      "entryId": "getsemani",
+      "aliases": [
+        "Gethsemaní",
+        "Getsemaní",
+        "Gethsemani"
+      ],
+      "form": "Gat Shemanim"
+    },
+    {
+      "entryId": "golgota",
+      "aliases": [
+        "Gólgotha",
+        "Gólgota",
+        "Golgotha",
+        "Golgota"
+      ],
+      "form": "Golgota"
+    },
+    {
+      "entryId": "bar_abba",
+      "aliases": [
+        "Barrabás"
+      ],
+      "form": "Bar-Abba"
+    },
+    {
+      "entryId": "euangelion",
+      "aliases": [
+        "evangelio"
+      ],
+      "form": "evangelio"
+    },
+    {
+      "entryId": "amen",
+      "aliases": [
+        "Amén"
+      ],
+      "form": "Amén"
+    },
+    {
+      "entryId": "teofilos",
+      "aliases": [
+        "Teófilo",
+        "Theófilo"
+      ],
+      "form": "Theophilos"
+    },
+    {
+      "entryId": "zejaryah_padre",
+      "aliases": [
+        "Zacarías",
+        "Zachârías",
+        "Zacharias",
+        "Zacharías"
+      ],
+      "form": "Zejaryah",
+      "scope": [
+        "1:*"
+      ]
+    },
+    {
+      "entryId": "elisheva",
+      "aliases": [
+        "Elisabet",
+        "Elisabeth",
+        "Elizabeth"
+      ],
+      "form": "Elisheva"
+    },
+    {
+      "entryId": "gavriel",
+      "aliases": [
+        "Gabriel"
+      ],
+      "form": "Gavriel"
+    },
+    {
+      "entryId": "shimon_templo",
+      "aliases": [
+        "Simeón",
+        "Simeon"
+      ],
+      "form": "Shimón",
+      "scope": [
+        "2:25",
+        "2:34"
+      ]
+    },
+    {
+      "entryId": "jannah",
+      "aliases": [
+        "Ana"
+      ],
+      "form": "Jannah",
+      "scope": [
+        "2:36"
+      ]
+    },
+    {
+      "entryId": "janan_sumosacerdote",
+      "aliases": [
+        "Anás",
+        "Anas"
+      ],
+      "form": "Janan"
+    },
+    {
+      "entryId": "qayafa",
+      "aliases": [
+        "Caifás",
+        "Caifas"
+      ],
+      "form": "Qayafa"
+    },
+    {
+      "entryId": "pilatus",
+      "aliases": [
+        "Pilato"
+      ],
+      "form": "Pilatus"
+    },
+    {
+      "entryId": "herodes",
+      "aliases": [
+        "Herodes"
+      ],
+      "form": "Herodes"
+    },
+    {
+      "entryId": "tiberius",
+      "aliases": [
+        "Tiberio"
+      ],
+      "form": "Tiberius"
+    },
+    {
+      "entryId": "lazan",
+      "aliases": [
+        "Lázaro",
+        "Lazaro"
+      ],
+      "form": "Elazar",
+      "scope": [
+        "16:*"
+      ]
+    },
+    {
+      "entryId": "zakkai",
+      "aliases": [
+        "Zaqueo",
+        "Zachêo",
+        "Zacheo",
+        "Zaccheo",
+        "Zacchêo"
+      ],
+      "form": "Zakkai",
+      "scope": [
+        "19:*"
+      ]
+    },
+    {
+      "entryId": "marta",
+      "aliases": [
+        "Marta",
+        "Martha"
+      ],
+      "form": "Marta"
+    },
+    {
+      "entryId": "yojana",
+      "aliases": [
+        "Juana"
+      ],
+      "form": "Yojana"
+    },
+    {
+      "entryId": "shoshanna",
+      "aliases": [
+        "Susana",
+        "Susanna"
+      ],
+      "form": "Shoshanna"
+    },
+    {
+      "entryId": "kleopas",
+      "aliases": [
+        "Cleofás",
+        "Cleopas",
+        "Cleofas"
+      ],
+      "form": "Kleopas",
+      "scope": [
+        "24:18"
+      ]
+    },
+    {
+      "entryId": "emmaus",
+      "aliases": [
+        "Emaús",
+        "Emmaús",
+        "Emmaus",
+        "Emaus"
+      ],
+      "form": "Emmaous"
+    },
+    {
+      "entryId": "naim",
+      "aliases": [
+        "Naín",
+        "Nain"
+      ],
+      "form": "Nain"
+    },
+    {
+      "entryId": "siloam",
+      "aliases": [
+        "Siloé",
+        "Siloam",
+        "Siloe"
+      ],
+      "form": "Shiloaj"
+    },
+    {
+      "entryId": "yaaqov_patriarca",
+      "aliases": [
+        "Jacob"
+      ],
+      "form": "Yaaqov",
+      "scope": [
+        "1:33",
+        "13:28",
+        "20:37"
+      ]
+    },
+    {
+      "entryId": "yehuda_patriarca",
+      "aliases": [
+        "Judá",
+        "Judas"
+      ],
+      "form": "Yehudá",
+      "scope": [
+        "3:33",
+        "3:34"
+      ]
+    },
+    {
+      "entryId": "peretz",
+      "aliases": [
+        "Phares",
+        "Fares",
+        "Pérez"
+      ],
+      "form": "Peretz",
+      "scope": [
+        "3:33"
+      ]
+    },
+    {
+      "entryId": "jetzron",
+      "aliases": [
+        "Esrom",
+        "Hezrón"
+      ],
+      "form": "Jetzrón",
+      "scope": [
+        "3:33"
+      ]
+    },
+    {
+      "entryId": "ram",
+      "aliases": [
+        "Aram"
+      ],
+      "form": "Ram",
+      "scope": [
+        "3:33"
+      ]
+    },
+    {
+      "entryId": "aminadav",
+      "aliases": [
+        "Aminadab"
+      ],
+      "form": "Aminadav",
+      "scope": [
+        "3:33"
+      ]
+    },
+    {
+      "entryId": "najshon",
+      "aliases": [
+        "Naassón",
+        "Naasón"
+      ],
+      "form": "Najshón",
+      "scope": [
+        "3:32"
+      ]
+    },
+    {
+      "entryId": "salmon",
+      "aliases": [
+        "Salmón",
+        "Salmon"
+      ],
+      "form": "Salmón",
+      "scope": [
+        "3:32"
+      ]
+    },
+    {
+      "entryId": "boaz",
+      "aliases": [
+        "Booz",
+        "Boaz"
+      ],
+      "form": "Boaz",
+      "scope": [
+        "3:32"
+      ]
+    },
+    {
+      "entryId": "oved",
+      "aliases": [
+        "Obed"
+      ],
+      "form": "Oved",
+      "scope": [
+        "3:32"
+      ]
+    },
+    {
+      "entryId": "yishai",
+      "aliases": [
+        "Jessé",
+        "Isaí"
+      ],
+      "form": "Yishai",
+      "scope": [
+        "3:32"
+      ]
+    },
+    {
+      "entryId": "shealtiel",
+      "aliases": [
+        "Salathiel",
+        "Salatiel"
+      ],
+      "form": "Shealtiel",
+      "scope": [
+        "3:27"
+      ]
+    },
+    {
+      "entryId": "zerubavel",
+      "aliases": [
+        "Zorobabel"
+      ],
+      "form": "Zerubavel",
+      "scope": [
+        "3:27"
+      ]
+    },
+    {
+      "entryId": "yojanan_bautista",
+      "aliases": [
+        "Juan"
+      ],
+      "form": "Yojanan",
+      "scope": [
+        "1:*",
+        "3:*",
+        "7:*",
+        "9:7",
+        "9:9",
+        "9:19",
+        "16:16",
+        "20:4",
+        "20:6"
+      ]
+    },
+    {
+      "entryId": "yojanan_apostol",
+      "aliases": [
+        "Juan"
+      ],
+      "form": "Yojanan",
+      "scope": [
+        "5:10",
+        "6:14",
+        "8:51",
+        "9:28",
+        "9:49",
+        "9:54",
+        "22:8"
+      ]
+    },
+    {
+      "entryId": "simon_kefa",
+      "aliases": [
+        "Simón",
+        "Simon"
+      ],
+      "form": "Shimón",
+      "scope": [
+        "5:3",
+        "5:4",
+        "5:5",
+        "5:10",
+        "6:14",
+        "22:31",
+        "24:34"
+      ]
+    },
+    {
+      "entryId": "yaaqov_zebedeo",
+      "aliases": [
+        "Jacobo",
+        "Santiago"
+      ],
+      "form": "Yaaqov",
+      "scope": [
+        "5:10",
+        "6:14",
+        "8:51",
+        "9:28",
+        "9:54"
+      ]
+    },
+    {
+      "entryId": "yaaqov_alfai",
+      "aliases": [
+        "Jacobo",
+        "Santiago"
+      ],
+      "form": "Yaaqov",
+      "scope": [
+        "6:15"
+      ]
+    },
+    {
+      "entryId": "yehuda_iscariote",
+      "aliases": [
+        "Judas"
+      ],
+      "form": "Yehudá Iscariote",
+      "scope": [
+        "22:3",
+        "22:47",
+        "22:48"
+      ]
+    },
+    {
+      "entryId": "mamona",
+      "aliases": [
+        "Mammón",
+        "Mammon",
+        "riquezas"
+      ],
+      "form": "Mamoná",
+      "scope": [
+        "16:9",
+        "16:11",
+        "16:13"
+      ]
+    },
+    {
+      "entryId": "hades",
+      "aliases": [
+        "infierno",
+        "Hades"
+      ],
+      "form": "Hades",
+      "scope": [
+        "10:15",
+        "16:23"
+      ]
+    },
+    {
+      "entryId": "gehenna",
+      "aliases": [
+        "infierno",
+        "Gehena"
+      ],
+      "form": "Gehena",
+      "scope": [
+        "12:5"
+      ]
+    },
+    {
+      "entryId": "metanoia",
+      "aliases": [
+        "arrepentimiento"
+      ],
+      "form": "arrepentimiento",
+      "scope": [
+        "3:3",
+        "3:8",
+        "5:32",
+        "15:7",
+        "24:47"
+      ]
+    },
+    {
+      "entryId": "paradeisos",
+      "aliases": [
+        "paraíso",
+        "paraiso"
+      ],
+      "form": "Parádeisos",
+      "scope": [
+        "23:43"
+      ]
+    },
+    {
+      "entryId": "epistates",
+      "aliases": [
+        "Maestro"
+      ],
+      "form": "Epistátes",
+      "scope": [
+        "5:5",
+        "8:24",
+        "8:45",
+        "9:33",
+        "9:49",
+        "17:13"
+      ]
+    },
+    {
+      "entryId": "shomron_region",
+      "aliases": [
+        "Samaria"
+      ],
+      "form": "Shomron"
+    }
+  ],
+  "JHN": [
+    {
+      "entryId": "yeshua",
+      "aliases": [
+        "Jesús",
+        "Jesus"
+      ],
+      "form": "Yeshua"
+    },
+    {
+      "entryId": "mashiaj",
+      "aliases": [
+        "Cristo"
+      ],
+      "form": "Mashiaj"
+    },
+    {
+      "entryId": "yeshua",
+      "aliases": [
+        "Jesucristo"
+      ],
+      "form": "Yeshua",
+      "suffix": {
+        "entryId": "mashiaj",
+        "form": "Mashiaj"
+      }
+    },
+    {
+      "entryId": "david",
+      "aliases": [
+        "David"
+      ],
+      "form": "David"
+    },
+    {
+      "entryId": "avraham",
+      "aliases": [
+        "Abraham"
+      ],
+      "form": "Avraham"
+    },
+    {
+      "entryId": "yitzjaq",
+      "aliases": [
+        "Isaac"
+      ],
+      "form": "Yitzjaq"
+    },
+    {
+      "entryId": "yosef",
+      "aliases": [
+        "José",
+        "Joseph"
+      ],
+      "form": "Yosef"
+    },
+    {
+      "entryId": "miryam",
+      "aliases": [
+        "María"
+      ],
+      "form": "Miryam"
+    },
+    {
+      "entryId": "moshe",
+      "aliases": [
+        "Moisés",
+        "Moyses"
+      ],
+      "form": "Moshe"
+    },
+    {
+      "entryId": "yeshayahu",
+      "aliases": [
+        "Isaías",
+        "Esaías"
+      ],
+      "form": "Yeshayahu"
+    },
+    {
+      "entryId": "eliyahu",
+      "aliases": [
+        "Elías"
+      ],
+      "form": "Eliyahu"
+    },
+    {
+      "entryId": "yirmeyahu",
+      "aliases": [
+        "Jeremías"
+      ],
+      "form": "Yirmeyahu"
+    },
+    {
+      "entryId": "yojanan_bautista",
+      "aliases": [
+        "Juan el Bautista",
+        "Juan Bautista"
+      ],
+      "form": "Yojanan el Bautista"
+    },
+    {
+      "entryId": "simon_kefa",
+      "aliases": [
+        "Simón Pedro"
+      ],
+      "form": "Shimón Kefa"
+    },
+    {
+      "entryId": "simon_kefa",
+      "aliases": [
+        "Pedro"
+      ],
+      "form": "Kefa"
+    },
+    {
+      "entryId": "andreas",
+      "aliases": [
+        "Andrés"
+      ],
+      "form": "Andreas"
+    },
+    {
+      "entryId": "zavdai",
+      "aliases": [
+        "Zebedeo"
+      ],
+      "form": "Zavdai"
+    },
+    {
+      "entryId": "mattai",
+      "aliases": [
+        "Mateo"
+      ],
+      "form": "Mattai"
+    },
+    {
+      "entryId": "philippos",
+      "aliases": [
+        "Felipe",
+        "Philipo"
+      ],
+      "form": "Philippos"
+    },
+    {
+      "entryId": "bar_talmai",
+      "aliases": [
+        "Bartolomé"
+      ],
+      "form": "Bar-Talmai"
+    },
+    {
+      "entryId": "toma",
+      "aliases": [
+        "Tomás"
+      ],
+      "form": "Toma"
+    },
+    {
+      "entryId": "taddai",
+      "aliases": [
+        "Tadeo",
+        "Thaddeo"
+      ],
+      "form": "Taddai"
+    },
+    {
+      "entryId": "yehuda_iscariote",
+      "aliases": [
+        "Judas Iscariote"
+      ],
+      "form": "Yehudá Iscariote"
+    },
+    {
+      "entryId": "yerushalayim",
+      "aliases": [
+        "Jerusalem",
+        "Jerusalén"
+      ],
+      "form": "Yerushalayim"
+    },
+    {
+      "entryId": "yarden",
+      "aliases": [
+        "Jordán"
+      ],
+      "form": "Yarden"
+    },
+    {
+      "entryId": "galil",
+      "aliases": [
+        "Galilea"
+      ],
+      "form": "Galil"
+    },
+    {
+      "entryId": "natzeret",
+      "aliases": [
+        "Nazaret",
+        "Nazareth"
+      ],
+      "form": "Natzeret"
+    },
+    {
+      "entryId": "beit_lejem",
+      "aliases": [
+        "Bethlehem",
+        "Beth-lehem",
+        "Belén"
+      ],
+      "form": "Beit Lejem"
+    },
+    {
+      "entryId": "yehuda_region",
+      "aliases": [
+        "Judea"
+      ],
+      "form": "Yehudá"
+    },
+    {
+      "entryId": "kefar_najum",
+      "aliases": [
+        "Capernaum",
+        "Capharnaum",
+        "Cafarnaúm",
+        "Capernaúm"
+      ],
+      "form": "Kefar Najum"
+    },
+    {
+      "entryId": "beit_ania",
+      "aliases": [
+        "Bethania",
+        "Betania"
+      ],
+      "form": "Beit Ania"
+    },
+    {
+      "entryId": "yerijo",
+      "aliases": [
+        "Jericó"
+      ],
+      "form": "Yerijo"
+    },
+    {
+      "entryId": "perushim",
+      "aliases": [
+        "Fariseos"
+      ],
+      "form": "Perushim"
+    },
+    {
+      "entryId": "tzaduqim",
+      "aliases": [
+        "Saduceos"
+      ],
+      "form": "Tzaduqim"
+    },
+    {
+      "entryId": "shabbat",
+      "aliases": [
+        "sábado"
+      ],
+      "form": "Shabbat"
+    },
+    {
+      "entryId": "shabbat",
+      "aliases": [
+        "sábados"
+      ],
+      "form": "sábados"
+    },
+    {
+      "entryId": "ruaj_haqodesh",
+      "aliases": [
+        "Espíritu Santo"
+      ],
+      "form": "Ruaj HaQodesh"
+    },
+    {
+      "entryId": "satan",
+      "aliases": [
+        "Satanás"
+      ],
+      "form": "Satán"
+    },
+    {
+      "entryId": "pesaj",
+      "aliases": [
+        "Pascua"
+      ],
+      "form": "Pesaj"
+    },
+    {
+      "entryId": "rabbi",
+      "aliases": [
+        "Rabbi",
+        "Rabí",
+        "Rabbí"
+      ],
+      "form": "Rabbí"
+    },
+    {
+      "entryId": "hosanna",
+      "aliases": [
+        "Hosanna",
+        "Hosana"
+      ],
+      "form": "Hoshia na"
+    },
+    {
+      "entryId": "getsemani",
+      "aliases": [
+        "Gethsemaní",
+        "Getsemaní",
+        "Gethsemani"
+      ],
+      "form": "Gat Shemanim"
+    },
+    {
+      "entryId": "golgota",
+      "aliases": [
+        "Gólgotha",
+        "Gólgota",
+        "Golgotha",
+        "Golgota"
+      ],
+      "form": "Golgota"
+    },
+    {
+      "entryId": "bar_abba",
+      "aliases": [
+        "Barrabás"
+      ],
+      "form": "Bar-Abba"
+    },
+    {
+      "entryId": "euangelion",
+      "aliases": [
+        "evangelio"
+      ],
+      "form": "evangelio"
+    },
+    {
+      "entryId": "amen",
+      "aliases": [
+        "Amén"
+      ],
+      "form": "Amén"
+    },
+    {
+      "entryId": "janan_sumosacerdote",
+      "aliases": [
+        "Anás",
+        "Anas"
+      ],
+      "form": "Janan"
+    },
+    {
+      "entryId": "qayafa",
+      "aliases": [
+        "Caifás",
+        "Caifas"
+      ],
+      "form": "Qayafa"
+    },
+    {
+      "entryId": "pilatus",
+      "aliases": [
+        "Pilato"
+      ],
+      "form": "Pilatus"
+    },
+    {
+      "entryId": "marta",
+      "aliases": [
+        "Marta",
+        "Martha"
+      ],
+      "form": "Marta"
+    },
+    {
+      "entryId": "siloam",
+      "aliases": [
+        "Siloé",
+        "Siloam",
+        "Siloe"
+      ],
+      "form": "Shiloaj"
+    },
+    {
+      "entryId": "natanael",
+      "aliases": [
+        "Natanael",
+        "Nathanael"
+      ],
+      "form": "Netanel"
+    },
+    {
+      "entryId": "nikodemos",
+      "aliases": [
+        "Nicodemo"
+      ],
+      "form": "Nikodemos"
+    },
+    {
+      "entryId": "elazar_betania",
+      "aliases": [
+        "Lázaro",
+        "Lazaro"
+      ],
+      "form": "Elazar"
+    },
+    {
+      "entryId": "maljos",
+      "aliases": [
+        "Malco",
+        "Malcho"
+      ],
+      "form": "Maljos"
+    },
+    {
+      "entryId": "qana",
+      "aliases": [
+        "Caná",
+        "Cana"
+      ],
+      "form": "Qana"
+    },
+    {
+      "entryId": "syjar",
+      "aliases": [
+        "Sicar",
+        "Sichar"
+      ],
+      "form": "Syjar"
+    },
+    {
+      "entryId": "shomron_region",
+      "aliases": [
+        "Samaria"
+      ],
+      "form": "Shomron"
+    },
+    {
+      "entryId": "betesda",
+      "aliases": [
+        "Bethesda",
+        "Betesda",
+        "Bethsaida",
+        "Betsaida"
+      ],
+      "form": "Betesda",
+      "scope": [
+        "5:2"
+      ]
+    },
+    {
+      "entryId": "gabbatha",
+      "aliases": [
+        "Gabbatha",
+        "Gabatha",
+        "Gábata",
+        "Gabata"
+      ],
+      "form": "Gabbatha"
+    },
+    {
+      "entryId": "rabbouni",
+      "aliases": [
+        "Rabboni",
+        "Rabbuni",
+        "Rabboní",
+        "Rabuní",
+        "Rabbuní"
+      ],
+      "form": "Rabbuní",
+      "scope": [
+        "20:16"
+      ]
+    },
+    {
+      "entryId": "didymos",
+      "aliases": [
+        "Dídimo",
+        "Didimo",
+        "Dídymus"
+      ],
+      "form": "Didymos",
+      "scope": [
+        "11:16",
+        "20:24",
+        "21:2"
+      ]
+    },
+    {
+      "entryId": "klopas",
+      "aliases": [
+        "Cleofás",
+        "Cleofas",
+        "Cleopas",
+        "Clopas"
+      ],
+      "form": "Klopas",
+      "scope": [
+        "19:25"
+      ]
+    },
+    {
+      "entryId": "logos",
+      "aliases": [
+        "Verbo"
+      ],
+      "form": "Logos",
+      "scope": [
+        "1:1",
+        "1:14"
+      ]
+    },
+    {
+      "entryId": "parakletos",
+      "aliases": [
+        "Consolador"
+      ],
+      "form": "Parákletos",
+      "scope": [
+        "14:16",
+        "14:26",
+        "15:26",
+        "16:7"
+      ]
+    },
+    {
+      "entryId": "monogenes",
+      "aliases": [
+        "unigénito",
+        "unigenito"
+      ],
+      "form": "Monogenés",
+      "scope": [
+        "1:14",
+        "1:18",
+        "3:16",
+        "3:18"
+      ]
+    },
+    {
+      "entryId": "ego_eimi",
+      "aliases": [
+        "yo soy"
+      ],
+      "form": "Egō eimi",
+      "scope": [
+        "8:58",
+        "18:5",
+        "18:6",
+        "18:8"
+      ]
+    },
+    {
+      "entryId": "anothen",
+      "aliases": [
+        "otra vez",
+        "de nuevo",
+        "de arriba"
+      ],
+      "form": "de nuevo",
+      "scope": [
+        "3:3",
+        "3:7"
+      ],
+      "keepText": true
+    },
+    {
+      "entryId": "yojanan_bautista",
+      "aliases": [
+        "Juan"
+      ],
+      "form": "Yojanan",
+      "scope": [
+        "1:6",
+        "1:15",
+        "1:19",
+        "1:26",
+        "1:28",
+        "1:29",
+        "1:32",
+        "1:35",
+        "1:40",
+        "3:23",
+        "3:24",
+        "3:25",
+        "3:26",
+        "3:27",
+        "4:1",
+        "5:33",
+        "5:36",
+        "10:40",
+        "10:41"
+      ]
+    },
+    {
+      "entryId": "simon_kefa",
+      "aliases": [
+        "Cefas",
+        "Cephas"
+      ],
+      "form": "Kefa",
+      "scope": [
+        "1:42"
+      ]
+    },
+    {
+      "entryId": "simon_kefa",
+      "aliases": [
+        "Simón",
+        "Simon"
+      ],
+      "form": "Shimón",
+      "scope": [
+        "1:42",
+        "6:68",
+        "13:6",
+        "13:9",
+        "13:24",
+        "13:36",
+        "18:10",
+        "18:15",
+        "18:25",
+        "21:2",
+        "21:3",
+        "21:7",
+        "21:11",
+        "21:15",
+        "21:16",
+        "21:17"
+      ]
+    },
+    {
+      "entryId": "yaaqov_patriarca",
+      "aliases": [
+        "Jacob"
+      ],
+      "form": "Yaaqov",
+      "scope": [
+        "4:5",
+        "4:6",
+        "4:12"
+      ]
+    },
+    {
+      "entryId": "yehuda_iscariote",
+      "aliases": [
+        "Judas"
+      ],
+      "form": "Yehudá",
+      "scope": [
+        "12:4",
+        "13:2",
+        "13:26",
+        "13:29",
+        "18:2",
+        "18:3",
+        "18:5"
+      ]
+    },
+    {
+      "entryId": "mashiaj",
+      "aliases": [
+        "Mesías",
+        "Mesias",
+        "Messías",
+        "Messias"
+      ],
+      "form": "Mesías",
+      "scope": [
+        "1:41",
+        "4:25"
+      ]
+    },
+    {
+      "entryId": "mashiaj",
+      "aliases": [
+        "Cristo"
+      ],
+      "form": "Cristo",
+      "scope": [
+        "1:41",
+        "4:25"
+      ]
+    },
+    {
+      "entryId": "simon_kefa",
+      "aliases": [
+        "Pedro"
+      ],
+      "form": "Pedro",
+      "scope": [
+        "1:42"
+      ]
+    }
+  ]
+}

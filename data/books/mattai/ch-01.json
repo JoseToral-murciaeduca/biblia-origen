@@ -1,0 +1,704 @@
+{
+  "bookId": "mattai",
+  "titleEntryId": "book_mattai",
+  "bookTitle": "Mattai",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "LIBRO de la generación de ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        ", hijo de ",
+        {
+          "entryId": "david",
+          "form": "David"
+        },
+        ", hijo de ",
+        {
+          "entryId": "avraham",
+          "form": "Avraham"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        {
+          "entryId": "avraham",
+          "form": "Avraham"
+        },
+        " engendró a ",
+        {
+          "entryId": "yitzjaq",
+          "form": "Yitzjaq"
+        },
+        ": e ",
+        {
+          "entryId": "yitzjaq",
+          "form": "Yitzjaq"
+        },
+        " engendró a ",
+        {
+          "entryId": "yaaqov_patriarca",
+          "form": "Yaaqov"
+        },
+        ": y ",
+        {
+          "entryId": "yaaqov_patriarca",
+          "form": "Yaaqov"
+        },
+        " engendró a ",
+        {
+          "entryId": "yehuda_patriarca",
+          "form": "Yehudá"
+        },
+        " y a sus hermanos:"
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "yehuda_patriarca",
+          "form": "Yehudá"
+        },
+        " engendró de ",
+        {
+          "entryId": "tamar",
+          "form": "Tamar"
+        },
+        " a ",
+        {
+          "entryId": "peretz",
+          "form": "Peretz"
+        },
+        " y a ",
+        {
+          "entryId": "zeraj",
+          "form": "Zeraj"
+        },
+        ": y ",
+        {
+          "entryId": "peretz",
+          "form": "Peretz"
+        },
+        " engendró a ",
+        {
+          "entryId": "jetzron",
+          "form": "Jetzrón"
+        },
+        ": y ",
+        {
+          "entryId": "jetzron",
+          "form": "Jetzrón"
+        },
+        " engendró a ",
+        {
+          "entryId": "ram",
+          "form": "Ram"
+        },
+        ":"
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "ram",
+          "form": "Ram"
+        },
+        " engendró a ",
+        {
+          "entryId": "aminadav",
+          "form": "Aminadav"
+        },
+        ": y ",
+        {
+          "entryId": "aminadav",
+          "form": "Aminadav"
+        },
+        " engendró a ",
+        {
+          "entryId": "najshon",
+          "form": "Najshón"
+        },
+        ": y ",
+        {
+          "entryId": "najshon",
+          "form": "Najshón"
+        },
+        " engendró a ",
+        {
+          "entryId": "salmon",
+          "form": "Salmón"
+        },
+        ":"
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "salmon",
+          "form": "Salmón"
+        },
+        " engendró de ",
+        {
+          "entryId": "rajav",
+          "form": "Rajav"
+        },
+        " a ",
+        {
+          "entryId": "boaz",
+          "form": "Boaz"
+        },
+        ", y ",
+        {
+          "entryId": "boaz",
+          "form": "Boaz"
+        },
+        " engendró de ",
+        {
+          "entryId": "rut",
+          "form": "Rut"
+        },
+        " a ",
+        {
+          "entryId": "oved",
+          "form": "Oved"
+        },
+        ": y ",
+        {
+          "entryId": "oved",
+          "form": "Oved"
+        },
+        " engendró a ",
+        {
+          "entryId": "yishai",
+          "form": "Yishai"
+        },
+        ":"
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "yishai",
+          "form": "Yishai"
+        },
+        " engendró al rey ",
+        {
+          "entryId": "david",
+          "form": "David"
+        },
+        ": y el rey ",
+        {
+          "entryId": "david",
+          "form": "David"
+        },
+        " engendró a ",
+        {
+          "entryId": "shlomo",
+          "form": "Shlomo"
+        },
+        " de la que fue mujer de ",
+        {
+          "entryId": "uriyah",
+          "form": "Uriyah"
+        },
+        ":"
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "shlomo",
+          "form": "Shlomo"
+        },
+        " engendró a ",
+        {
+          "entryId": "rejavam",
+          "form": "Rejavam"
+        },
+        ": y ",
+        {
+          "entryId": "rejavam",
+          "form": "Rejavam"
+        },
+        " engendró a ",
+        {
+          "entryId": "aviyah",
+          "form": "Aviyah"
+        },
+        ": y ",
+        {
+          "entryId": "aviyah",
+          "form": "Aviyah"
+        },
+        " engendró a ",
+        {
+          "entryId": "asa",
+          "form": "Asa"
+        },
+        ":"
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "asa",
+          "form": "Asa"
+        },
+        " engendró a ",
+        {
+          "entryId": "yehoshafat",
+          "form": "Yehoshafat"
+        },
+        ": y ",
+        {
+          "entryId": "yehoshafat",
+          "form": "Yehoshafat"
+        },
+        " engendró a ",
+        {
+          "entryId": "yehoram",
+          "form": "Yehoram"
+        },
+        ": y ",
+        {
+          "entryId": "yehoram",
+          "form": "Yehoram"
+        },
+        " engendró a ",
+        {
+          "entryId": "uziyah",
+          "form": "Uziyah"
+        },
+        ":"
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "uziyah",
+          "form": "Uziyah"
+        },
+        " engendró a ",
+        {
+          "entryId": "yotam",
+          "form": "Yotam"
+        },
+        ": y ",
+        {
+          "entryId": "yotam",
+          "form": "Yotam"
+        },
+        " engendró a ",
+        {
+          "entryId": "ajaz",
+          "form": "Ajaz"
+        },
+        ": y ",
+        {
+          "entryId": "ajaz",
+          "form": "Ajaz"
+        },
+        " engendró a ",
+        {
+          "entryId": "jizqiyahu",
+          "form": "Jizqiyahu"
+        },
+        ":"
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "jizqiyahu",
+          "form": "Jizqiyahu"
+        },
+        " engendró a ",
+        {
+          "entryId": "menashe",
+          "form": "Menashe"
+        },
+        ": y ",
+        {
+          "entryId": "menashe",
+          "form": "Menashe"
+        },
+        " engendró a ",
+        {
+          "entryId": "amon",
+          "form": "Amón"
+        },
+        ": y ",
+        {
+          "entryId": "amon",
+          "form": "Amón"
+        },
+        " engendró a ",
+        {
+          "entryId": "yoshiyahu",
+          "form": "Yoshiyahu"
+        },
+        ":"
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "yoshiyahu",
+          "form": "Yoshiyahu"
+        },
+        " engendró a ",
+        {
+          "entryId": "yejoniyah",
+          "form": "Yejoniyah"
+        },
+        " y a sus hermanos, en la transmigración de Babilonia."
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Y después de la transmigración de Babilonia, ",
+        {
+          "entryId": "yejoniyah",
+          "form": "Yejoniyah"
+        },
+        " engendró a ",
+        {
+          "entryId": "shealtiel",
+          "form": "Shealtiel"
+        },
+        ": y ",
+        {
+          "entryId": "shealtiel",
+          "form": "Shealtiel"
+        },
+        " engendró a ",
+        {
+          "entryId": "zerubavel",
+          "form": "Zerubavel"
+        },
+        ":"
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "zerubavel",
+          "form": "Zerubavel"
+        },
+        " engendró a ",
+        {
+          "entryId": "abioud",
+          "form": "Abioud"
+        },
+        ": y ",
+        {
+          "entryId": "abioud",
+          "form": "Abioud"
+        },
+        " engendró a Eliachîm: y Eliachîm engendró a ",
+        {
+          "entryId": "azor",
+          "form": "Azor"
+        },
+        ":"
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "azor",
+          "form": "Azor"
+        },
+        " engendró a ",
+        {
+          "entryId": "sadok_genealogia",
+          "form": "Sadok"
+        },
+        ": y ",
+        {
+          "entryId": "sadok_genealogia",
+          "form": "Sadok"
+        },
+        " engendró a ",
+        {
+          "entryId": "ajeim",
+          "form": "Ajeim"
+        },
+        ": y ",
+        {
+          "entryId": "ajeim",
+          "form": "Ajeim"
+        },
+        " engendró a ",
+        {
+          "entryId": "elioud",
+          "form": "Elioud"
+        },
+        ":"
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "elioud",
+          "form": "Elioud"
+        },
+        " engendró a ",
+        {
+          "entryId": "eleazar",
+          "form": "Eleazar"
+        },
+        ": y ",
+        {
+          "entryId": "eleazar",
+          "form": "Eleazar"
+        },
+        " engendró a ",
+        {
+          "entryId": "matthan",
+          "form": "Matthan"
+        },
+        ": y ",
+        {
+          "entryId": "matthan",
+          "form": "Matthan"
+        },
+        " engendró a ",
+        {
+          "entryId": "yaaqov_padre_yosef",
+          "form": "Yaaqov"
+        },
+        ":"
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "yaaqov_padre_yosef",
+          "form": "Yaaqov"
+        },
+        " engendró a ",
+        {
+          "entryId": "yosef",
+          "form": "Yosef"
+        },
+        ", marido de ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        ", de la cual nació ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", el cual es llamado el ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "De manera que todas las generaciones desde ",
+        {
+          "entryId": "avraham",
+          "form": "Avraham"
+        },
+        " hasta ",
+        {
+          "entryId": "david",
+          "form": "David"
+        },
+        " son catorce generaciones: y desde ",
+        {
+          "entryId": "david",
+          "form": "David"
+        },
+        " hasta la transmigración de Babilonia, catorce generaciones: y desde la transmigración de Babilonia hasta ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        ", catorce generaciones."
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Y el nacimiento de ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        " fue así: Que siendo ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        " su madre desposada con ",
+        {
+          "entryId": "yosef",
+          "form": "Yosef"
+        },
+        ", antes que se juntasen, se halló haber concebido del ",
+        {
+          "entryId": "ruaj_haqodesh",
+          "form": "Ruaj HaQodesh"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "yosef",
+          "form": "Yosef"
+        },
+        " su marido, como era justo, y no quisiese infamarla, quiso dejarla secretamente."
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Y pensando él en esto, he aquí el ángel del Señor le aparece en sueños, diciendo: ",
+        {
+          "entryId": "yosef",
+          "form": "Yosef"
+        },
+        ", hijo de ",
+        {
+          "entryId": "david",
+          "form": "David"
+        },
+        ", no temas de recibir a ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        " tu mujer, porque lo que en ella es engendrado, del ",
+        {
+          "entryId": "ruaj_haqodesh",
+          "form": "Ruaj HaQodesh"
+        },
+        " es."
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "Y parirá un hijo, y llamarás su nombre ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", porque él salvará a su pueblo de sus pecados."
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "Todo esto aconteció para que se cumpliese lo que fue dicho por el Señor, por el profeta que dijo:"
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "He aquí la virgen concebirá y parirá un hijo, y llamarás su nombre Emmanuel, que declarado, es: Con nosotros ",
+        {
+          "entryId": "elohim",
+          "form": "Elohim"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "Y despertando ",
+        {
+          "entryId": "yosef",
+          "form": "Yosef"
+        },
+        " del sueño, hizo como el ángel del Señor le había mandado, y recibió a su mujer."
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "Y no la conoció hasta que parió a su hijo primogénito: y llamó su nombre ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        "."
+      ]
+    }
+  ],
+  "textualNotes": [
+    {
+      "verse": 7,
+      "note": "Algunos testigos griegos leen Asaf en lugar de Asa.",
+      "source": "https://classic.net.bible.org/bible.php?book=Mat&chapter=1&mode=print"
+    },
+    {
+      "verse": 10,
+      "note": "Algunos testigos griegos leen Amós en lugar de Amón.",
+      "source": "https://classic.net.bible.org/bible.php?book=Mat&chapter=1&mode=print"
+    },
+    {
+      "verse": 16,
+      "note": "Existen variantes en la formulación de la relación de José, María y Jesús.",
+      "source": "https://classic.net.bible.org/bible.php?book=Mat&chapter=1&mode=print"
+    }
+  ]
+}

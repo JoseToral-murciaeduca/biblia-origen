@@ -1,0 +1,342 @@
+{
+  "bookId": "mattai",
+  "titleEntryId": "book_mattai",
+  "bookTitle": "Mattai",
+  "chapter": 4,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "ENTONCES ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " fue llevado del Espíritu al desierto, para ser tentado del diablo."
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Y habiendo ayunado cuarenta días y cuarenta noches, después tuvo hambre."
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Y llegándose a él el tentador, dijo: Si eres Hijo de ",
+        {
+          "entryId": "elohim",
+          "form": "Elohim"
+        },
+        ", di que estas piedras se hagan pan."
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Mas él respondiendo, dijo: Escrito está: No con solo el pan vivirá el hombre, mas con toda palabra que sale de la boca de ",
+        {
+          "entryId": "elohim",
+          "form": "Elohim"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Entonces el diablo le pasa a la santa ciudad, y le pone sobre las almenas del templo,"
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Y le dice: Si eres Hijo de ",
+        {
+          "entryId": "elohim",
+          "form": "Elohim"
+        },
+        ", échate abajo; que escrito está: A sus ángeles mandará por ti, y te alzarán en las manos, para que nunca tropieces con tu pie en piedra."
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " le dijo: Escrito está además: No tentarás al ",
+        {
+          "entryId": "yahweh_nt",
+          "form": "Yahweh"
+        },
+        " tu ",
+        {
+          "entryId": "elohim",
+          "form": "Elohim"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Otra vez le pasa el diablo a un monte muy alto, y le muestra todos los reinos del mundo, y su gloria,"
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Y dícele: Todo esto te daré, si postrado me adorares."
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Entonces ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " le dice: Vete, ",
+        {
+          "entryId": "satan",
+          "form": "Satán"
+        },
+        ", que escrito está: Al ",
+        {
+          "entryId": "yahweh_nt",
+          "form": "Yahweh"
+        },
+        " tu ",
+        {
+          "entryId": "elohim",
+          "form": "Elohim"
+        },
+        " adorarás y a él solo servirás."
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "El diablo entonces le dejó: y he aquí los ángeles llegaron y le servían."
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Mas oyendo ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " que ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        " era preso, se volvió a ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        ";"
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Y dejando a ",
+        {
+          "entryId": "natzeret",
+          "form": "Natzeret"
+        },
+        ", vino y habitó en ",
+        {
+          "entryId": "kefar_najum",
+          "form": "Kefar Najum"
+        },
+        ", ciudad marítima, en los confines de Zabulón y de Nephtalim:"
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Para que se cumpliese lo que fue dicho por el profeta ",
+        {
+          "entryId": "yeshayahu",
+          "form": "Yeshayahu"
+        },
+        ", que dijo:"
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "La tierra de Zabulón, y la tierra de Nephtalim, camino de la mar, de la otra parte del ",
+        {
+          "entryId": "yarden",
+          "form": "Yarden"
+        },
+        ", ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        " de los Gentiles;"
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "El pueblo asentado en tinieblas, vio gran luz; y a los sentados en región y sombra de muerte, luz les esclareció."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Desde entonces comenzó ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " a predicar, y a decir: Arrepentíos, que el ",
+        {
+          "entryId": "basileia",
+          "form": "reino"
+        },
+        " de los cielos se ha acercado."
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Y andando ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " junto a la mar de ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        ", vio a dos hermanos, ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Shimón"
+        },
+        ", que es llamado ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        ", y ",
+        {
+          "entryId": "andreas",
+          "form": "Andreas"
+        },
+        " su hermano, que echaban la red en la mar; porque eran pescadores."
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Y díceles: Venid en pos de mí, y os haré pescadores de hombres."
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Ellos entonces, dejando luego las redes, le siguieron."
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "Y pasando de allí vio otros dos hermanos, ",
+        {
+          "entryId": "yaaqov_zebedeo",
+          "form": "Yaaqov"
+        },
+        ", hijo de ",
+        {
+          "entryId": "zavdai",
+          "form": "Zavdai"
+        },
+        ", y ",
+        {
+          "entryId": "yojanan_apostol",
+          "form": "Yojanan"
+        },
+        " su hermano, en el barco con ",
+        {
+          "entryId": "zavdai",
+          "form": "Zavdai"
+        },
+        ", su padre, que remendaban sus redes; y los llamó."
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "Y ellos, dejando luego el barco y a su padre, le siguieron."
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "Y rodeó ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " toda ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        ", enseñando en las sinagogas de ellos, y predicando el ",
+        {
+          "entryId": "euangelion",
+          "form": "evangelio"
+        },
+        " del reino, y sanando toda enfermedad y toda dolencia en el pueblo."
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "Y corría su fama por toda la Siria; y le trajeron todos los que tenían mal: los tomados de diversas enfermedades y tormentos, y los endemoniados, y lunáticos, y paralíticos, y los sanó."
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "Y le siguieron muchas gentes de ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        " y de Decápolis y de ",
+        {
+          "entryId": "yerushalayim",
+          "form": "Yerushalayim"
+        },
+        " y de ",
+        {
+          "entryId": "yehuda_region",
+          "form": "Yehudá"
+        },
+        " y de la otra parte del ",
+        {
+          "entryId": "yarden",
+          "form": "Yarden"
+        },
+        "."
+      ]
+    }
+  ]
+}

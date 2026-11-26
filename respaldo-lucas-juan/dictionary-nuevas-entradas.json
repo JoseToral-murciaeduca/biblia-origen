@@ -1,0 +1,305 @@
+{
+  "book_loukas": {
+    "category": "book",
+    "defaultForm": "Loukas",
+    "traditional": "Lucas",
+    "bridgeGloss": "Lucas",
+    "originalScript": {
+      "greek": "Λουκᾶς",
+      "latin": "Lucas"
+    },
+    "transliteration": "Loukas",
+    "meaning": "Evangelio según Lucas, tercero en el orden habitual del Nuevo Testamento.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/greek/3065.htm",
+    "studyNote": "La forma Loukas corresponde al nombre griego; la atribución a Lucas pertenece a la tradición antigua.",
+    "banner": "img/sanlucas.png"
+  },
+  "teofilos": {
+    "category": "person",
+    "defaultForm": "Theophilos",
+    "traditional": "Teófilo",
+    "bridgeGloss": "Teófilo",
+    "originalScript": {
+      "greek": "Θεόφιλος"
+    },
+    "transliteration": "Theophilos",
+    "meaning": "Destinatario del prólogo de Lucas.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/1-3.htm"
+  },
+  "herodes": {
+    "category": "person",
+    "defaultForm": "Herodes",
+    "traditional": "Herodes",
+    "bridgeGloss": "Herodes",
+    "originalScript": {
+      "greek": "Ἡρῴδης"
+    },
+    "transliteration": "Herodes",
+    "meaning": "Nombre de miembros de la dinastía herodiana; el referente depende del pasaje.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/3-1.htm"
+  },
+  "zejaryah_padre": {
+    "category": "person",
+    "defaultForm": "Zejaryah",
+    "traditional": "Zacarías",
+    "bridgeGloss": "Zacarías",
+    "originalScript": {
+      "greek": "Ζαχαρίας",
+      "hebrew": "זכריה"
+    },
+    "transliteration": "Zejaryah",
+    "meaning": "Sacerdote y padre de Juan el Bautista.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/1-13.htm"
+  },
+  "elisheva": {
+    "category": "person",
+    "defaultForm": "Elisheva",
+    "traditional": "Elisabet",
+    "bridgeGloss": "Elisabet",
+    "originalScript": {
+      "greek": "Ἐλισάβετ",
+      "hebrew": "אלישבע"
+    },
+    "transliteration": "Elisheva",
+    "meaning": "Esposa de Zacarías y madre de Juan el Bautista.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/1-13.htm"
+  },
+  "gavriel": {
+    "category": "person",
+    "defaultForm": "Gavriel",
+    "traditional": "Gabriel",
+    "bridgeGloss": "Gabriel",
+    "originalScript": {
+      "greek": "Γαβριήλ",
+      "hebrew": "גבריאל"
+    },
+    "transliteration": "Gavriel",
+    "meaning": "Ángel mensajero en el relato de las anunciaciones.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/1-19.htm"
+  },
+  "shimon_templo": {
+    "category": "person",
+    "defaultForm": "Shimón",
+    "traditional": "Simeón",
+    "bridgeGloss": "Simeón",
+    "originalScript": {
+      "greek": "Συμεών",
+      "hebrew": "שמעון"
+    },
+    "transliteration": "Shimón",
+    "meaning": "Hombre que recibe a Jesús en el templo.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/2-25.htm"
+  },
+  "jannah": {
+    "category": "person",
+    "defaultForm": "Jannah",
+    "traditional": "Ana",
+    "bridgeGloss": "Ana",
+    "originalScript": {
+      "greek": "Ἄννα",
+      "hebrew": "חנה"
+    },
+    "transliteration": "Jannah",
+    "meaning": "Profetisa que aparece en el templo.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/2-36.htm"
+  },
+  "tiberius": {
+    "category": "person",
+    "defaultForm": "Tiberius",
+    "traditional": "Tiberio",
+    "bridgeGloss": "Tiberio",
+    "originalScript": {
+      "greek": "Τιβέριος"
+    },
+    "transliteration": "Tiberius",
+    "meaning": "Emperador romano citado en la datación de Lucas.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/3-1.htm"
+  },
+  "pilatus": {
+    "category": "person",
+    "defaultForm": "Pilatus",
+    "traditional": "Pilato",
+    "bridgeGloss": "Pilato",
+    "originalScript": {
+      "greek": "Πιλᾶτος"
+    },
+    "transliteration": "Pilatus",
+    "meaning": "Prefecto romano de Judea.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/3-1.htm"
+  },
+  "janan_sumosacerdote": {
+    "category": "person",
+    "defaultForm": "Janan",
+    "traditional": "Anás",
+    "bridgeGloss": "Anás",
+    "originalScript": {
+      "greek": "Ἅννας",
+      "hebrew": "חנן"
+    },
+    "transliteration": "Janan",
+    "meaning": "Sumo sacerdote mencionado en Lucas y Juan.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/3-2.htm"
+  },
+  "qayafa": {
+    "category": "person",
+    "defaultForm": "Qayafa",
+    "traditional": "Caifás",
+    "bridgeGloss": "Caifás",
+    "originalScript": {
+      "greek": "Καϊάφας"
+    },
+    "transliteration": "Qayafa",
+    "meaning": "Sumo sacerdote mencionado en los evangelios.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/3-2.htm"
+  },
+  "epistates": {
+    "category": "term",
+    "defaultForm": "Epistátes",
+    "traditional": "Maestro",
+    "bridgeGloss": "Maestro",
+    "originalScript": {
+      "greek": "ἐπιστάτης"
+    },
+    "transliteration": "Epistátes",
+    "meaning": "Título de autoridad o trato dirigido a Jesús.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/greek/1988.htm"
+  },
+  "naim": {
+    "category": "place",
+    "defaultForm": "Nain",
+    "traditional": "Naín",
+    "bridgeGloss": "Naín",
+    "originalScript": {
+      "greek": "Ναΐν"
+    },
+    "transliteration": "Nain",
+    "meaning": "Localidad mencionada en Lucas 7.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/7-11.htm"
+  },
+  "yojana": {
+    "category": "person",
+    "defaultForm": "Yojana",
+    "traditional": "Juana",
+    "bridgeGloss": "Juana",
+    "originalScript": {
+      "greek": "Ἰωάννα"
+    },
+    "transliteration": "Yojana",
+    "meaning": "Discípula mencionada en Lucas.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/8-3.htm"
+  },
+  "shoshanna": {
+    "category": "person",
+    "defaultForm": "Shoshanna",
+    "traditional": "Susana",
+    "bridgeGloss": "Susana",
+    "originalScript": {
+      "greek": "Σουσάννα",
+      "hebrew": "שושנה"
+    },
+    "transliteration": "Shoshanna",
+    "meaning": "Mujer que acompaña al grupo de Jesús.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/8-3.htm"
+  },
+  "marta": {
+    "category": "person",
+    "defaultForm": "Marta",
+    "traditional": "Marta",
+    "bridgeGloss": "Marta",
+    "originalScript": {
+      "greek": "Μάρθα"
+    },
+    "transliteration": "Marta",
+    "meaning": "Mujer mencionada en Lucas 10 y Juan 11–12.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/10-38.htm"
+  },
+  "siloam": {
+    "category": "place",
+    "defaultForm": "Shiloaj",
+    "traditional": "Siloé",
+    "bridgeGloss": "Siloé",
+    "originalScript": {
+      "greek": "Σιλωάμ",
+      "hebrew": "שלח"
+    },
+    "transliteration": "Shiloaj",
+    "meaning": "Lugar mencionado en Lucas 13 y estanque en Juan 9.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/13-4.htm"
+  },
+  "lazan": {
+    "category": "person",
+    "defaultForm": "Elazar",
+    "traditional": "Lázaro",
+    "bridgeGloss": "Lázaro",
+    "originalScript": {
+      "greek": "Λάζαρος",
+      "hebrew": "אלעזר"
+    },
+    "transliteration": "Elazar",
+    "meaning": "Personaje de la parábola del rico y Lázaro.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/16-20.htm"
+  },
+  "shomron_region": {
+    "category": "place",
+    "defaultForm": "Shomron",
+    "traditional": "Samaria",
+    "bridgeGloss": "Samaria",
+    "originalScript": {
+      "greek": "Σαμάρεια",
+      "hebrew": "שמרון"
+    },
+    "transliteration": "Shomron",
+    "meaning": "Región de Samaria.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/greek/4540.htm"
+  },
+  "zakkai": {
+    "category": "person",
+    "defaultForm": "Zakkai",
+    "traditional": "Zaqueo",
+    "bridgeGloss": "Zaqueo",
+    "originalScript": {
+      "greek": "Ζακχαῖος",
+      "hebrew": "זכי"
+    },
+    "transliteration": "Zakkai",
+    "meaning": "Jefe de recaudadores en Jericó.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/19-2.htm"
+  },
+  "paradeisos": {
+    "category": "term",
+    "defaultForm": "Parádeisos",
+    "traditional": "paraíso",
+    "bridgeGloss": "paraíso",
+    "originalScript": {
+      "greek": "παράδεισος"
+    },
+    "transliteration": "Parádeisos",
+    "meaning": "Paraíso; término griego de origen iranio transmitido por otras lenguas.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/23-43.htm",
+    "studyNote": "Se conserva la puntuación de la edición base."
+  },
+  "emmaus": {
+    "category": "place",
+    "defaultForm": "Emmaous",
+    "traditional": "Emaús",
+    "bridgeGloss": "Emaús",
+    "originalScript": {
+      "greek": "Ἐμμαούς"
+    },
+    "transliteration": "Emmaous",
+    "meaning": "Localidad del relato de Lucas 24.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/24-13.htm"
+  },
+  "kleopas": {
+    "category": "person",
+    "defaultForm": "Kleopas",
+    "traditional": "Cleofás",
+    "bridgeGloss": "Cleofás",
+    "originalScript": {
+      "greek": "Κλεοπᾶς"
+    },
+    "transliteration": "Kleopas",
+    "meaning": "Discípulo del relato del camino a Emaús; no se identifica automáticamente con Clopás de Juan.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/luke/24-18.htm"
+  }
+}

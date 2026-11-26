@@ -1,0 +1,204 @@
+{
+  "book_yojanan": {
+    "category": "book",
+    "defaultForm": "Yojanan",
+    "traditional": "Juan",
+    "bridgeGloss": "Juan",
+    "originalScript": {
+      "greek": "Ἰωάννης",
+      "hebrew": "יוחנן",
+      "latin": "Ioannes"
+    },
+    "transliteration": "Yojanan",
+    "meaning": "Evangelio según Juan, cuarto en el orden habitual del Nuevo Testamento.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/greek/2491.htm",
+    "studyNote": "La atribución al apóstol Juan es tradicional; el texto no identifica explícitamente por nombre al discípulo amado.",
+    "banner": "img/sanjuan.png"
+  },
+  "logos": {
+    "category": "term",
+    "defaultForm": "Logos",
+    "traditional": "Verbo",
+    "bridgeGloss": "Verbo",
+    "originalScript": {
+      "greek": "λόγος"
+    },
+    "transliteration": "Logos",
+    "meaning": "Palabra, discurso o razón según contexto; en el prólogo designa al Logos.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/john/1.htm",
+    "studyNote": "Se limita al prólogo; no toda aparición de logos tiene el mismo sentido."
+  },
+  "monogenes": {
+    "category": "term",
+    "defaultForm": "Monogenés",
+    "traditional": "unigénito",
+    "bridgeGloss": "unigénito",
+    "originalScript": {
+      "greek": "μονογενής"
+    },
+    "transliteration": "Monogenés",
+    "meaning": "Único de su clase; tradicionalmente traducido como unigénito.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/greek/3439.htm"
+  },
+  "natanael": {
+    "category": "person",
+    "defaultForm": "Netanel",
+    "traditional": "Natanael",
+    "bridgeGloss": "Natanael",
+    "originalScript": {
+      "greek": "Ναθαναήλ",
+      "hebrew": "נתנאל"
+    },
+    "transliteration": "Netanel",
+    "meaning": "Discípulo mencionado en Juan 1 y 21.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/john/1-45.htm"
+  },
+  "qana": {
+    "category": "place",
+    "defaultForm": "Qana",
+    "traditional": "Caná",
+    "bridgeGloss": "Caná",
+    "originalScript": {
+      "greek": "Κανά"
+    },
+    "transliteration": "Qana",
+    "meaning": "Localidad de Galilea mencionada en Juan.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/john/2-1.htm"
+  },
+  "nikodemos": {
+    "category": "person",
+    "defaultForm": "Nikodemos",
+    "traditional": "Nicodemo",
+    "bridgeGloss": "Nicodemo",
+    "originalScript": {
+      "greek": "Νικόδημος"
+    },
+    "transliteration": "Nikodemos",
+    "meaning": "Fariseo mencionado en Juan 3, 7 y 19.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/john/3-1.htm"
+  },
+  "anothen": {
+    "category": "term",
+    "defaultForm": "de nuevo",
+    "traditional": "de nuevo",
+    "bridgeGloss": "de nuevo",
+    "originalScript": {
+      "greek": "ἄνωθεν"
+    },
+    "transliteration": "de nuevo",
+    "meaning": "Adverbio que puede significar de arriba o de nuevo según contexto.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/john/3-3.htm",
+    "studyNote": "Se conserva el español del versículo; el lema griego explica la ambigüedad."
+  },
+  "betesda": {
+    "category": "place",
+    "defaultForm": "Betesda",
+    "traditional": "Bethesda",
+    "bridgeGloss": "Bethesda",
+    "originalScript": {
+      "greek": "Βηθεσδά"
+    },
+    "transliteration": "Betesda",
+    "meaning": "Estanque de Jerusalén; su nombre presenta variantes manuscritas.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/john/5-2.htm"
+  },
+  "ego_eimi": {
+    "category": "term",
+    "defaultForm": "Egō eimi",
+    "traditional": "Yo soy",
+    "bridgeGloss": "Yo soy",
+    "originalScript": {
+      "greek": "ἐγώ εἰμι"
+    },
+    "transliteration": "Egō eimi",
+    "meaning": "Expresión griega que significa yo soy; su interpretación depende del contexto.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/john/8-58.htm",
+    "studyNote": "No equivale automáticamente al tetragrámaton hebreo."
+  },
+  "elazar_betania": {
+    "category": "person",
+    "defaultForm": "Elazar",
+    "traditional": "Lázaro",
+    "bridgeGloss": "Lázaro",
+    "originalScript": {
+      "greek": "Λάζαρος",
+      "hebrew": "אלעזר"
+    },
+    "transliteration": "Elazar",
+    "meaning": "Hermano de Marta y María de Betania.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/john/11-1.htm"
+  },
+  "didymos": {
+    "category": "term",
+    "defaultForm": "Didymos",
+    "traditional": "Dídimo",
+    "bridgeGloss": "Dídimo",
+    "originalScript": {
+      "greek": "Δίδυμος"
+    },
+    "transliteration": "Didymos",
+    "meaning": "Gemelo; equivalente griego del nombre semítico Tomás.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/john/11-16.htm"
+  },
+  "parakletos": {
+    "category": "term",
+    "defaultForm": "Parákletos",
+    "traditional": "Consolador",
+    "bridgeGloss": "Consolador",
+    "originalScript": {
+      "greek": "παράκλητος"
+    },
+    "transliteration": "Parákletos",
+    "meaning": "Ayudante, defensor o intercesor, según contexto.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/greek/3875.htm"
+  },
+  "maljos": {
+    "category": "person",
+    "defaultForm": "Maljos",
+    "traditional": "Malco",
+    "bridgeGloss": "Malco",
+    "originalScript": {
+      "greek": "Μάλχος"
+    },
+    "transliteration": "Maljos",
+    "meaning": "Siervo del sumo sacerdote identificado por nombre en Juan.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/john/18-10.htm"
+  },
+  "gabbatha": {
+    "category": "place",
+    "defaultForm": "Gabbatha",
+    "traditional": "Gabbatha",
+    "bridgeGloss": "Gabbatha",
+    "originalScript": {
+      "greek": "Γαββαθά"
+    },
+    "transliteration": "Gabbatha",
+    "meaning": "Nombre semítico transmitido por el griego, asociado al lugar del tribunal.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/john/19-13.htm"
+  },
+  "klopas": {
+    "category": "person",
+    "defaultForm": "Klopas",
+    "traditional": "Cleofás",
+    "bridgeGloss": "Cleofás",
+    "originalScript": {
+      "greek": "Κλωπᾶς"
+    },
+    "transliteration": "Klopas",
+    "meaning": "Persona mencionada en Juan 19:25; no se identifica sin reservas con Cleopas de Lucas.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/john/19-25.htm"
+  },
+  "rabbouni": {
+    "category": "term",
+    "defaultForm": "Rabbuní",
+    "traditional": "Rabboni",
+    "bridgeGloss": "Rabboni",
+    "originalScript": {
+      "greek": "ῥαββουνί",
+      "aramaic": "רבוני"
+    },
+    "transliteration": "Rabbuní",
+    "meaning": "Tratamiento respetuoso; Juan 20:16 explica su sentido como maestro.",
+    "sourceNote": "Lema o grafía griega; las formas semíticas, cuando aparecen, son equivalencias lingüísticas, no una reconstrucción de un original arameo. https://biblehub.com/interlinear/john/20-16.htm"
+  }
+}

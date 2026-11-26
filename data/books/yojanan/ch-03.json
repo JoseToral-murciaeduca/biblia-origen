@@ -1,0 +1,344 @@
+{
+  "bookId": "yojanan",
+  "titleEntryId": "book_yojanan",
+  "bookTitle": "Yojanan",
+  "chapter": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "Y HABÍA un hombre de los ",
+        {
+          "entryId": "perushim",
+          "form": "Perushim"
+        },
+        " que se llamaba ",
+        {
+          "entryId": "nikodemos",
+          "form": "Nikodemos"
+        },
+        ", príncipe de los Judíos."
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Este vino a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " de noche, y díjole: ",
+        {
+          "entryId": "rabbi",
+          "form": "Rabbí"
+        },
+        ", sabemos que has venido de Dios por maestro; porque nadie puede hacer estas señales que tú haces, si no fuere Dios con él."
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Respondió ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", y díjole: De cierto, de cierto te digo, que el que no naciere ",
+        {
+          "entryId": "anothen",
+          "form": "otra vez"
+        },
+        ", no puede ver el reino de Dios."
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Dícele ",
+        {
+          "entryId": "nikodemos",
+          "form": "Nikodemos"
+        },
+        ": ¿Cómo puede el hombre nacer siendo viejo? ¿puede entrar otra vez en el vientre de su madre, y nacer?"
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Respondió ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": De cierto, de cierto te digo, que el que no naciere de agua y del Espíritu, no puede entrar en el reino de Dios."
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Lo que es nacido de la carne, carne es; y lo que es nacido del Espíritu, espíritu es."
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "No te maravilles de que te dije: Os es necesario nacer ",
+        {
+          "entryId": "anothen",
+          "form": "otra vez"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "El viento de donde quiere sopla, y oyes su sonido; mas ni sabes de dónde viene, ni a dónde vaya: así es todo aquel que es nacido del Espíritu."
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Respondió ",
+        {
+          "entryId": "nikodemos",
+          "form": "Nikodemos"
+        },
+        ", y díjole: ¿Cómo puede esto hacerse?"
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Respondió ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", y díjole: ¿Tú eres el maestro de Israel, y no sabes esto?"
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "De cierto, de cierto te digo, que lo que sabemos hablamos, y lo que hemos visto, testificamos; y no recibís nuestro testimonio."
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Si os he dicho cosas terrenas, y no creéis, ¿cómo creeréis si os dijere las celestiales?"
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Y nadie subió al cielo, sino el que descendió del cielo, el Hijo del hombre, que está en el cielo."
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Y como ",
+        {
+          "entryId": "moshe",
+          "form": "Moshe"
+        },
+        " levantó la serpiente en el desierto, así es necesario que el Hijo del hombre sea levantado;"
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Para que todo aquel que en él creyere, no se pierda, sino que tenga vida eterna."
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "Porque de tal manera amó Dios al mundo, que ha dado a su Hijo ",
+        {
+          "entryId": "monogenes",
+          "form": "Monogenés"
+        },
+        ", para que todo aquel que en él cree, no se pierda, mas tenga vida eterna."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Porque no envió Dios a su Hijo al mundo para que condene al mundo, mas para que el mundo sea salvo por él."
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "El que en él cree, no es condenado; mas el que no cree, ya es condenado, porque no creyó en el nombre del ",
+        {
+          "entryId": "monogenes",
+          "form": "Monogenés"
+        },
+        " Hijo de Dios."
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Y esta es la condenación: porque la luz vino al mundo, y los hombres amaron más las tinieblas que la luz; porque sus obras eran malas."
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Porque todo aquel que hace lo malo, aborrece la luz y no viene a la luz, porque sus obras no sean redargüidas."
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "Mas el que obra verdad, viene a la luz, para que sus obras sean manifestadas que son hechas en Dios."
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "Pasado esto, vino ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " con sus discípulos a la tierra de ",
+        {
+          "entryId": "yehuda_region",
+          "form": "Yehudá"
+        },
+        "; y estaba allí con ellos, y bautizaba."
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "Y bautizaba también ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        " en Enón junto a Salim, porque había allí muchas aguas; y venían, y eran bautizados."
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "Porque ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        " no había sido aún puesto en la carcel."
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "Y hubo cuestión entre los discípulos de ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        " y los Judíos acerca de la purificación."
+      ]
+    },
+    {
+      "verse": 26,
+      "segments": [
+        "Y vinieron a ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        ", y dijéronle: ",
+        {
+          "entryId": "rabbi",
+          "form": "Rabbí"
+        },
+        ", el que estaba contigo de la otra parte del ",
+        {
+          "entryId": "yarden",
+          "form": "Yarden"
+        },
+        ", del cual tú diste testimonio, he aquí bautiza, y todos vienen a él."
+      ]
+    },
+    {
+      "verse": 27,
+      "segments": [
+        "Respondió ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        ", y dijo: No puede el hombre recibir algo, si no le fuere dado del cielo."
+      ]
+    },
+    {
+      "verse": 28,
+      "segments": [
+        "Vosotros mismos me sois testigos que dije: Yo no soy el ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        ", sino que soy enviado delante de él."
+      ]
+    },
+    {
+      "verse": 29,
+      "segments": [
+        "El que tiene la esposa, es el esposo; mas el amigo del esposo, que está en pie y le oye, se goza grandemente de la voz del esposo; así pues, este mi gozo es cumplido."
+      ]
+    },
+    {
+      "verse": 30,
+      "segments": [
+        "A él conviene crecer, mas a mí menguar."
+      ]
+    },
+    {
+      "verse": 31,
+      "segments": [
+        "El que de arriba viene, sobre todos es: el que es de la tierra, terreno es, y cosas terrenas habla: el que viene del cielo, sobre todos es."
+      ]
+    },
+    {
+      "verse": 32,
+      "segments": [
+        "Y lo que vio y oyó, esto testifica: y nadie recibe su testimonio."
+      ]
+    },
+    {
+      "verse": 33,
+      "segments": [
+        "El que recibe su testimonio, éste signó que Dios es verdadero."
+      ]
+    },
+    {
+      "verse": 34,
+      "segments": [
+        "Porque el que Dios envió, las palabras de Dios habla: porque no da Dios el Espíritu por medida."
+      ]
+    },
+    {
+      "verse": 35,
+      "segments": [
+        "El Padre ama al Hijo, y todas las cosas dio en su mano."
+      ]
+    },
+    {
+      "verse": 36,
+      "segments": [
+        "El que cree en el Hijo, tiene vida eterna; mas el que es incrédulo al Hijo, no verá la vida, sino que la ira de Dios está sobre él."
+      ]
+    }
+  ]
+}

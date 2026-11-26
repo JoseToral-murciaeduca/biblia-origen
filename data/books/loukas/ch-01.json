@@ -1,0 +1,738 @@
+{
+  "bookId": "loukas",
+  "titleEntryId": "book_loukas",
+  "bookTitle": "Loukas",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "HABIENDO muchos tentado a poner en orden la historia de las cosas que entre nosotros han sido ciertísimas,"
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Como nos lo enseñaron los que desde el principio lo vieron por sus ojos, y fueron ministros de la palabra;"
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Me ha parecido también a mí, después de haber entendido todas las cosas desde el principio con diligencia, escribírtelas por orden, oh muy buen ",
+        {
+          "entryId": "teofilos",
+          "form": "Theophilos"
+        },
+        ","
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Para que conozcas la verdad de las cosas en las cuales has sido enseñado."
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "HUBO en los días de ",
+        {
+          "entryId": "herodes",
+          "form": "Herodes"
+        },
+        ", rey de ",
+        {
+          "entryId": "yehuda_region",
+          "form": "Yehudá"
+        },
+        ", un sacerdote llamado ",
+        {
+          "entryId": "zejaryah_padre",
+          "form": "Zejaryah"
+        },
+        ", de la suerte de Abías; y su mujer, de las hijas de Aarón, llamada ",
+        {
+          "entryId": "elisheva",
+          "form": "Elisheva"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Y eran ambos justos delante de Dios, andando sin reprensión en todos los mandamientos y estatutos del Señor."
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "Y no tenían hijo, porque ",
+        {
+          "entryId": "elisheva",
+          "form": "Elisheva"
+        },
+        " era estéril, y ambos eran avanzados en días."
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Y aconteció que ejerciendo ",
+        {
+          "entryId": "zejaryah_padre",
+          "form": "Zejaryah"
+        },
+        " el sacerdocio delante de Dios por el orden de su vez,"
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Conforme a la costumbre del sacerdocio, salió en suerte a poner el incienso, entrando en el templo del Señor."
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Y toda la multitud del pueblo estaba fuera orando a la hora del incienso."
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "Y se le apareció el ángel del Señor puesto en pie a la derecha del altar del incienso."
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Y se turbó ",
+        {
+          "entryId": "zejaryah_padre",
+          "form": "Zejaryah"
+        },
+        " viéndole, y cayó temor sobre él."
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Mas el ángel le dijo: ",
+        {
+          "entryId": "zejaryah_padre",
+          "form": "Zejaryah"
+        },
+        ", no temas; porque tu oración ha sido oída, y tu mujer ",
+        {
+          "entryId": "elisheva",
+          "form": "Elisheva"
+        },
+        " te parirá un hijo, y llamarás su nombre ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Y tendrás gozo y alegría, y muchos se gozarán de su nacimiento."
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Porque será grande delante de Dios, y no beberá vino ni sidra; y será lleno del ",
+        {
+          "entryId": "ruaj_haqodesh",
+          "form": "Ruaj HaQodesh"
+        },
+        ", aun desde el seno de su madre."
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "Y a muchos de los hijos de Israel convertirá al Señor Dios de ellos."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Porque él irá delante de él con el espíritu y virtud de ",
+        {
+          "entryId": "eliyahu",
+          "form": "Eliyahu"
+        },
+        ", para convertir los corazones de los padres a los hijos, y los rebeldes a la prudencia de los justos, para aparejar al Señor un pueblo apercibido."
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Y dijo ",
+        {
+          "entryId": "zejaryah_padre",
+          "form": "Zejaryah"
+        },
+        " al ángel: ¿En qué conoceré esto? porque yo soy viejo, y mi mujer avanzada en días."
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Y respondiendo el ángel le dijo: Yo soy ",
+        {
+          "entryId": "gavriel",
+          "form": "Gavriel"
+        },
+        ", que estoy delante de Dios; y soy enviado a hablarte, y a darte estas buenas nuevas."
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Y he aquí estarás mudo y no podrás hablar, hasta el día que esto sea hecho, por cuanto no creíste a mis palabras, las cuales se cumplirán a su tiempo."
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "Y el pueblo estaba esperando a ",
+        {
+          "entryId": "zejaryah_padre",
+          "form": "Zejaryah"
+        },
+        ", y se maravillaban de que él se detuviese en el templo."
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "Y saliendo, no les podía hablar: y entendieron que había visto visión en el templo: y él les hablaba por señas, y quedó mudo."
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "Y fue, que cumplidos los días de su oficio, se vino a su casa."
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "Y después de aquellos días concibió su mujer ",
+        {
+          "entryId": "elisheva",
+          "form": "Elisheva"
+        },
+        ", y se encubrió por cinco meses, diciendo:"
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "Porque el Señor me ha hecho así en los días en que miró para quitar mi afrenta entre los hombres."
+      ]
+    },
+    {
+      "verse": 26,
+      "segments": [
+        "Y al sexto mes, el ángel ",
+        {
+          "entryId": "gavriel",
+          "form": "Gavriel"
+        },
+        " fue enviado de Dios a una ciudad de ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        ", llamada ",
+        {
+          "entryId": "natzeret",
+          "form": "Natzeret"
+        },
+        ","
+      ]
+    },
+    {
+      "verse": 27,
+      "segments": [
+        "A una virgen desposada con un varón que se llamaba ",
+        {
+          "entryId": "yosef",
+          "form": "Yosef"
+        },
+        ", de la casa de ",
+        {
+          "entryId": "david",
+          "form": "David"
+        },
+        ": y el nombre de la virgen era ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 28,
+      "segments": [
+        "Y entrando el ángel a donde estaba, dijo, ¡Salve, muy favorecida! el Señor es contigo: bendita tú entre las mujeres."
+      ]
+    },
+    {
+      "verse": 29,
+      "segments": [
+        "Mas ella, cuando le vio, se turbó de sus palabras, y pensaba qué salutación fuese ésta."
+      ]
+    },
+    {
+      "verse": 30,
+      "segments": [
+        "Entonces el ángel le dijo: ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        ", no temas, porque has hallado gracia cerca de Dios."
+      ]
+    },
+    {
+      "verse": 31,
+      "segments": [
+        "Y he aquí, concebirás en tu seno, y parirás un hijo, y llamarás su nombre ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 32,
+      "segments": [
+        "Este será grande, y será llamado Hijo del Altísimo: y le dará el Señor Dios el trono de ",
+        {
+          "entryId": "david",
+          "form": "David"
+        },
+        " su padre:"
+      ]
+    },
+    {
+      "verse": 33,
+      "segments": [
+        "Y reinará en la casa de ",
+        {
+          "entryId": "yaaqov_patriarca",
+          "form": "Yaaqov"
+        },
+        " por siempre; y de su reino no habrá fin."
+      ]
+    },
+    {
+      "verse": 34,
+      "segments": [
+        "Entonces ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        " dijo al ángel: ¿Cómo será esto? porque no conozco varón."
+      ]
+    },
+    {
+      "verse": 35,
+      "segments": [
+        "Y respondiendo el ángel le dijo: El ",
+        {
+          "entryId": "ruaj_haqodesh",
+          "form": "Ruaj HaQodesh"
+        },
+        " vendrá sobre ti, y la virtud del Altísimo te hará sombra; por lo cual también lo Santo que nacerá, será llamado Hijo de Dios."
+      ]
+    },
+    {
+      "verse": 36,
+      "segments": [
+        "Y he aquí, ",
+        {
+          "entryId": "elisheva",
+          "form": "Elisheva"
+        },
+        " tu parienta, también ella ha concebido hijo en su vejez; y este es el sexto mes a ella que es llamada la estéril:"
+      ]
+    },
+    {
+      "verse": 37,
+      "segments": [
+        "Porque ninguna cosa es imposible para Dios."
+      ]
+    },
+    {
+      "verse": 38,
+      "segments": [
+        "Entonces ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        " dijo: He aquí la sierva del Señor; hágase a mí conforme a tu palabra. Y el ángel partió de ella."
+      ]
+    },
+    {
+      "verse": 39,
+      "segments": [
+        "En aquellos días levantándose ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        ", fue a la montaña con priesa, a una ciudad de Judá;"
+      ]
+    },
+    {
+      "verse": 40,
+      "segments": [
+        "Y entró en casa de ",
+        {
+          "entryId": "zejaryah_padre",
+          "form": "Zejaryah"
+        },
+        ", y saludó a ",
+        {
+          "entryId": "elisheva",
+          "form": "Elisheva"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 41,
+      "segments": [
+        "Y aconteció, que como oyó ",
+        {
+          "entryId": "elisheva",
+          "form": "Elisheva"
+        },
+        " la salutación de ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        ", la criatura saltó en su vientre; y ",
+        {
+          "entryId": "elisheva",
+          "form": "Elisheva"
+        },
+        " fue llena del ",
+        {
+          "entryId": "ruaj_haqodesh",
+          "form": "Ruaj HaQodesh"
+        },
+        ","
+      ]
+    },
+    {
+      "verse": 42,
+      "segments": [
+        "Y exclamó a gran voz, y dijo: Bendita tú entre las mujeres, y bendito el fruto de tu vientre."
+      ]
+    },
+    {
+      "verse": 43,
+      "segments": [
+        "¿Y de dónde esto a mí, que la madre de mi Señor venga a mí?"
+      ]
+    },
+    {
+      "verse": 44,
+      "segments": [
+        "Porque he aquí, como llegó la voz de tu salutación a mis oídos, la criatura saltó de alegría en mi vientre."
+      ]
+    },
+    {
+      "verse": 45,
+      "segments": [
+        "Y bienaventurada la que creyó, porque se cumplirán las cosas que le fueron dichas de parte del Señor."
+      ]
+    },
+    {
+      "verse": 46,
+      "segments": [
+        "Entonces ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        " dijo: engrandece mi alma al Señor;"
+      ]
+    },
+    {
+      "verse": 47,
+      "segments": [
+        "Y mi espíritu se alegró en Dios mi Salvador."
+      ]
+    },
+    {
+      "verse": 48,
+      "segments": [
+        "Porque ha mirado a la bajeza de su criada; porque he aquí, desde ahora me dirán bienaventurada todas las generaciones."
+      ]
+    },
+    {
+      "verse": 49,
+      "segments": [
+        "Porque me ha hecho grandes cosas el Poderoso; y santo es su nombre."
+      ]
+    },
+    {
+      "verse": 50,
+      "segments": [
+        "Y su misericordia de generación a generación a los que le temen."
+      ]
+    },
+    {
+      "verse": 51,
+      "segments": [
+        "Hizo valentía con su brazo: esparció los soberbios del pensamiento de su corazón."
+      ]
+    },
+    {
+      "verse": 52,
+      "segments": [
+        "Quitó los poderosos de los tronos, y levantó a los humildes."
+      ]
+    },
+    {
+      "verse": 53,
+      "segments": [
+        "A los hambrientos hinchió de bienes; y a los ricos envió vacíos."
+      ]
+    },
+    {
+      "verse": 54,
+      "segments": [
+        "Recibió a Israel su siervo, acordándose de la misericordia,"
+      ]
+    },
+    {
+      "verse": 55,
+      "segments": [
+        "Como habló a nuestros padres a ",
+        {
+          "entryId": "avraham",
+          "form": "Avraham"
+        },
+        " y a su simiente para siempre."
+      ]
+    },
+    {
+      "verse": 56,
+      "segments": [
+        "Y se quedó ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        " con ella como tres meses: después se volvió a su casa."
+      ]
+    },
+    {
+      "verse": 57,
+      "segments": [
+        "Y a ",
+        {
+          "entryId": "elisheva",
+          "form": "Elisheva"
+        },
+        " se le cumplió el tiempo de parir, y parió un hijo."
+      ]
+    },
+    {
+      "verse": 58,
+      "segments": [
+        "Y oyeron los vecinos y los parientes que Dios había hecho con ella grande misericordia, y se alegraron con ella."
+      ]
+    },
+    {
+      "verse": 59,
+      "segments": [
+        "Y aconteció, que al octavo día vinieron para circuncidar al niño; y le llamaban del nombre de su padre, ",
+        {
+          "entryId": "zejaryah_padre",
+          "form": "Zejaryah"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 60,
+      "segments": [
+        "Y respondiendo su madre, dijo: No; sino ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        " será llamado."
+      ]
+    },
+    {
+      "verse": 61,
+      "segments": [
+        "Y le dijeron: ¿Por qué? nadie hay en tu parentela que se llame de este nombre."
+      ]
+    },
+    {
+      "verse": 62,
+      "segments": [
+        "Y hablaron por señas a su padre, cómo le quería llamar."
+      ]
+    },
+    {
+      "verse": 63,
+      "segments": [
+        "Y demandando la tablilla, escribió, diciendo: ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        " es su nombre. Y todos se maravillaron."
+      ]
+    },
+    {
+      "verse": 64,
+      "segments": [
+        "Y luego fue abierta su boca y su lengua, y habló bendiciendo a Dios."
+      ]
+    },
+    {
+      "verse": 65,
+      "segments": [
+        "Y fue un temor sobre todos los vecinos de ellos; y en todas las montañas de ",
+        {
+          "entryId": "yehuda_region",
+          "form": "Yehudá"
+        },
+        " fueron divulgadas todas estas cosas."
+      ]
+    },
+    {
+      "verse": 66,
+      "segments": [
+        "Y todos los que las oían, las conservaban en su corazón, diciendo: ¿Quién será este niño? Y la mano del Señor estaba con él."
+      ]
+    },
+    {
+      "verse": 67,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "zejaryah_padre",
+          "form": "Zejaryah"
+        },
+        " su padre fue lleno de ",
+        {
+          "entryId": "ruaj_haqodesh",
+          "form": "Ruaj HaQodesh"
+        },
+        ", y profetizó, diciendo:"
+      ]
+    },
+    {
+      "verse": 68,
+      "segments": [
+        "Bendito el Señor Dios de Israel, que ha visitado y hecho redención a su pueblo,"
+      ]
+    },
+    {
+      "verse": 69,
+      "segments": [
+        "Y nos alzó un cuerno de salvación en la casa de ",
+        {
+          "entryId": "david",
+          "form": "David"
+        },
+        " su siervo,"
+      ]
+    },
+    {
+      "verse": 70,
+      "segments": [
+        "Como habló por boca de sus santos profetas que fueron desde el principio:"
+      ]
+    },
+    {
+      "verse": 71,
+      "segments": [
+        "Salvación de nuestros enemigos, y de mano de todos los que nos aborrecieron;"
+      ]
+    },
+    {
+      "verse": 72,
+      "segments": [
+        "Para hacer misericordia con nuestros padres, y acordándose de su santo pacto;"
+      ]
+    },
+    {
+      "verse": 73,
+      "segments": [
+        "Del juramento que juró a ",
+        {
+          "entryId": "avraham",
+          "form": "Avraham"
+        },
+        " nuestro padre, que nos había de dar,"
+      ]
+    },
+    {
+      "verse": 74,
+      "segments": [
+        "Que sin temor librados de nuestros enemigos, le serviríamos"
+      ]
+    },
+    {
+      "verse": 75,
+      "segments": [
+        "En santidad y en justicia delante de él, todos los días nuestros."
+      ]
+    },
+    {
+      "verse": 76,
+      "segments": [
+        "Y tú, niño, profeta del Altísimo serás llamado; porque irás ante la faz del Señor, para aparejar sus caminos;"
+      ]
+    },
+    {
+      "verse": 77,
+      "segments": [
+        "Dando conocimiento de salud a su pueblo, para remisión de sus pecados,"
+      ]
+    },
+    {
+      "verse": 78,
+      "segments": [
+        "Por las entrañas de misericordia de nuestro Dios, con que nos visitó de lo alto el Oriente,"
+      ]
+    },
+    {
+      "verse": 79,
+      "segments": [
+        "Para dar luz a los que habitan en tinieblas y en sombra de muerte; para encaminar nuestros pies por camino de paz."
+      ]
+    },
+    {
+      "verse": 80,
+      "segments": [
+        "Y el niño crecía, y se fortalecía en espíritu: y estuvo en los desiertos hasta el día que se mostró a Israel."
+      ]
+    }
+  ]
+}

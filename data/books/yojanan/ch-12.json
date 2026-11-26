@@ -1,0 +1,503 @@
+{
+  "bookId": "yojanan",
+  "titleEntryId": "book_yojanan",
+  "bookTitle": "Yojanan",
+  "chapter": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", seis días antes de la ",
+        {
+          "entryId": "pesaj",
+          "form": "Pesaj"
+        },
+        ", vino a ",
+        {
+          "entryId": "beit_ania",
+          "form": "Beit Ania"
+        },
+        ", donde estaba ",
+        {
+          "entryId": "elazar_betania",
+          "form": "Elazar"
+        },
+        ", que había sido muerto, al cual había resucitado de los muertos."
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "E hiciéronle allí una cena: y ",
+        {
+          "entryId": "marta",
+          "form": "Marta"
+        },
+        " servía, y ",
+        {
+          "entryId": "elazar_betania",
+          "form": "Elazar"
+        },
+        " era uno de los que estaban sentados a la mesa juntamente con él."
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Entonces ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        " tomó una libra de ungüento de nardo líquido de mucho precio, y ungió los pies de ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", y limpió sus pies con sus cabellos: y la casa se llenó del olor del ungüento."
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Y dijo uno de sus discípulos, ",
+        {
+          "entryId": "yehuda_iscariote",
+          "form": "Yehudá Iscariote"
+        },
+        ", hijo de Simón, el que le había de entregar:"
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "¿Por qué no se ha vendido este ungüento por trescientos dineros, y se dio a los pobres?"
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Mas dijo esto, no por el cuidado que él tenía de los pobres; sino porque era ladrón, y tenía la bolsa, y traía lo que se echaba en ella."
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "Entonces ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " dijo: Déjala: para el día de mi sepultura ha guardado esto;"
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Porque a los pobres siempre los tenéis con vosotros, mas a mí no siempre me tenéis."
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Entonces mucha gente de los Judíos entendió que él estaba allí; y vinieron no solamente por causa de ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", mas también por ver a ",
+        {
+          "entryId": "elazar_betania",
+          "form": "Elazar"
+        },
+        ", al cual había resucitado de los muertos."
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Consultaron asimismo los príncipes de los sacerdotes, de matar también a ",
+        {
+          "entryId": "elazar_betania",
+          "form": "Elazar"
+        },
+        ";"
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "Porque muchos de los Judíos iban y creían en ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " por causa de él."
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "El siguiente día, mucha gente que había venido a la fiesta, como oyeron que ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " venía a ",
+        {
+          "entryId": "yerushalayim",
+          "form": "Yerushalayim"
+        },
+        ","
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Tomaron ramos de palmas, y salieron a recibirle, y clamaban: ¡",
+        {
+          "entryId": "hosanna",
+          "form": "Hoshia na"
+        },
+        ", Bendito el que viene en el nombre del Señor, el Rey de Israel!"
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Y halló ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " un asnillo, y se sentó sobre él, como está escrito:"
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "No temas, hija de Sión: he aquí tu Rey viene, sentado sobre un pollino de asna."
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "Estas cosas no las entendieron sus discípulos de primero: empero cuando ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " fue glorificado, entonces se acordaron de que estas cosas estaban escritas de él, y que le hicieron estas cosas."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Y la gente que estaba con él, daba testimonio de cuando llamó a ",
+        {
+          "entryId": "elazar_betania",
+          "form": "Elazar"
+        },
+        " del sepulcro, y le resucitó de los muertos."
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Por lo cual también había venido la gente a recibirle, porque había oído que él había hecho esta señal;"
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Mas los ",
+        {
+          "entryId": "perushim",
+          "form": "Perushim"
+        },
+        " dijeron entre sí: ¿Veis que nada aprovecháis? he aquí, el mundo se va tras de él."
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Y había ciertos Griegos de los que habían subido a adorar en la fiesta:"
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "Estos pues, se llegaron a ",
+        {
+          "entryId": "philippos",
+          "form": "Philippos"
+        },
+        ", que era de Bethsaida de ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        ", y rogáronle, diciendo: Señor, querríamos ver a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "Vino ",
+        {
+          "entryId": "philippos",
+          "form": "Philippos"
+        },
+        ", y díjolo a ",
+        {
+          "entryId": "andreas",
+          "form": "Andreas"
+        },
+        ": ",
+        {
+          "entryId": "andreas",
+          "form": "Andreas"
+        },
+        " entonces, y ",
+        {
+          "entryId": "philippos",
+          "form": "Philippos"
+        },
+        ", lo dicen a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "Entonces ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " les respondió, diciendo: La hora viene en que el Hijo del hombre ha de ser glorificado."
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "De cierto, de cierto os digo, que si el grano de trigo no cae en la tierra y muere, él solo queda; mas si muriere, mucho fruto lleva."
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "El que ama su vida, la perderá; y el que aborrece su vida en este mundo, para vida eterna la guardará."
+      ]
+    },
+    {
+      "verse": 26,
+      "segments": [
+        "Si alguno me sirve, sígame: y donde yo estuviere, allí también estará mi servidor. Si alguno me sirviere, mi Padre le honrará."
+      ]
+    },
+    {
+      "verse": 27,
+      "segments": [
+        "Ahora está turbada mi alma; ¿y qué diré? Padre, sálvame de esta hora. Mas por esto he venido en esta hora."
+      ]
+    },
+    {
+      "verse": 28,
+      "segments": [
+        "Padre, glorifica tu nombre. Entonces vino una voz del cielo: Y lo he glorificado, y lo glorificaré otra vez."
+      ]
+    },
+    {
+      "verse": 29,
+      "segments": [
+        "Y la gente que estaba presente, y había oído, decía que había sido trueno. Otros decían: Angel le ha hablado."
+      ]
+    },
+    {
+      "verse": 30,
+      "segments": [
+        "Respondió ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", y dijo: No ha venido esta voz por mi causa, mas por causa de vosotros."
+      ]
+    },
+    {
+      "verse": 31,
+      "segments": [
+        "Ahora es el juicio de este mundo: ahora el príncipe de este mundo será echado fuera."
+      ]
+    },
+    {
+      "verse": 32,
+      "segments": [
+        "Y yo, si fuere levantado de la tierra, a todos traeré a mí mismo."
+      ]
+    },
+    {
+      "verse": 33,
+      "segments": [
+        "Y esto decía dando a entender de qué muerte había de morir."
+      ]
+    },
+    {
+      "verse": 34,
+      "segments": [
+        "Respondióle la gente: Nosotros hemos oído de la ley, que el ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        " permanece para siempre: ¿cómo pues dices tú: Conviene que el Hijo del hombre sea levantado? ¿Quién es este Hijo del hombre?"
+      ]
+    },
+    {
+      "verse": 35,
+      "segments": [
+        "Entonces ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " les dice: Aun por un poco estará la luz entre vosotros: andad entre tanto que tenéis luz, porque no os sorprendan las tinieblas; porque el que anda en tinieblas, no sabe dónde va."
+      ]
+    },
+    {
+      "verse": 36,
+      "segments": [
+        "Entre tanto que tenéis la luz, creed en la luz, para que seáis hijos de luz. Estas cosas habló ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", y fuése, y escondióse de ellos."
+      ]
+    },
+    {
+      "verse": 37,
+      "segments": [
+        "Empero habiendo hecho delante de ellos tantas señales, no creían en él."
+      ]
+    },
+    {
+      "verse": 38,
+      "segments": [
+        "Para que se cumpliese el dicho que dijo el profeta ",
+        {
+          "entryId": "yeshayahu",
+          "form": "Yeshayahu"
+        },
+        ": ¿Señor, quién ha creído a nuestro dicho? ¿y el brazo del Señor, a quién es revelado?"
+      ]
+    },
+    {
+      "verse": 39,
+      "segments": [
+        "Por esto no podían creer, porque otra vez dijo ",
+        {
+          "entryId": "yeshayahu",
+          "form": "Yeshayahu"
+        },
+        ":"
+      ]
+    },
+    {
+      "verse": 40,
+      "segments": [
+        "Cegó los ojos de ellos, y endureció su corazón; porque no vean con los ojos, y entiendan de corazón, y se conviertan, y yo los sane."
+      ]
+    },
+    {
+      "verse": 41,
+      "segments": [
+        "Estas cosas dijo ",
+        {
+          "entryId": "yeshayahu",
+          "form": "Yeshayahu"
+        },
+        " cuando vio su gloria, y habló de él."
+      ]
+    },
+    {
+      "verse": 42,
+      "segments": [
+        "Con todo eso, aun de los príncipes, muchos creyeron en él; mas por causa de los ",
+        {
+          "entryId": "perushim",
+          "form": "Perushim"
+        },
+        " no lo confesaban, por no ser echados de la sinagoga."
+      ]
+    },
+    {
+      "verse": 43,
+      "segments": [
+        "Porque amaban más la gloria de los hombres que la gloria de Dios."
+      ]
+    },
+    {
+      "verse": 44,
+      "segments": [
+        "Mas ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " clamó y dijo: El que cree en mí, no cree en mí, sino en el que me envió;"
+      ]
+    },
+    {
+      "verse": 45,
+      "segments": [
+        "Y el que me ve, ve al que me envió."
+      ]
+    },
+    {
+      "verse": 46,
+      "segments": [
+        "Yo la luz he venido al mundo, para que todo aquel que cree en mí no permanezca en tinieblas."
+      ]
+    },
+    {
+      "verse": 47,
+      "segments": [
+        "Y el que oyere mis palabras, y no las creyere, yo no le juzgo; porque no he venido a juzgar al mundo, sino a salvar al mundo."
+      ]
+    },
+    {
+      "verse": 48,
+      "segments": [
+        "El que me desecha, y no recibe mis palabras, tiene quien le juzgue: la palabra que he hablado, ella le juzgará en el día postrero."
+      ]
+    },
+    {
+      "verse": 49,
+      "segments": [
+        "Porque yo no he hablado de mí mismo: mas el Padre que me envió, él me dio mandamiento de lo que he de decir, y de lo que he de hablar."
+      ]
+    },
+    {
+      "verse": 50,
+      "segments": [
+        "Y sé que su mandamiento es vida eterna: así que, lo que yo hablo, como el Padre me lo ha dicho, así hablo."
+      ]
+    }
+  ]
+}

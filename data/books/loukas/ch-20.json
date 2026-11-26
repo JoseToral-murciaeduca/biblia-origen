@@ -1,0 +1,370 @@
+{
+  "bookId": "loukas",
+  "titleEntryId": "book_loukas",
+  "bookTitle": "Loukas",
+  "chapter": 20,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "Y ACONTECIÓ un día, que enseñando él al pueblo en el templo, y anunciando el ",
+        {
+          "entryId": "euangelion",
+          "form": "evangelio"
+        },
+        ", llegáronse los príncipes de los sacerdotes y los escribas, con los ancianos;"
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Y le hablaron, diciendo: Dinos: ¿con qué potestad haces estas cosas? ¿o quién es el que te ha dado esta potestad?"
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Respondiendo entonces ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", les dijo: Os preguntaré yo también una palabra; respondedme:"
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "El bautismo de ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        ", ¿era del cielo, o de los hombres?"
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Mas ellos pensaban dentro de sí, diciendo: Si dijéremos, del cielo, dirá: ¿Por qué, pues, no le creísteis?"
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Y si dijéremos, de los hombres, todo el pueblo nos apedreará: porque están ciertos que ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        " era profeta."
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "Y respondieron que no sabían de dónde."
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Entonces ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " les dijo: Ni yo os digo con qué potestad hago estas cosas."
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Y comenzó a decir al pueblo esta parábola: Un hombre plantó una viña, y arrendóla a labradores, y se ausentó por mucho tiempo."
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Y al tiempo, envió un siervo a los labradores, para que le diesen del fruto de la viña; mas los labradores le hirieron, y enviaron vacío."
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "Y volvió a enviar otro siervo; mas ellos a éste también, herido y afrentado, le enviaron vacío."
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Y volvió a enviar al tercer siervo; mas ellos también a éste echaron herido."
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Entonces el señor de la viña dijo: ¿Qué haré? Enviaré mi hijo amado: quizás cuando a éste vieren, tendrán respeto."
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Mas los labradores, viéndole, pensaron entre sí, diciendo: Este es el heredero; venid, matémosle para que la heredad sea nuestra."
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Y echáronle fuera de la viña, y le mataron. ¿Qué pues, les hará el señor de la viña?"
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "Vendrá, y destruirá a estos labradores, y dará su viña a otros. Y como ellos lo oyeron, dijeron: ¡Dios nos libre!"
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Mas él mirándolos, dice: ¿Qué pues es lo que está escrito: La piedra que condenaron los edificadores, ésta fue por cabeza de esquina?"
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Cualquiera que cayere sobre aquella piedra, será quebrantado; mas sobre el que la piedra cayere, le desmenuzará."
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Y procuraban los príncipes de los sacerdotes y los escribas echarle mano en aquella hora, porque entendieron que contra ellos había dicho esta parábola: mas temieron al pueblo."
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Y acechándole enviaron espías que se simulasen justos, para sorprenderle en palabras, para que le entregasen al principado y a la potestad del presidente."
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "Los cuales le preguntaron, diciendo: Maestro, sabemos que dices y enseñas bien, y que no tienes respeto a persona; antes enseñas el camino de Dios con verdad."
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "¿Nos es lícito dar tributo a César, o no?"
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "Mas él, entendiendo la astucia de ellos, les dijo: ¿Por qué me tentáis?"
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "Mostradme la moneda. ¿De quién tiene la imagen y la inscripción? Y respondiendo dijeron: De César."
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "Entonces les dijo: Pues dad a César lo que es de César; y lo que es de Dios, a Dios."
+      ]
+    },
+    {
+      "verse": 26,
+      "segments": [
+        "Y no pudieron reprender sus palabras delante del pueblo: antes maravillados de su respuesta, callaron."
+      ]
+    },
+    {
+      "verse": 27,
+      "segments": [
+        "Y llegándose unos de los ",
+        {
+          "entryId": "tzaduqim",
+          "form": "Tzaduqim"
+        },
+        ", los cuales niegan haber resurrección, le preguntaron,"
+      ]
+    },
+    {
+      "verse": 28,
+      "segments": [
+        "Diciendo: Maestro, ",
+        {
+          "entryId": "moshe",
+          "form": "Moshe"
+        },
+        " nos escribió: Si el hermano de alguno muriere teniendo mujer, y muriere sin hijos, que su hermano tome la mujer, y levante simiente a su hermano."
+      ]
+    },
+    {
+      "verse": 29,
+      "segments": [
+        "Fueron, pues, siete hermanos: y el primero tomó mujer, y murió sin hijos."
+      ]
+    },
+    {
+      "verse": 30,
+      "segments": [
+        "Y la tomó el segundo, el cual también murió sin hijos."
+      ]
+    },
+    {
+      "verse": 31,
+      "segments": [
+        "Y la tomó el tercero: asimismo también todos siete: y murieron sin dejar prole."
+      ]
+    },
+    {
+      "verse": 32,
+      "segments": [
+        "Y a la postre de todos murió también la mujer."
+      ]
+    },
+    {
+      "verse": 33,
+      "segments": [
+        "En la resurrección, pues, ¿mujer de cuál de ellos será? porque los siete la tuvieron por mujer."
+      ]
+    },
+    {
+      "verse": 34,
+      "segments": [
+        "Entonces respondiendo ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", les dijo: Los hijos de este siglo se casan, y son dados en casamiento:"
+      ]
+    },
+    {
+      "verse": 35,
+      "segments": [
+        "Mas los que fueren tenidos por dignos de aquel siglo y de la resurrección de los muertos, ni se casan, ni son dados en casamiento:"
+      ]
+    },
+    {
+      "verse": 36,
+      "segments": [
+        "Porque no pueden ya más morir: porque son iguales a los ángeles, y son hijos de Dios, cuando son hijos de la resurrección."
+      ]
+    },
+    {
+      "verse": 37,
+      "segments": [
+        "Y que los muertos hayan de resucitar, aun ",
+        {
+          "entryId": "moshe",
+          "form": "Moshe"
+        },
+        " lo enseñó en el pasaje de la zarza, cuando llama al Señor: Dios de ",
+        {
+          "entryId": "avraham",
+          "form": "Avraham"
+        },
+        ", y Dios de ",
+        {
+          "entryId": "yitzjaq",
+          "form": "Yitzjaq"
+        },
+        ", y Dios de ",
+        {
+          "entryId": "yaaqov_patriarca",
+          "form": "Yaaqov"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 38,
+      "segments": [
+        "Porque Dios no es Dios de muertos, mas de vivos: porque todos viven a él."
+      ]
+    },
+    {
+      "verse": 39,
+      "segments": [
+        "Y respondiéndole unos de los escribas, dijeron: Maestro, bien has dicho."
+      ]
+    },
+    {
+      "verse": 40,
+      "segments": [
+        "Y no osaron más preguntarle algo."
+      ]
+    },
+    {
+      "verse": 41,
+      "segments": [
+        "Y él les dijo: ¿Cómo dicen que el ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        " es hijo de ",
+        {
+          "entryId": "david",
+          "form": "David"
+        },
+        "?"
+      ]
+    },
+    {
+      "verse": 42,
+      "segments": [
+        "Y el mismo ",
+        {
+          "entryId": "david",
+          "form": "David"
+        },
+        " dice en el libro de los Salmos: Dijo el Señor a mi Señor: Siéntate a mi diestra,"
+      ]
+    },
+    {
+      "verse": 43,
+      "segments": [
+        "Entre tanto que pongo tus enemigos por estrado de tus pies."
+      ]
+    },
+    {
+      "verse": 44,
+      "segments": [
+        "Así que ",
+        {
+          "entryId": "david",
+          "form": "David"
+        },
+        " le llama Señor: ¿cómo pues es su hijo?"
+      ]
+    },
+    {
+      "verse": 45,
+      "segments": [
+        "Y oyéndole todo el pueblo, dijo a sus discípulos:"
+      ]
+    },
+    {
+      "verse": 46,
+      "segments": [
+        "Guardaos de los escribas, que quieren andar con ropas largas, y aman las salutaciones en las plazas, y las primeras sillas en las sinagogas, y los primeros asientos en las cenas;"
+      ]
+    },
+    {
+      "verse": 47,
+      "segments": [
+        "Que devoran las casas de las viudas, poniendo por pretexto la larga oración: éstos recibirán mayor condenación."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "yeshua": {
+    "category": "person",
+    "defaultForm": "Yeshúa",
+    "traditional": "Jesús",
+    "bridgeGloss": "Jesús",
+    "originalScript": {
+      "hebrew": "יֵשׁוּעַ",
+      "syriac": "ܝܫܘܥ"
+    },
+    "transliteration": "Yeshúa",
+    "meaning": "Forma arameo-hebrea tardía de Yehoshúa («Yahweh salva»)."
+  },
+  "mashiaj": {
+    "category": "title",
+    "defaultForm": "Mashíaj",
+    "traditional": "Cristo / Mesías",
+    "bridgeGloss": "Ungido / Mesías",
+    "originalScript": {
+      "hebrew": "מָשִׁיחַ",
+      "syriac": "ܡܫܝܚܐ"
+    },
+    "transliteration": "Mashíaj",
+    "meaning": "«Ungido». Equivale al griego Christós, que en las traducciones habituales pasó como título propio («Cristo»)."
+  },
+  "elohim": {
+    "category": "divine_title",
+    "defaultForm": "Elohim",
+    "traditional": "Dios",
+    "bridgeGloss": "Elohim",
+    "originalScript": {
+      "hebrew": "אֱלֹהִים",
+      "syriac": "ܐܠܗܐ"
+    },
+    "transliteration": "Elohim",
+    "meaning": "Término hebreo asociado a la divinidad o autoridad suprema; se conserva sin traducir como «Dios»."
+  },
+  "yahweh_nt": {
+    "category": "divine_nt",
+    "defaultForm": "Marya",
+    "traditional": "el Señor",
+    "bridgeGloss": "Marya (cita de Yahweh)",
+    "originalScript": {
+      "syriac": "ܡܪܝܐ",
+      "greek": "Κύριος",
+      "hebrew": "יהוה"
+    },
+    "transliteration": "Marya",
+    "meaning": "Equivalente arameo en citas del Antiguo Testamento donde el texto hebreo original lleva el Tetragramatón (Yahweh).",
+    "otReference": "Mal'aji 3:1 / Yeshayahu 40:3"
+  },
+  "yojanan_bautista": {
+    "category": "person",
+    "defaultForm": "Yojanán",
+    "traditional": "Juan el Bautista",
+    "bridgeGloss": "Juan (Bautista)",
+    "originalScript": {
+      "hebrew": "יוֹחָנָן",
+      "syriac": "ܝܘܚܢܢ"
+    },
+    "transliteration": "Yojanán",
+    "meaning": "«Yahweh es misericordioso». Forma original de Juan."
+  },
+  "yerushalayim": {
+    "category": "place",
+    "defaultForm": "Yerushaláyim",
+    "traditional": "Jerusalén",
+    "bridgeGloss": "Yerushaláyim",
+    "originalScript": {
+      "hebrew": "יְרוּשָׁלַיִם",
+      "syriac": "ܐܘܪܫܠܡ"
+    },
+    "transliteration": "Yerushaláyim",
+    "meaning": "Nombre original de la ciudad de Jerusalén."
+  },
+  "yarden": {
+    "category": "place",
+    "defaultForm": "Yardén",
+    "traditional": "Jordán",
+    "bridgeGloss": "río Yardén",
+    "originalScript": {
+      "hebrew": "יַרְדֵּן",
+      "syriac": "ܝܘܪܕܢܢ"
+    },
+    "transliteration": "Yardén",
+    "meaning": "Nombre hebreo-arameo del río Jordán."
+  },
+  "natzeret": {
+    "category": "place",
+    "defaultForm": "Natzeret",
+    "traditional": "Nazaret",
+    "bridgeGloss": "Natzeret",
+    "originalScript": {
+      "hebrew": "נָצְרַת",
+      "syriac": "ܢܨܪܬ"
+    },
+    "transliteration": "Natzeret",
+    "meaning": "Localidad galilea de origen de Yeshúa."
+  },
+  "galil": {
+    "category": "place",
+    "defaultForm": "Galil",
+    "traditional": "Galilea",
+    "bridgeGloss": "Galil",
+    "originalScript": {
+      "hebrew": "גָּלִיל",
+      "syriac": "ܓܠܝܠܐ"
+    },
+    "transliteration": "Galil",
+    "meaning": "«Circuito» o «región»; nombre original de Galilea."
+  },
+  "simon_kefa": {
+    "category": "person",
+    "defaultForm": "Shim'on Kefa",
+    "traditional": "Simón Pedro",
+    "bridgeGloss": "Shim'on",
+    "originalScript": {
+      "hebrew": "שִׁמְעוֹן כֵּיפָא",
+      "syriac": "ܫܡܥܘܢ ܟܐܦܐ"
+    },
+    "transliteration": "Shim'on Kefa",
+    "meaning": "Shim'on («Dios ha escuchado») y el sobrenombre arameo Kefa («roca» / «piedra»).",
+    "nameHistory": [
+      { "form": "Shim'on", "note": "Nombre inicial antes de recibir el sobrenombre Kefa." },
+      { "form": "Kefa", "note": "Sobrenombre arameo («roca») otorgado por Yeshúa." }
+    ]
+  },
+  "andreas": {
+    "category": "person",
+    "defaultForm": "Andreas",
+    "traditional": "Andrés",
+    "bridgeGloss": "Andreas",
+    "originalScript": {
+      "greek": "Ἀνδρέας",
+      "syriac": "ܐܢܕܪܐܘܣ"
+    },
+    "transliteration": "Andreas",
+    "meaning": "Nombre de origen griego («varonil» / «valiente») usado en el entorno helenizado de Galilea; se conserva sin castellanizar."
+  },
+  "yaaqov_zebedeo": {
+    "category": "person",
+    "defaultForm": "Ya'aqov",
+    "traditional": "Santiago (el Mayor)",
+    "bridgeGloss": "Ya'aqov",
+    "originalScript": {
+      "hebrew": "יַעֲקֹב",
+      "syriac": "ܝܥܩܘܒ"
+    },
+    "transliteration": "Ya'aqov",
+    "meaning": "Forma original de Jacob / Santiago, hijo de Zavdai."
+  },
+  "bar_zavdai": {
+    "category": "patronymic",
+    "defaultForm": "Bar-Zavdai",
+    "traditional": "de Zebedeo",
+    "bridgeGloss": "hijo de Zavdai",
+    "originalScript": {
+      "syriac": "ܒܪ ܙܒܕܝ"
+    },
+    "transliteration": "Bar-Zavdai",
+    "meaning": "Patronímico arameo que significa «hijo de Zavdai» (Zebedeo)."
+  },
+  "yojanan_apostol": {
+    "category": "person",
+    "defaultForm": "Yojanán",
+    "traditional": "Juan (el apóstol)",
+    "bridgeGloss": "Yojanán",
+    "originalScript": {
+      "hebrew": "יוֹחָנָן",
+      "syriac": "ܝܘܚܢܢ"
+    },
+    "transliteration": "Yojanán",
+    "meaning": "«Yahweh es misericordioso». Hermano de Ya'aqov Bar-Zavdai."
+  },
+  "shabbat": {
+    "category": "concept",
+    "defaultForm": "Shabbat",
+    "traditional": "sábado / día de reposo",
+    "bridgeGloss": "Shabbat",
+    "originalScript": {
+      "hebrew": "שַׁבָּת",
+      "syriac": "ܫܒܬܐ"
+    },
+    "transliteration": "Shabbat",
+    "meaning": "Día semanal de descanso y consagración; se mantiene su nombre original."
+  },
+  "book_marqos": {
+    "category": "book_title",
+    "defaultForm": "Marqos",
+    "traditional": "Marcos",
+    "bridgeGloss": "Marcos",
+    "studyNote": "Evangelio / Relato de Marqos",
+    "banner": "img/sanmarcos.png",
+    "originalScript": {
+      "syriac": "ܡܪܩܘܣ",
+      "greek": "Μᾶρκος"
+    },
+    "transliteration": "Marqos",
+    "meaning": "Forma restaurada del título del libro según el nombre del autor en la tradición siríaca/griega, evitando la castellanización «Marcos»."
+  },
+  "ruaj_haqodesh": {
+    "category": "concept",
+    "defaultForm": "Rúaj HaQódesh",
+    "traditional": "Espíritu Santo",
+    "bridgeGloss": "Rúaj HaQódesh",
+    "originalScript": {
+      "hebrew": "רוּחַ הַקֹּדֶשׁ",
+      "syriac": "ܪܘܚܐ ܕܩܘܕܫܐ"
+    },
+    "transliteration": "Rúaj HaQódesh",
+    "meaning": "«Aliento / viento / espíritu de santidad». En los versículos 10 y 12 aparece abreviado como Rúaj en el texto."
+  },
+  "moshe": {
+    "category": "person",
+    "defaultForm": "Moshé",
+    "traditional": "Moisés",
+    "bridgeGloss": "Moshé",
+    "originalScript": {
+      "hebrew": "מֹשֶׁה",
+      "syriac": "ܡܘܫܐ"
+    },
+    "transliteration": "Moshé",
+    "meaning": "Forma hebrea original del nombre Moisés."
+  },
+  "levi_bar_jalfai": {
+    "category": "person",
+    "defaultForm": "Leví",
+    "traditional": "Leví (identificado con Mateo / Mattai)",
+    "bridgeGloss": "Leví",
+    "originalScript": {
+      "hebrew": "לֵוִי",
+      "syriac": "ܠܘܝ"
+    },
+    "transliteration": "Leví",
+    "meaning": "Nombre hebreo-arameo («unido» / «adjunto»). En la tradición sinóptica se asocia a la figura de Mattai (Mateo)."
+  },
+  "bar_jalfai": {
+    "category": "patronymic",
+    "defaultForm": "Bar-Jalfai",
+    "traditional": "de Alfeo",
+    "bridgeGloss": "hijo de Jalfai",
+    "originalScript": {
+      "syriac": "ܒܪ ܚܠܦܝ"
+    },
+    "transliteration": "Bar-Jalfai",
+    "meaning": "Patronímico arameo que significa «hijo de Jalfai» (Alfeo)."
+  },
+  "david": {
+    "category": "person",
+    "defaultForm": "David",
+    "traditional": "David",
+    "bridgeGloss": "David",
+    "originalScript": {
+      "hebrew": "דָּוִד",
+      "syriac": "ܕܘܝܕ"
+    },
+    "transliteration": "David",
+    "meaning": "Rey de Yisrael; nombre hebreo tradicionalmente asociado a la raíz «amado»."
+    },
+    "avraham": {
+    "category": "person",
+    "defaultForm": "Avraham",
+    "traditional": "Abraham",
+    "bridgeGloss": "Abraham",
+    "originalScript": {
+      "hebrew": "אברהם",
+      "greek": "Ἀβραάμ"
+    },
+    "transliteration": "Avraham",
+    "meaning": "Patriarca de Israel.",
+    "otReference": "Génesis 17:5",
+    "sourceNote": "Nombre hebreo transmitido mediante transliteración en los textos griegos."
+  },
+  "mamona": {
+  "category": "term",
+  "defaultForm": "Mamoná",
+  "traditional": "riquezas",
+  "bridgeGloss": "riquezas",
+  "originalScript": {
+    "hebrew": "ממון",
+    "aramaic": "ממונא",
+    "greek": "μαμωνᾶς"
+  },
+  "transliteration": "Mamoná",
+  "meaning": "Riqueza o bienes materiales.",
+  "studyNote": "Término utilizado en Mateo 6:24.",
+  "sourceNote": "Palabra de origen semítico incorporada al texto griego."
+  }
+}

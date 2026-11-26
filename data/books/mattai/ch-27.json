@@ -1,0 +1,629 @@
+{
+  "bookId": "mattai",
+  "titleEntryId": "book_mattai",
+  "bookTitle": "Mattai",
+  "chapter": 27,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "Y VENIDA la mañana, entraron en consejo todos los príncipes de los sacerdotes, y los ancianos del pueblo, contra ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", para entregarle a muerte."
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Y le llevaron atado, y le entregaron a Poncio Pilato presidente."
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Entonces ",
+        {
+          "entryId": "yehuda_iscariote",
+          "form": "Yehudá"
+        },
+        ", el que le había entregado, viendo que era condenado, volvió arrepentido las treinta piezas de plata a los príncipes de los sacerdotes y a los ancianos,"
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Diciendo: Yo he pecado entregando la sangre inocente. Mas ellos dijeron: ¿Qué se nos da a nosotros? Viéraslo tú."
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Y arrojando las piezas de plata en el templo, partióse; y fue, y se ahorcó."
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Y los príncipes de los sacerdotes, tomando las piezas de plata, dijeron: No es lícito echarlas en el tesoro de los dones, porque es precio de sangre."
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "Mas habido consejo, compraron con ellas el campo del alfarero, por sepultura para los extranjeros."
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Por lo cual fue llamado aquel campo, Campo de sangre, hasta el día de hoy."
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Entonces se cumplió lo que fue dicho por el profeta ",
+        {
+          "entryId": "yirmeyahu",
+          "form": "Yirmeyahu"
+        },
+        ", que dijo: Y tomaron las treinta piezas de plata, precio del apreciado, que fue apreciado por los hijos de Israel;"
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Y las dieron para el campo del alfarero, como me ordenó el Señor."
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " estuvo delante del presidente; y el presidente le preguntó, diciendo: ¿Eres tú el Rey de los judíos? Y ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " le dijo: Tú lo dices."
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Y siendo acusado por los príncipes de los sacerdotes, y por los ancianos, nada respondió."
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Pilato entonces le dice: ¿No oyes cuántas cosas testifican contra ti?"
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Y no le respondió ni una palabra; de tal manera que el presidente se maravillaba mucho."
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Y en el día de la fiesta acostumbraba el presidente soltar al pueblo un preso, cual quisiesen."
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "Y tenían entonces un preso famoso que se llamaba ",
+        {
+          "entryId": "bar_abba",
+          "form": "Bar-Abba"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Y juntos ellos, les dijo Pilato: ¿Cuál queréis que os suelte? ¿a ",
+        {
+          "entryId": "bar_abba",
+          "form": "Bar-Abba"
+        },
+        ", o a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " que se dice el ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        "?"
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Porque sabía que por envidia le habían entregado."
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Y estando él sentado en el tribunal, su mujer envió a él, diciendo: No tengas que ver con aquel justo; porque hoy he padecido muchas cosas en sueños por causa de él."
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Mas los príncipes de los sacerdotes y los ancianos, persuadieron al pueblo que pidiese a ",
+        {
+          "entryId": "bar_abba",
+          "form": "Bar-Abba"
+        },
+        ", y a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " matase."
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "Y respondiendo el presidente les dijo: ¿Cuál de los dos queréis que os suelte? Y ellos dijeron: A ",
+        {
+          "entryId": "bar_abba",
+          "form": "Bar-Abba"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "Pilato les dijo: ¿Qué pues haré de ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " que se dice el ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        "? Dícenle todos: Sea crucificado."
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "Y el presidente les dijo: Pues ¿qué mal ha hecho? Mas ellos gritaban más, diciendo: Sea crucificado."
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "Y viendo Pilato que nada adelantaba, antes se hacía más alboroto, tomando agua se lavó las manos delante del pueblo, diciendo: Inocente soy yo de la sangre de este justo: veréislo vosotros."
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "Y respondiendo todo el pueblo, dijo: Su sangre sea sobre nosotros, y sobre nuestros hijos."
+      ]
+    },
+    {
+      "verse": 26,
+      "segments": [
+        "Entonces les soltó a ",
+        {
+          "entryId": "bar_abba",
+          "form": "Bar-Abba"
+        },
+        ": y habiendo azotado a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", le entregó para ser crucificado."
+      ]
+    },
+    {
+      "verse": 27,
+      "segments": [
+        "Entonces los soldados del presidente llevaron a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " al pretorio, y juntaron a él toda la cuadrilla;"
+      ]
+    },
+    {
+      "verse": 28,
+      "segments": [
+        "Y desnudándole, le echaron encima un manto de grana;"
+      ]
+    },
+    {
+      "verse": 29,
+      "segments": [
+        "Y pusieron sobre su cabeza una corona tejida de espinas, y una caña en su mano derecha; e hincando la rodilla delante de él, le burlaban, diciendo: ¡Salve, Rey de los Judíos!"
+      ]
+    },
+    {
+      "verse": 30,
+      "segments": [
+        "Y escupiendo en él, tomaron la caña, y le herían en la cabeza."
+      ]
+    },
+    {
+      "verse": 31,
+      "segments": [
+        "Y después que le hubieron escarnecido, le desnudaron el manto, y le vistieron de sus vestidos, y le llevaron para crucificarle."
+      ]
+    },
+    {
+      "verse": 32,
+      "segments": [
+        "Y saliendo, hallaron a un Cireneo, que se llamaba Simón: a éste cargaron para que llevase su cruz."
+      ]
+    },
+    {
+      "verse": 33,
+      "segments": [
+        "Y como llegaron al lugar que se llama ",
+        {
+          "entryId": "golgota",
+          "form": "Golgota"
+        },
+        ", que es dicho, El lugar de la calavera,"
+      ]
+    },
+    {
+      "verse": 34,
+      "segments": [
+        "Le dieron a beber vinagre mezclado con hiel; y gustando, no quiso beberlo."
+      ]
+    },
+    {
+      "verse": 35,
+      "segments": [
+        "Y después que le hubieron crucificado, repartieron sus vestidos, echando suertes: para que se cumpliese lo que fue dicho por el profeta: Se repartieron mis vestidos, y sobre mi ropa echaron suertes."
+      ]
+    },
+    {
+      "verse": 36,
+      "segments": [
+        "Y sentados le guardaban allí."
+      ]
+    },
+    {
+      "verse": 37,
+      "segments": [
+        "Y pusieron sobre su cabeza su causa escrita: ESTE ES ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " EL REY DE LOS JUDIOS."
+      ]
+    },
+    {
+      "verse": 38,
+      "segments": [
+        "Entonces crucificaron con él dos ladrones, uno a la derecha, y otro a la izquierda."
+      ]
+    },
+    {
+      "verse": 39,
+      "segments": [
+        "Y los que pasaban, le decían injurias, meneando sus cabezas,"
+      ]
+    },
+    {
+      "verse": 40,
+      "segments": [
+        "Y diciendo: Tú, el que derribas el templo, y en tres días lo reedificas, sálvate a ti mismo: si eres Hijo de ",
+        {
+          "entryId": "elohim",
+          "form": "Elohim"
+        },
+        ", desciende de la cruz."
+      ]
+    },
+    {
+      "verse": 41,
+      "segments": [
+        "De esta manera también los príncipes de los sacerdotes, escarneciendo con los escribas y los ",
+        {
+          "entryId": "perushim",
+          "form": "Perushim"
+        },
+        " y los ancianos, decían:"
+      ]
+    },
+    {
+      "verse": 42,
+      "segments": [
+        "A otros salvó, a sí mismo no puede salvar: si es el Rey de Israel, descienda ahora de la cruz, y creeremos en él."
+      ]
+    },
+    {
+      "verse": 43,
+      "segments": [
+        "Confió en ",
+        {
+          "entryId": "elohim",
+          "form": "Elohim"
+        },
+        ": líbrele ahora si le quiere: porque ha dicho: Soy Hijo de ",
+        {
+          "entryId": "elohim",
+          "form": "Elohim"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 44,
+      "segments": [
+        "Lo mismo también le zaherían los ladrones que estaban crucificados con él."
+      ]
+    },
+    {
+      "verse": 45,
+      "segments": [
+        "Y desde la hora de sexta fueron tinieblas sobre toda la tierra hasta la hora de nona."
+      ]
+    },
+    {
+      "verse": 46,
+      "segments": [
+        "Y cerca de la hora de nona, ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " exclamó con grande voz, diciendo: ",
+        {
+          "entryId": "eli_eli",
+          "form": "Eli, Eli, lama sabactani"
+        },
+        " Esto es: ",
+        {
+          "entryId": "elohim",
+          "form": "Elohim"
+        },
+        " mío, ",
+        {
+          "entryId": "elohim",
+          "form": "Elohim"
+        },
+        " mío, ¿por qué me has desamparado?"
+      ]
+    },
+    {
+      "verse": 47,
+      "segments": [
+        "Y algunos de los que estaban allí, oyéndolo, decían: A ",
+        {
+          "entryId": "eliyahu",
+          "form": "Eliyahu"
+        },
+        " llama éste."
+      ]
+    },
+    {
+      "verse": 48,
+      "segments": [
+        "Y luego, corriendo uno de ellos, tomó una esponja, y la hinchió de vinagre, y poniéndola en una caña, dábale de beber."
+      ]
+    },
+    {
+      "verse": 49,
+      "segments": [
+        "Y los otros decían: Deja, veamos si viene ",
+        {
+          "entryId": "eliyahu",
+          "form": "Eliyahu"
+        },
+        " a librarle."
+      ]
+    },
+    {
+      "verse": 50,
+      "segments": [
+        "Mas ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", habiendo otra vez exclamado con grande voz, dio el espíritu."
+      ]
+    },
+    {
+      "verse": 51,
+      "segments": [
+        "Y he aquí, el velo del templo se rompió en dos, de alto a bajo: y la tierra tembló, y las piedras se hendieron;"
+      ]
+    },
+    {
+      "verse": 52,
+      "segments": [
+        "Y abriéronse los sepulcros, y muchos cuerpos de santos que habían dormido, se levantaron;"
+      ]
+    },
+    {
+      "verse": 53,
+      "segments": [
+        "Y salidos de los sepulcros, después de su resurrección, vinieron a la santa ciudad, y aparecieron a muchos."
+      ]
+    },
+    {
+      "verse": 54,
+      "segments": [
+        "Y el centurión, y los que estaban con él guardando a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", visto el terremoto, y las cosas que habían sido hechas, temieron en gran manera, diciendo: Verdaderamente Hijo de ",
+        {
+          "entryId": "elohim",
+          "form": "Elohim"
+        },
+        " era éste."
+      ]
+    },
+    {
+      "verse": 55,
+      "segments": [
+        "Y estaban allí muchas mujeres mirando de lejos, las cuales habían seguido de ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        " a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", sirviéndole:"
+      ]
+    },
+    {
+      "verse": 56,
+      "segments": [
+        "Entre las cuales estaban ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        " Magdalena, y ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        " la madre de Jacobo y de ",
+        {
+          "entryId": "yosef",
+          "form": "Yosef"
+        },
+        ", y la madre de los hijos de ",
+        {
+          "entryId": "zavdai",
+          "form": "Zavdai"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 57,
+      "segments": [
+        "Y como fue la tarde del día, vino un hombre rico de Arimatea, llamado ",
+        {
+          "entryId": "yosef",
+          "form": "Yosef"
+        },
+        ", el cual también había sido discípulo de ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 58,
+      "segments": [
+        "Este llegó a Pilato, y pidió el cuerpo de ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": entonces Pilato mandó que se le diese el cuerpo."
+      ]
+    },
+    {
+      "verse": 59,
+      "segments": [
+        "Y tomando ",
+        {
+          "entryId": "yosef",
+          "form": "Yosef"
+        },
+        " el cuerpo, lo envolvió en una sábana limpia,"
+      ]
+    },
+    {
+      "verse": 60,
+      "segments": [
+        "Y lo puso en su sepulcro nuevo, que había labrado en la peña: y revuelta una grande piedra a la puerta del sepulcro, se fue."
+      ]
+    },
+    {
+      "verse": 61,
+      "segments": [
+        "Y estaban allí ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        " Magdalena, y la otra ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        ", sentadas delante del sepulcro."
+      ]
+    },
+    {
+      "verse": 62,
+      "segments": [
+        "Y el siguiente día, que es después de la preparación, se juntaron los príncipes de los sacerdotes y los ",
+        {
+          "entryId": "perushim",
+          "form": "Perushim"
+        },
+        " a Pilato,"
+      ]
+    },
+    {
+      "verse": 63,
+      "segments": [
+        "Diciendo: Señor, nos acordamos que aquel engañador dijo, viviendo aún: Después de tres días resucitaré."
+      ]
+    },
+    {
+      "verse": 64,
+      "segments": [
+        "Manda, pues, que se asegure el sepulcro hasta el día tercero; porque no vengan sus discípulos de noche, y le hurten, y digan al pueblo: Resucitó de los muertos. Y será el postrer error peor que el primero."
+      ]
+    },
+    {
+      "verse": 65,
+      "segments": [
+        "Y Pilato les dijo: Tenéis una guardia: id, aseguradlo como sabéis."
+      ]
+    },
+    {
+      "verse": 66,
+      "segments": [
+        "Y yendo ellos, aseguraron el sepulcro, sellando la piedra, con la guardia."
+      ]
+    }
+  ]
+}

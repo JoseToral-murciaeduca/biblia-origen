@@ -1,0 +1,328 @@
+{
+  "bookId": "loukas",
+  "titleEntryId": "book_loukas",
+  "bookTitle": "Loukas",
+  "chapter": 13,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "Y EN este mismo tiempo estaban allí unos que le contaban acerca de los Galileos, cuya sangre ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        " había mezclado con sus sacrificios."
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Y respondiendo ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", les dijo: ¿Pensáis que estos Galileos, porque han padecido tales cosas, hayan sido más pecadores que todos los Galileos?"
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "No, os digo; antes si no os arrepintiereis, todos pereceréis igualmente."
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "O aquellos dieciocho, sobre los cuales cayó la torre en ",
+        {
+          "entryId": "siloam",
+          "form": "Shiloaj"
+        },
+        ", y los mató, ¿pensáis que ellos fueron más deudores que todos los hombres que habitan en ",
+        {
+          "entryId": "yerushalayim",
+          "form": "Yerushalayim"
+        },
+        "?"
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "No, os digo; antes si no os arrepintiereis, todos pereceréis asimismo."
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Y dijo esta parábola: Tenía uno una higuera plantada en su viña, y vino a buscar fruto en ella, y no lo halló."
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "Y dijo al viñero: He aquí tres años ha que vengo a buscar fruto en esta higuera, y no lo hallo; córtala, ¿por qué ocupará aún la tierra?"
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "El entonces respondiendo, le dijo: Señor, déjala aún este año, hasta que la excave, y estercole."
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Y si hiciere fruto, bien; y si no, la cortarás después."
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Y enseñaba en una sinagoga en ",
+        {
+          "entryId": "shabbat",
+          "form": "Shabbat"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "Y he aquí una mujer que tenía espíritu de enfermedad dieciocho años, y andaba agobiada, que en ninguna manera se podía enhestar."
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Y como ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " la vio, llamóla, y díjole: Mujer, libre eres de tu enfermedad."
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Y puso las manos sobre ella; y luego se enderezó, y glorificaba a Dios."
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Y respondiendo el príncipe de la sinagoga, enojado de que ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " hubiese curado en ",
+        {
+          "entryId": "shabbat",
+          "form": "Shabbat"
+        },
+        ", dijo a la compañía: Seis días hay en que es necesario obrar: en estos, pues, venid y sed curados, y no en día de ",
+        {
+          "entryId": "shabbat",
+          "form": "Shabbat"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Entonces el Señor le respondió, y dijo: Hipócrita, cada uno de vosotros ¿no desata en ",
+        {
+          "entryId": "shabbat",
+          "form": "Shabbat"
+        },
+        " su buey o su asno del pesebre, y lo lleva a beber?"
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "Y a esta hija de ",
+        {
+          "entryId": "avraham",
+          "form": "Avraham"
+        },
+        ", que he aquí ",
+        {
+          "entryId": "satan",
+          "form": "Satán"
+        },
+        " la había ligado dieciocho años, ¿no convino desatarla de esta ligadura en día de ",
+        {
+          "entryId": "shabbat",
+          "form": "Shabbat"
+        },
+        "?"
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Y diciendo estas cosas, se avergonzaban todos sus adversarios: mas todo el pueblo se gozaba de todas las cosas gloriosas que eran por él hechas."
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Y dijo: ¿A qué es semejante el reino de Dios, y a qué le compararé?"
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Semejante es al grano de la mostaza, que tomándolo un hombre lo metió en su huerto; y creció, y fue hecho árbol grande, y las aves del cielo hicieron nidos en sus ramas."
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Y otra vez dijo: ¿A qué compararé el reino de Dios?"
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "Semejante es a la levadura, que tomó una mujer, y la escondió en tres medidas de harina, hasta que todo hubo fermentado."
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "Y pasaba por todas las ciudades y aldeas, enseñando, y caminando a ",
+        {
+          "entryId": "yerushalayim",
+          "form": "Yerushalayim"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "Y díjole uno: Señor, ¿son pocos los que se salvan? Y él les dijo:"
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "Porfiad a entrar por la puerta angosta; porque os digo que muchos procurarán entrar, y no podrán."
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "Después que el padre de familia se levantare, y cerrare la puerta, y comenzareis a estar fuera, y llamar a la puerta, diciendo: Señor, Señor, ábrenos; y respondiendo os dirá: No os conozco de dónde seáis."
+      ]
+    },
+    {
+      "verse": 26,
+      "segments": [
+        "Entonces comenzaréis a decir: Delante de ti hemos comido y bebido, y en nuestras plazas enseñaste;"
+      ]
+    },
+    {
+      "verse": 27,
+      "segments": [
+        "Y os dirá: Dígoos que no os conozco de dónde seáis; apartaos de mí todos los obreros de iniquidad."
+      ]
+    },
+    {
+      "verse": 28,
+      "segments": [
+        "Allí será el llanto y el crujir de dientes, cuando viereis a ",
+        {
+          "entryId": "avraham",
+          "form": "Avraham"
+        },
+        ", y a ",
+        {
+          "entryId": "yitzjaq",
+          "form": "Yitzjaq"
+        },
+        ", y a ",
+        {
+          "entryId": "yaaqov_patriarca",
+          "form": "Yaaqov"
+        },
+        ", y a todos los profetas en el reino de Dios, y vosotros excluídos."
+      ]
+    },
+    {
+      "verse": 29,
+      "segments": [
+        "Y vendrán del Oriente y del Occidente, del Norte y del Mediodía, y se sentarán a la mesa en el reino de Dios."
+      ]
+    },
+    {
+      "verse": 30,
+      "segments": [
+        "Y he aquí, son postreros los que eran los primeros; y son primeros los que eran los postreros."
+      ]
+    },
+    {
+      "verse": 31,
+      "segments": [
+        "Aquel mismo día llegaron unos de los ",
+        {
+          "entryId": "perushim",
+          "form": "Perushim"
+        },
+        ", diciéndole: Sal, y vete de aquí, porque ",
+        {
+          "entryId": "herodes",
+          "form": "Herodes"
+        },
+        " te quiere matar."
+      ]
+    },
+    {
+      "verse": 32,
+      "segments": [
+        "Y les dijo: Id, y decid a aquella zorra: He aquí, echo fuera demonios y acabo sanidades hoy y mañana, y al tercer día soy consumado."
+      ]
+    },
+    {
+      "verse": 33,
+      "segments": [
+        "Empero es menester que hoy, y mañana, y pasado mañana camine; porque no es posible que profeta muera fuera de ",
+        {
+          "entryId": "yerushalayim",
+          "form": "Yerushalayim"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 34,
+      "segments": [
+        "¡",
+        {
+          "entryId": "yerushalayim",
+          "form": "Yerushalayim"
+        },
+        ", ",
+        {
+          "entryId": "yerushalayim",
+          "form": "Yerushalayim"
+        },
+        "! que matas a los profetas, y apedreas a los que son enviados a ti: ¡cuántas veces quise juntar tus hijos, como la gallina sus pollos debajo de sus alas, y no quisiste!"
+      ]
+    },
+    {
+      "verse": 35,
+      "segments": [
+        "He aquí, os es dejada vuestra casa desierta: y os digo que no me veréis, hasta que venga tiempo cuando digáis: Bendito el que viene en nombre del Señor."
+      ]
+    }
+  ]
+}

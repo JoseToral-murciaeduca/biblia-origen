@@ -1,0 +1,349 @@
+{
+  "bookId": "yojanan",
+  "titleEntryId": "book_yojanan",
+  "bookTitle": "Yojanan",
+  "chapter": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "Y PASANDO ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", vio un hombre ciego desde su nacimiento."
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Y preguntáronle sus discípulos, diciendo: ",
+        {
+          "entryId": "rabbi",
+          "form": "Rabbí"
+        },
+        ", ¿quién pecó, éste o sus padres, para que naciese ciego?"
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Respondió ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": Ni éste pecó, ni sus padres: mas para que las obras de Dios se manifiesten en él."
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Conviéneme obrar las obras del que me envió, entre tanto que el día dura: la noche viene, cuando nadie puede obrar."
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Entre tanto que estuviere en el mundo, luz soy del mundo."
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Esto dicho, escupió en tierra, e hizo lodo con la saliva, y untó con el lodo sobre los ojos del ciego,"
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "Y díjole: Ve, lávate en el estanque de ",
+        {
+          "entryId": "siloam",
+          "form": "Shiloaj"
+        },
+        " (que significa, si lo interpretares, Enviado). Y fue entonces, y lavóse, y volvió viendo."
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Entonces los vecinos, y los que antes le habían visto que era ciego, decían: ¿No es éste el que se sentaba y mendigaba?"
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Unos decían: Este es; y otros: A él se parece. El decía: Yo soy."
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Y dijéronle: ¿Cómo te fueron abiertos los ojos?"
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "Respondió él y dijo: El hombre que se llama ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", hizo lodo, y me untó los ojos, y me dijo: Ve al ",
+        {
+          "entryId": "siloam",
+          "form": "Shiloaj"
+        },
+        ", y lávate: y fui, y me lavé, y recibí la vista."
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Entonces le dijeron: ¿Dónde está aquél? El dijo: No sé."
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Llevaron a los ",
+        {
+          "entryId": "perushim",
+          "form": "Perushim"
+        },
+        " al que antes había sido ciego."
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Y era ",
+        {
+          "entryId": "shabbat",
+          "form": "Shabbat"
+        },
+        " cuando ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " había hecho el lodo, y le había abierto los ojos."
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Y volviéronle a preguntar también los ",
+        {
+          "entryId": "perushim",
+          "form": "Perushim"
+        },
+        " de qué manera había recibido la vista. Y él les dijo: Púsome lodo sobre los ojos, y me lavé, y veo."
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "Entonces unos de los ",
+        {
+          "entryId": "perushim",
+          "form": "Perushim"
+        },
+        " decían: Este hombre no es de Dios, que no guarda el ",
+        {
+          "entryId": "shabbat",
+          "form": "Shabbat"
+        },
+        ". Otros decían: ¿Cómo puede un hombre pecador hacer estas señales? Y había disensión entre ellos."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Vuelven a decir al ciego: ¿Tú, qué dices del que te abrió los ojos? Y él dijo: Que es profeta."
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Mas los Judíos no creían de él, que había sido ciego, y hubiese recibido la vista, hasta que llamaron a los padres del que había recibido la vista;"
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Y preguntáronles, diciendo: ¿Es éste vuestro hijo, el que vosotros decís que nació ciego? ¿Cómo, pues, ve ahora?"
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Respondiéronles sus padres y dijeron: Sabemos que éste es nuestro hijo, y que nació ciego:"
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "Mas cómo vea ahora, no sabemos; o quién le haya abierto los ojos, nosotros no lo sabemos; él tiene edad, preguntadle a él; él hablará de sí."
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "Esto dijeron sus padres, porque tenían miedo de los Judíos: porque ya los Judíos habían resuelto que si alguno confesase ser él el Mesías, fuese fuera de la sinagoga."
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "Por eso dijeron sus padres: Edad tiene, preguntadle a él."
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "Así que, volvieron a llamar al hombre que había sido ciego, y dijéronle: Da gloria a Dios: nosotros sabemos que este hombre es pecador."
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "Entonces él respondió, y dijo: Si es pecador, no lo sé: una cosa sé, que habiendo yo sido ciego, ahora veo."
+      ]
+    },
+    {
+      "verse": 26,
+      "segments": [
+        "Y volviéronle a decir: ¿Qué te hizo? ¿Cómo te abrió los ojos?"
+      ]
+    },
+    {
+      "verse": 27,
+      "segments": [
+        "Respondióles: Ya os lo he dicho, y no habéis atendido: ¿por qué lo queréis otra vez oir? ¿queréis también vosotros haceros sus discípulos?"
+      ]
+    },
+    {
+      "verse": 28,
+      "segments": [
+        "Y le ultrajaron, y dijeron: Tú eres su discípulo; pero nosotros discípulos de ",
+        {
+          "entryId": "moshe",
+          "form": "Moshe"
+        },
+        " somos."
+      ]
+    },
+    {
+      "verse": 29,
+      "segments": [
+        "Nosotros sabemos que a ",
+        {
+          "entryId": "moshe",
+          "form": "Moshe"
+        },
+        " habló Dios: mas éste no sabemos de dónde es."
+      ]
+    },
+    {
+      "verse": 30,
+      "segments": [
+        "Respondió aquel hombre, y díjoles: Por cierto, maravillosa cosa es ésta, que vosotros no sabéis de dónde sea, y a mí me abrió los ojos."
+      ]
+    },
+    {
+      "verse": 31,
+      "segments": [
+        "Y sabemos que Dios no oye a los pecadores: mas si alguno es temeroso de Dios, y hace su voluntad, a éste oye."
+      ]
+    },
+    {
+      "verse": 32,
+      "segments": [
+        "Desde el siglo no fue oído, que abriese alguno los ojos de uno que nació ciego."
+      ]
+    },
+    {
+      "verse": 33,
+      "segments": [
+        "Si éste no fuera de Dios, no pudiera hacer nada."
+      ]
+    },
+    {
+      "verse": 34,
+      "segments": [
+        "Respondieron, y dijéronle: En pecados eres nacido todo, ¿y tú nos enseñas? Y echáronle fuera."
+      ]
+    },
+    {
+      "verse": 35,
+      "segments": [
+        "Oyó ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " que le habían echado fuera; y hallándole, díjole: ¿Crees tú en el Hijo de Dios?"
+      ]
+    },
+    {
+      "verse": 36,
+      "segments": [
+        "Respondió él, y dijo: ¿Quién es, Señor, para que crea en él?"
+      ]
+    },
+    {
+      "verse": 37,
+      "segments": [
+        "Y díjole ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": Y le has visto, y el que habla contigo, él es."
+      ]
+    },
+    {
+      "verse": 38,
+      "segments": [
+        "Y él dice: Creo, Señor; y adoróle."
+      ]
+    },
+    {
+      "verse": 39,
+      "segments": [
+        "Y dijo ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": Yo, para juicio he venido a este mundo: para que los que no ven, vean; y los que ven, sean cegados."
+      ]
+    },
+    {
+      "verse": 40,
+      "segments": [
+        "Y ciertos de los ",
+        {
+          "entryId": "perushim",
+          "form": "Perushim"
+        },
+        " que estaban con él oyeron esto, y dijéronle: ¿Somos nosotros también ciegos?"
+      ]
+    },
+    {
+      "verse": 41,
+      "segments": [
+        "Díjoles ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": Si fuerais ciegos, no tuvierais pecado: mas ahora porque decís, Vemos, por tanto vuestro pecado permanece."
+      ]
+    }
+  ]
+}

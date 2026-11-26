@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Biblia Origen | Lee, explora y comprende</title>
+  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="icon" type="image/svg+xml" href="img/logo.svg" />
+  <meta name="theme-color" content="#151b24" />
+  <meta name="application-name" content="Biblia Origen" />
+  <meta name="description"
+      content="Explora las Sagradas Escrituras, descubre los nombres originales y comprende el significado de cada palabra.">
+
+  <meta name="application-name" content="Biblia Origen">
+
+  <meta name="theme-color" content="#151b24">
+
+  <meta property="og:type" content="website">
+
+  <meta property="og:locale" content="es_ES">
+
+  <meta property="og:site_name" content="Biblia Origen">
+
+  <meta property="og:title"
+        content="Biblia Origen | Descubre la raíz de cada palabra">
+
+  <meta property="og:description"
+        content="Una nueva forma de leer, explorar y estudiar las Sagradas Escrituras.">
+</head>
+<body>
+  
+<header class="topbar">
+
+  <!-- IDENTIDAD PRINCIPAL DE BIBLIA ORIGEN -->
+
+  <div class="brand-header">
+
+    <button
+      type="button"
+      id="brand-home-btn"
+      class="brand-lockup"
+      aria-label="Biblia Origen: volver a la biblioteca"
+    >
+
+      <img
+        src="img/logo.svg"
+        class="brand-logo"
+        width="56"
+        height="56"
+        alt=""
+      >
+
+      <span class="brand-text">
+
+        <span class="brand-name">
+          Biblia Origen
+        </span>
+
+        <span class="brand-tagline">
+          Descubre la raíz de cada palabra.
+        </span>
+
+      </span>
+
+    </button>
+
+    <button
+      type="button"
+      id="books-home-btn"
+      class="home-btn"
+      hidden
+    ><svg
+        xmlns="http://www.w3.org/2000/svg"
+        width="16"
+        height="16"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="1.5"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        aria-hidden="true"
+      >
+        <path d="M4 6v14"/>
+        <path d="M8 6v14"/>
+        <path d="M12 6v14"/>
+        <path d="m16 6 4 14"/>
+      </svg>
+      <span>Biblioteca</span>
+    </button>
+
+  </div>
+
+  <!-- CONTROLES DEL LECTOR BÍBLICO -->
+
+  <div
+    id="reader-toolbar"
+    class="reader-toolbar"
+    hidden
+  >
+
+    <!-- Nombre del libro y capítulo -->
+
+    <div class="book-heading">
+
+      <button
+        type="button"
+        id="book-title-btn"
+        class="title-btn"
+      >
+        Libro
+      </button>
+
+      <span
+        id="book-title-extra"
+        class="title-extra"
+      ></span>
+
+      <select
+        id="chapter-select"
+        class="chapter-select"
+        aria-label="Seleccionar capítulo"
+      ></select>
+
+    </div>
+
+    <!-- Buscador de términos -->
+
+    <div
+      id="reader-search-wrap"
+      class="search-box"
+    >
+
+      <input
+        type="search"
+        id="chapter-search"
+        class="chapter-search"
+        placeholder="Buscar término, palabra o versículo..."
+        aria-label="Buscar en el capítulo"
+        autocomplete="off"
+      >
+
+      <button
+        type="button"
+        id="clear-search-btn"
+        class="clear-search-btn"
+        aria-label="Limpiar búsqueda"
+        hidden
+      >
+        ×
+      </button>
+
+      <span
+        id="search-count"
+        class="search-count"
+        aria-live="polite"
+      ></span>
+
+      <button
+        type="button"
+        id="jump-match-btn"
+        class="jump-match-btn"
+        hidden
+      >
+        Ir
+      </button>
+
+    </div>
+
+    <!-- Modos de lectura -->
+
+    <div
+      id="reader-controls-wrap"
+      class="controls"
+    >
+
+      <button
+        type="button"
+        data-mode="original"
+        class="active"
+        aria-pressed="true"
+      >
+        Original
+      </button>
+
+      <button
+        type="button"
+        data-mode="bridge"
+        aria-pressed="false"
+      >
+        Puente
+      </button>
+
+      <button
+        type="button"
+        data-mode="study"
+        aria-pressed="false"
+      >
+        Estudio
+      </button>
+
+    </div>
+
+  </div>
+
+</header>
+
+
+  <section id="library-view" class="library-view">
+  <header class="library-epigraph">
+    <p class="library-epigraph__quote">
+      «Lámpara es a mis pies tu palabra, y lumbrera a mi camino.»
+    </p>
+    <span class="library-epigraph__ref">Salmos 119:105</span>
+  </header>
+
+  <section class="testament-block">
+    <h2 class="testament-heading">Antiguo Testamento</h2>
+    <div id="ot-books-grid"></div>
+  </section>
+
+  <section class="testament-block">
+    <h2 class="testament-heading">Nuevo Testamento</h2>
+    <div id="nt-books-grid"></div>
+  </section>
+</section>
+
+  <div id="reader-view">
+    <div id="book-banner-wrap" class="book-banner-wrap" hidden>
+      <img id="book-banner-img" class="book-banner-img" alt="" />
+    </div>
+
+    <main class="layout">
+      <section id="reader" class="reader" aria-live="polite"></section>
+      <nav id="chapter-nav" class="chapter-nav" aria-label="Navegación entre capítulos" hidden></nav>
+      <aside id="inspector" class="inspector">
+        <h2>Inspector de término</h2>
+        <p class="muted">Pulsa sobre una palabra resaltada para ver su ficha.</p>
+      </aside>
+    </main>
+  </div>
+
+  <div id="term-tooltip" class="term-tooltip" role="dialog" aria-live="polite" hidden></div>
+  <script src="js/app.js"></script>
+</body>
+</html>

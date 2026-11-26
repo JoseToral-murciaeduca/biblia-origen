@@ -1,0 +1,461 @@
+{
+  "bookId": "loukas",
+  "titleEntryId": "book_loukas",
+  "bookTitle": "Loukas",
+  "chapter": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "Y EN el año quince del imperio de ",
+        {
+          "entryId": "tiberius",
+          "form": "Tiberius"
+        },
+        " César, siendo gobernador de ",
+        {
+          "entryId": "yehuda_region",
+          "form": "Yehudá"
+        },
+        " Poncio ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        ", y ",
+        {
+          "entryId": "herodes",
+          "form": "Herodes"
+        },
+        " tetrarca de ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        ", y su hermano ",
+        {
+          "entryId": "philippos",
+          "form": "Philippos"
+        },
+        " tetrarca de Iturea y de la provincia de Traconite, y Lisanias tetrarca de Abilinia,"
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Siendo sumos sacerdotes ",
+        {
+          "entryId": "janan_sumosacerdote",
+          "form": "Janan"
+        },
+        " y ",
+        {
+          "entryId": "qayafa",
+          "form": "Qayafa"
+        },
+        ", vino palabra del Señor sobre ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        ", hijo de Zacarías, en el desierto."
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Y él vino por toda la tierra al rededor del ",
+        {
+          "entryId": "yarden",
+          "form": "Yarden"
+        },
+        " predicando el bautismo del ",
+        {
+          "entryId": "metanoia",
+          "form": "arrepentimiento"
+        },
+        " para la remisión de pecados;"
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Como está escrito en el libro de las palabras del profeta ",
+        {
+          "entryId": "yeshayahu",
+          "form": "Yeshayahu"
+        },
+        " que dice: Voz del que clama en el desierto: Aparejad el camino del Señor, haced derechas sus sendas."
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Todo valle se henchirá, y bajaráse todo monte y collado; y los caminos torcidos serán enderezados, y los caminos ásperos allanados;"
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Y verá toda carne la salvación de Dios."
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "Y decía a las gentes que salían para ser bautizadas de él: ¡Oh generación de víboras, quién os enseñó a huir de la ira que vendrá?"
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Haced, pues, frutos dignos de ",
+        {
+          "entryId": "metanoia",
+          "form": "arrepentimiento"
+        },
+        ", y no comencéis a decir en vosotros mismos: Tenemos a ",
+        {
+          "entryId": "avraham",
+          "form": "Avraham"
+        },
+        " por padre: porque os digo que puede Dios, aun de estas piedras, levantar hijos a ",
+        {
+          "entryId": "avraham",
+          "form": "Avraham"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Y ya también el hacha está puesta a la raíz de los árboles: todo árbol pues que no hace buen fruto, es cortado, y echado en el fuego."
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Y las gentes le preguntaban, diciendo: ¿Pues qué haremos?"
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "Y respondiendo, les dijo: El que tiene dos túnicas, dé al que no tiene; y el que tiene qué comer, haga lo mismo."
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Y vinieron también publicanos para ser bautizados, y le dijeron: Maestro, ¿qué haremos?"
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Y él les dijo: No exijáis más de lo que os está ordenado."
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Y le preguntaron también los soldados, diciendo: Y nosotros, ¿qué haremos? Y les dice: No hagáis extorsión a nadie, ni calumniéis; y contentaos con vuestras pagas."
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Y estando el pueblo esperando, y pensando todos de ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        " en sus corazones, si él fuese el ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        ","
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "Respondió ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        ", diciendo a todos: Yo, a la verdad, os bautizo en agua; mas viene quien es más poderoso que yo, de quien no soy digno de desatar la correa de sus zapatos: él os bautizará en ",
+        {
+          "entryId": "ruaj_haqodesh",
+          "form": "Ruaj HaQodesh"
+        },
+        " y fuego;"
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Cuyo bieldo está en su mano, y limpiará su era, y juntará el trigo en su alfolí, y la paja quemará en fuego que nunca se apagará."
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Y amonestando, otras muchas cosas también anunciaba al pueblo."
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Entonces ",
+        {
+          "entryId": "herodes",
+          "form": "Herodes"
+        },
+        " el tetrarca, siendo reprendido por él a causa de Herodías, mujer de ",
+        {
+          "entryId": "philippos",
+          "form": "Philippos"
+        },
+        " su hermano, y de todas las maldades que había hecho ",
+        {
+          "entryId": "herodes",
+          "form": "Herodes"
+        },
+        ","
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Añadió también esto sobre todo, que encerró a ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        " en la cárcel."
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "Y aconteció que, como todo el pueblo se bautizaba, también ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " fue bautizado; y orando, el cielo se abrió,"
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "Y descendió el ",
+        {
+          "entryId": "ruaj_haqodesh",
+          "form": "Ruaj HaQodesh"
+        },
+        " sobre él en forma corporal, como paloma, y fue hecha una voz del cielo que decía: Tú eres mi Hijo amado, en ti me he complacido."
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "Y el mismo ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " comenzaba a ser como de treinta años, hijo de ",
+        {
+          "entryId": "yosef",
+          "form": "Yosef"
+        },
+        ", como se creía; que fue hijo de Elí,"
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "Que fue de Mathat, que fue de Leví, que fue de Melchî, que fue de Janna, que fue de ",
+        {
+          "entryId": "yosef",
+          "form": "Yosef"
+        },
+        ","
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "Que fue de Mattathías, que fue de Amós, que fue de Nahum, que fue de Esli,"
+      ]
+    },
+    {
+      "verse": 26,
+      "segments": [
+        "Que fue de Naggai, que fue de Maat, que fue de Mattathías, que fue de Semei, que fue de ",
+        {
+          "entryId": "yosef",
+          "form": "Yosef"
+        },
+        ", que fue de Judá,"
+      ]
+    },
+    {
+      "verse": 27,
+      "segments": [
+        "Que fue de Joanna, que fue de Rhesa, que fue de ",
+        {
+          "entryId": "zerubavel",
+          "form": "Zerubavel"
+        },
+        ", que fue de ",
+        {
+          "entryId": "shealtiel",
+          "form": "Shealtiel"
+        },
+        ","
+      ]
+    },
+    {
+      "verse": 28,
+      "segments": [
+        "Que fue de Neri, que fue de Melchî, que fue de Abdi, que fue de Cosam, que fue de Elmodam, que fue de Er,"
+      ]
+    },
+    {
+      "verse": 29,
+      "segments": [
+        "Que fue de Josué, que fue de Eliezer, que fue de Joreim, que fue de Mathat,"
+      ]
+    },
+    {
+      "verse": 30,
+      "segments": [
+        "Que fue de Leví, que fue de Simeón, que fue de Judá, que fue de ",
+        {
+          "entryId": "yosef",
+          "form": "Yosef"
+        },
+        ", que fue de Jonán, que fue de Eliachîm,"
+      ]
+    },
+    {
+      "verse": 31,
+      "segments": [
+        "Que fue de Melea, que fue de Mainán, que fue de Mattatha, que fue de Nathán,"
+      ]
+    },
+    {
+      "verse": 32,
+      "segments": [
+        "Que fue de ",
+        {
+          "entryId": "david",
+          "form": "David"
+        },
+        ", que fue de ",
+        {
+          "entryId": "yishai",
+          "form": "Yishai"
+        },
+        ", que fue de ",
+        {
+          "entryId": "oved",
+          "form": "Oved"
+        },
+        ", que fue de ",
+        {
+          "entryId": "boaz",
+          "form": "Boaz"
+        },
+        ", que fue de ",
+        {
+          "entryId": "salmon",
+          "form": "Salmón"
+        },
+        ", que fue de ",
+        {
+          "entryId": "najshon",
+          "form": "Najshón"
+        },
+        ","
+      ]
+    },
+    {
+      "verse": 33,
+      "segments": [
+        "Que fue de ",
+        {
+          "entryId": "aminadav",
+          "form": "Aminadav"
+        },
+        ", que fue de ",
+        {
+          "entryId": "ram",
+          "form": "Ram"
+        },
+        ", que fue de ",
+        {
+          "entryId": "jetzron",
+          "form": "Jetzrón"
+        },
+        ", que fue de ",
+        {
+          "entryId": "peretz",
+          "form": "Peretz"
+        },
+        ","
+      ]
+    },
+    {
+      "verse": 34,
+      "segments": [
+        "Que fue de ",
+        {
+          "entryId": "yehuda_patriarca",
+          "form": "Yehudá"
+        },
+        ", que fue de Jacob, que fue de ",
+        {
+          "entryId": "yitzjaq",
+          "form": "Yitzjaq"
+        },
+        ", que fue de ",
+        {
+          "entryId": "avraham",
+          "form": "Avraham"
+        },
+        ", que fue de Thara, que fue de Nachôr,"
+      ]
+    },
+    {
+      "verse": 35,
+      "segments": [
+        "Que fue de Saruch, que fue de Ragau, que fue de Phalec, que fue de Heber,"
+      ]
+    },
+    {
+      "verse": 36,
+      "segments": [
+        "Que fue de Sala, que fue de Cainán, que fue de Arphaxad, que fue de Sem, que fue de Noé, que fue de Lamech,"
+      ]
+    },
+    {
+      "verse": 37,
+      "segments": [
+        "Que fue de Mathusala, que fue de Enoch, que fue de Jared, que fue de Maleleel,"
+      ]
+    },
+    {
+      "verse": 38,
+      "segments": [
+        "Que fue de Cainán, que fue de Enós, que fue de Seth, que fue de Adam, que fue de Dios."
+      ]
+    }
+  ]
+}

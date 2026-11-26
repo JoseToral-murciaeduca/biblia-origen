@@ -1,0 +1,36 @@
+{
+  "bookId": "marqos",
+  "titleEntryId": "book_marqos",
+  "bookTitle": "Marqos",
+  "chapter": 16,
+  "textualNotes": [
+    {
+      "fromVerse": 9,
+      "toVerse": 20,
+      "type": "manuscript_variant",
+      "note": "Final largo de Marqos, presente en la Reina-Valera 1909 y en numerosos manuscritos, pero ausente en algunos de los testimonios griegos más antiguos conservados, incluidos los códices Sinaítico y Vaticano."
+    }
+  ],
+  "verses": [
+    {"verse": 1, "segments": ["Y pasado el ", {"entryId": "shabbat"}, ", Miryam de Magdala, Miryam madre de Ya'aqov y Shalomé compraron aromas para ir a ungirle."]},
+    {"verse": 2, "segments": ["Y muy de mañana, el primer día de la semana, llegaron al sepulcro, habiendo salido ya el sol."]},
+    {"verse": 3, "segments": ["Y decían entre sí: «¿Quién nos removerá la piedra de la entrada del sepulcro?»."]},
+    {"verse": 4, "segments": ["Y levantando la mirada, vieron que la piedra había sido removida, aunque era muy grande."]},
+    {"verse": 5, "segments": ["Y entrando en el sepulcro, vieron a un joven sentado al lado derecho, vestido con una larga túnica blanca; y se atemorizaron."]},
+    {"verse": 6, "segments": ["Pero él les dijo: «No os asustéis. Buscáis a ", {"entryId": "yeshua"}, " el Nazareno, el que fue crucificado. Ha resucitado; no está aquí. Mirad el lugar donde le depositaron."]},
+    {"verse": 7, "segments": ["Mas id, decid a sus discípulos y a ", {"entryId": "simon_kefa", "form": "Kefa"}, " que él va delante de vosotros al ", {"entryId": "galil"}, "; allí le veréis, como os dijo»."]},
+    {"verse": 8, "segments": ["Y ellas salieron huyendo del sepulcro, porque estaban llenas de temblor y asombro; y no dijeron nada a nadie, porque tenían miedo."]},
+    {"verse": 9, "segments": ["Y habiendo resucitado ", {"entryId": "yeshua"}, " por la mañana, el primer día de la semana, apareció primeramente a Miryam de Magdala, de quien había expulsado siete demonios."]},
+    {"verse": 10, "segments": ["Ella fue y lo anunció a los que habían estado con él, quienes estaban entristecidos y lloraban."]},
+    {"verse": 11, "segments": ["Y ellos, al oír que vivía y que había sido visto por ella, no lo creyeron."]},
+    {"verse": 12, "segments": ["Después apareció en otra forma a dos de ellos que iban caminando hacia el campo."]},
+    {"verse": 13, "segments": ["Y ellos fueron y lo anunciaron a los demás, pero tampoco les creyeron."]},
+    {"verse": 14, "segments": ["Finalmente apareció a los once mientras estaban sentados a la mesa, y les reprendió por su incredulidad y dureza de corazón, porque no habían creído a quienes le habían visto resucitado."]},
+    {"verse": 15, "segments": ["Y les dijo: «Id por todo el mundo y proclamad la buena noticia a toda criatura."]},
+    {"verse": 16, "segments": ["El que crea y sea bautizado será salvo; pero el que no crea será condenado."]},
+    {"verse": 17, "segments": ["Y estas señales acompañarán a los que crean: en mi nombre expulsarán demonios y hablarán nuevas lenguas;"]},
+    {"verse": 18, "segments": ["tomarán serpientes, y si bebieren alguna cosa mortífera, no les hará daño; pondrán las manos sobre los enfermos, y sanarán»."]},
+    {"verse": 19, "segments": ["Y el Señor, después de hablarles, fue recibido en el cielo y se sentó a la derecha de ", {"entryId": "elohim"}, "."]},
+    {"verse": 20, "segments": ["Y ellos salieron y proclamaron la palabra por todas partes, obrando el Señor juntamente con ellos y confirmando la palabra mediante las señales que la acompañaban. Amén."]}
+  ]
+}

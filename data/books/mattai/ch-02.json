@@ -1,0 +1,236 @@
+{
+  "bookId": "mattai",
+  "titleEntryId": "book_mattai",
+  "bookTitle": "Mattai",
+  "chapter": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "Y COMO fue nacido ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " en ",
+        {
+          "entryId": "beit_lejem",
+          "form": "Beit Lejem"
+        },
+        " de ",
+        {
+          "entryId": "yehuda_region",
+          "form": "Yehudá"
+        },
+        " en días del rey Herodes, he aquí unos magos vinieron del oriente a ",
+        {
+          "entryId": "yerushalayim",
+          "form": "Yerushalayim"
+        },
+        ","
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Diciendo: ¿Dónde está el Rey de los Judíos, que ha nacido? porque su estrella hemos visto en el oriente, y venimos a adorarle."
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Y oyendo esto el rey Herodes, se turbó, y toda ",
+        {
+          "entryId": "yerushalayim",
+          "form": "Yerushalayim"
+        },
+        " con él."
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Y convocados todos los príncipes de los sacerdotes, y los escribas del pueblo, les preguntó dónde había de nacer el ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Y ellos le dijeron: En ",
+        {
+          "entryId": "beit_lejem",
+          "form": "Beit Lejem"
+        },
+        " de ",
+        {
+          "entryId": "yehuda_region",
+          "form": "Yehudá"
+        },
+        "; porque así está escrito por el profeta:"
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Y tú, ",
+        {
+          "entryId": "beit_lejem",
+          "form": "Beit Lejem"
+        },
+        ", de tierra de Judá, no eres muy pequeña entre los príncipes de Judá; porque de ti saldrá un guiador, que apacentará a mi pueblo Israel."
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "Entonces Herodes, llamando en secreto a los magos, entendió de ellos diligentemente el tiempo del aparecimiento de la estrella;"
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Y enviándolos a ",
+        {
+          "entryId": "beit_lejem",
+          "form": "Beit Lejem"
+        },
+        ", dijo: Andad allá, y preguntad con diligencia por el niño; y después que le hallareis, hacédmelo saber, para que yo también vaya y le adore."
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Y ellos, habiendo oído al rey, se fueron: y he aquí la estrella que habían visto en el oriente, iba delante de ellos, hasta que llegando, se puso sobre donde estaba el niño."
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Y vista la estrella, se regocijaron con muy grande gozo."
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "Y entrando en la casa, vieron al niño con su madre ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        ", y postrándose, le adoraron; y abriendo sus tesoros, le ofrecieron dones, oro e incienso y mirra."
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Y siendo avisados por revelación en sueños que no volviesen a Herodes, se volvieron a su tierra por otro camino."
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Y partidos ellos, he aquí el ángel del Señor aparece en sueños a ",
+        {
+          "entryId": "yosef",
+          "form": "Yosef"
+        },
+        ", diciendo: Levántate, y toma al niño y a su madre, y huye a Egipto, y estáte allá hasta que yo te lo diga; porque ha de acontecer, que Herodes buscará al niño para matarlo."
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Y él despertando, tomó al niño y a su madre de noche, y se fue a Egipto;"
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Y estuvo allá hasta la muerte de Herodes: para que se cumpliese lo que fue dicho por el Señor, por el profeta que dijo: De Egipto llamé a mi Hijo."
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "Herodes entonces, como se vio burlado de los magos, se enojó mucho, y envió, y mató a todos los niños que había en ",
+        {
+          "entryId": "beit_lejem",
+          "form": "Beit Lejem"
+        },
+        " y en todos sus términos, de edad de dos años abajo, conforme al tiempo que había entendido de los magos."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Entonces fue cumplido lo que se había dicho por el profeta ",
+        {
+          "entryId": "yirmeyahu",
+          "form": "Yirmeyahu"
+        },
+        ", que dijo:"
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Voz fue oída en Ramá, grande lamentación, lloro y gemido: Rachêl que llora sus hijos; y no quiso ser consolada, porque perecieron."
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Mas muerto Herodes, he aquí el ángel del Señor aparece en sueños a ",
+        {
+          "entryId": "yosef",
+          "form": "Yosef"
+        },
+        " en Egipto,"
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Diciendo: Levántate, y toma al niño y a su madre, y vete a tierra de Israel; que muertos son los que procuraban la muerte del niño."
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "Entonces él se levantó, y tomó al niño y a su madre, y se vino a tierra de Israel."
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "Y oyendo que Archelao reinaba en ",
+        {
+          "entryId": "yehuda_region",
+          "form": "Yehudá"
+        },
+        " en lugar de Herodes su padre, temió ir allá: mas amonestado por revelación en sueños, se fue a las partes de ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "Y vino, y habitó en la ciudad que se llama ",
+        {
+          "entryId": "natzeret",
+          "form": "Natzeret"
+        },
+        ": para que se cumpliese lo que fue dicho por los profetas, que había de ser llamado Nazareno."
+      ]
+    }
+  ]
+}
