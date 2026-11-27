@@ -1,6 +1,7 @@
 
 const APP_NAME = "Biblia Origen";
 const APP_TAGLINE = "Descubre la raíz de cada palabra.";
+
 const PROGRESS_STORAGE_KEY = "escrituras_progress_v1";
 const LIBRARY_STORAGE_KEY = "biblia_origen_library_v1";
 const EPIGRAPH_STORAGE_KEY = "biblia_origen_last_epigraph_v1";
@@ -43,6 +44,7 @@ const state = {
   highlightTimer: null,
   navigationId: 0
 };
+
 
 // ==========================================
 // UTILIDADES
@@ -102,6 +104,7 @@ function showStatusMessage(message, isError = false) {
   reader.appendChild(p);
 }
 
+
 // ==========================================
 // PROGRESO DE LECTURA
 // ==========================================
@@ -109,8 +112,13 @@ function showStatusMessage(message, isError = false) {
 function loadProgressMap() {
   try {
     const raw = localStorage.getItem(PROGRESS_STORAGE_KEY);
+    const parsed = raw ? JSON.parse(raw) : {};
 
-    return raw ? JSON.parse(raw) : {};
+    return parsed &&
+      typeof parsed === "object" &&
+      !Array.isArray(parsed)
+      ? parsed
+      : {};
   } catch {
     return {};
   }
@@ -183,6 +191,7 @@ function getBookProgressSummary(book) {
   };
 }
 
+
 // ==========================================
 // CATÁLOGO Y DETECCIÓN DE ARCHIVOS
 // ==========================================
@@ -211,9 +220,14 @@ function validateChapter(data, bookId, chapterNum) {
     Number(data.chapter) === Number(chapterNum) &&
     Array.isArray(data.verses) &&
     data.verses.length > 0 &&
+
     data.verses.every(verse =>
+      verse !== null &&
+      typeof verse === "object" &&
       Number.isInteger(verse.verse) &&
+      verse.verse > 0 &&
       Array.isArray(verse.segments) &&
+
       verse.segments.every(segment =>
         typeof segment === "string" ||
         (
@@ -259,7 +273,11 @@ async function checkChapterExists(bookId, chapterNum) {
       formatChapterPath(bookId, num)
     );
 
-    const valid = validateChapter(data, bookId, num);
+    const valid = validateChapter(
+      data,
+      bookId,
+      num
+    );
 
     state.chapterExistsCache[key] = valid;
 
@@ -352,30 +370,25 @@ async function discoverChapters(bookId) {
   return found;
 }
 
+
 // ==========================================
 // VISIBILIDAD DE LAS VISTAS
 // ==========================================
 
-
 function syncViewVisibility() {
   const isLibrary = state.view === "library";
 
-  // Mostrar la biblioteca o el lector.
   $("library-view").hidden = !isLibrary;
   $("reader-view").hidden = isLibrary;
 
-  // Mostrar u ocultar la barra secundaria.
   $("reader-toolbar").hidden = isLibrary;
 
-  // Controles exclusivos del lector.
   $("reader-search-wrap").hidden = isLibrary;
   $("reader-controls-wrap").hidden = isLibrary;
   $("chapter-select").hidden = isLibrary;
 
-  // Botón para regresar a la biblioteca.
   $("books-home-btn").hidden = isLibrary;
 
-  // Restablecer la cabecera del libro.
   if (isLibrary) {
     $("book-title-btn").textContent = "";
     $("book-title-btn").onclick = null;
@@ -497,7 +510,13 @@ function loadLibraryPreferences() {
       LIBRARY_STORAGE_KEY
     );
 
-    return raw ? JSON.parse(raw) || {} : {};
+    const parsed = raw ? JSON.parse(raw) : {};
+
+    return parsed &&
+      typeof parsed === "object" &&
+      !Array.isArray(parsed)
+      ? parsed
+      : {};
 
   } catch {
     return {};
@@ -553,21 +572,15 @@ function createLibraryToggle(
     panel.id
   );
 
-  // Flecha desplegable.
-
   const arrow = document.createElement("span");
 
   arrow.className = "library-toggle__arrow";
   arrow.setAttribute("aria-hidden", "true");
 
-  // Título de la sección.
-
   const label = document.createElement("span");
 
   label.className = "library-toggle__label";
   label.textContent = title;
-
-  // Contador de libros.
 
   const count = document.createElement("span");
 
@@ -598,10 +611,7 @@ function createLibraryToggle(
 
     syncExpanded();
 
-    saveLibraryPreference(
-      key,
-      expanded
-    );
+    saveLibraryPreference(key, expanded);
   });
 
   heading.replaceChildren(button);
@@ -619,6 +629,7 @@ function getLastEpigraph() {
     return localStorage.getItem(
       EPIGRAPH_STORAGE_KEY
     ) || lastEpigraphKey;
+
   } catch {
     return lastEpigraphKey;
   }
@@ -633,11 +644,9 @@ function saveLastEpigraph(key) {
       key
     );
   } catch {
-    // Continuar si el almacenamiento no está disponible.
+    // Continuar sin almacenamiento persistente.
   }
 }
-
-// Mezclar las referencias aleatoriamente.
 
 function shuffleEpigraphs(items) {
   const shuffled = [...items];
@@ -654,8 +663,6 @@ function shuffleEpigraphs(items) {
   return shuffled;
 }
 
-// Identificador único de cada versículo.
-
 function getEpigraphKey(reference) {
   return (
     `${reference.bookIds[0]}:` +
@@ -664,10 +671,7 @@ function getEpigraphKey(reference) {
   );
 }
 
-// Obtener el versículo desde los capítulos publicados.
-
 async function resolveEpigraph(reference) {
-
   const book = state.availableBooks.find(
     item => reference.bookIds.includes(item.id)
   );
@@ -681,8 +685,7 @@ async function resolveEpigraph(reference) {
 
   if (!exists) return null;
 
-  const key =
-    `${book.id}:${reference.chapter}`;
+  const key = `${book.id}:${reference.chapter}`;
 
   const chapter = state.chapterCache[key];
 
@@ -690,8 +693,7 @@ async function resolveEpigraph(reference) {
 
   const verse = chapter.verses.find(
     item =>
-      Number(item.verse) ===
-      Number(reference.verse)
+      Number(item.verse) === Number(reference.verse)
   );
 
   if (!verse) return null;
@@ -707,10 +709,7 @@ async function resolveEpigraph(reference) {
   };
 }
 
-// Mostrar el versículo conservando sus tooltips.
-
 function renderLibraryEpigraph(epigraph) {
-
   const quote = $("library-epigraph-quote");
   const reference = $("library-epigraph-ref");
 
@@ -724,18 +723,13 @@ function renderLibraryEpigraph(epigraph) {
 
   epigraph.segments.forEach(segment => {
 
-    // Texto castellano normal.
-
     if (typeof segment === "string") {
-
       quote.appendChild(
         document.createTextNode(segment)
       );
 
       return;
     }
-
-    // Palabras vinculadas al diccionario.
 
     const entry =
       state.dictionary[segment.entryId] || {};
@@ -745,17 +739,13 @@ function renderLibraryEpigraph(epigraph) {
       entry.defaultForm ||
       segment.entryId;
 
-    const button = document.createElement(
-      "button"
-    );
+    const button = document.createElement("button");
 
     button.type = "button";
     button.className = "term-btn";
-
     button.textContent = displayForm;
 
     button.addEventListener("click", event => {
-
       event.stopPropagation();
 
       openTermTooltip(
@@ -764,7 +754,7 @@ function renderLibraryEpigraph(epigraph) {
         button
       );
 
-      // La biblioteca no dispone de inspector visible.
+      // La biblioteca no tiene inspector visible.
 
       const actions = $("term-tooltip")
         .querySelector(".tooltip-actions");
@@ -772,11 +762,9 @@ function renderLibraryEpigraph(epigraph) {
       if (actions) {
         actions.hidden = true;
       }
-
     });
 
     quote.appendChild(button);
-
   });
 
   quote.appendChild(
@@ -788,14 +776,10 @@ function renderLibraryEpigraph(epigraph) {
   saveLastEpigraph(epigraph.key);
 }
 
-// Seleccionar un nuevo versículo destacado.
-
 async function updateLibraryEpigraph() {
-
   const navigationId = state.navigationId;
 
   try {
-
     const references = await fetchJson(
       "data/featured-verses.json"
     );
@@ -821,8 +805,6 @@ async function updateLibraryEpigraph() {
     const shuffled = shuffleEpigraphs(
       validReferences
     );
-
-    // Priorizar los versículos diferentes al anterior.
 
     const candidates = [
       ...shuffled.filter(
@@ -857,30 +839,24 @@ async function updateLibraryEpigraph() {
       }
 
       if (epigraph) {
-
         renderLibraryEpigraph(epigraph);
 
         return;
       }
-
     }
 
   } catch (error) {
-
     console.warn(
       "No se pudo actualizar el versículo destacado.",
       error
     );
-
-    // Conservar la frase existente como alternativa.
-
   }
 }
+
 
 // ==========================================
 // BIBLIOTECA
 // ==========================================
-
 
 function renderTestamentSection(
   container,
@@ -909,18 +885,13 @@ function renderTestamentSection(
     (uncategorized.length > 0 ? 1 : 0);
 
   function renderCategory(category, categoryBooks) {
-
     const group = document.createElement("div");
 
     group.className = "category-group";
 
-    // Cabecera de la categoría.
-
     const heading = document.createElement("h3");
 
     heading.className = "category-heading";
-
-    // Cuadrícula de libros.
 
     const grid = document.createElement("div");
 
@@ -928,8 +899,6 @@ function renderTestamentSection(
 
     grid.id =
       `category-${testamentKey}-${category.key}`;
-
-    // Mantener el orden del catálogo original.
 
     categoryBooks.forEach(book => {
       grid.appendChild(
@@ -941,26 +910,17 @@ function renderTestamentSection(
 
     container.appendChild(group);
 
-    // Crear desplegable de la categoría.
-
     createLibraryToggle(
       heading,
       grid,
       `category:${testamentKey}:${category.key}`,
       category.label,
       categoryBooks.length,
-
-      // Si solamente hay una categoría publicada,
-      // se muestra abierta inicialmente.
-
       totalGroups === 1
     );
   }
 
-  // Categorías principales.
-
   visibleCategories.forEach(category => {
-
     const categoryBooks = books.filter(
       book => book.category === category.key
     );
@@ -971,10 +931,7 @@ function renderTestamentSection(
     );
   });
 
-  // Libros sin categoría reconocida.
-
   if (uncategorized.length > 0) {
-
     renderCategory(
       {
         key: "otros",
@@ -982,14 +939,10 @@ function renderTestamentSection(
       },
       uncategorized
     );
-
   }
 }
 
-
-
 function renderLibraryView() {
-
   const otGrid = $("ot-books-grid");
   const ntGrid = $("nt-books-grid");
 
@@ -1001,20 +954,11 @@ function renderLibraryView() {
     book => book.testament === "nt"
   );
 
-  const otBlock = otGrid.closest(
-    ".testament-block"
-  );
-
-  const ntBlock = ntGrid.closest(
-    ".testament-block"
-  );
-
-  // Ocultar testamentos sin libros publicados.
+  const otBlock = otGrid.closest(".testament-block");
+  const ntBlock = ntGrid.closest(".testament-block");
 
   otBlock.hidden = otBooks.length === 0;
   ntBlock.hidden = ntBooks.length === 0;
-
-  // Generar las categorías de cada testamento.
 
   renderTestamentSection(
     otGrid,
@@ -1028,8 +972,6 @@ function renderLibraryView() {
     ntBooks
   );
 
-  // Obtener las cabeceras existentes.
-
   const otHeading = otBlock.querySelector(
     ".testament-heading"
   );
@@ -1038,28 +980,18 @@ function renderLibraryView() {
     ".testament-heading"
   );
 
-  // Desplegable del Antiguo Testamento.
-
   if (otHeading) {
-
     createLibraryToggle(
       otHeading,
       otGrid,
       "testament:ot",
       "Antiguo Testamento",
       otBooks.length,
-
-      // Abrir inicialmente si es el único disponible.
-
       ntBooks.length === 0
     );
-
   }
 
-  // Desplegable del Nuevo Testamento.
-
   if (ntHeading) {
-
     createLibraryToggle(
       ntHeading,
       ntGrid,
@@ -1068,15 +1000,11 @@ function renderLibraryView() {
       ntBooks.length,
       true
     );
-
   }
-
-  // Mensaje cuando no hay libros disponibles.
 
   let emptyMessage = $("library-empty-message");
 
   if (!emptyMessage) {
-
     emptyMessage = document.createElement("p");
 
     emptyMessage.id = "library-empty-message";
@@ -1093,23 +1021,24 @@ function renderLibraryView() {
 
   emptyMessage.hidden =
     state.availableBooks.length > 0;
-  
-  // Mostrar el último libro abierto
+
+  // Fase 1: continuar leyendo.
+
   renderContinueReading();
 }
 
-
 async function openLibrary() {
-
   state.navigationId++;
 
   closeTooltip();
 
   state.view = "library";
+  state.bookId = null;
+  state.currentBookMeta = null;
+  state.chapter = null;
+  state.chapterNumber = 1;
 
-  const url = new URL(
-    window.location.href
-  );
+  const url = new URL(window.location.href);
 
   url.searchParams.delete("libro");
   url.searchParams.delete("cap");
@@ -1125,7 +1054,7 @@ async function openLibrary() {
 
   renderLibraryView();
 
-  // Seleccionar un nuevo versículo destacado.
+  // Actualizar el versículo destacado.
 
   void updateLibraryEpigraph();
 
@@ -1133,8 +1062,8 @@ async function openLibrary() {
     top: 0,
     behavior: "smooth"
   });
-
 }
+
 
 // ==========================================
 // APERTURA DE LIBROS
@@ -1145,10 +1074,10 @@ async function openBook(bookId, chapterNum = 1) {
 
   if (!book) {
     await openLibrary();
+
     return;
   }
 
-  // Cancelar cualquier búsqueda global activa.
   clearGlobalSearch();
 
   const navigationId = ++state.navigationId;
@@ -1164,14 +1093,19 @@ async function openBook(bookId, chapterNum = 1) {
   syncViewVisibility();
 
   $("book-title-btn").textContent = book.title;
+  $("book-title-btn").onclick = null;
+
   $("book-title-extra").textContent = "";
+
   $("chapter-nav").hidden = true;
   $("book-banner-wrap").hidden = true;
+
   $("chapter-select").innerHTML = "";
   $("chapter-select").disabled = true;
 
   $("inspector").innerHTML = `
     <h2>Inspector de término</h2>
+
     <p class="muted">
       Pulsa sobre una palabra resaltada para ver su ficha.
     </p>
@@ -1209,6 +1143,7 @@ async function openBook(bookId, chapterNum = 1) {
   await loadChapter(selected);
 }
 
+
 // ==========================================
 // SELECTOR DE CAPÍTULOS
 // ==========================================
@@ -1237,6 +1172,7 @@ function syncChapterSelectOptions() {
     state.chapterNumber
   );
 }
+
 
 // ==========================================
 // CARGA DE CAPÍTULOS
@@ -1270,7 +1206,9 @@ async function loadChapter(chapterNum) {
     let data = state.chapterCache[key];
 
     if (!data) {
-      showStatusMessage(`Cargando capítulo ${num}...`);
+      showStatusMessage(
+        `Cargando capítulo ${num}...`
+      );
 
       data = await fetchJson(
         formatChapterPath(bookId, num)
@@ -1300,17 +1238,22 @@ async function loadChapter(chapterNum) {
     url.searchParams.set("libro", bookId);
     url.searchParams.set("cap", String(num));
 
-    // Evitar conservar un versículo perteneciente
-    // al capítulo anterior.
+    // Limpiar el versículo del capítulo anterior.
+
     url.searchParams.delete("vers");
 
-    window.history.replaceState({}, "", url);
+    window.history.replaceState(
+      {},
+      "",
+      url
+    );
 
     syncChapterSelectOptions();
 
     render();
 
   } catch (error) {
+
     if (navigationId !== state.navigationId) {
       return;
     }
@@ -1337,6 +1280,7 @@ async function navigateToChapter(chapterNum) {
   });
 }
 
+
 // ==========================================
 // CABECERA Y BANNER
 // ==========================================
@@ -1344,11 +1288,10 @@ async function navigateToChapter(chapterNum) {
 function renderHeader() {
   if (!state.chapter) return;
 
-  const titleEntry =
-    state.dictionary[
-      state.chapter.titleEntryId ||
-      `book_${state.bookId}`
-    ];
+  const titleEntry = state.dictionary[
+    state.chapter.titleEntryId ||
+    `book_${state.bookId}`
+  ];
 
   const restoredTitle =
     titleEntry?.defaultForm ||
@@ -1380,7 +1323,8 @@ function renderHeader() {
     state.mode === "bridge" &&
     titleEntry?.bridgeGloss
   ) {
-    extra.textContent = `(${titleEntry.bridgeGloss})`;
+    extra.textContent =
+      `(${titleEntry.bridgeGloss})`;
   }
 
   if (
@@ -1401,7 +1345,9 @@ function renderHeader() {
 
   if (bannerSrc) {
     bannerImg.src = bannerSrc;
-    bannerImg.alt = `Banner de ${restoredTitle}`;
+
+    bannerImg.alt =
+      `Banner de ${restoredTitle}`;
 
     bannerWrap.hidden = false;
 
@@ -1413,8 +1359,9 @@ function renderHeader() {
   }
 }
 
+
 // ==========================================
-// BUSCADOR
+// BUSCADOR DEL CAPÍTULO
 // ==========================================
 
 function parseVerseNumberQuery(rawQuery) {
@@ -1444,7 +1391,10 @@ function segmentMatchesQuery(segment, entry, query) {
     entry?.bridgeGloss,
     entry?.transliteration,
     entry?.meaning,
-    ...Object.values(entry?.originalScript || {})
+
+    ...Object.values(
+      entry?.originalScript || {}
+    )
   ];
 
   return fields.some(
@@ -1457,13 +1407,16 @@ function verseMatchesQuery(verse, rawQuery) {
 
   if (!query) return true;
 
-  const targetVerse = parseVerseNumberQuery(rawQuery);
+  const targetVerse = parseVerseNumberQuery(
+    rawQuery
+  );
 
   if (targetVerse !== null) {
     return Number(verse.verse) === targetVerse;
   }
 
   const fullText = verse.segments.map(segment => {
+
     if (typeof segment === "string") {
       return segment;
     }
@@ -1476,6 +1429,7 @@ function verseMatchesQuery(verse, rawQuery) {
       entry.defaultForm ||
       segment.entryId
     );
+
   }).join("");
 
   if (normalizeText(fullText).includes(query)) {
@@ -1483,6 +1437,7 @@ function verseMatchesQuery(verse, rawQuery) {
   }
 
   return verse.segments.some(segment => {
+
     const entry = typeof segment === "object"
       ? state.dictionary[segment.entryId]
       : null;
@@ -1538,8 +1493,10 @@ function jumpToFirstMatch() {
     if (button && button.isConnected) {
       button.click();
     }
+
   }, 350);
 }
+
 
 // ==========================================
 // NAVEGACIÓN ENTRE CAPÍTULOS
@@ -1563,10 +1520,11 @@ function getAdjacentChapters() {
       ? chapters[index - 1]
       : null,
 
-    next: index >= 0 &&
-          index < chapters.length - 1
-      ? chapters[index + 1]
-      : null
+    next:
+      index >= 0 &&
+      index < chapters.length - 1
+        ? chapters[index + 1]
+        : null
   };
 }
 
@@ -1575,6 +1533,7 @@ function renderChapterNav() {
 
   if (!state.chapter) {
     nav.hidden = true;
+
     return;
   }
 
@@ -1588,6 +1547,7 @@ function renderChapterNav() {
   prevBtn.type = "button";
   prevBtn.className = "chapter-nav-btn";
   prevBtn.textContent = "← Capítulo anterior";
+
   prevBtn.disabled = previous === null;
 
   prevBtn.addEventListener("click", () => {
@@ -1606,6 +1566,7 @@ function renderChapterNav() {
   nextBtn.type = "button";
   nextBtn.className = "chapter-nav-btn";
   nextBtn.textContent = "Capítulo siguiente →";
+
   nextBtn.disabled = next === null;
 
   nextBtn.addEventListener("click", () => {
@@ -1619,6 +1580,7 @@ function renderChapterNav() {
   nav.hidden = false;
 }
 
+
 // ==========================================
 // RENDERIZADO DEL TEXTO BÍBLICO
 // ==========================================
@@ -1626,6 +1588,7 @@ function renderChapterNav() {
 function render() {
   if (state.view === "library") {
     syncViewVisibility();
+
     renderLibraryView();
 
     return;
@@ -1642,7 +1605,10 @@ function render() {
 
   const verses = state.chapter.verses;
 
-  const query = normalizeText(state.searchQuery);
+  const query = normalizeText(
+    state.searchQuery
+  );
+
   const hasFilter = query.length > 0;
 
   const targetVerse = parseVerseNumberQuery(
@@ -1652,6 +1618,7 @@ function render() {
   let matchCount = 0;
 
   verses.forEach(verse => {
+
     const isMatch =
       !hasFilter ||
       verseMatchesQuery(
@@ -1676,11 +1643,16 @@ function render() {
       );
     }
 
-    const number = createVerseNumberButton(verse);
+    // Fase 2: número de versículo interactivo.
+
+    const number = createVerseNumberButton(
+      verse
+    );
 
     p.appendChild(number);
 
     verse.segments.forEach(segment => {
+
       if (typeof segment === "string") {
         p.appendChild(
           document.createTextNode(segment)
@@ -1729,6 +1701,8 @@ function render() {
 
       p.appendChild(button);
 
+      // Modo puente.
+
       if (
         state.mode === "bridge" &&
         entry.bridgeGloss
@@ -1736,10 +1710,14 @@ function render() {
         const gloss = document.createElement("span");
 
         gloss.className = "gloss";
-        gloss.textContent = `(${entry.bridgeGloss})`;
+
+        gloss.textContent =
+          `(${entry.bridgeGloss})`;
 
         p.appendChild(gloss);
       }
+
+      // Modo estudio.
 
       if (
         state.mode === "study" &&
@@ -1748,19 +1726,27 @@ function render() {
         const badge = document.createElement("span");
 
         badge.className = "study-badge";
-        badge.textContent = `Cita: ${entry.otReference}`;
+
+        badge.textContent =
+          `Cita: ${entry.otReference}`;
 
         p.appendChild(badge);
       }
+
     });
 
-    // Favoritos, marcadores, resaltados y anotaciones.
+    // Fase 2: favoritos, marcadores,
+    // resaltados y anotaciones.
+
     decoratePersonalVerse(p, verse);
 
-    // Notas textuales y referencias cruzadas
+    // Fase 3: notas textuales
+    // y referencias cruzadas.
+
     decorateStudyVerse(p, verse);
 
     reader.appendChild(p);
+
   });
 
   $("search-count").textContent = hasFilter
@@ -1772,6 +1758,7 @@ function render() {
 
   renderChapterNav();
 }
+
 
 // ==========================================
 // INSPECTOR DE TÉRMINOS
@@ -1801,14 +1788,23 @@ function getEntryDetailsHtml(entry) {
       <strong>
         ${escapeHtml(languageNames[language] || language)}:
       </strong>
+
       <bdi>${escapeHtml(value)}</bdi>
     </li>
   `).join("");
 
-  const history = (entry.nameHistory || [])
+  const history = (
+    Array.isArray(entry.nameHistory)
+      ? entry.nameHistory
+      : []
+  )
+    .filter(
+      item => item && typeof item === "object"
+    )
     .map(item => `
       <li>
         <strong>${escapeHtml(item.form)}:</strong>
+
         ${escapeHtml(item.note)}
       </li>
     `).join("");
@@ -1816,7 +1812,12 @@ function getEntryDetailsHtml(entry) {
   return `
     <p class="muted">
       Equivalente habitual:
-      ${escapeHtml(entry.traditional || "—")}
+
+      ${escapeHtml(
+        entry.traditional ||
+        entry.bridgeGloss ||
+        "—"
+      )}
     </p>
 
     <p>${escapeHtml(entry.meaning)}</p>
@@ -1824,23 +1825,27 @@ function getEntryDetailsHtml(entry) {
     ${entry.transliteration ? `
       <p>
         <strong>Transliteración:</strong>
+
         ${escapeHtml(entry.transliteration)}
       </p>
     ` : ""}
 
     ${scripts ? `
       <h3>Grafías documentadas</h3>
+
       <ul>${scripts}</ul>
     ` : ""}
 
     ${history ? `
       <h3>Historial de nombres</h3>
+
       <ul>${history}</ul>
     ` : ""}
 
     ${entry.otReference ? `
       <p>
         <strong>Referencia AT:</strong>
+
         ${escapeHtml(entry.otReference)}
       </p>
     ` : ""}
@@ -1848,6 +1853,7 @@ function getEntryDetailsHtml(entry) {
     ${entry.studyNote ? `
       <p>
         <strong>Nota de estudio:</strong>
+
         ${escapeHtml(entry.studyNote)}
       </p>
     ` : ""}
@@ -1855,6 +1861,7 @@ function getEntryDetailsHtml(entry) {
     ${entry.sourceNote ? `
       <p>
         <strong>Nota lingüística:</strong>
+
         ${escapeHtml(entry.sourceNote)}
       </p>
     ` : ""}
@@ -1866,7 +1873,11 @@ function renderInspector(formUsed, entry) {
 
   inspector.innerHTML = `
     <h2>
-      ${escapeHtml(formUsed || entry.defaultForm || "Término")}
+      ${escapeHtml(
+        formUsed ||
+        entry.defaultForm ||
+        "Término"
+      )}
     </h2>
 
     ${getEntryDetailsHtml(entry)}
@@ -1878,7 +1889,11 @@ function getTooltipHtml(formUsed, entry) {
     <div class="tooltip-header">
 
       <h2 class="tooltip-title">
-        ${escapeHtml(formUsed || entry.defaultForm || "Término")}
+        ${escapeHtml(
+          formUsed ||
+          entry.defaultForm ||
+          "Término"
+        )}
       </h2>
 
       <button
@@ -1892,12 +1907,14 @@ function getTooltipHtml(formUsed, entry) {
     ${getEntryDetailsHtml(entry)}
 
     <div class="tooltip-actions">
+
       <button
         type="button"
         class="tooltip-pin"
       >
         Ver en inspector
       </button>
+
     </div>
   `;
 }
@@ -1909,7 +1926,10 @@ function focusInspectorInDesktop() {
 
   closeTooltip();
 
-  inspector.setAttribute("tabindex", "-1");
+  inspector.setAttribute(
+    "tabindex",
+    "-1"
+  );
 
   inspector.scrollIntoView({
     behavior: "smooth",
@@ -1920,14 +1940,20 @@ function focusInspectorInDesktop() {
     preventScroll: true
   });
 
-  inspector.classList.add("inspector--highlighted");
+  inspector.classList.add(
+    "inspector--highlighted"
+  );
 
   clearTimeout(state.highlightTimer);
 
   state.highlightTimer = setTimeout(() => {
-    inspector.classList.remove("inspector--highlighted");
+    inspector.classList.remove(
+      "inspector--highlighted"
+    );
+
   }, 1600);
 }
+
 
 // ==========================================
 // VENTANAS EMERGENTES
@@ -1990,7 +2016,10 @@ function openTermTooltip(formUsed, entry, anchor) {
 
   state.tooltipOpenedAt = Date.now();
 
-  tooltip.innerHTML = getTooltipHtml(formUsed, entry);
+  tooltip.innerHTML = getTooltipHtml(
+    formUsed,
+    entry
+  );
 
   tooltip.hidden = false;
 
@@ -2011,6 +2040,7 @@ function openTermTooltip(formUsed, entry, anchor) {
     });
 }
 
+
 // ==========================================
 // MODOS DE LECTURA
 // ==========================================
@@ -2019,10 +2049,14 @@ function syncModeButtons() {
   document.querySelectorAll(
     ".controls button"
   ).forEach(button => {
+
     const active =
       button.dataset.mode === state.mode;
 
-    button.classList.toggle("active", active);
+    button.classList.toggle(
+      "active",
+      active
+    );
 
     button.setAttribute(
       "aria-pressed",
@@ -2038,6 +2072,7 @@ function isEditableTarget(target) {
 
   return (
     target.isContentEditable ||
+
     Boolean(
       target.closest(
         "input, textarea, select, [contenteditable='true']"
@@ -2046,13 +2081,14 @@ function isEditableTarget(target) {
   );
 }
 
+
 // ==========================================
 // EVENTOS
 // ==========================================
 
 function bindEvents() {
 
-  // Regresar a la biblioteca mediante el logotipo.
+  // Regresar mediante el logotipo.
 
   $("brand-home-btn").addEventListener(
     "click",
@@ -2070,9 +2106,12 @@ function bindEvents() {
     openLibrary
   );
 
+  // Cambiar el modo de lectura.
+
   document.querySelectorAll(
     ".controls button"
   ).forEach(button => {
+
     button.addEventListener("click", () => {
       state.mode = button.dataset.mode;
 
@@ -2081,6 +2120,8 @@ function bindEvents() {
       render();
     });
   });
+
+  // Cambiar de capítulo.
 
   $("chapter-select").addEventListener(
     "change",
@@ -2091,6 +2132,8 @@ function bindEvents() {
     }
   );
 
+  // Buscar dentro del capítulo.
+
   $("chapter-search").addEventListener(
     "input",
     event => {
@@ -2100,6 +2143,7 @@ function bindEvents() {
         state.searchQuery.length === 0;
 
       closeTooltip();
+
       render();
     }
   );
@@ -2129,6 +2173,8 @@ function bindEvents() {
     jumpToFirstMatch
   );
 
+  // Cerrar tooltip al pulsar fuera.
+
   document.addEventListener(
     "click",
     event => {
@@ -2145,23 +2191,31 @@ function bindEvents() {
     }
   );
 
+  // Atajos de teclado del lector.
+
   document.addEventListener(
     "keydown",
     async event => {
-    // Evitar cambiar de capítulo mientras
-    // se modifican los ajustes de lectura.
 
-      
+      // No navegar mientras haya
+      // un diálogo abierto.
+
       if (document.querySelector("dialog[open]")) {
         return;
       }
 
       if (event.key === "Escape") {
         closeTooltip();
+
         return;
       }
 
-      if (state.view !== "reader") return;
+      if (
+        state.view !== "reader" ||
+        !state.chapter
+      ) {
+        return;
+      }
 
       if (
         event.altKey ||
@@ -2205,6 +2259,8 @@ function bindEvents() {
     }
   );
 
+  // Cerrar tooltip al desplazar la página.
+
   window.addEventListener(
     "scroll",
     () => {
@@ -2227,25 +2283,14 @@ function bindEvents() {
   );
 }
 
+
 // ==========================================
 // INICIALIZACIÓN
 // ==========================================
 
 async function init() {
-  document.title = `${APP_NAME} | Lee, explora y comprende`;
-
-  // Fase 1: herramientas de lectura.
-  initReadingFeatures();
-
-  // Fase 2: biblioteca personal.
-  initPersonalFeatures();
-
-  // Fase 3: estudio biblico.
-  initStudyFeatures();
-
-  syncModeButtons();
-  bindEvents();
-  syncViewVisibility();
+  document.title =
+    `${APP_NAME} | Lee, explora y comprende`;
 
   const library = $("library-view");
 
@@ -2254,7 +2299,8 @@ async function init() {
   loading.className = "muted";
   loading.style.textAlign = "center";
 
-  loading.textContent = "Cargando Biblia Origen...";
+  loading.textContent =
+    "Cargando Biblia Origen...";
 
   library.appendChild(loading);
 
@@ -2265,15 +2311,39 @@ async function init() {
     .closest(".testament-block").hidden = true;
 
   try {
+
+    // Fase 1: herramientas de lectura.
+
+    initReadingFeatures();
+
+    // Fase 2: biblioteca personal.
+
+    initPersonalFeatures();
+
+    // Fase 3: estudio bíblico.
+
+    initStudyFeatures();
+
+    syncModeButtons();
+    bindEvents();
+    syncViewVisibility();
+
+    // Cargar el diccionario.
+
     state.dictionary = await fetchJson(
       "data/dictionary.json"
     );
 
+    // Cargar el catálogo.
+
     await loadBooksCatalog();
+
+    // Detectar los libros publicados.
 
     await detectAvailableBooks();
 
-    // Cargar instrcciones y referencias cruzadas.
+    // Cargar introducciones y referencias.
+
     await loadStudyData();
 
   } catch (error) {
@@ -2282,12 +2352,29 @@ async function init() {
     loading.className = "error-msg";
 
     loading.textContent =
-      "No se pudo cargar la biblioteca. Revisa los archivos JSON y el servidor.";
+      "No se pudo iniciar Biblia Origen. " +
+      "Revisa los archivos, el servidor " +
+      "y la consola (F12).";
 
     return;
   }
 
   loading.remove();
+
+  // Habilitar las herramientas después
+  // de cargar los datos de la biblioteca.
+
+  $("study-dictionary-btn").disabled = false;
+
+  $("personal-library-btn").disabled = false;
+
+  $("global-search-input").disabled = false;
+
+  $("global-search-form")
+    .querySelector('button[type="submit"]')
+    .disabled = false;
+
+  // Leer los parámetros de navegación.
 
   const params = new URLSearchParams(
     window.location.search
@@ -2302,6 +2389,7 @@ async function init() {
 
   if (!bookParam || !available) {
     await openLibrary();
+
     return;
   }
 
@@ -2317,8 +2405,7 @@ async function init() {
       10
     ) || 1;
 
-  
-  // Comprobar si la URL contiene un versículo.
+  // Fase 2: enlaces directos a versículos.
 
   const verseParam = Number(
     params.get("vers")
@@ -2328,7 +2415,6 @@ async function init() {
     Number.isInteger(verseParam) &&
     verseParam > 0
   ) {
-
     await openPersonalVerseLink(
       bookParam,
       initialChapter,
@@ -2336,14 +2422,35 @@ async function init() {
     );
 
   } else {
-
     await openBook(
       bookParam,
       initialChapter
     );
-
   }
-
 }
 
-init();
+
+// ==========================================
+// ARRANQUE DE BIBLIA ORIGEN
+// ==========================================
+
+init().catch(error => {
+  console.error(
+    "Error al iniciar Biblia Origen:",
+    error
+  );
+
+  const container = $("library-view");
+
+  if (!container) return;
+
+  const message = document.createElement("p");
+
+  message.className = "error-msg";
+
+  message.textContent =
+    "No se pudo iniciar Biblia Origen. " +
+    "Consulta la consola (F12).";
+
+  container.appendChild(message);
+});

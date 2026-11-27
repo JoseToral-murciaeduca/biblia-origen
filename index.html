@@ -1,325 +1,418 @@
+
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
   <title>Biblia Origen | Lee, explora y comprende</title>
-  <link rel="stylesheet" href="css/styles.css" />
+
+  <!-- HOJAS DE ESTILOS -->
+
+  <link rel="stylesheet" href="css/styles.css">
   <link rel="stylesheet" href="css/lectura.css">
   <link rel="stylesheet" href="css/personal.css">
   <link rel="stylesheet" href="css/estudio.css">
-  <link rel="icon" type="image/svg+xml" href="img/logo.svg" />
-  <meta name="theme-color" content="#151b24" />
-  <meta name="application-name" content="Biblia Origen" />
-  <meta name="description"
-      content="Explora las Sagradas Escrituras, descubre los nombres originales y comprende el significado de cada palabra.">
 
-  <meta name="application-name" content="Biblia Origen">
+  <!-- IDENTIDAD VISUAL -->
+
+  <link
+    rel="icon"
+    type="image/svg+xml"
+    href="img/logo.svg"
+  >
 
   <meta name="theme-color" content="#151b24">
+
+  <meta
+    name="application-name"
+    content="Biblia Origen"
+  >
+
+  <meta
+    name="description"
+    content="Explora las Sagradas Escrituras, descubre los nombres originales y comprende el significado de cada palabra."
+  >
+
+  <!-- METADATOS PARA REDES SOCIALES -->
 
   <meta property="og:type" content="website">
 
   <meta property="og:locale" content="es_ES">
 
-  <meta property="og:site_name" content="Biblia Origen">
-
-  <meta property="og:title"
-        content="Biblia Origen | Descubre la raíz de cada palabra">
-
-  <meta property="og:description"
-        content="Una nueva forma de leer, explorar y estudiar las Sagradas Escrituras.">
-</head>
-<body>
-  
-<header class="topbar">
-
-  <!-- IDENTIDAD PRINCIPAL DE BIBLIA ORIGEN -->
-
-  <div class="brand-header">
-
-    <div class="brand-actions">
-
-      <button
-        type="button"
-        id="books-home-btn"
-        class="home-btn"
-        hidden
-      >
-        <svg
-          width="16"
-          height="16"
-          viewBox="0 0 24 24"
-          fill="none"
-          stroke="currentColor"
-          stroke-width="1.5"
-          stroke-linecap="round"
-          aria-hidden="true"
-        >
-          <path d="M4 6v14"/>
-          <path d="M8 6v14"/>
-          <path d="M12 6v14"/>
-          <path d="m16 6 4 14"/>
-        </svg>
-
-        <span>Biblioteca</span>
-      </button>
-
-      <button
-        type="button"
-        id="study-dictionary-btn"
-        class="home-btn study-header-btn"
-        aria-haspopup="dialog"
-        aria-label="Diccionario bíblico"
-        title="Diccionario bíblico"
-      >
-        <svg
-          width="18"
-          height="18"
-          viewBox="0 0 24 24"
-          fill="none"
-          stroke="currentColor"
-          stroke-width="1.7"
-          stroke-linecap="round"
-          stroke-linejoin="round"
-          aria-hidden="true"
-        >
-          <path d="M4 19V5a2 2 0 0 1 2-2h14v18H6a2 2 0 0 1 0-4h14"/>
-          <path d="M8 7h8M8 11h6"/>
-        </svg>
-
-        <span>Diccionario</span>
-      </button>
-
-
-      <button
-        type="button"
-        id="personal-library-btn"
-        class="home-btn personal-library-btn"
-        title="Mi biblioteca"
-        aria-haspopup="dialog"
-      >
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          width="18"
-          height="18"
-          viewBox="0 0 24 24"
-          fill="none"
-          stroke="currentColor"
-          stroke-width="1.7"
-          stroke-linecap="round"
-          stroke-linejoin="round"
-          aria-hidden="true"
-        >
-          <path d="M6 4h12a1 1 0 0 1 1 1v16l-7-5-7 5V5a1 1 0 0 1 1-1z"/>
-        </svg>
-
-        <span>Mi biblioteca</span>
-      </button>
-
-
-      <button
-        type="button"
-        id="reading-settings-btn"
-        class="home-btn settings-btn"
-        title="Ajustes de lectura"
-        aria-label="Ajustes de lectura"
-        aria-haspopup="dialog"
-      >
-        <svg
-          width="20"
-          height="20"
-          viewBox="0 0 24 24"
-          fill="none"
-          stroke="currentColor"
-          stroke-width="1.7"
-          stroke-linecap="round"
-          aria-hidden="true"
-        >
-          <path d="M4 6h16M4 12h16M4 18h16"/>
-          <circle cx="8" cy="6" r="2" fill="#151B24"/>
-          <circle cx="16" cy="12" r="2" fill="#151B24"/>
-          <circle cx="10" cy="18" r="2" fill="#151B24"/>
-        </svg>
-      </button>
-
-    </div>
-
-
-    <button
-      type="button"
-      id="brand-home-btn"
-      class="brand-lockup"
-      aria-label="Biblia Origen: volver a la biblioteca"
-    >
-
-      <img
-        src="img/logo.svg"
-        class="brand-logo"
-        width="56"
-        height="56"
-        alt=""
-      >
-
-      <span class="brand-text">
-
-        <span class="brand-name">
-          Biblia Origen
-        </span>
-
-        <span class="brand-tagline">
-          Descubre la raíz de cada palabra.
-        </span>
-
-      </span>
-
-    </button>
-
-    <button
-      type="button"
-      id="books-home-btn"
-      class="home-btn"
-      hidden
-    ><svg
-        xmlns="http://www.w3.org/2000/svg"
-        width="16"
-        height="16"
-        viewBox="0 0 24 24"
-        fill="none"
-        stroke="currentColor"
-        stroke-width="1.5"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        aria-hidden="true"
-      >
-        <path d="M4 6v14"/>
-        <path d="M8 6v14"/>
-        <path d="M12 6v14"/>
-        <path d="m16 6 4 14"/>
-      </svg>
-      <span>Biblioteca</span>
-    </button>
-
-  </div>
-
-  <!-- CONTROLES DEL LECTOR BÍBLICO -->
-
-  <div
-    id="reader-toolbar"
-    class="reader-toolbar"
-    hidden
+  <meta
+    property="og:site_name"
+    content="Biblia Origen"
   >
 
-    <!-- Nombre del libro y capítulo -->
+  <meta
+    property="og:title"
+    content="Biblia Origen | Descubre la raíz de cada palabra"
+  >
 
-    <div class="book-heading">
+  <meta
+    property="og:description"
+    content="Una nueva forma de leer, explorar y estudiar las Sagradas Escrituras."
+  >
+
+</head>
+
+
+<body>
+
+  <!-- ==========================================
+       CABECERA PRINCIPAL
+       ========================================== -->
+
+  <header class="topbar">
+
+    <div class="brand-header">
+
+      <!-- LOGOTIPO Y NOMBRE -->
 
       <button
         type="button"
-        id="book-title-btn"
-        class="title-btn"
+        id="brand-home-btn"
+        class="brand-lockup"
+        aria-label="Biblia Origen: volver a la biblioteca"
       >
-        Libro
+
+        <img
+          src="img/logo.svg"
+          class="brand-logo"
+          width="56"
+          height="56"
+          alt=""
+        >
+
+        <span class="brand-text">
+
+          <span class="brand-name">
+            Biblia Origen
+          </span>
+
+          <span class="brand-tagline">
+            Descubre la raíz de cada palabra.
+          </span>
+
+        </span>
+
       </button>
 
-      <span
-        id="book-title-extra"
-        class="title-extra"
-      ></span>
 
-      <select
-        id="chapter-select"
-        class="chapter-select"
-        aria-label="Seleccionar capítulo"
-      ></select>
+      <!-- ACCIONES DE CABECERA -->
+
+      <div class="brand-actions">
+
+        <!-- BIBLIOTECA -->
+
+        <button
+          type="button"
+          id="books-home-btn"
+          class="home-btn"
+          hidden
+        >
+
+          <svg
+            width="16"
+            height="16"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            aria-hidden="true"
+          >
+
+            <path d="M4 6v14"/>
+            <path d="M8 6v14"/>
+            <path d="M12 6v14"/>
+            <path d="m16 6 4 14"/>
+
+          </svg>
+
+          <span>Biblioteca</span>
+
+        </button>
+
+
+        <!-- DICCIONARIO BÍBLICO -->
+
+        <button
+          type="button"
+          id="study-dictionary-btn"
+          class="home-btn study-header-btn"
+          aria-haspopup="dialog"
+          aria-label="Diccionario bíblico"
+          title="Diccionario bíblico"
+          disabled
+        >
+
+          <svg
+            width="18"
+            height="18"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.7"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            aria-hidden="true"
+          >
+
+            <path
+              d="M4 19V5a2 2 0 0 1 2-2h14v18H6a2 2 0 0 1 0-4h14"
+            />
+
+            <path d="M8 7h8M8 11h6"/>
+
+          </svg>
+
+          <span>Diccionario</span>
+
+        </button>
+
+
+        <!-- MI BIBLIOTECA -->
+
+        <button
+          type="button"
+          id="personal-library-btn"
+          class="home-btn personal-library-btn"
+          title="Mi biblioteca"
+          aria-haspopup="dialog"
+          disabled
+        >
+
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="18"
+            height="18"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.7"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            aria-hidden="true"
+          >
+
+            <path
+              d="M6 4h12a1 1 0 0 1 1 1v16l-7-5-7 5V5a1 1 0 0 1 1-1z"
+            />
+
+          </svg>
+
+          <span>Mi biblioteca</span>
+
+        </button>
+
+
+        <!-- AJUSTES DE LECTURA -->
+
+        <button
+          type="button"
+          id="reading-settings-btn"
+          class="home-btn settings-btn"
+          title="Ajustes de lectura"
+          aria-label="Ajustes de lectura"
+          aria-haspopup="dialog"
+        >
+
+          <svg
+            width="20"
+            height="20"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.7"
+            stroke-linecap="round"
+            aria-hidden="true"
+          >
+
+            <path d="M4 6h16M4 12h16M4 18h16"/>
+
+            <circle
+              cx="8"
+              cy="6"
+              r="2"
+              fill="#151B24"
+            />
+
+            <circle
+              cx="16"
+              cy="12"
+              r="2"
+              fill="#151B24"
+            />
+
+            <circle
+              cx="10"
+              cy="18"
+              r="2"
+              fill="#151B24"
+            />
+
+          </svg>
+
+        </button>
+
+      </div>
 
     </div>
 
-    <!-- Buscador de términos -->
+
+    <!-- ==========================================
+         BARRA SECUNDARIA DEL LECTOR
+         ========================================== -->
 
     <div
-      id="reader-search-wrap"
-      class="search-box"
+      id="reader-toolbar"
+      class="reader-toolbar"
+      hidden
     >
 
-      <input
-        type="search"
-        id="chapter-search"
-        class="chapter-search"
-        placeholder="Buscar término, palabra o versículo..."
-        aria-label="Buscar en el capítulo"
-        autocomplete="off"
+      <!-- NOMBRE DEL LIBRO Y CAPÍTULO -->
+
+      <div class="book-heading">
+
+        <button
+          type="button"
+          id="book-title-btn"
+          class="title-btn"
+        >
+          Libro
+        </button>
+
+        <span
+          id="book-title-extra"
+          class="title-extra"
+        ></span>
+
+        <select
+          id="chapter-select"
+          class="chapter-select"
+          aria-label="Seleccionar capítulo"
+        ></select>
+
+        <!-- FASE 3: INTRODUCCIÓN DEL LIBRO -->
+
+        <button
+          type="button"
+          id="study-introduction-btn"
+          class="home-btn"
+          aria-haspopup="dialog"
+        >
+          Introducción
+        </button>
+
+      </div>
+
+
+      <!-- BUSCADOR DEL CAPÍTULO -->
+
+      <div
+        id="reader-search-wrap"
+        class="search-box"
       >
 
-      <button
-        type="button"
-        id="clear-search-btn"
-        class="clear-search-btn"
-        aria-label="Limpiar búsqueda"
-        hidden
-      >
-        ×
-      </button>
+        <input
+          type="search"
+          id="chapter-search"
+          class="chapter-search"
+          placeholder="Buscar término, palabra o versículo..."
+          aria-label="Buscar en el capítulo"
+          autocomplete="off"
+        >
 
-      <span
-        id="search-count"
-        class="search-count"
-        aria-live="polite"
-      ></span>
+        <button
+          type="button"
+          id="clear-search-btn"
+          class="clear-search-btn"
+          aria-label="Limpiar búsqueda"
+          hidden
+        >
+          ×
+        </button>
 
-      <button
-        type="button"
-        id="jump-match-btn"
-        class="jump-match-btn"
-        hidden
+        <span
+          id="search-count"
+          class="search-count"
+          aria-live="polite"
+        ></span>
+
+        <button
+          type="button"
+          id="jump-match-btn"
+          class="jump-match-btn"
+          hidden
+        >
+          Ir
+        </button>
+
+      </div>
+
+
+      <!-- MODOS DE LECTURA -->
+
+      <div
+        id="reader-controls-wrap"
+        class="controls"
       >
-        Ir
-      </button>
+
+        <button
+          type="button"
+          data-mode="original"
+          class="active"
+          aria-pressed="true"
+        >
+          Original
+        </button>
+
+        <button
+          type="button"
+          data-mode="bridge"
+          aria-pressed="false"
+        >
+          Puente
+        </button>
+
+        <button
+          type="button"
+          data-mode="study"
+          aria-pressed="false"
+        >
+          Estudio
+        </button>
+
+      </div>
 
     </div>
 
-    <!-- Modos de lectura -->
+  </header>
+
+
+  <!-- ==========================================
+       BIBLIOTECA PRINCIPAL
+       ========================================== -->
+
+  <section
+    id="library-view"
+    class="library-view"
+  >
+
+    <!-- VERSÍCULO DESTACADO DINÁMICO -->
 
     <div
-      id="reader-controls-wrap"
-      class="controls"
+      class="library-epigraph"
+      aria-live="polite"
     >
-
-      <button
-        type="button"
-        data-mode="original"
-        class="active"
-        aria-pressed="true"
-      >
-        Original
-      </button>
-
-      <button
-        type="button"
-        data-mode="bridge"
-        aria-pressed="false"
-      >
-        Puente
-      </button>
-
-      <button
-        type="button"
-        data-mode="study"
-        aria-pressed="false"
-      >
-        Estudio
-      </button>
-
-    </div>
-
-  </div>
-
-</header>
-
-
-  <section id="library-view" class="library-view">
-  <header class="library-epigraph">
-    <div class="library-epigraph" aria-live="polite">
 
       <span
         class="library-epigraph__ornament"
@@ -343,13 +436,18 @@
     </div>
 
 
-    <!-- HERRAMIENTAS DE LA BIBLIOTECA -->
+    <!-- ==========================================
+         HERRAMIENTAS DE LA BIBLIOTECA
+         ========================================== -->
 
     <section class="library-tools">
 
-      <!-- Buscador bíblico global -->
+      <!-- BUSCADOR BÍBLICO GLOBAL -->
 
-      <form id="global-search-form" class="global-search">
+      <form
+        id="global-search-form"
+        class="global-search"
+      >
 
         <input
           type="search"
@@ -358,17 +456,29 @@
           aria-label="Buscar en toda la Biblia"
           autocomplete="off"
           required
+          disabled
         >
 
-        <button type="submit" class="primary-btn">
+        <button
+          type="submit"
+          class="primary-btn"
+          disabled
+        >
           Buscar
         </button>
 
       </form>
 
-      <section id="global-search-panel" hidden>
+
+      <!-- RESULTADOS DE BÚSQUEDA -->
+
+      <section
+        id="global-search-panel"
+        hidden
+      >
 
         <div class="global-search-heading">
+
           <h2>Resultados de búsqueda</h2>
 
           <button
@@ -378,6 +488,7 @@
           >
             Cerrar
           </button>
+
         </div>
 
         <p
@@ -390,13 +501,15 @@
 
       </section>
 
-      <!-- Continuar leyendo -->
+
+      <!-- CONTINUAR LEYENDO -->
 
       <section
         id="continue-reading"
         class="continue-card"
         hidden
       >
+
         <div class="continue-card__content">
 
           <span class="continue-card__label">
@@ -429,35 +542,110 @@
 
     </section>
 
-    
-  </header>
 
-  <section class="testament-block">
-    <h2 class="testament-heading">Antiguo Testamento</h2>
-    <div id="ot-books-grid"></div>
+    <!-- ANTIGUO TESTAMENTO -->
+
+    <section
+      class="testament-block"
+      hidden
+    >
+
+      <h2 class="testament-heading">
+        Antiguo Testamento
+      </h2>
+
+      <div id="ot-books-grid"></div>
+
+    </section>
+
+
+    <!-- NUEVO TESTAMENTO -->
+
+    <section
+      class="testament-block"
+      hidden
+    >
+
+      <h2 class="testament-heading">
+        Nuevo Testamento
+      </h2>
+
+      <div id="nt-books-grid"></div>
+
+    </section>
+
   </section>
 
-  <section class="testament-block">
-    <h2 class="testament-heading">Nuevo Testamento</h2>
-    <div id="nt-books-grid"></div>
-  </section>
-</section>
 
-  <div id="reader-view">
-    <div id="book-banner-wrap" class="book-banner-wrap" hidden>
-      <img id="book-banner-img" class="book-banner-img" alt="" />
+  <!-- ==========================================
+       LECTOR BÍBLICO
+       ========================================== -->
+
+  <div
+    id="reader-view"
+    hidden
+  >
+
+    <!-- BANNER DEL LIBRO -->
+
+    <div
+      id="book-banner-wrap"
+      class="book-banner-wrap"
+      hidden
+    >
+
+      <img
+        id="book-banner-img"
+        class="book-banner-img"
+        alt=""
+      >
+
     </div>
 
+
+    <!-- CONTENIDO DEL LECTOR -->
+
     <main class="layout">
-      <section id="reader" class="reader" aria-live="polite"></section>
-      <nav id="chapter-nav" class="chapter-nav" aria-label="Navegación entre capítulos" hidden></nav>
-      <aside id="inspector" class="inspector">
+
+      <section
+        id="reader"
+        class="reader"
+        aria-live="polite"
+      ></section>
+
+      <!-- NAVEGACIÓN ENTRE CAPÍTULOS -->
+
+      <nav
+        id="chapter-nav"
+        class="chapter-nav"
+        aria-label="Navegación entre capítulos"
+        hidden
+      ></nav>
+
+      <!-- INSPECTOR DE TÉRMINOS -->
+
+      <aside
+        id="inspector"
+        class="inspector"
+      >
+
         <h2>Inspector de término</h2>
-        <p class="muted">Pulsa sobre una palabra resaltada para ver su ficha.</p>
+
+        <p class="muted">
+          Pulsa sobre una palabra resaltada para ver su ficha.
+        </p>
+
       </aside>
+
     </main>
+
   </div>
 
+
+  <!-- ==========================================
+       FASE 1
+       AJUSTES DE LECTURA
+       ========================================== -->
 
   <dialog
     id="reading-settings"
@@ -481,6 +669,9 @@
 
       </div>
 
+
+      <!-- TEMA -->
+
       <div class="reading-setting">
 
         <label for="reading-theme">
@@ -488,19 +679,38 @@
         </label>
 
         <select id="reading-theme">
-          <option value="light">Claro</option>
-          <option value="parchment">Pergamino</option>
-          <option value="dark">Oscuro</option>
-          <option value="system">Automático</option>
+
+          <option value="light">
+            Claro
+          </option>
+
+          <option value="parchment">
+            Pergamino
+          </option>
+
+          <option value="dark">
+            Oscuro
+          </option>
+
+          <option value="system">
+            Automático
+          </option>
+
         </select>
 
       </div>
 
+
+      <!-- TAMAÑO DE LETRA -->
+
       <div class="reading-setting">
 
         <label for="reading-font-size">
+
           Tamaño de letra
+
           <output id="reading-font-size-value"></output>
+
         </label>
 
         <input
@@ -513,11 +723,17 @@
 
       </div>
 
+
+      <!-- INTERLINEADO -->
+
       <div class="reading-setting">
 
         <label for="reading-line-height">
+
           Interlineado
+
           <output id="reading-line-height-value"></output>
+
         </label>
 
         <input
@@ -530,6 +746,9 @@
 
       </div>
 
+
+      <!-- TIPOGRAFÍA -->
+
       <div class="reading-setting">
 
         <label for="reading-font">
@@ -537,17 +756,36 @@
         </label>
 
         <select id="reading-font">
-          <option value="classic">Clásica</option>
-          <option value="modern">Moderna</option>
-          <option value="literary">Literaria</option>
+
+          <option value="classic">
+            Clásica
+          </option>
+
+          <option value="modern">
+            Moderna
+          </option>
+
+          <option value="literary">
+            Literaria
+          </option>
+
         </select>
 
       </div>
 
-      <div id="reading-preview" class="reading-preview">
+
+      <!-- VISTA PREVIA -->
+
+      <div
+        id="reading-preview"
+        class="reading-preview"
+      >
         «Lámpara es a mis pies tu palabra,
         y lumbrera a mi camino.»
       </div>
+
+
+      <!-- ACCIONES DE AJUSTES -->
 
       <div class="reading-dialog__actions">
 
@@ -559,7 +797,10 @@
           Restablecer
         </button>
 
-        <button type="submit" class="primary-btn">
+        <button
+          type="submit"
+          class="primary-btn"
+        >
           Listo
         </button>
 
@@ -570,221 +811,238 @@
   </dialog>
 
 
-<!-- ==========================================
-     ACCIONES PERSONALES DEL VERSÍCULO
-     ========================================== -->
+  <!-- ==========================================
+       FASE 2
+       ACCIONES PERSONALES DEL VERSÍCULO
+       ========================================== -->
 
-<dialog
-  id="verse-actions-dialog"
-  class="reading-dialog personal-dialog"
-  aria-labelledby="verse-actions-title"
->
+  <dialog
+    id="verse-actions-dialog"
+    class="reading-dialog personal-dialog"
+    aria-labelledby="verse-actions-title"
+  >
 
-  <div class="reading-dialog__header">
+    <div class="reading-dialog__header">
 
-    <h2 id="verse-actions-title">
-      Versículo
-    </h2>
-
-    <button
-      type="button"
-      class="dialog-close"
-      data-personal-close
-      aria-label="Cerrar"
-    >×</button>
-
-  </div>
-
-  <blockquote
-    id="verse-actions-preview"
-    class="personal-verse-preview"
-  ></blockquote>
-
-  <!-- Favoritos, marcadores y compartir -->
-
-  <div class="personal-action-grid">
-
-    <button
-      type="button"
-      id="verse-favorite-btn"
-      class="secondary-btn"
-      aria-pressed="false"
-    >
-      Favorito
-    </button>
-
-    <button
-      type="button"
-      id="verse-study-btn"
-      class="secondary-btn"
-    >
-      Estudiar versículo
-    </button>
-
-    <button
-      type="button"
-      id="verse-bookmark-btn"
-      class="secondary-btn"
-      aria-pressed="false"
-    >
-      Marcador
-    </button>
-
-    <button
-      type="button"
-      id="verse-copy-btn"
-      class="secondary-btn"
-    >
-      Copiar
-    </button>
-
-    <button
-      type="button"
-      id="verse-share-btn"
-      class="secondary-btn"
-    >
-      Compartir
-    </button>
-
-  </div>
-
-  <!-- Resaltar versículos -->
-
-  <section class="personal-section">
-
-    <h3>Resaltar versículo</h3>
-
-    <div
-      class="highlight-palette"
-      role="group"
-      aria-label="Colores de resaltado"
-    >
+      <h2 id="verse-actions-title">
+        Versículo
+      </h2>
 
       <button
         type="button"
-        class="highlight-swatch"
-        data-highlight="yellow"
-        aria-label="Amarillo"
-        aria-pressed="false"
-        title="Amarillo"
-      ></button>
-
-      <button
-        type="button"
-        class="highlight-swatch"
-        data-highlight="green"
-        aria-label="Verde"
-        aria-pressed="false"
-        title="Verde"
-      ></button>
-
-      <button
-        type="button"
-        class="highlight-swatch"
-        data-highlight="blue"
-        aria-label="Azul"
-        aria-pressed="false"
-        title="Azul"
-      ></button>
-
-      <button
-        type="button"
-        class="highlight-swatch"
-        data-highlight="pink"
-        aria-label="Rosa"
-        aria-pressed="false"
-        title="Rosa"
-      ></button>
-
-      <button
-        type="button"
-        class="highlight-swatch"
-        data-highlight="purple"
-        aria-label="Violeta"
-        aria-pressed="false"
-        title="Violeta"
-      ></button>
-
-      <button
-        type="button"
-        class="secondary-btn highlight-clear"
-        data-highlight=""
-      >
-        Quitar
-      </button>
+        class="dialog-close"
+        data-personal-close
+        aria-label="Cerrar"
+      >×</button>
 
     </div>
 
-  </section>
 
-  <!-- Anotaciones personales -->
+    <!-- TEXTO DEL VERSÍCULO -->
 
-  <section class="personal-section">
+    <blockquote
+      id="verse-actions-preview"
+      class="personal-verse-preview"
+    ></blockquote>
 
-    <h3>
-      <label for="verse-note">
-        Mi anotación
-      </label>
-    </h3>
 
-    <textarea
-      id="verse-note"
-      class="personal-textarea"
-      rows="5"
-      maxlength="2000"
-      placeholder="Escribe una reflexión sobre este versículo..."
-    ></textarea>
+    <!-- ACCIONES DEL VERSÍCULO -->
 
-    <div class="personal-note-footer">
-
-      <small id="verse-note-count">
-        0 / 2000
-      </small>
+    <div class="personal-action-grid">
 
       <button
         type="button"
-        id="verse-note-delete"
+        id="verse-favorite-btn"
+        class="secondary-btn"
+        aria-pressed="false"
+      >
+        Favorito
+      </button>
+
+      <!-- FASE 3: ESTUDIAR VERSÍCULO -->
+
+      <button
+        type="button"
+        id="verse-study-btn"
         class="secondary-btn"
       >
-        Eliminar
+        Estudiar versículo
       </button>
 
       <button
         type="button"
-        id="verse-note-save"
-        class="primary-btn"
+        id="verse-bookmark-btn"
+        class="secondary-btn"
+        aria-pressed="false"
       >
-        Guardar
+        Marcador
+      </button>
+
+      <button
+        type="button"
+        id="verse-copy-btn"
+        class="secondary-btn"
+      >
+        Copiar
+      </button>
+
+      <button
+        type="button"
+        id="verse-share-btn"
+        class="secondary-btn"
+      >
+        Compartir
       </button>
 
     </div>
 
-  </section>
 
-  <!-- Alternativa si no funciona el portapapeles -->
+    <!-- ==========================================
+         RESALTADO DE VERSÍCULOS
+         ========================================== -->
 
-  <textarea
-    id="verse-copy-fallback"
-    class="personal-textarea"
-    aria-label="Texto para copiar manualmente"
-    rows="4"
-    readonly
-    hidden
-  ></textarea>
+    <section class="personal-section">
 
-  <p
-    id="verse-actions-status"
-    class="personal-status"
-    role="status"
-    aria-live="polite"
-  ></p>
+      <h3>Resaltar versículo</h3>
 
-</dialog>
+      <div
+        class="highlight-palette"
+        role="group"
+        aria-label="Colores de resaltado"
+      >
+
+        <button
+          type="button"
+          class="highlight-swatch"
+          data-highlight="yellow"
+          aria-label="Amarillo"
+          aria-pressed="false"
+          title="Amarillo"
+        ></button>
+
+        <button
+          type="button"
+          class="highlight-swatch"
+          data-highlight="green"
+          aria-label="Verde"
+          aria-pressed="false"
+          title="Verde"
+        ></button>
+
+        <button
+          type="button"
+          class="highlight-swatch"
+          data-highlight="blue"
+          aria-label="Azul"
+          aria-pressed="false"
+          title="Azul"
+        ></button>
+
+        <button
+          type="button"
+          class="highlight-swatch"
+          data-highlight="pink"
+          aria-label="Rosa"
+          aria-pressed="false"
+          title="Rosa"
+        ></button>
+
+        <button
+          type="button"
+          class="highlight-swatch"
+          data-highlight="purple"
+          aria-label="Violeta"
+          aria-pressed="false"
+          title="Violeta"
+        ></button>
+
+        <button
+          type="button"
+          class="secondary-btn highlight-clear"
+          data-highlight=""
+        >
+          Quitar
+        </button>
+
+      </div>
+
+    </section>
+
+
+    <!-- ==========================================
+         ANOTACIONES PERSONALES
+         ========================================== -->
+
+    <section class="personal-section">
+
+      <h3>
+
+        <label for="verse-note">
+          Mi anotación
+        </label>
+
+      </h3>
+
+      <textarea
+        id="verse-note"
+        class="personal-textarea"
+        rows="5"
+        maxlength="2000"
+        placeholder="Escribe una reflexión sobre este versículo..."
+      ></textarea>
+
+      <div class="personal-note-footer">
+
+        <small id="verse-note-count">
+          0 / 2000
+        </small>
+
+        <button
+          type="button"
+          id="verse-note-delete"
+          class="secondary-btn"
+        >
+          Eliminar
+        </button>
+
+        <button
+          type="button"
+          id="verse-note-save"
+          class="primary-btn"
+        >
+          Guardar
+        </button>
+
+      </div>
+
+    </section>
+
+
+    <!-- PORTAPAPELES ALTERNATIVO -->
+
+    <textarea
+      id="verse-copy-fallback"
+      class="personal-textarea"
+      aria-label="Texto para copiar manualmente"
+      rows="4"
+      readonly
+      hidden
+    ></textarea>
+
+    <p
+      id="verse-actions-status"
+      class="personal-status"
+      role="status"
+      aria-live="polite"
+    ></p>
+
+  </dialog>
 
 
   <!-- ==========================================
-      MI BIBLIOTECA PERSONAL
-      ========================================== -->
+       FASE 2
+       MI BIBLIOTECA PERSONAL
+       ========================================== -->
 
   <dialog
     id="personal-library-dialog"
@@ -811,6 +1069,9 @@
       Tus versículos favoritos, marcadores,
       resaltados y anotaciones personales.
     </p>
+
+
+    <!-- FILTROS DE CONTENIDO -->
 
     <div class="personal-library-filters">
 
@@ -844,6 +1105,9 @@
 
     </div>
 
+
+    <!-- RESULTADOS PERSONALES -->
+
     <p
       id="personal-library-status"
       class="personal-status"
@@ -854,17 +1118,20 @@
     <div id="personal-library-list"></div>
 
     <p class="personal-privacy-note">
+
       Tus datos se guardan en este navegador.
+
       Todavía no se sincronizan entre dispositivos.
+
     </p>
 
   </dialog>
 
 
   <!-- ==========================================
-      BIBLIA ORIGEN
-      HERRAMIENTAS DE ESTUDIO
-      ========================================== -->
+       FASE 3
+       HERRAMIENTAS DE ESTUDIO BÍBLICO
+       ========================================== -->
 
   <dialog
     id="study-dialog"
@@ -887,15 +1154,47 @@
 
     </div>
 
+    <!-- CONTENIDO DINÁMICO DE ESTUDIO -->
+
     <div id="study-dialog-body"></div>
 
   </dialog>
 
 
-  <div id="term-tooltip" class="term-tooltip" role="dialog" aria-live="polite" hidden></div>
+  <!-- ==========================================
+       TOOLTIP DE TÉRMINOS ORIGINALES
+       ========================================== -->
+
+  <div
+    id="term-tooltip"
+    class="term-tooltip"
+    role="dialog"
+    aria-live="polite"
+    hidden
+  ></div>
+
+
+  <!-- ==========================================
+       MÓDULOS JAVASCRIPT
+       IMPORTANTE: CONSERVAR EL ORDEN
+       ========================================== -->
+
+  <!-- Fase 1: lectura y navegación -->
+
   <script src="js/lectura.js" defer></script>
+
+  <!-- Fase 2: biblioteca personal -->
+
   <script src="js/personal.js" defer></script>
+
+  <!-- Fase 3: estudio bíblico -->
+
   <script src="js/estudio.js" defer></script>
+
+  <!-- Aplicación principal -->
+
   <script src="js/app.js" defer></script>
+
 </body>
+
 </html>
