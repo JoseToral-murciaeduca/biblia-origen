@@ -19,6 +19,7 @@
   <link rel="stylesheet" href="css/lectura.css">
   <link rel="stylesheet" href="css/personal.css">
   <link rel="stylesheet" href="css/estudio.css">
+  <link rel="stylesheet" href="css/comunidad.css">
 
   <!-- IDENTIDAD VISUAL -->
 
@@ -211,6 +212,34 @@
 
           <span>Mi biblioteca</span>
 
+        </button>
+
+        <!-- FASE 4: COMUNIDAD -->
+
+        <button
+          type="button"
+          id="community-btn"
+          class="home-btn community-header-btn"
+          title="Colabora con Biblia Origen"
+          aria-label="Colabora con Biblia Origen"
+          aria-haspopup="dialog"
+        >
+          <svg
+            width="18"
+            height="18"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.7"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            aria-hidden="true"
+          >
+            <path d="M21 11.5a8.4 8.4 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.4 8.4 0 0 1-3.8-.9L3 21l1.9-5.7a8.4 8.4 0 0 1-.9-3.8A8.5 8.5 0 0 1 8.7 4a8.4 8.4 0 0 1 3.8-.9h.5a8.5 8.5 0 0 1 8 8z"/>
+            <path d="M12 8v7M8.5 11.5h7"/>
+          </svg>
+
+          <span>Colabora</span>
         </button>
 
 
@@ -859,16 +888,6 @@
         Favorito
       </button>
 
-      <!-- FASE 3: ESTUDIAR VERSÍCULO -->
-
-      <button
-        type="button"
-        id="verse-study-btn"
-        class="secondary-btn"
-      >
-        Estudiar versículo
-      </button>
-
       <button
         type="button"
         id="verse-bookmark-btn"
@@ -892,6 +911,22 @@
         class="secondary-btn"
       >
         Compartir
+      </button>
+
+      <button
+        type="button"
+        id="verse-study-btn"
+        class="secondary-btn"
+      >
+        Estudiar versículo
+      </button>
+
+      <button
+        type="button"
+        id="verse-report-btn"
+        class="secondary-btn community-report-btn"
+      >
+        Informar de un error
       </button>
 
     </div>
@@ -1160,6 +1195,344 @@
 
   </dialog>
 
+  <!-- ==========================================
+     BIBLIA ORIGEN
+     FASE 4 - COMUNIDAD
+     ========================================== -->
+
+  <dialog
+    id="community-dialog"
+    class="reading-dialog community-dialog"
+    aria-labelledby="community-dialog-title"
+  >
+
+    <div class="reading-dialog__header">
+
+      <h2 id="community-dialog-title">
+        Colabora con Biblia Origen
+      </h2>
+
+      <button
+        type="button"
+        id="community-close"
+        class="dialog-close"
+        aria-label="Cerrar formulario"
+      >×</button>
+
+    </div>
+
+    <div class="community-introduction">
+
+      <span
+        class="community-ornament"
+        aria-hidden="true"
+      >✦</span>
+
+      <h3>Ayúdanos a mejorar</h3>
+
+      <p>
+        Cada aportación nos ayuda a construir una
+        plataforma de lectura y estudio bíblico
+        más completa, accesible y rigurosa.
+      </p>
+
+    </div>
+
+
+    <!-- FORMULARIO DE APORTACIONES -->
+
+    <form id="community-form">
+
+      <!-- TIPO DE APORTACIÓN -->
+
+      <div class="community-field">
+
+        <label for="community-type">
+          Tipo de aportación
+        </label>
+
+        <select id="community-type" required>
+
+          <option value="suggestion">
+            Sugerencia de mejora
+          </option>
+
+          <option value="feature">
+            Nueva funcionalidad
+          </option>
+
+          <option value="text_error">
+            Error en un texto bíblico
+          </option>
+
+          <option value="linguistic">
+            Corrección lingüística
+          </option>
+
+          <option value="missing_tooltip">
+            Palabra sin explicación
+          </option>
+
+          <option value="study_error">
+            Error en los datos de estudio
+          </option>
+
+          <option value="technical">
+            Problema técnico
+          </option>
+
+          <option value="accessibility">
+            Problema de accesibilidad
+          </option>
+
+          <option value="other">
+            Otros comentarios
+          </option>
+
+        </select>
+
+      </div>
+
+
+      <!-- CONTEXTO AUTOMÁTICO -->
+
+      <div
+        id="community-context"
+        class="community-context"
+        hidden
+      ></div>
+
+
+      <!-- REFERENCIA BÍBLICA -->
+
+      <div class="community-field">
+
+        <label for="community-reference">
+          Referencia bíblica o término
+          <span class="community-optional">
+            (opcional)
+          </span>
+        </label>
+
+        <input
+          type="text"
+          id="community-reference"
+          maxlength="120"
+          placeholder="Ej. Marcos 9:23, Yeshua..."
+        >
+
+      </div>
+
+
+      <!-- TÍTULO -->
+
+      <div class="community-field">
+
+        <label for="community-subject">
+          Título de la aportación
+        </label>
+
+        <input
+          type="text"
+          id="community-subject"
+          minlength="5"
+          maxlength="80"
+          placeholder="Resume brevemente tu aportación"
+          required
+        >
+
+      </div>
+
+
+      <!-- DESCRIPCIÓN -->
+
+      <div class="community-field">
+
+        <label for="community-description">
+          Descripción
+        </label>
+
+        <textarea
+          id="community-description"
+          rows="5"
+          minlength="10"
+          maxlength="1500"
+          placeholder="Explica el problema o la mejora que propones..."
+          required
+        ></textarea>
+
+        <small
+          id="community-character-count"
+          class="community-counter"
+        >
+          0 / 1500
+        </small>
+
+      </div>
+
+
+      <!-- FUENTES -->
+
+      <div class="community-field">
+
+        <label for="community-source">
+          Fuente o referencia documental
+          <span class="community-optional">
+            (opcional)
+          </span>
+        </label>
+
+        <input
+          type="text"
+          id="community-source"
+          maxlength="250"
+          placeholder="Libro, diccionario, manuscrito o enlace..."
+        >
+
+        <small>
+          Especialmente útil para correcciones
+          lingüísticas, históricas o textuales.
+        </small>
+
+      </div>
+
+
+      <!-- PRIVACIDAD -->
+
+      <div class="community-privacy">
+
+        <strong>Antes de publicar</strong>
+
+        <p>
+          Actualmente las aportaciones se gestionan
+          mediante GitHub Issues. Las publicaciones
+          serán visibles públicamente en el repositorio.
+        </p>
+
+        <p>
+          No incluyas datos personales, contraseñas,
+          anotaciones privadas ni información confidencial.
+        </p>
+
+        <label class="community-consent">
+
+          <input
+            type="checkbox"
+            id="community-consent"
+            required
+          >
+
+          <span>
+            Entiendo que mi aportación podrá ser
+            publicada públicamente en GitHub.
+          </span>
+
+        </label>
+
+      </div>
+
+
+      <!-- PREPARAR APORTACIÓN -->
+
+      <div class="community-form-actions">
+
+        <button
+          type="button"
+          id="community-reset"
+          class="secondary-btn"
+        >
+          Limpiar
+        </button>
+
+        <button
+          type="submit"
+          class="primary-btn"
+        >
+          Preparar aportación
+        </button>
+
+      </div>
+
+    </form>
+
+
+    <!-- VISTA PREVIA ANTES DE PUBLICAR -->
+
+    <section
+      id="community-preview"
+      class="community-preview"
+      hidden
+    >
+
+      <h3>Revisa tu aportación</h3>
+
+      <p class="muted">
+        Comprueba el contenido antes de abrir GitHub.
+        Todavía no se ha enviado ninguna aportación.
+      </p>
+
+      <label for="community-preview-title">
+        Título
+      </label>
+
+      <input
+        type="text"
+        id="community-preview-title"
+        readonly
+      >
+
+      <label for="community-preview-text">
+        Contenido
+      </label>
+
+      <textarea
+        id="community-preview-text"
+        rows="8"
+        readonly
+      ></textarea>
+
+      <div class="community-form-actions">
+
+        <button
+          type="button"
+          id="community-copy-btn"
+          class="secondary-btn"
+        >
+          Copiar aportación
+        </button>
+
+        <a
+          id="community-publish-link"
+          class="primary-btn"
+          target="_blank"
+          rel="noopener noreferrer"
+          hidden
+        >
+          Publicar en GitHub ↗
+        </a>
+
+      </div>
+
+    </section>
+
+
+    <!-- ESTADO DEL FORMULARIO -->
+
+    <p
+      id="community-status"
+      class="community-status"
+      role="status"
+      aria-live="polite"
+    ></p>
+
+    <p class="community-footer-note">
+
+      Biblia Origen · Descubre la raíz de cada palabra.
+
+    </p>
+
+  </dialog>
+
 
   <!-- ==========================================
        TOOLTIP DE TÉRMINOS ORIGINALES
@@ -1180,19 +1553,18 @@
        ========================================== -->
 
   <!-- Fase 1: lectura y navegación -->
-
   <script src="js/lectura.js" defer></script>
 
   <!-- Fase 2: biblioteca personal -->
-
   <script src="js/personal.js" defer></script>
 
   <!-- Fase 3: estudio bíblico -->
-
   <script src="js/estudio.js" defer></script>
 
-  <!-- Aplicación principal -->
+  <!-- Fase 4: comunidad -->
+  <script src="js/comunidad.js" defer></script>
 
+  <!-- Aplicación principal -->
   <script src="js/app.js" defer></script>
 
 </body>

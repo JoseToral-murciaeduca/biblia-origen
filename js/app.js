@@ -710,6 +710,7 @@ async function resolveEpigraph(reference) {
 }
 
 function renderLibraryEpigraph(epigraph) {
+
   const quote = $("library-epigraph-quote");
   const reference = $("library-epigraph-ref");
 
@@ -723,13 +724,19 @@ function renderLibraryEpigraph(epigraph) {
 
   epigraph.segments.forEach(segment => {
 
+    // Texto castellano normal.
+
     if (typeof segment === "string") {
+
       quote.appendChild(
         document.createTextNode(segment)
       );
 
       return;
+
     }
+
+    // Palabra vinculada al diccionario.
 
     const entry =
       state.dictionary[segment.entryId] || {};
@@ -745,26 +752,28 @@ function renderLibraryEpigraph(epigraph) {
     button.className = "term-btn";
     button.textContent = displayForm;
 
+    // Abrir tooltip con el contexto necesario
+    // para las aportaciones de la fase 4.
+
     button.addEventListener("click", event => {
+
       event.stopPropagation();
 
       openTermTooltip(
         displayForm,
         entry,
-        button
+        button,
+        {
+          origin: "featured_verse",
+          entryId: segment.entryId,
+          reference: epigraph.reference
+        }
       );
 
-      // La biblioteca no tiene inspector visible.
-
-      const actions = $("term-tooltip")
-        .querySelector(".tooltip-actions");
-
-      if (actions) {
-        actions.hidden = true;
-      }
     });
 
     quote.appendChild(button);
+
   });
 
   quote.appendChild(
@@ -774,6 +783,7 @@ function renderLibraryEpigraph(epigraph) {
   reference.textContent = epigraph.reference;
 
   saveLastEpigraph(epigraph.key);
+
 }
 
 async function updateLibraryEpigraph() {
@@ -1303,15 +1313,33 @@ function renderHeader() {
   titleBtn.textContent = restoredTitle;
 
   titleBtn.onclick = event => {
+
     event.stopPropagation();
 
     if (titleEntry) {
+
       openTermTooltip(
+
         restoredTitle,
+
         titleEntry,
-        titleBtn
+
+        titleBtn,
+
+        {
+          origin: "book_title",
+
+          bookId: state.bookId,
+
+          entryId:
+            state.chapter.titleEntryId ||
+            `book_${state.bookId}`
+        }
+
       );
+
     }
+
   };
 
   const extra = $("book-title-extra");
@@ -1690,13 +1718,31 @@ function render() {
       }
 
       button.addEventListener("click", event => {
+
         event.stopPropagation();
 
         openTermTooltip(
+
           displayForm,
+
           entry,
-          button
+
+          button,
+
+          {
+            origin: "reader_tooltip",
+
+            entryId: segment.entryId,
+
+            bookId: state.bookId,
+
+            chapter: state.chapter.chapter,
+
+            verse: verse.verse
+          }
+
         );
+
       });
 
       p.appendChild(button);
@@ -2007,10 +2053,21 @@ function positionTooltip(tooltip, anchor) {
   tooltip.style.top = `${Math.round(top)}px`;
 }
 
-function openTermTooltip(formUsed, entry, anchor) {
+function openTermTooltip(
+  formUsed,
+  entry,
+  anchor,
+  context = {}
+) {
+
   clearJumpTooltipTimer();
 
-  renderInspector(formUsed, entry);
+  const safeEntry = entry || {};
+
+  renderInspector(
+    formUsed,
+    safeEntry
+  );
 
   const tooltip = $("term-tooltip");
 
@@ -2018,26 +2075,122 @@ function openTermTooltip(formUsed, entry, anchor) {
 
   tooltip.innerHTML = getTooltipHtml(
     formUsed,
-    entry
+    safeEntry
   );
+
+
+  // ==========================================
+  // FASE 4 - CORRECCIÓN DEL DICCIONARIO
+  // ==========================================
+
+  const entryId = context.entryId ||
+
+    Object.keys(state.dictionary).find(
+      id => state.dictionary[id] === entry
+    ) ||
+
+    "";
+
+  const communityActions =
+    document.createElement("div");
+
+  communityActions.className =
+    "tooltip-community-actions";
+
+  const reportButton =
+    createCommunityTermButton(
+
+      entryId,
+
+      formUsed ||
+      safeEntry.defaultForm ||
+      "Término",
+
+      {
+        ...context,
+
+        origin:
+          context.origin ||
+          (
+            state.view === "library"
+              ? "featured_verse"
+              : "reader_tooltip"
+          )
+      }
+
+    );
+
+  communityActions.appendChild(
+    reportButton
+  );
+
+  tooltip.appendChild(
+    communityActions
+  );
+
+
+  // Ocultar el inspector cuando estamos
+  // en la biblioteca principal.
+
+  if (state.view === "library") {
+
+    const actions = tooltip.querySelector(
+      ".tooltip-actions"
+    );
+
+    if (actions) {
+      actions.hidden = true;
+    }
+
+  }
+
+
+  // Mostrar y posicionar el tooltip después
+  // de incorporar todos sus elementos.
 
   tooltip.hidden = false;
 
-  positionTooltip(tooltip, anchor);
+  positionTooltip(
+    tooltip,
+    anchor
+  );
+
+
+  // Botón de cerrar.
 
   tooltip.querySelector(".tooltip-close")
-    ?.addEventListener("click", event => {
-      event.stopPropagation();
+    ?.addEventListener(
 
-      closeTooltip();
-    });
+      "click",
+
+      event => {
+
+        event.stopPropagation();
+
+        closeTooltip();
+
+      }
+
+    );
+
+
+  // Mostrar ficha en el inspector.
 
   tooltip.querySelector(".tooltip-pin")
-    ?.addEventListener("click", event => {
-      event.stopPropagation();
+    ?.addEventListener(
 
-      focusInspectorInDesktop();
-    });
+      "click",
+
+      event => {
+
+        event.stopPropagation();
+
+        focusInspectorInDesktop();
+
+      }
+
+    );
+
 }
 
 
@@ -2323,6 +2476,10 @@ async function init() {
     // Fase 3: estudio bíblico.
 
     initStudyFeatures();
+
+    // Fase 4: comunidad y colaboración.
+
+    initCommunityFeatures();
 
     syncModeButtons();
     bindEvents();

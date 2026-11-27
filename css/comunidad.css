@@ -1,0 +1,590 @@
+/* ==========================================
+   BIBLIA ORIGEN
+   FASE 4 - COMUNIDAD Y COLABORACIÓN
+   ========================================== */
+
+
+/* ==========================================
+   BOTÓN DE CABECERA
+   ========================================== */
+
+.community-header-btn {
+  display: inline-flex;
+
+  align-items: center;
+  justify-content: center;
+
+  gap: 0.4rem;
+
+  transition:
+    background-color 0.2s ease,
+    border-color 0.2s ease,
+    color 0.2s ease;
+}
+
+.community-header-btn svg {
+  width: 18px;
+  height: 18px;
+
+  flex-shrink: 0;
+}
+
+
+/* ==========================================
+   VENTANA PRINCIPAL
+   ========================================== */
+
+.community-dialog {
+  width: min(620px, calc(100vw - 32px));
+
+  max-height: calc(100dvh - 32px);
+
+  overflow-y: auto;
+
+  padding: 1.5rem;
+
+  background: var(--surface);
+  color: var(--text);
+
+  border: 1px solid var(--border);
+  border-top: 3px solid var(--gold);
+  border-radius: 12px;
+}
+
+
+/* ==========================================
+   INTRODUCCIÓN
+   ========================================== */
+
+.community-introduction {
+  margin-bottom: 1.5rem;
+
+  padding: 0.75rem 1rem 1.25rem;
+
+  text-align: center;
+
+  border-bottom: 1px solid var(--border);
+}
+
+.community-ornament {
+  display: block;
+
+  margin-bottom: 0.5rem;
+
+  color: var(--gold);
+
+  font-size: 1.15rem;
+}
+
+.community-introduction h3 {
+  margin: 0 0 0.5rem;
+
+  color: var(--text);
+
+  font-family: Georgia, serif;
+  font-size: 1.45rem;
+}
+
+.community-introduction p {
+  margin: 0;
+
+  color: var(--muted);
+
+  font-size: 0.95rem;
+  line-height: 1.75;
+}
+
+
+/* ==========================================
+   FORMULARIO
+   ========================================== */
+
+#community-form {
+  display: grid;
+
+  gap: 1.2rem;
+}
+
+.community-field {
+  display: flex;
+
+  flex-direction: column;
+
+  gap: 0.45rem;
+
+  min-width: 0;
+}
+
+.community-field label,
+.community-preview label {
+  color: var(--text);
+
+  font-family: system-ui, sans-serif;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.community-optional {
+  color: var(--muted);
+
+  font-size: 0.75rem;
+  font-weight: 400;
+}
+
+
+/* ==========================================
+   CONTROLES DEL FORMULARIO
+   ========================================== */
+
+.community-field input,
+.community-field select,
+.community-field textarea,
+.community-preview input,
+.community-preview textarea {
+  display: block;
+
+  width: 100%;
+  min-width: 0;
+
+  padding: 0.75rem 0.85rem;
+
+  background: var(--bg);
+  color: var(--text);
+
+  border: 1px solid var(--border);
+  border-radius: 7px;
+
+  font-family: system-ui, sans-serif;
+  font-size: 0.88rem;
+  line-height: 1.55;
+
+  transition:
+    border-color 0.18s ease,
+    outline-color 0.18s ease;
+}
+
+.community-field textarea,
+.community-preview textarea {
+  resize: vertical;
+
+  min-height: 110px;
+}
+
+.community-field input::placeholder,
+.community-field textarea::placeholder {
+  color: var(--muted);
+}
+
+.community-field input:focus,
+.community-field textarea:focus,
+.community-field select:focus,
+.community-preview input:focus,
+.community-preview textarea:focus {
+  outline: 2px solid var(--gold-soft);
+
+  border-color: var(--gold);
+}
+
+.community-field small {
+  color: var(--muted);
+
+  font-family: system-ui, sans-serif;
+  font-size: 0.75rem;
+  line-height: 1.5;
+}
+
+.community-counter {
+  align-self: flex-end;
+
+  font-variant-numeric: tabular-nums;
+}
+
+
+/* ==========================================
+   CONTEXTO AUTOMÁTICO
+   ========================================== */
+
+.community-context {
+  padding: 0.85rem 1rem;
+
+  background: var(--bg);
+
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--gold);
+  border-radius: 7px;
+
+  font-family: system-ui, sans-serif;
+  font-size: 0.8rem;
+
+  overflow-wrap: anywhere;
+}
+
+.community-context strong {
+  display: block;
+
+  margin-bottom: 0.4rem;
+
+  color: var(--gold);
+
+  font-size: 0.78rem;
+
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.community-context p {
+  margin: 0.25rem 0;
+
+  color: var(--text);
+}
+
+
+/* ==========================================
+   PRIVACIDAD
+   ========================================== */
+
+.community-privacy {
+  padding: 1rem;
+
+  background: var(--bg);
+
+  border: 1px solid var(--gold-soft);
+  border-radius: 8px;
+
+  font-family: system-ui, sans-serif;
+  font-size: 0.8rem;
+  line-height: 1.65;
+}
+
+.community-privacy strong {
+  color: var(--gold);
+}
+
+.community-privacy p {
+  margin: 0.5rem 0;
+
+  color: var(--muted);
+}
+
+.community-consent {
+  display: flex;
+
+  align-items: flex-start;
+
+  gap: 0.65rem;
+
+  margin-top: 0.85rem;
+
+  color: var(--text);
+
+  cursor: pointer;
+}
+
+.community-consent input {
+  flex-shrink: 0;
+
+  width: 17px;
+  height: 17px;
+
+  margin-top: 0.2rem;
+
+  accent-color: var(--gold);
+}
+
+
+/* ==========================================
+   ACCIONES DEL FORMULARIO
+   ========================================== */
+
+.community-form-actions {
+  display: flex;
+
+  align-items: center;
+  justify-content: flex-end;
+
+  flex-wrap: wrap;
+
+  gap: 0.65rem;
+}
+
+.community-form-actions button,
+.community-form-actions a {
+  min-height: 40px;
+}
+
+.community-form-actions a {
+  text-decoration: none;
+}
+
+
+/* ==========================================
+   VISTA PREVIA
+   ========================================== */
+
+.community-preview {
+  display: grid;
+
+  gap: 0.75rem;
+
+  margin-top: 1.5rem;
+
+  padding: 1.15rem;
+
+  background: var(--bg);
+
+  border: 1px solid var(--border);
+  border-top: 3px solid var(--gold);
+  border-radius: 9px;
+}
+
+.community-preview h3 {
+  margin: 0;
+
+  color: var(--text);
+
+  font-size: 1.1rem;
+}
+
+.community-preview p {
+  margin: 0;
+}
+
+.community-preview input,
+.community-preview textarea {
+  background: var(--surface);
+}
+
+.community-preview textarea {
+  min-height: 180px;
+
+  font-family:
+    Consolas,
+    "Courier New",
+    monospace;
+
+  font-size: 0.78rem;
+}
+
+.community-preview .community-form-actions {
+  margin-top: 0.3rem;
+}
+
+
+/* ==========================================
+   INFORMAR DE UN ERROR
+   ========================================== */
+
+.community-report-btn {
+  color: var(--brand-burgundy);
+
+  border-color: var(--gold-soft);
+}
+
+.community-report-btn:hover {
+  color: var(--brand-burgundy);
+
+  background: rgba(112, 47, 54, 0.07);
+
+  border-color: var(--brand-burgundy);
+}
+
+[data-reading-theme="dark"] .community-report-btn {
+  color: #E5B6BB;
+}
+
+[data-reading-theme="dark"] .community-report-btn:hover {
+  color: #FFD7DA;
+
+  border-color: #E5B6BB;
+
+  background: rgba(229, 182, 187, 0.08);
+}
+
+
+/* ==========================================
+   CORRECCIONES DEL DICCIONARIO
+   ========================================== */
+
+.community-term-btn {
+  width: 100%;
+
+  margin-top: 0.9rem;
+
+  padding: 0.5rem 0.75rem;
+
+  color: var(--accent);
+
+  border: 1px solid var(--gold-soft);
+  border-radius: 6px;
+
+  background: transparent;
+
+  font-family: system-ui, sans-serif;
+  font-size: 0.78rem;
+  font-weight: 500;
+
+  cursor: pointer;
+}
+
+.community-term-btn:hover {
+  color: var(--gold);
+
+  border-color: var(--gold);
+
+  background: var(--gold-soft);
+}
+
+.tooltip-community-actions {
+  margin-top: 0.7rem;
+
+  padding-top: 0.7rem;
+
+  border-top: 1px solid var(--border);
+}
+
+.tooltip-community-actions .community-term-btn {
+  margin-top: 0;
+}
+
+
+/* ==========================================
+   ESTADOS
+   ========================================== */
+
+.community-status {
+  min-height: 1.25rem;
+
+  margin: 1rem 0 0;
+
+  color: var(--text);
+
+  font-family: system-ui, sans-serif;
+  font-size: 0.82rem;
+  line-height: 1.6;
+
+  overflow-wrap: anywhere;
+}
+
+.community-footer-note {
+  margin: 1.25rem 0 0;
+
+  padding-top: 0.9rem;
+
+  border-top: 1px solid var(--border);
+
+  color: var(--muted);
+
+  font-family: Georgia, serif;
+  font-size: 0.78rem;
+  font-style: italic;
+
+  text-align: center;
+}
+
+
+/* ==========================================
+   ACCESIBILIDAD
+   ========================================== */
+
+.community-dialog button:focus-visible,
+.community-dialog a:focus-visible,
+.community-term-btn:focus-visible {
+  outline: 2px solid var(--gold);
+
+  outline-offset: 3px;
+}
+
+
+/* ==========================================
+   TABLETS Y MÓVILES
+   ========================================== */
+
+@media (max-width: 540px) {
+
+  .community-dialog {
+    padding: 1rem;
+  }
+
+  .community-header-btn {
+    position: relative;
+
+    width: 34px;
+    min-height: 34px;
+
+    padding: 0.4rem;
+  }
+
+  .community-header-btn span {
+    position: absolute;
+
+    width: 1px;
+    height: 1px;
+
+    overflow: hidden;
+
+    clip-path: inset(50%);
+
+    white-space: nowrap;
+  }
+
+  .community-introduction {
+    padding: 0.5rem 0.25rem 1rem;
+  }
+
+  .community-introduction h3 {
+    font-size: 1.25rem;
+  }
+
+  .community-introduction p {
+    font-size: 0.85rem;
+  }
+
+  .community-field input,
+  .community-field select,
+  .community-field textarea {
+    font-size: 1rem;
+  }
+
+  .community-form-actions {
+    align-items: stretch;
+  }
+
+  .community-form-actions button,
+  .community-form-actions a {
+    flex: 1 1 auto;
+  }
+
+  .community-preview {
+    padding: 0.85rem;
+  }
+
+  .community-context,
+  .community-privacy {
+    padding: 0.8rem;
+  }
+
+  .brand-header {
+    flex-wrap: wrap;
+  }
+
+  .brand-actions {
+    margin-left: auto;
+  }
+
+}
+
+
+/* ==========================================
+   REDUCIR ANIMACIONES
+   ========================================== */
+
+@media (prefers-reduced-motion: reduce) {
+
+  .community-header-btn,
+  .community-field input,
+  .community-field select,
+  .community-field textarea {
+    transition: none;
+  }
+
+}

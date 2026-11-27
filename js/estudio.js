@@ -429,17 +429,20 @@ function openStudyDictionary() {
     detail.replaceChildren();
 
     detail.appendChild(
+
       studyElement(
+
         "h3",
+
         "",
+
         item.entry.defaultForm || item.id
+
       )
+
     );
 
     const content = studyElement("div");
-
-    // Reutilizar el inspector original.
-    // Esta función escapa los valores del JSON.
 
     content.innerHTML = getEntryDetailsHtml(
       item.entry
@@ -447,8 +450,35 @@ function openStudyDictionary() {
 
     detail.appendChild(content);
 
+
+    // ==========================================
+    // FASE 4 - SUGERIR CORRECCIÓN
+    // ==========================================
+
+    const reportButton =
+      createCommunityTermButton(
+
+        item.id,
+
+        item.entry.defaultForm || item.id,
+
+        {
+          origin: "dictionary"
+        }
+
+      );
+
+    detail.appendChild(
+      reportButton
+    );
+
+
+    // Mostrar ficha.
+
     detail.hidden = false;
+
     detail.tabIndex = -1;
+
     detail.focus({
       preventScroll: true
     });
@@ -1028,24 +1058,51 @@ function renderStudyOriginalVerse(
   termPanel
 ) {
 
+  // Conservar la referencia del versículo
+  // que estamos estudiando.
+
+  const context = {
+
+    origin: "translation_comparison",
+
+    bookId: state.bookId,
+
+    chapter: state.chapter?.chapter,
+
+    verse: verse.verse
+
+  };
+
   verse.segments.forEach(segment => {
+
+    // Texto castellano normal.
 
     if (typeof segment === "string") {
 
       container.append(
+
         document.createTextNode(segment)
+
       );
 
       return;
+
     }
 
+
+    // Palabra del diccionario.
+
     const entry =
-      state.dictionary[segment.entryId];
+      state.dictionary[segment.entryId] || {};
 
     const form =
+
       segment.form ||
-      entry?.defaultForm ||
+
+      entry.defaultForm ||
+
       segment.entryId;
+
 
     const button = studyButton(
 
@@ -1054,6 +1111,7 @@ function renderStudyOriginalVerse(
       () => {
 
         const wasOpen =
+
           button.getAttribute("aria-expanded")
           === "true";
 
@@ -1071,6 +1129,7 @@ function renderStudyOriginalVerse(
         if (wasOpen) {
 
           termPanel.hidden = true;
+
           return;
 
         }
@@ -1082,9 +1141,21 @@ function renderStudyOriginalVerse(
 
         termPanel.replaceChildren();
 
+
+        // Nombre del término.
+
         termPanel.appendChild(
-          studyElement("h4", "", form)
+
+          studyElement(
+            "h4",
+            "",
+            form
+          )
+
         );
+
+
+        // Información lingüística.
 
         const details = studyElement("div");
 
@@ -1092,6 +1163,29 @@ function renderStudyOriginalVerse(
           getEntryDetailsHtml(entry);
 
         termPanel.appendChild(details);
+
+
+        // ==========================================
+        // FASE 4 - CORRECCIÓN LINGÜÍSTICA
+        // ==========================================
+
+        const reportButton =
+          createCommunityTermButton(
+
+            segment.entryId,
+
+            form,
+
+            context
+
+          );
+
+        termPanel.appendChild(
+          reportButton
+        );
+
+
+        // Mostrar panel del término.
 
         termPanel.hidden = false;
 
