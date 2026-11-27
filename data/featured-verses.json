@@ -1,0 +1,81 @@
+
+[
+  {
+    "bookIds": ["salmos", "tehillim"],
+    "reference": "Salmos",
+    "chapter": 119,
+    "verse": 105
+  },
+  {
+    "bookIds": ["mattai", "mateo"],
+    "reference": "Mateo",
+    "chapter": 5,
+    "verse": 9
+  },
+  {
+    "bookIds": ["mattai", "mateo"],
+    "reference": "Mateo",
+    "chapter": 5,
+    "verse": 14
+  },
+  {
+    "bookIds": ["mattai", "mateo"],
+    "reference": "Mateo",
+    "chapter": 6,
+    "verse": 21
+  },
+  {
+    "bookIds": ["mattai", "mateo"],
+    "reference": "Mateo",
+    "chapter": 7,
+    "verse": 7
+  },
+  {
+    "bookIds": ["mattai", "mateo"],
+    "reference": "Mateo",
+    "chapter": 11,
+    "verse": 28
+  },
+  {
+    "bookIds": ["marqos", "marcos"],
+    "reference": "Marcos",
+    "chapter": 9,
+    "verse": 23
+  },
+  {
+    "bookIds": ["marqos", "marcos"],
+    "reference": "Marcos",
+    "chapter": 10,
+    "verse": 27
+  },
+  {
+    "bookIds": ["loukas", "lucas"],
+    "reference": "Lucas",
+    "chapter": 6,
+    "verse": 31
+  },
+  {
+    "bookIds": ["loukas", "lucas"],
+    "reference": "Lucas",
+    "chapter": 12,
+    "verse": 34
+  },
+  {
+    "bookIds": ["yojanan", "juan"],
+    "reference": "Juan",
+    "chapter": 8,
+    "verse": 32
+  },
+  {
+    "bookIds": ["yojanan", "juan"],
+    "reference": "Juan",
+    "chapter": 14,
+    "verse": 27
+  },
+  {
+    "bookIds": ["yojanan", "juan"],
+    "reference": "Juan",
+    "chapter": 15,
+    "verse": 12
+  }
+]

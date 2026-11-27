@@ -3,6 +3,9 @@ const APP_NAME = "Biblia Origen";
 const APP_TAGLINE = "Descubre la raíz de cada palabra.";
 const PROGRESS_STORAGE_KEY = "escrituras_progress_v1";
 const LIBRARY_STORAGE_KEY = "biblia_origen_library_v1";
+const EPIGRAPH_STORAGE_KEY = "biblia_origen_last_epigraph_v1";
+
+let lastEpigraphKey = null;
 
 const TESTAMENT_CATEGORIES = {
   ot: [
@@ -608,6 +611,273 @@ function createLibraryToggle(
 
 
 // ==========================================
+// VERSÍCULOS DESTACADOS DE LA BIBLIOTECA
+// ==========================================
+
+function getLastEpigraph() {
+  try {
+    return localStorage.getItem(
+      EPIGRAPH_STORAGE_KEY
+    ) || lastEpigraphKey;
+  } catch {
+    return lastEpigraphKey;
+  }
+}
+
+function saveLastEpigraph(key) {
+  lastEpigraphKey = key;
+
+  try {
+    localStorage.setItem(
+      EPIGRAPH_STORAGE_KEY,
+      key
+    );
+  } catch {
+    // Continuar si el almacenamiento no está disponible.
+  }
+}
+
+// Mezclar las referencias aleatoriamente.
+
+function shuffleEpigraphs(items) {
+  const shuffled = [...items];
+
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(
+      Math.random() * (i + 1)
+    );
+
+    [shuffled[i], shuffled[j]] =
+      [shuffled[j], shuffled[i]];
+  }
+
+  return shuffled;
+}
+
+// Identificador único de cada versículo.
+
+function getEpigraphKey(reference) {
+  return (
+    `${reference.bookIds[0]}:` +
+    `${reference.chapter}:` +
+    `${reference.verse}`
+  );
+}
+
+// Obtener el versículo desde los capítulos publicados.
+
+async function resolveEpigraph(reference) {
+
+  const book = state.availableBooks.find(
+    item => reference.bookIds.includes(item.id)
+  );
+
+  if (!book) return null;
+
+  const exists = await checkChapterExists(
+    book.id,
+    reference.chapter
+  );
+
+  if (!exists) return null;
+
+  const key =
+    `${book.id}:${reference.chapter}`;
+
+  const chapter = state.chapterCache[key];
+
+  if (!chapter) return null;
+
+  const verse = chapter.verses.find(
+    item =>
+      Number(item.verse) ===
+      Number(reference.verse)
+  );
+
+  if (!verse) return null;
+
+  return {
+    key: getEpigraphKey(reference),
+
+    reference:
+      `${reference.reference} ` +
+      `${reference.chapter}:${reference.verse}`,
+
+    segments: verse.segments
+  };
+}
+
+// Mostrar el versículo conservando sus tooltips.
+
+function renderLibraryEpigraph(epigraph) {
+
+  const quote = $("library-epigraph-quote");
+  const reference = $("library-epigraph-ref");
+
+  if (!quote || !reference) return;
+
+  quote.replaceChildren();
+
+  quote.appendChild(
+    document.createTextNode("«")
+  );
+
+  epigraph.segments.forEach(segment => {
+
+    // Texto castellano normal.
+
+    if (typeof segment === "string") {
+
+      quote.appendChild(
+        document.createTextNode(segment)
+      );
+
+      return;
+    }
+
+    // Palabras vinculadas al diccionario.
+
+    const entry =
+      state.dictionary[segment.entryId] || {};
+
+    const displayForm =
+      segment.form ||
+      entry.defaultForm ||
+      segment.entryId;
+
+    const button = document.createElement(
+      "button"
+    );
+
+    button.type = "button";
+    button.className = "term-btn";
+
+    button.textContent = displayForm;
+
+    button.addEventListener("click", event => {
+
+      event.stopPropagation();
+
+      openTermTooltip(
+        displayForm,
+        entry,
+        button
+      );
+
+      // La biblioteca no dispone de inspector visible.
+
+      const actions = $("term-tooltip")
+        .querySelector(".tooltip-actions");
+
+      if (actions) {
+        actions.hidden = true;
+      }
+
+    });
+
+    quote.appendChild(button);
+
+  });
+
+  quote.appendChild(
+    document.createTextNode("»")
+  );
+
+  reference.textContent = epigraph.reference;
+
+  saveLastEpigraph(epigraph.key);
+}
+
+// Seleccionar un nuevo versículo destacado.
+
+async function updateLibraryEpigraph() {
+
+  const navigationId = state.navigationId;
+
+  try {
+
+    const references = await fetchJson(
+      "data/featured-verses.json"
+    );
+
+    if (!Array.isArray(references)) {
+      throw new Error(
+        "Listado de versículos destacados inválido."
+      );
+    }
+
+    const validReferences = references.filter(
+      reference =>
+        reference &&
+        Array.isArray(reference.bookIds) &&
+        reference.bookIds.length > 0 &&
+        Number.isInteger(reference.chapter) &&
+        Number.isInteger(reference.verse) &&
+        typeof reference.reference === "string"
+    );
+
+    const lastKey = getLastEpigraph();
+
+    const shuffled = shuffleEpigraphs(
+      validReferences
+    );
+
+    // Priorizar los versículos diferentes al anterior.
+
+    const candidates = [
+      ...shuffled.filter(
+        reference =>
+          getEpigraphKey(reference) !== lastKey
+      ),
+
+      ...shuffled.filter(
+        reference =>
+          getEpigraphKey(reference) === lastKey
+      )
+    ];
+
+    for (const reference of candidates) {
+
+      if (
+        state.view !== "library" ||
+        navigationId !== state.navigationId
+      ) {
+        return;
+      }
+
+      const epigraph = await resolveEpigraph(
+        reference
+      );
+
+      if (
+        state.view !== "library" ||
+        navigationId !== state.navigationId
+      ) {
+        return;
+      }
+
+      if (epigraph) {
+
+        renderLibraryEpigraph(epigraph);
+
+        return;
+      }
+
+    }
+
+  } catch (error) {
+
+    console.warn(
+      "No se pudo actualizar el versículo destacado.",
+      error
+    );
+
+    // Conservar la frase existente como alternativa.
+
+  }
+}
+
+// ==========================================
 // BIBLIOTECA
 // ==========================================
 
@@ -825,27 +1095,41 @@ function renderLibraryView() {
     state.availableBooks.length > 0;
 }
 
+
 async function openLibrary() {
+
   state.navigationId++;
 
   closeTooltip();
 
   state.view = "library";
 
-  const url = new URL(window.location.href);
+  const url = new URL(
+    window.location.href
+  );
 
   url.searchParams.delete("libro");
   url.searchParams.delete("cap");
 
-  window.history.replaceState({}, "", url);
+  window.history.replaceState(
+    {},
+    "",
+    url
+  );
 
   syncViewVisibility();
+
   renderLibraryView();
+
+  // Seleccionar un nuevo versículo destacado.
+
+  void updateLibraryEpigraph();
 
   window.scrollTo({
     top: 0,
     behavior: "smooth"
   });
+
 }
 
 // ==========================================
