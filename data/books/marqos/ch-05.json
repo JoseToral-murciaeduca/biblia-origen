@@ -4,48 +4,358 @@
   "bookTitle": "Marqos",
   "chapter": 5,
   "verses": [
-    {"verse": 1, "segments": ["Y llegaron al otro lado del mar, a la región de los gadarenos."]},
-    {"verse": 2, "segments": ["Y cuando salió de la barca, enseguida vino a su encuentro, desde los sepulcros, un hombre con un espíritu impuro,"]},
-    {"verse": 3, "segments": ["que habitaba entre los sepulcros, y nadie podía atarle, ni siquiera con cadenas."]},
-    {"verse": 4, "segments": ["Porque muchas veces había sido atado con grillos y cadenas, pero había roto las cadenas y destrozado los grillos; y nadie podía dominarle."]},
-    {"verse": 5, "segments": ["Y continuamente, de día y de noche, andaba por los montes y los sepulcros, gritando e hiriéndose con piedras."]},
-    {"verse": 6, "segments": ["Cuando vio de lejos a ", {"entryId": "yeshua"}, ", corrió y se postró ante él."]},
-    {"verse": 7, "segments": ["Y clamando a gran voz, dijo: «¿Qué tienes conmigo, ", {"entryId": "yeshua"}, ", Hijo de ", {"entryId": "elohim"}, " Altísimo? Te conjuro por ", {"entryId": "elohim"}, " que no me atormentes»."]},
-    {"verse": 8, "segments": ["Porque le decía: «Sal de este hombre, espíritu impuro»."]},
-    {"verse": 9, "segments": ["Y le preguntó: «¿Cómo te llamas?». Y respondió: «Legión me llamo, porque somos muchos»."]},
-    {"verse": 10, "segments": ["Y le rogaba insistentemente que no los enviase fuera de aquella región."]},
-    {"verse": 11, "segments": ["Había allí, cerca del monte, una gran manada de cerdos paciendo."]},
-    {"verse": 12, "segments": ["Y todos los demonios le rogaron: «Envíanos a los cerdos, para que entremos en ellos»."]},
-    {"verse": 13, "segments": ["Y ", {"entryId": "yeshua"}, " se lo permitió. Los espíritus impuros salieron y entraron en los cerdos, y la manada, que era de unos dos mil, se precipitó por un despeñadero al mar, y allí se ahogaron."]},
-    {"verse": 14, "segments": ["Y los que apacentaban los cerdos huyeron y dieron aviso en la ciudad y en los campos. Y salieron para ver lo que había acontecido."]},
-    {"verse": 15, "segments": ["Vinieron a ", {"entryId": "yeshua"}, " y vieron al que había estado atormentado por los demonios, al que había tenido la legión, sentado, vestido y en su sano juicio; y tuvieron miedo."]},
-    {"verse": 16, "segments": ["Y los que lo habían visto les contaron lo sucedido al hombre que había tenido el demonio, y también lo de los cerdos."]},
-    {"verse": 17, "segments": ["Y comenzaron a rogarle que se marchase de su territorio."]},
-    {"verse": 18, "segments": ["Cuando entró en la barca, el que había estado atormentado por el demonio le rogaba que le permitiese estar con él."]},
-    {"verse": 19, "segments": ["Mas ", {"entryId": "yeshua"}, " no se lo permitió, sino que le dijo: «Vete a tu casa, a los tuyos, y cuéntales las grandes cosas que el Señor ha hecho contigo y cómo ha tenido misericordia de ti»."]},
-    {"verse": 20, "segments": ["Y se marchó y comenzó a proclamar en la Decápolis las grandes cosas que ", {"entryId": "yeshua"}, " había hecho con él; y todos se maravillaban."]},
-    {"verse": 21, "segments": ["Cuando ", {"entryId": "yeshua"}, " pasó nuevamente en la barca al otro lado, se reunió alrededor de él una gran multitud, y estaba junto al mar."]},
-    {"verse": 22, "segments": ["Y vino uno de los dirigentes de la sinagoga, llamado Ya'ir; y al verle, se postró a sus pies,"]},
-    {"verse": 23, "segments": ["y le rogaba insistentemente: «Mi hija está a punto de morir. Ven y pon las manos sobre ella para que sea salva y viva»."]},
-    {"verse": 24, "segments": ["Y fue con él, y le seguía una gran multitud que le oprimía."]},
-    {"verse": 25, "segments": ["Y una mujer que padecía flujo de sangre desde hacía doce años,"]},
-    {"verse": 26, "segments": ["y había sufrido mucho a manos de muchos médicos, gastando todo cuanto tenía sin obtener mejoría, sino empeorando,"]},
-    {"verse": 27, "segments": ["al oír hablar de ", {"entryId": "yeshua"}, ", se acercó por detrás entre la multitud y tocó su vestido."]},
-    {"verse": 28, "segments": ["Porque decía: «Si tan solo toco su vestido, seré salva»."]},
-    {"verse": 29, "segments": ["Y enseguida cesó su flujo de sangre, y sintió en su cuerpo que había sido sanada de aquella dolencia."]},
-    {"verse": 30, "segments": ["Y enseguida ", {"entryId": "yeshua"}, ", reconociendo en sí mismo el poder que había salido de él, se volvió hacia la multitud y dijo: «¿Quién ha tocado mis vestidos?»."]},
-    {"verse": 31, "segments": ["Sus discípulos le dijeron: «Ves que la multitud te oprime, y dices: ¿Quién me ha tocado?»."]},
-    {"verse": 32, "segments": ["Pero él miraba alrededor para ver a la que había hecho aquello."]},
-    {"verse": 33, "segments": ["Entonces la mujer, temerosa y temblando, sabiendo lo que le había sucedido, vino, se postró delante de él y le contó toda la verdad."]},
-    {"verse": 34, "segments": ["Y él le dijo: «Hija, tu fe te ha salvado. Vete en paz y queda sana de tu dolencia»."]},
-    {"verse": 35, "segments": ["Mientras aún hablaba, vinieron de casa del dirigente de la sinagoga, diciendo: «Tu hija ha muerto. ¿Para qué molestas más al Maestro?»."]},
-    {"verse": 36, "segments": ["Pero ", {"entryId": "yeshua"}, ", al oír lo que decían, dijo al dirigente de la sinagoga: «No temas; solamente cree»."]},
-    {"verse": 37, "segments": ["Y no permitió que nadie le siguiese, excepto ", {"entryId": "simon_kefa", "form": "Kefa"}, ", ", {"entryId": "yaaqov_zebedeo"}, " y ", {"entryId": "yojanan_apostol"}, ", hermano de ", {"entryId": "yaaqov_zebedeo"}, "."]},
-    {"verse": 38, "segments": ["Y llegó a casa del dirigente de la sinagoga y vio el alboroto, y a los que lloraban y lamentaban mucho."]},
-    {"verse": 39, "segments": ["Y entrando, les dijo: «¿Por qué alborotáis y lloráis? La niña no ha muerto, sino que duerme»."]},
-    {"verse": 40, "segments": ["Y se burlaban de él. Pero él, después de hacer salir a todos, tomó al padre y a la madre de la niña y a los que estaban con él, y entró donde estaba la niña."]},
-    {"verse": 41, "segments": ["Y tomando la mano de la niña, le dijo: «Talitha qumi», que traducido significa: «Niña, a ti te digo, levántate»."]},
-    {"verse": 42, "segments": ["Y enseguida la niña se levantó y comenzó a andar, porque tenía doce años. Y quedaron llenos de gran asombro."]},
-    {"verse": 43, "segments": ["Mas él les ordenó insistentemente que nadie lo supiese, y dijo que le diesen de comer."]}
+    {
+      "verse": 1,
+      "segments": [
+        "Y VINIERON de la otra parte de la mar a la provincia de los Gadarenos."
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Y salido él del barco, luego le salió al encuentro, de los sepulcros, un hombre con un espíritu inmundo,"
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Que tenía domicilio en los sepulcros, y ni aun con cadenas le podía alguien atar;"
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Porque muchas veces había sido atado con grillos y cadenas, mas las cadenas habían sido hechas pedazos por él, y los grillos desmenuzados; y nadie le podía domar."
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Y siempre, de día y de noche, andaba dando voces en los montes y en los sepulcros, e hiriéndose con las piedras."
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Y como vio a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " de lejos, corrió, y le adoró."
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "Y clamando a gran voz, dijo: ¿Qué tienes conmigo, ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", Hijo del Dios Altísimo? Te conjuro por Dios que no me atormentes."
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Porque le decía: Sal de este hombre, espíritu inmundo."
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Y le preguntó: ¿Cómo te llamas? Y respondió diciendo: ",
+        {
+          "entryId": "legion",
+          "form": "Legión"
+        },
+        " me llamo; porque somos muchos."
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Y le rogaba mucho que no le enviase fuera de aquella provincia."
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "Y estaba allí cerca del monte una grande manada de puercos paciendo."
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Y le rogaron todos los demonios, diciendo: Envíanos a los puercos para que entremos en ellos."
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Y luego ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " se lo permitió. Y saliendo aquellos espíritus inmundos, entraron en los puercos, y la manada cayó por un despeñadero en la mar; los cuales eran como dos mil; y en la mar se ahogaron."
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Y los que apacentaban los puercos huyeron, y dieron aviso en la ciudad y en los campos. Y salieron para ver qué era aquello que había acontecido."
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Y vienen a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", y ven al que había sido atormentado del demonio, y que había tenido la ",
+        {
+          "entryId": "legion",
+          "form": "legión"
+        },
+        ", sentado y vestido, y en su juicio cabal; y tuvieron miedo."
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "Y les contaron los que lo habían visto, cómo había acontecido al que había tenido el demonio, y lo de los puercos."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Y comenzaron a rogarle que se fuese de los términos de ellos."
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Y entrando él en el barco, le rogaba el que había sido fatigado del demonio, para estar con él."
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Mas ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " no le permitió, sino le dijo: Vete a tu casa, a los tuyos, y cuéntales cuán grandes cosas el Señor ha hecho contigo, y cómo ha tenido misericordia de ti."
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Y se fue, y comenzó a publicar en ",
+        {
+          "entryId": "dekapolis",
+          "form": "Dekapolis"
+        },
+        " cuán grandes cosas ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " había hecho con él: y todos se maravillaban."
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "Y pasando otra vez ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " en un barco a la otra parte, se juntó a él gran compañía; y estaba junto a la mar."
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "Y vino uno de los príncipes de la sinagoga, llamado ",
+        {
+          "entryId": "yair",
+          "form": "Yair"
+        },
+        "; y luego que le vio, se postró a sus pies,"
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "Y le rogaba mucho, diciendo: Mi hija está a la muerte: ven y pondrás las manos sobre ella para que sea salva, y vivirá."
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "Y fue con él, y le seguía gran compañía, y le apretaban."
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "Y una mujer que estaba con flujo de sangre doce años hacía,"
+      ]
+    },
+    {
+      "verse": 26,
+      "segments": [
+        "Y había sufrido mucho de muchos médicos, y había gastado todo lo que tenía, y nada había aprovechado, antes le iba peor,"
+      ]
+    },
+    {
+      "verse": 27,
+      "segments": [
+        "Como oyó hablar de ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", llegó por detrás entre la compañía, y tocó su vestido."
+      ]
+    },
+    {
+      "verse": 28,
+      "segments": [
+        "Porque decía: Si tocare tan solamente su vestido, seré salva."
+      ]
+    },
+    {
+      "verse": 29,
+      "segments": [
+        "Y luego la fuente de su sangre se secó; y sintió en el cuerpo que estaba sana de aquel azote."
+      ]
+    },
+    {
+      "verse": 30,
+      "segments": [
+        "Y luego ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", conociendo en sí mismo la virtud que había salido de él, volviéndose a la compañía, dijo: ¿Quién ha tocado mis vestidos?"
+      ]
+    },
+    {
+      "verse": 31,
+      "segments": [
+        "Y le dijeron sus discípulos: Ves que la multitud te aprieta, y dices: ¿Quién me ha tocado?"
+      ]
+    },
+    {
+      "verse": 32,
+      "segments": [
+        "Y él miraba alrededor para ver a la que había hecho esto."
+      ]
+    },
+    {
+      "verse": 33,
+      "segments": [
+        "Entonces la mujer, temiendo y temblando, sabiendo lo que en sí había sido hecho, vino y se postró delante de él, y le dijo toda la verdad."
+      ]
+    },
+    {
+      "verse": 34,
+      "segments": [
+        "Y él le dijo: Hija, tu fe te ha hecho salva: ve en paz, y queda sana de tu azote."
+      ]
+    },
+    {
+      "verse": 35,
+      "segments": [
+        "Hablando aún él, vinieron de casa del príncipe de la sinagoga, diciendo: Tu hija es muerta; ¿para qué fatigas más al Maestro?"
+      ]
+    },
+    {
+      "verse": 36,
+      "segments": [
+        "Mas luego ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", oyendo esta razón que se decía, dijo al príncipe de la sinagoga: No temas, cree solamente."
+      ]
+    },
+    {
+      "verse": 37,
+      "segments": [
+        "Y no permitió que alguno viniese tras él sino ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        ", y ",
+        {
+          "entryId": "yaaqov_zebedeo",
+          "form": "Yaaqov"
+        },
+        ", y ",
+        {
+          "entryId": "yojanan_apostol",
+          "form": "Yojanan"
+        },
+        " hermano de ",
+        {
+          "entryId": "yaaqov_zebedeo",
+          "form": "Yaaqov"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 38,
+      "segments": [
+        "Y vino a casa del príncipe de la sinagoga, y vio el alboroto, los que lloraban y gemían mucho."
+      ]
+    },
+    {
+      "verse": 39,
+      "segments": [
+        "Y entrando, les dice: ¿Por qué alborotáis y lloráis? La muchacha no es muerta, mas duerme."
+      ]
+    },
+    {
+      "verse": 40,
+      "segments": [
+        "Y hacían burla de él: mas él, echados fuera todos, toma al padre y a la madre de la muchacha, y a los que estaban con él, y entra donde la muchacha estaba."
+      ]
+    },
+    {
+      "verse": 41,
+      "segments": [
+        "Y tomando la mano de la muchacha, le dice: ",
+        {
+          "entryId": "talitha_kumi",
+          "form": "Talitha cumi"
+        },
+        "; que es, si lo interpretares: Muchacha, a ti digo, levántate."
+      ]
+    },
+    {
+      "verse": 42,
+      "segments": [
+        "Y luego la muchacha se levantó, y andaba; porque tenía doce años. Y se espantaron de grande espanto."
+      ]
+    },
+    {
+      "verse": 43,
+      "segments": [
+        "Mas él les mandó mucho que nadie lo supiese, y dijo que le diesen de comer."
+      ]
+    }
   ]
 }

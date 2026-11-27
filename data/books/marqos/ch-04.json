@@ -4,46 +4,271 @@
   "bookTitle": "Marqos",
   "chapter": 4,
   "verses": [
-    {"verse": 1, "segments": ["Y comenzó nuevamente a enseñar junto al mar. Se reunió alrededor de él una gran multitud, de manera que entró en una barca y se sentó en el mar, mientras toda la multitud permanecía en tierra junto al mar."]},
-    {"verse": 2, "segments": ["Y les enseñaba muchas cosas mediante parábolas, y les decía en su enseñanza:"]},
-    {"verse": 3, "segments": ["«Oíd: He aquí, el sembrador salió a sembrar."]},
-    {"verse": 4, "segments": ["Y aconteció que, al sembrar, una parte cayó junto al camino; y vinieron las aves del cielo y la comieron."]},
-    {"verse": 5, "segments": ["Otra parte cayó en terreno pedregoso, donde no tenía mucha tierra; y brotó enseguida, porque la tierra no era profunda."]},
-    {"verse": 6, "segments": ["Pero cuando salió el sol, se quemó, y como no tenía raíz, se secó."]},
-    {"verse": 7, "segments": ["Otra parte cayó entre espinas; y crecieron las espinas, la ahogaron y no dio fruto."]},
-    {"verse": 8, "segments": ["Y otra parte cayó en buena tierra y dio fruto, que brotó y creció, produciendo unas semillas treinta, otras sesenta y otras ciento por uno»."]},
-    {"verse": 9, "segments": ["Entonces les dijo: «El que tenga oídos para oír, oiga»."]},
-    {"verse": 10, "segments": ["Y cuando estuvo solo, los que estaban alrededor de él, junto con los doce, le preguntaron acerca de la parábola."]},
-    {"verse": 11, "segments": ["Y les dijo: «A vosotros os ha sido dado conocer el misterio del reino de ", {"entryId": "elohim", "form": "Elohim"}, "; mas a los que están fuera, todas las cosas les son comunicadas mediante parábolas,"]},
-    {"verse": 12, "segments": ["para que mirando, miren y no perciban; y oyendo, oigan y no entiendan, no sea que se conviertan y les sean perdonados sus pecados»."]},
-    {"verse": 13, "segments": ["Y les dijo: «¿No entendéis esta parábola? ¿Cómo entenderéis entonces todas las parábolas?"]},
-    {"verse": 14, "segments": ["El sembrador siembra la palabra."]},
-    {"verse": 15, "segments": ["Estos son los de junto al camino, donde se siembra la palabra; pero después de oírla, viene enseguida Satán y quita la palabra sembrada en sus corazones."]},
-    {"verse": 16, "segments": ["Asimismo, los sembrados en terreno pedregoso son aquellos que, cuando oyen la palabra, la reciben inmediatamente con alegría;"]},
-    {"verse": 17, "segments": ["pero no tienen raíz en sí mismos, sino que son de corta duración. Cuando sobreviene la tribulación o la persecución por causa de la palabra, enseguida tropiezan."]},
-    {"verse": 18, "segments": ["Otros son los sembrados entre espinas: los que oyen la palabra,"]},
-    {"verse": 19, "segments": ["pero las preocupaciones de este mundo, el engaño de las riquezas y los deseos de otras cosas entran y ahogan la palabra, y esta queda sin fruto."]},
-    {"verse": 20, "segments": ["Y los sembrados en buena tierra son los que oyen la palabra, la reciben y producen fruto: unos treinta, otros sesenta y otros ciento por uno»."]},
-    {"verse": 21, "segments": ["También les dijo: «¿Acaso se trae una lámpara para ponerla debajo de una medida de grano o debajo de la cama? ¿No es para colocarla sobre el candelero?"]},
-    {"verse": 22, "segments": ["Porque nada hay oculto que no haya de manifestarse, ni secreto que no haya de salir a la luz."]},
-    {"verse": 23, "segments": ["Si alguno tiene oídos para oír, oiga»."]},
-    {"verse": 24, "segments": ["También les dijo: «Mirad lo que oís. Con la medida con que midáis, seréis medidos, y se añadirá más a vosotros los que oís."]},
-    {"verse": 25, "segments": ["Porque al que tiene, le será dado; y al que no tiene, aun lo que tiene le será quitado»."]},
-    {"verse": 26, "segments": ["Decía también: «Así es el reino de ", {"entryId": "elohim", "form": "Elohim"}, ": como un hombre que echa semilla en la tierra,"]},
-    {"verse": 27, "segments": ["y duerme y se levanta, de noche y de día, mientras la semilla brota y crece sin que él sepa cómo."]},
-    {"verse": 28, "segments": ["Porque la tierra produce fruto por sí misma: primero la hierba, luego la espiga y después el grano lleno en la espiga."]},
-    {"verse": 29, "segments": ["Y cuando el fruto está maduro, enseguida mete la hoz, porque ha llegado la siega»."]},
-    {"verse": 30, "segments": ["Y decía: «¿A qué compararemos el reino de ", {"entryId": "elohim", "form": "Elohim"}, "? ¿Con qué parábola lo representaremos?"]},
-    {"verse": 31, "segments": ["Es como un grano de mostaza que, cuando se siembra en la tierra, es la más pequeña de todas las semillas que hay en ella;"]},
-    {"verse": 32, "segments": ["pero una vez sembrado, crece y se hace mayor que todas las plantas de la huerta, y echa grandes ramas, de manera que las aves del cielo pueden morar bajo su sombra»."]},
-    {"verse": 33, "segments": ["Y con muchas parábolas semejantes les anunciaba la palabra, conforme a lo que podían oír."]},
-    {"verse": 34, "segments": ["Y sin parábolas no les hablaba; pero a sus discípulos, en privado, les explicaba todas las cosas."]},
-    {"verse": 35, "segments": ["Aquel mismo día, al llegar la tarde, les dijo: «Pasemos al otro lado»."]},
-    {"verse": 36, "segments": ["Y despidiendo a la multitud, le llevaron tal como estaba en la barca; y había también otras barcas con él."]},
-    {"verse": 37, "segments": ["Y se levantó una gran tempestad de viento, y las olas entraban en la barca, de manera que ya se llenaba de agua."]},
-    {"verse": 38, "segments": ["Y él estaba en la popa, durmiendo sobre un cabezal. Le despertaron y le dijeron: «Maestro, ¿no te importa que perezcamos?»."]},
-    {"verse": 39, "segments": ["Y levantándose, reprendió al viento y dijo al mar: «Calla, enmudece». Y cesó el viento, y sobrevino una gran calma."]},
-    {"verse": 40, "segments": ["Y les dijo: «¿Por qué estáis tan atemorizados? ¿Cómo es que no tenéis fe?»."]},
-    {"verse": 41, "segments": ["Y sintieron un gran temor, y se decían unos a otros: «¿Quién es este, que incluso el viento y el mar le obedecen?»."]}
+    {
+      "verse": 1,
+      "segments": [
+        "Y OTRA vez comenzó a enseñar junto a la mar, y se juntó a él mucha gente; tanto, que entrándose él en un barco, se sentó en la mar: y toda la gente estaba en tierra junto a la mar."
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Y les enseñaba por parábolas muchas cosas, y les decía en su doctrina:"
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Oid: He aquí, el sembrador salió a sembrar."
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Y aconteció sembrando, que una parte cayó junto al camino; y vinieron las aves del cielo, y la tragaron."
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Y otra parte cayó en pedregales, donde no tenía mucha tierra; y luego salió, porque no tenía la tierra profunda:"
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Mas salido el sol, se quemó; y por cuanto no tenía raíz, se secó."
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "Y otra parte cayó en espinas; y subieron las espinas, y la ahogaron, y no dio fruto."
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Y otra parte cayó en buena tierra, y dio fruto, que subió y creció: y llevó uno a treinta, y otro a sesenta, y otro a ciento."
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Entonces les dijo: El que tiene oídos para oir, oiga."
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Y cuando estuvo solo, le preguntaron los que estaban cerca de él con los doce, sobre la parábola."
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "Y les dijo: A vosotros es dado saber el misterio del ",
+        {
+          "entryId": "basileia",
+          "form": "reino"
+        },
+        " de Dios; mas a los que están fuera, por parábolas todas las cosas;"
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Para que viendo, vean y no echen de ver; y oyendo, oigan y no entiendan: porque no se conviertan, y les sean perdonados los pecados."
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Y les dijo: ¿No sabéis esta parábola? ¿Cómo, pues, entenderéis todas las parábolas?"
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "El que siembra es el que siembra la palabra."
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Y éstos son los de junto al camino: en los que la palabra es sembrada: mas después que la oyeron, luego viene ",
+        {
+          "entryId": "satan",
+          "form": "Satán"
+        },
+        ", y quita la palabra que fue sembrada en sus corazones."
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "Y asimismo éstos son los que son sembrados en pedregales: los que cuando han oído la palabra, luego la toman con gozo;"
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Mas no tienen raíz en sí, antes son temporales, que en levantándose la tribulación o la persecución por causa de la palabra, luego se escandalizan."
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Y éstos son los que son sembrados entre espinas: los que oyen la palabra;"
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Mas los cuidados de este siglo, y el engaño de las riquezas, y las codicias que hay en las otras cosas, entrando, ahogan la palabra, y se hace infructuosa."
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Y éstos son los que fueron sembrados en buena tierra: los que oyen la palabra, y la reciben, y hacen fruto, uno a treinta, otro a sesenta, y otro a ciento."
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "También les dijo: ¿Tráese la antorcha para ser puesta debajo del almud, o debajo de la cama? ¿No es para ser puesta en el candelero?"
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "Porque no hay nada oculto que no haya de ser manifestado, ni secreto que no haya de descubrirse."
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "Si alguno tiene oídos para oir, oiga."
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "Les dijo también: Mirad lo que oís: con la medida que medís, os medirán otros, y será añadido a vosotros los que oís."
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "Porque al que tiene, le será dado; y al que no tiene, aun lo que tiene le será quitado."
+      ]
+    },
+    {
+      "verse": 26,
+      "segments": [
+        "Decía más: Así es el ",
+        {
+          "entryId": "basileia",
+          "form": "reino"
+        },
+        " de Dios, como si un hombre echa simiente en la tierra;"
+      ]
+    },
+    {
+      "verse": 27,
+      "segments": [
+        "Y duerme, y se levanta de noche y de día, y la simiente brota y crece como él no sabe."
+      ]
+    },
+    {
+      "verse": 28,
+      "segments": [
+        "Porque de suyo fructifica la tierra, primero hierba, luego espiga, después grano lleno en la espiga;"
+      ]
+    },
+    {
+      "verse": 29,
+      "segments": [
+        "Y cuando el fruto fuere producido, luego se mete la hoz, porque la siega es llegada."
+      ]
+    },
+    {
+      "verse": 30,
+      "segments": [
+        "Y decía: ¿A qué haremos semejante el ",
+        {
+          "entryId": "basileia",
+          "form": "reino"
+        },
+        " de Dios? ¿o con qué parábola le compararemos?"
+      ]
+    },
+    {
+      "verse": 31,
+      "segments": [
+        "Es como el grano de mostaza, que, cuando se siembra en tierra, es la más pequeña de todas las simientes que hay en la tierra;"
+      ]
+    },
+    {
+      "verse": 32,
+      "segments": [
+        "Mas después de sembrado, sube, y se hace la mayor de todas las legumbres, y echa grandes ramas, de tal manera que las aves del cielo puedan morar bajo su sombra."
+      ]
+    },
+    {
+      "verse": 33,
+      "segments": [
+        "Y con muchas tales parábolas les hablaba la palabra, conforme a lo que podían oir."
+      ]
+    },
+    {
+      "verse": 34,
+      "segments": [
+        "Y sin parábola no les hablaba; mas a sus discípulos en particular declaraba todo."
+      ]
+    },
+    {
+      "verse": 35,
+      "segments": [
+        "Y les dijo aquel día cuando fue tarde: Pasemos de la otra parte."
+      ]
+    },
+    {
+      "verse": 36,
+      "segments": [
+        "Y despachando la multitud, le tomaron como estaba, en el barco; y había también con él otros barquitos."
+      ]
+    },
+    {
+      "verse": 37,
+      "segments": [
+        "Y se levantó una grande tempestad de viento, y echaba las olas en el barco, de tal manera que ya se henchía."
+      ]
+    },
+    {
+      "verse": 38,
+      "segments": [
+        "Y él estaba en la popa, durmiendo sobre un cabezal, y le despertaron, y le dicen: ¿Maestro, no tienes cuidado que perecemos?"
+      ]
+    },
+    {
+      "verse": 39,
+      "segments": [
+        "Y levantándose, increpó al viento, y dijo a la mar: Calla, enmudece. Y cesó el viento, y fue hecha grande bonanza."
+      ]
+    },
+    {
+      "verse": 40,
+      "segments": [
+        "Y a ellos dijo: ¿Por qué estáis así amedrentados? ¿Cómo no tenéis fe?"
+      ]
+    },
+    {
+      "verse": 41,
+      "segments": [
+        "Y temieron con gran temor, y decían el uno al otro. ¿Quién es éste, que aun el viento y la mar le obedecen?"
+      ]
+    }
   ]
 }

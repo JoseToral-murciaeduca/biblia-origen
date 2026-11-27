@@ -3,34 +3,183 @@
   "titleEntryId": "book_marqos",
   "bookTitle": "Marqos",
   "chapter": 16,
-  "textualNotes": [
+  "verses": [
     {
-      "fromVerse": 9,
-      "toVerse": 20,
-      "type": "manuscript_variant",
-      "note": "Final largo de Marqos, presente en la Reina-Valera 1909 y en numerosos manuscritos, pero ausente en algunos de los testimonios griegos más antiguos conservados, incluidos los códices Sinaítico y Vaticano."
+      "verse": 1,
+      "segments": [
+        "Y COMO pasó el ",
+        {
+          "entryId": "shabbat",
+          "form": "Shabbat"
+        },
+        ", ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        " Magdalena, y ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        " madre de Jacobo, y Salomé, compraron drogas aromáticas, para venir a ungirle."
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Y muy de mañana, el primer día de la semana, vienen al sepulcro, ya salido el sol."
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Y decían entre sí: ¿Quién nos revolverá la piedra de la puerta del sepulcro?"
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Y como miraron, ven la piedra revuelta; que era muy grande."
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Y entradas en el sepulcro, vieron un mancebo sentado al lado derecho, cubierto de una larga ropa blanca; y se espantaron."
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Mas él les dice: No os asustéis: buscáis a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " Nazareno, el que fue crucificado; resucitado há, no está aquí; he aquí el lugar en donde le pusieron."
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "Mas id, decid a sus discípulos y a ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        ", que él va antes que vosotros a ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        ": allí le veréis, como os dijo."
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Y ellas se fueron huyendo del sepulcro; porque las había tomado temblor y espanto; ni decían nada a nadie, porque tenían miedo."
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Mas como ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " resucitó por la mañana, el primer día de la semana, apareció primeramente a ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        " Magdalena, de la cual había echado siete demonios."
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Yendo ella, lo hizo saber a los que habían estado con él, que estaban tristes y llorando."
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "Y ellos como oyeron que vivía, y que había sido visto de ella, no lo creyeron."
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Mas después apareció en otra forma a dos de ellos que iban caminando, yendo al campo."
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Y ellos fueron, y lo hicieron saber a los otros; y ni aun a ellos creyeron."
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Finalmente se apareció a los once mismos, estando sentados a la mesa, y censuróles su incredulidad y dureza de corazón, que no hubiesen creído a los que le habían visto resucitado."
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Y les dijo: Id por todo el mundo; predicad el ",
+        {
+          "entryId": "euangelion",
+          "form": "evangelio"
+        },
+        " a toda criatura."
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "El que creyere y fuere bautizado, será salvo; mas el que no creyere, será condenado."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Y estas señales seguirán a los que creyeren: En mi nombre echarán fuera demonios; hablarán nuevas lenguas;"
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Quitarán serpientes, y si bebieren cosa mortífera, no les dañará; sobre los enfermos pondrán sus manos, y sanarán."
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Y el Señor, después que les habló, fue recibido arriba en el cielo, y sentóse a la diestra de Dios."
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Y ellos, saliendo, predicaron en todas partes, obrando con ellos el Señor, y confirmando la palabra con las señales que se seguían. ",
+        {
+          "entryId": "amen",
+          "form": "Amén"
+        },
+        "."
+      ]
     }
   ],
-  "verses": [
-    {"verse": 1, "segments": ["Y pasado el ", {"entryId": "shabbat"}, ", Miryam de Magdala, Miryam madre de Ya'aqov y Shalomé compraron aromas para ir a ungirle."]},
-    {"verse": 2, "segments": ["Y muy de mañana, el primer día de la semana, llegaron al sepulcro, habiendo salido ya el sol."]},
-    {"verse": 3, "segments": ["Y decían entre sí: «¿Quién nos removerá la piedra de la entrada del sepulcro?»."]},
-    {"verse": 4, "segments": ["Y levantando la mirada, vieron que la piedra había sido removida, aunque era muy grande."]},
-    {"verse": 5, "segments": ["Y entrando en el sepulcro, vieron a un joven sentado al lado derecho, vestido con una larga túnica blanca; y se atemorizaron."]},
-    {"verse": 6, "segments": ["Pero él les dijo: «No os asustéis. Buscáis a ", {"entryId": "yeshua"}, " el Nazareno, el que fue crucificado. Ha resucitado; no está aquí. Mirad el lugar donde le depositaron."]},
-    {"verse": 7, "segments": ["Mas id, decid a sus discípulos y a ", {"entryId": "simon_kefa", "form": "Kefa"}, " que él va delante de vosotros al ", {"entryId": "galil"}, "; allí le veréis, como os dijo»."]},
-    {"verse": 8, "segments": ["Y ellas salieron huyendo del sepulcro, porque estaban llenas de temblor y asombro; y no dijeron nada a nadie, porque tenían miedo."]},
-    {"verse": 9, "segments": ["Y habiendo resucitado ", {"entryId": "yeshua"}, " por la mañana, el primer día de la semana, apareció primeramente a Miryam de Magdala, de quien había expulsado siete demonios."]},
-    {"verse": 10, "segments": ["Ella fue y lo anunció a los que habían estado con él, quienes estaban entristecidos y lloraban."]},
-    {"verse": 11, "segments": ["Y ellos, al oír que vivía y que había sido visto por ella, no lo creyeron."]},
-    {"verse": 12, "segments": ["Después apareció en otra forma a dos de ellos que iban caminando hacia el campo."]},
-    {"verse": 13, "segments": ["Y ellos fueron y lo anunciaron a los demás, pero tampoco les creyeron."]},
-    {"verse": 14, "segments": ["Finalmente apareció a los once mientras estaban sentados a la mesa, y les reprendió por su incredulidad y dureza de corazón, porque no habían creído a quienes le habían visto resucitado."]},
-    {"verse": 15, "segments": ["Y les dijo: «Id por todo el mundo y proclamad la buena noticia a toda criatura."]},
-    {"verse": 16, "segments": ["El que crea y sea bautizado será salvo; pero el que no crea será condenado."]},
-    {"verse": 17, "segments": ["Y estas señales acompañarán a los que crean: en mi nombre expulsarán demonios y hablarán nuevas lenguas;"]},
-    {"verse": 18, "segments": ["tomarán serpientes, y si bebieren alguna cosa mortífera, no les hará daño; pondrán las manos sobre los enfermos, y sanarán»."]},
-    {"verse": 19, "segments": ["Y el Señor, después de hablarles, fue recibido en el cielo y se sentó a la derecha de ", {"entryId": "elohim"}, "."]},
-    {"verse": 20, "segments": ["Y ellos salieron y proclamaron la palabra por todas partes, obrando el Señor juntamente con ellos y confirmando la palabra mediante las señales que la acompañaban. Amén."]}
+  "textualNotes": [
+    {
+      "verse": 9,
+      "note": "Marcos 16:9–20: algunos testimonios griegos antiguos terminan en 16:8; otros transmiten el final largo. Se conserva íntegro según RV1909.",
+      "source": "https://www.bible.com/bible/107/MRK.16.NET"
+    }
   ]
 }

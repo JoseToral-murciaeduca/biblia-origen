@@ -1,0 +1,192 @@
+{
+  "lewi": {
+    "category": "person",
+    "defaultForm": "Lewi",
+    "traditional": "Leví",
+    "bridgeGloss": "Leví",
+    "originalScript": {
+      "greek": "Λευί",
+      "hebrew": "לוי"
+    },
+    "transliteration": "Lewi",
+    "meaning": "Nombre del hijo de Alfeo llamado en Marcos 2:14.",
+    "sourceNote": "Equivalencia hebrea del nombre; no se identifica automáticamente con Mateo. https://biblehub.com/text/mark/2-14.htm"
+  },
+  "alfai": {
+    "category": "person",
+    "defaultForm": "Alfai",
+    "traditional": "Alfeo",
+    "bridgeGloss": "Alfeo",
+    "originalScript": {
+      "greek": "Ἁλφαῖος"
+    },
+    "transliteration": "Alfai",
+    "meaning": "Nombre del padre de Leví y del padre del discípulo Jacobo en Marcos.",
+    "sourceNote": "Forma editorial basada en el nombre transmitido en griego; no se presupone que ambos sean la misma persona. https://biblehub.com/greek/256.htm"
+  },
+  "boanerges": {
+    "category": "term",
+    "defaultForm": "Boanerges",
+    "traditional": "Hijos del trueno",
+    "bridgeGloss": "Hijos del trueno",
+    "originalScript": {
+      "greek": "Βοανηργές"
+    },
+    "transliteration": "Boanerges",
+    "meaning": "Sobrenombre de los hijos de Zebedeo, explicado en Marcos 3:17.",
+    "sourceNote": "La grafía griega transmite una expresión semítica de reconstrucción discutida. No se propone una grafía aramea segura. https://classic.net.bible.org/passage.php?mode=print&passage=mar+3%3A17%3B5%3A41%3B7%3A11%3B14%3A36%3B15%3A34"
+  },
+  "legion": {
+    "category": "term",
+    "defaultForm": "Legión",
+    "traditional": "Legión",
+    "bridgeGloss": "Legión",
+    "originalScript": {
+      "greek": "λεγιών",
+      "latin": "legio"
+    },
+    "transliteration": "Legión",
+    "meaning": "Nombre colectivo de origen militar romano, usado en Marcos 5:9 y 5:15.",
+    "sourceNote": "Préstamo latino en griego. En el relato se aplica a una multitud. https://biblehub.com/greek/3003.htm"
+  },
+  "dekapolis": {
+    "category": "place",
+    "defaultForm": "Dekapolis",
+    "traditional": "Decápolis",
+    "bridgeGloss": "Decápolis",
+    "originalScript": {
+      "greek": "Δεκάπολις"
+    },
+    "transliteration": "Dekapolis",
+    "meaning": "Nombre griego que significa diez ciudades; designa una región de ciudades del entorno oriental del Jordán.",
+    "sourceNote": "https://biblehub.com/greek/1179.htm"
+  },
+  "yair": {
+    "category": "person",
+    "defaultForm": "Yair",
+    "traditional": "Jairo",
+    "bridgeGloss": "Jairo",
+    "originalScript": {
+      "greek": "Ἰάϊρος",
+      "hebrew": "יאיר"
+    },
+    "transliteration": "Yair",
+    "meaning": "Nombre del dirigente de la sinagoga que pide ayuda por su hija.",
+    "sourceNote": "Equivalencia hebrea del nombre, no una lectura manuscrita hebrea. Referencia: Marcos 5:22. https://biblehub.com/text/mark/5-22.htm"
+  },
+  "talitha_kumi": {
+    "category": "term",
+    "defaultForm": "Talitha cumi",
+    "traditional": "Muchacha, levántate",
+    "bridgeGloss": "Muchacha, levántate",
+    "originalScript": {
+      "greek": "ταλιθὰ κούμ / ταλιθὰ κουμί",
+      "aramaic": "טליתא קומי"
+    },
+    "transliteration": "Talitha cumi",
+    "meaning": "Expresión aramea dirigida a la hija de Jairo. La grafía semítica es una equivalencia reconstruida.",
+    "sourceNote": "Marcos 5:41 conserva variantes griegas de la expresión; se mantiene la forma de RV1909. https://classic.net.bible.org/passage.php?mode=print&passage=mar+3%3A17%3B5%3A41%3B7%3A11%3B14%3A36%3B15%3A34"
+  },
+  "herodias": {
+    "category": "person",
+    "defaultForm": "Herodias",
+    "traditional": "Herodías",
+    "bridgeGloss": "Herodías",
+    "originalScript": {
+      "greek": "Ἡρῳδιάς"
+    },
+    "transliteration": "Herodias",
+    "meaning": "Mujer mencionada en el relato de Juan el Bautista.",
+    "sourceNote": "Nombre transmitido en griego. https://biblehub.com/greek/2266.htm"
+  },
+  "beit_tzaida": {
+    "category": "place",
+    "defaultForm": "Beit Tzaida",
+    "traditional": "Betsaida",
+    "bridgeGloss": "Betsaida",
+    "originalScript": {
+      "greek": "Βηθσαϊδά"
+    },
+    "transliteration": "Beit Tzaida",
+    "meaning": "Localidad vinculada con los relatos junto al lago de Galilea.",
+    "sourceNote": "Transliteración editorial del topónimo semítico transmitido en griego; no se afirma una vocalización antigua exacta. https://biblehub.com/greek/966.htm"
+  },
+  "qorban": {
+    "category": "term",
+    "defaultForm": "Qorbán",
+    "traditional": "Ofrenda consagrada",
+    "bridgeGloss": "Ofrenda consagrada",
+    "originalScript": {
+      "greek": "κορβᾶν",
+      "hebrew": "קרבן",
+      "aramaic": "קורבנא"
+    },
+    "transliteration": "Qorbán",
+    "meaning": "Ofrenda o don dedicado a Dios. Marcos 7:11 alude a su uso en relación con las obligaciones familiares.",
+    "sourceNote": "Préstamo semítico conservado en el texto griego; la grafía aramea es una equivalencia lingüística. https://classic.net.bible.org/passage.php?mode=print&passage=mar+3%3A17%3B5%3A41%3B7%3A11%3B14%3A36%3B15%3A34"
+  },
+  "ephphatha": {
+    "category": "term",
+    "defaultForm": "Ephphatha",
+    "traditional": "Ábrete",
+    "bridgeGloss": "Ábrete",
+    "originalScript": {
+      "greek": "ἐφφαθά"
+    },
+    "transliteration": "Ephphatha",
+    "meaning": "Mandato arameo que el evangelista explica como una orden de apertura.",
+    "sourceNote": "Marcos 7:34; se conserva la transliteración transmitida. No se fija una grafía aramea reconstruida. https://ora.ox.ac.uk/objects/uuid%3A4a4c06a8-49da-4882-8e84-231a6829d3bc/files/rw08929964"
+  },
+  "bar_timai": {
+    "category": "person",
+    "defaultForm": "Bar-Timai",
+    "traditional": "Bartimeo",
+    "bridgeGloss": "Bartimeo",
+    "originalScript": {
+      "greek": "Βαρτιμαῖος"
+    },
+    "transliteration": "Bar-Timai",
+    "meaning": "Nombre del ciego de Jericó; el texto lo explica como hijo de Timeo.",
+    "sourceNote": "Bar es un elemento arameo que significa hijo; no se fija el origen exacto del segundo elemento. https://www.biblehub.com/text/mark/10-46.htm"
+  },
+  "abba": {
+    "category": "term",
+    "defaultForm": "Abba",
+    "traditional": "Padre",
+    "bridgeGloss": "Padre",
+    "originalScript": {
+      "greek": "ἀββᾶ",
+      "aramaic": "אבא",
+      "syriac": "ܐܒܐ"
+    },
+    "transliteration": "Abba",
+    "meaning": "Tratamiento arameo para padre. En Marcos 14:36 aparece seguido de su equivalente griego.",
+    "sourceNote": "El siríaco es una equivalencia de la tradición lingüística aramea; no una prueba de un original siríaco de Marcos. https://classic.net.bible.org/passage.php?mode=print&passage=mar+3%3A17%3B5%3A41%3B7%3A11%3B14%3A36%3B15%3A34"
+  },
+  "praitorion": {
+    "category": "term",
+    "defaultForm": "Praitorion",
+    "traditional": "pretorio",
+    "bridgeGloss": "pretorio",
+    "originalScript": {
+      "greek": "πραιτώριον",
+      "latin": "praetorium"
+    },
+    "transliteration": "Praitorion",
+    "meaning": "Término romano para una sede oficial; en Marcos 15:16 designa el lugar asociado a la residencia de la autoridad.",
+    "sourceNote": "Préstamo latino en el griego del Nuevo Testamento. https://biblehub.com/greek/4232.htm"
+  },
+  "eloi_eloi": {
+    "category": "term",
+    "defaultForm": "Eloi, Eloi, lema sabachthani",
+    "traditional": "Dios mío, Dios mío, ¿por qué me has desamparado?",
+    "bridgeGloss": "Dios mío, Dios mío, ¿por qué me has desamparado?",
+    "originalScript": {
+      "greek": "ἐλωΐ ἐλωΐ λεμὰ σαβαχθανί"
+    },
+    "transliteration": "Eloi, Eloi, lema sabachthani",
+    "meaning": "Expresión semítica de Marcos 15:34 que remite al inicio del Salmo 22.",
+    "sourceNote": "La forma griega conserva una transliteración; la vocalización y grafía aramea exactas no se reconstruyen aquí. La forma de Mateo es distinta. https://classic.net.bible.org/passage.php?mode=print&passage=mar+3%3A17%3B5%3A41%3B7%3A11%3B14%3A36%3B15%3A34",
+    "otReference": "Salmos 22:1"
+  }
+}

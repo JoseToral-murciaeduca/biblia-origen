@@ -1,0 +1,214 @@
+{
+  "bookId": "marqos",
+  "titleEntryId": "book_marqos",
+  "bookTitle": "Marqos",
+  "chapter": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "Entró de nuevo en Kefar Najúm después de unos días; y se oyó que estaba en casa."
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Y se reunieron muchos, de manera que ya no había lugar ni aun a la puerta; y les anunciaba la palabra."
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Entonces vinieron a él trayendo a un paralítico, que era cargado por cuatro."
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Y como no podían acercarse a él a causa de la multitud, descubrieron el techo de donde estaba, y haciendo una abertura, bajaron la camilla en que yacía el paralítico."
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Al ver ",
+        { "entryId": "yeshua", "form": "Yeshúa" },
+        " la fe de ellos, dijo al paralítico: «Hijo, tus pecados te son perdonados»."
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Estaban allí sentados algunos de los escribas, que razonaban en sus corazones:"
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "«¿Por qué habla este así? Blasfema. ¿Quién puede perdonar pecados, sino uno solo, ",
+        { "entryId": "elohim", "form": "Elohim" },
+        "?»."
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Y conociendo en seguida ",
+        { "entryId": "yeshua", "form": "Yeshúa" },
+        " en su espíritu que razonaban de esta manera dentro de sí, les dijo: «¿Por qué razonáis estas cosas en vuestros corazones?"
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "¿Qué es más fácil, decir al paralítico: Tus pecados te son perdonados, o decirle: Levántate, toma tu camilla y anda?"
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Pues para que sepáis que el hijo del hombre tiene autoridad en la tierra para perdonar pecados» —dijo al paralítico—:"
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "«A ti te digo: Levántate, toma tu camilla y vete a tu casa»."
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Entonces él se levantó en seguida, y tomando su camilla, salió delante de todos, de manera que todos se asombraron y glorificaron a ",
+        { "entryId": "elohim", "form": "Elohim" },
+        ", diciendo: «Nunca hemos visto tal cosa»."
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Volvió a salir junto al mar; y toda la multitud venía a él, y les enseñaba."
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Y al pasar, vio a ",
+        { "entryId": "levi_bar_jalfai", "form": "Leví" },
+        " ",
+        { "entryId": "bar_jalfai", "form": "Bar-Jalfai" },
+        ", sentado en el banco de los tributos, y le dijo: «Sígueme». Y levantándose, le siguió."
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Aconteció que estando ",
+        { "entryId": "yeshua", "form": "Yeshúa" },
+        " a la mesa en casa de él, muchos publicanos y pecadores estaban sentados también a la mesa con ",
+        { "entryId": "yeshua", "form": "Yeshúa" },
+        " y sus discípulos; porque había muchos que le habían seguido."
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "Y los escribas y los perushim, viéndole comer con los pecadores y publicanos, dijeron a sus discípulos: «¿Qué es esto, que él come y bebe con publicanos y pecadores?»."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Al oírlo ",
+        { "entryId": "yeshua", "form": "Yeshúa" },
+        ", les dijo: «Los sanos no tienen necesidad de médico, sino los enfermos. No he venido a llamar a justos, sino a pecadores»."
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Y los discípulos de ",
+        { "entryId": "yojanan_bautista", "form": "Yojanán" },
+        " y los de los perushim ayunaban; y vinieron y le dijeron: «¿Por qué los discípulos de ",
+        { "entryId": "yojanan_bautista", "form": "Yojanán" },
+        " y los de los perushim ayunan, y tus discípulos no ayunan?»."
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Y ",
+        { "entryId": "yeshua", "form": "Yeshúa" },
+        " les dijo: «¿Acaso pueden ayunar los que están de bodas mientras el esposo está con ellos? Entre tanto que tienen consigo al esposo, no pueden ayunar."
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Pero vendrán días cuando el esposo les será quitado, y entonces, en aquel día, ayunarán."
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "Nadie pone remiendo de paño nuevo en vestido viejo; de otra manera, el mismo remiendo tira de él, lo nuevo de lo viejo, y se hace peor rotura."
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "Y nadie echa vino nuevo en odres viejos; de otra manera, el vino nuevo rompe los odres, y se pierde el vino, y también los odres; pero el vino nuevo en odres nuevos se ha de echar»."
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "Aconteció que al pasar él por los sembrados un día de ",
+        { "entryId": "shabbat", "form": "Shabbat" },
+        ", sus discípulos, andando, comenzaron a arrancar espigas."
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "Entonces los perushim le dijeron: «Mira, ¿por qué hacen en ",
+        { "entryId": "shabbat", "form": "Shabbat" },
+        " lo que no es lícito?»."
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "Pero él les dijo: «¿Nunca leísteis lo que hizo ",
+        { "entryId": "david", "form": "David" },
+        " cuando tuvo necesidad y sintió hambre, él y los que con él estaban;"
+      ]
+    },
+    {
+      "verse": 26,
+      "segments": [
+        "cómo entró en la casa de ",
+        { "entryId": "elohim", "form": "Elohim" },
+        ", siendo sumo sacerdote Eviatar, y comió los panes de la proposición, los cuales no es lícito comer sino a los sacerdotes, y aun dio a los que estaban con él?»."
+      ]
+    },
+    {
+      "verse": 27,
+      "segments": [
+        "También les dijo: «El ",
+        { "entryId": "shabbat", "form": "Shabbat" },
+        " fue hecho por causa del hombre, y no el hombre por causa del ",
+        { "entryId": "shabbat", "form": "Shabbat" },
+        "."
+      ]
+    },
+    {
+      "verse": 28,
+      "segments": [
+        "Por tanto, el hijo del hombre es señor aun del ",
+        { "entryId": "shabbat", "form": "Shabbat" },
+        "»."
+      ]
+    }
+  ]
+}

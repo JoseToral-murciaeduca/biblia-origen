@@ -1,0 +1,122 @@
+{
+  "fuente": "C:\\Users\\kiko_\\Documents\\GitHub\\biblia-origen\\spa-rv1909.usfx.xml",
+  "libros": {
+    "MRK": {
+      "bookId": "marqos",
+      "chapters": 16,
+      "verses": 678,
+      "terms": {
+        "euangelion": 8,
+        "yeshua": 99,
+        "mashiaj": 8,
+        "yeshayahu": 2,
+        "yojanan_bautista": 16,
+        "metanoia": 1,
+        "yehuda_region": 4,
+        "yerushalayim": 11,
+        "yarden": 4,
+        "ruaj_haqodesh": 4,
+        "natzeret": 1,
+        "galil": 12,
+        "satan": 6,
+        "basileia": 14,
+        "simon_kefa": 25,
+        "andreas": 4,
+        "yaaqov_zebedeo": 11,
+        "zavdai": 4,
+        "yojanan_apostol": 10,
+        "kefar_najum": 3,
+        "shabbat": 11,
+        "moshe": 8,
+        "lewi": 1,
+        "alfai": 2,
+        "perushim": 12,
+        "david": 7,
+        "boanerges": 1,
+        "philippos": 1,
+        "bar_talmai": 1,
+        "mattai": 1,
+        "toma": 1,
+        "yaaqov_alfai": 1,
+        "taddai": 1,
+        "yehuda_iscariote": 3,
+        "amen": 14,
+        "legion": 2,
+        "dekapolis": 2,
+        "yair": 1,
+        "talitha_kumi": 1,
+        "miryam": 8,
+        "yosef": 5,
+        "herodes": 8,
+        "eliyahu": 9,
+        "herodias": 3,
+        "beit_tzaida": 2,
+        "qorban": 1,
+        "ephphatha": 1,
+        "rabbi": 4,
+        "yerijo": 2,
+        "bar_timai": 1,
+        "rabbouni": 1,
+        "beit_ania": 4,
+        "hosanna": 2,
+        "tzaduqim": 1,
+        "avraham": 1,
+        "yitzjaq": 1,
+        "yaaqov_patriarca": 1,
+        "pesaj": 5,
+        "getsemani": 1,
+        "abba": 1,
+        "pilatus": 10,
+        "bar_abba": 3,
+        "praitorion": 1,
+        "golgota": 1,
+        "eloi_eloi": 1
+      },
+      "ambiguous": []
+    }
+  },
+  "entradas_nuevas": 15,
+  "conflictos_de_forma": {
+    "yeshua": {
+      "existente": "Yeshúa",
+      "propuesta": "Yeshua"
+    },
+    "mashiaj": {
+      "existente": "Mashíaj",
+      "propuesta": "Mashiaj"
+    },
+    "yojanan_bautista": {
+      "existente": "Yojanán",
+      "propuesta": "Yojanan"
+    },
+    "yerushalayim": {
+      "existente": "Yerushaláyim",
+      "propuesta": "Yerushalayim"
+    },
+    "yarden": {
+      "existente": "Yardén",
+      "propuesta": "Yarden"
+    },
+    "ruaj_haqodesh": {
+      "existente": "Rúaj HaQódesh",
+      "propuesta": "Ruaj HaQodesh"
+    },
+    "simon_kefa": {
+      "existente": "Shim'on Kefa",
+      "propuesta": "Shimón Kefa"
+    },
+    "yaaqov_zebedeo": {
+      "existente": "Ya'aqov",
+      "propuesta": "Yaaqov"
+    },
+    "yojanan_apostol": {
+      "existente": "Yojanán",
+      "propuesta": "Yojanan"
+    },
+    "moshe": {
+      "existente": "Moshé",
+      "propuesta": "Moshe"
+    }
+  },
+  "pendiente": "Revisión humana contextual. No es una edición interlineal exhaustiva."
+}

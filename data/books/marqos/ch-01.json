@@ -7,254 +7,379 @@
     {
       "verse": 1,
       "segments": [
-        "Comienzo de la buena noticia de ",
-        { "entryId": "yeshua", "form": "Yeshúa" },
-        ", el ",
-        { "entryId": "mashiaj", "form": "Mashíaj" },
-        ", hijo de ",
-        { "entryId": "elohim", "form": "Elohim" },
-        "."
+        "PRINCIPIO del ",
+        {
+          "entryId": "euangelion",
+          "form": "evangelio"
+        },
+        " de ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        ", Hijo de Dios."
       ]
     },
     {
       "verse": 2,
       "segments": [
-        "Como está escrito en el profeta Yeshayahu: «Mira, envío mi mensajero delante de tu rostro, el que preparará tu camino delante de ",
-        { "entryId": "yahweh_nt", "form": "Marya" },
-        "»."
+        "Como está escrito en ",
+        {
+          "entryId": "yeshayahu",
+          "form": "Yeshayahu"
+        },
+        " el profeta: He aquí yo envío a mi mensajero delante de tu faz, que apareje tu camino delante de ti."
       ]
     },
     {
       "verse": 3,
       "segments": [
-        "«Voz del que clama en el desierto: Preparad el camino de ",
-        { "entryId": "yahweh_nt", "form": "Marya" },
-        "; enderezad sus sendas»."
+        "Voz del que clama en el desierto: Aparejad el camino del Señor; enderezad sus veredas."
       ]
     },
     {
       "verse": 4,
       "segments": [
-        "Apareció ",
-        { "entryId": "yojanan_bautista", "form": "Yojanán" },
-        " bautizando en el desierto y proclamando un bautismo de arrepentimiento para el perdón de pecados."
+        "Bautizaba ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        " en el desierto, y predicaba el bautismo del ",
+        {
+          "entryId": "metanoia",
+          "form": "arrepentimiento"
+        },
+        " para remisión de pecados."
       ]
     },
     {
       "verse": 5,
       "segments": [
-        "Y salían a él toda la provincia de Yehudá y todos los habitantes de ",
-        { "entryId": "yerushalayim", "form": "Yerushaláyim" },
-        ", y eran bautizados por él en el río ",
-        { "entryId": "yarden", "form": "Yardén" },
-        " confesando sus pecados."
+        "Y salía a él toda la provincia de ",
+        {
+          "entryId": "yehuda_region",
+          "form": "Yehudá"
+        },
+        ", y los de ",
+        {
+          "entryId": "yerushalayim",
+          "form": "Yerushalayim"
+        },
+        "; y eran todos bautizados por él en el río de ",
+        {
+          "entryId": "yarden",
+          "form": "Yarden"
+        },
+        ", confesando sus pecados."
       ]
     },
     {
       "verse": 6,
       "segments": [
         "Y ",
-        { "entryId": "yojanan_bautista", "form": "Yojanán" },
-        " estaba vestido de pelo de camello, y tenía un cinto de cuero alrededor de sus lomos; y comía langostas y miel silvestre."
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        " andaba vestido de pelos de camello, y con un cinto de cuero alrededor de sus lomos; y comía langostas y miel silvestre."
       ]
     },
     {
       "verse": 7,
       "segments": [
-        "Y proclamaba, diciendo: «Viene tras mí el que es más poderoso que yo, a quien no soy digno de agacharme para desatar la correa de su calzado."
+        "Y predicaba, diciendo: Viene tras mí el que es más poderoso que yo, al cual no soy digno de desatar encorvado la correa de sus zapatos."
       ]
     },
     {
       "verse": 8,
       "segments": [
-        "Yo os he bautizado con agua, pero él os bautizará con ",
-        { "entryId": "ruaj_haqodesh", "form": "Rúaj HaQódesh" },
-        "»."
+        "Yo a la verdad os he bautizado con agua; mas él os bautizará con ",
+        {
+          "entryId": "ruaj_haqodesh",
+          "form": "Ruaj HaQodesh"
+        },
+        "."
       ]
     },
     {
       "verse": 9,
       "segments": [
-        "Aconteció en aquellos días que vino ",
-        { "entryId": "yeshua", "form": "Yeshúa" },
-        " desde ",
-        { "entryId": "natzeret", "form": "Natzeret" },
-        " del ",
-        { "entryId": "galil", "form": "Galil" },
+        "Y aconteció en aquellos días, que ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " vino de ",
+        {
+          "entryId": "natzeret",
+          "form": "Natzeret"
+        },
+        " de ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
         ", y fue bautizado por ",
-        { "entryId": "yojanan_bautista", "form": "Yojanán" },
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
         " en el ",
-        { "entryId": "yarden", "form": "Yardén" },
+        {
+          "entryId": "yarden",
+          "form": "Yarden"
+        },
         "."
       ]
     },
     {
       "verse": 10,
       "segments": [
-        "Y en seguida, al subir del agua, vio abrirse los cielos y al ",
-        { "entryId": "ruaj_haqodesh", "form": "Rúaj" },
-        " descender sobre él como una paloma."
+        "Y luego, subiendo del agua, vio abrirse los cielos, y al Espíritu como paloma, que descendía sobre él."
       ]
     },
     {
       "verse": 11,
       "segments": [
-        "Y vino una voz desde los cielos: «Tú eres mi Hijo amado, en ti me he complacido»."
+        "Y hubo una voz de los cielos que decía: Tú eres mi Hijo amado; en ti tomo contentamiento."
       ]
     },
     {
       "verse": 12,
       "segments": [
-        "Y en seguida el ",
-        { "entryId": "ruaj_haqodesh", "form": "Rúaj" },
-        " lo impulsó hacia el desierto."
+        "Y luego el Espíritu le impele al desierto."
       ]
     },
     {
       "verse": 13,
       "segments": [
-        "Y estuvo allí en el desierto cuarenta días, siendo tentado por Satán, y estaba con las bestias salvajes, y los ángeles le servían."
+        "Y estuvo allí en el desierto cuarenta días, y era tentado de ",
+        {
+          "entryId": "satan",
+          "form": "Satán"
+        },
+        "; y estaba con las fieras; y los ángeles le servían."
       ]
     },
     {
       "verse": 14,
       "segments": [
-        "Después que ",
-        { "entryId": "yojanan_bautista", "form": "Yojanán" },
-        " fue entregado, ",
-        { "entryId": "yeshua", "form": "Yeshúa" },
-        " vino al ",
-        { "entryId": "galil", "form": "Galil" },
-        " proclamando la buena noticia del reino de ",
-        { "entryId": "elohim", "form": "Elohim" },
-        ","
+        "Mas después que ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        " fue encarcelado, ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " vino a ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        " predicando el ",
+        {
+          "entryId": "euangelion",
+          "form": "evangelio"
+        },
+        " del ",
+        {
+          "entryId": "basileia",
+          "form": "reino"
+        },
+        " de Dios,"
       ]
     },
     {
       "verse": 15,
       "segments": [
-        "diciendo: «El tiempo se ha cumplido y el reino de ",
-        { "entryId": "elohim", "form": "Elohim" },
-        " se ha acercado; arrepentíos y creed en la buena noticia»."
+        "Y diciendo: El tiempo es cumplido, y el ",
+        {
+          "entryId": "basileia",
+          "form": "reino"
+        },
+        " de Dios está cerca: arrepentíos, y creed al ",
+        {
+          "entryId": "euangelion",
+          "form": "evangelio"
+        },
+        "."
       ]
     },
     {
       "verse": 16,
       "segments": [
-        "Pasando junto al mar del ",
-        { "entryId": "galil", "form": "Galil" },
+        "Y pasando junto a la mar de ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
         ", vio a ",
-        { "entryId": "simon_kefa", "form": "Shim'on" },
-        " y a ",
-        { "entryId": "andreas", "form": "Andreas" },
-        ", hermano de ",
-        { "entryId": "simon_kefa", "form": "Shim'on" },
-        ", echando la red en el mar, pues eran pescadores."
+        {
+          "entryId": "simon_kefa",
+          "form": "Shimón"
+        },
+        ", y a ",
+        {
+          "entryId": "andreas",
+          "form": "Andreas"
+        },
+        " su hermano, que echaban la red en la mar; porque eran pescadores."
       ]
     },
     {
       "verse": 17,
       "segments": [
         "Y les dijo ",
-        { "entryId": "yeshua", "form": "Yeshúa" },
-        ": «Venid detrás de mí, y haré que seáis pescadores de hombres»."
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": Venid en pos de mí, y haré que seáis pescadores de hombres."
       ]
     },
     {
       "verse": 18,
       "segments": [
-        "Y dejando en seguida las redes, le siguieron."
+        "Y luego, dejadas sus redes, le siguieron."
       ]
     },
     {
       "verse": 19,
       "segments": [
-        "Pasando un poco más adelante, vio a ",
-        { "entryId": "yaaqov_zebedeo", "form": "Ya'aqov" },
-        " ",
-        { "entryId": "bar_zavdai", "form": "Bar-Zavdai" },
-        " y a su hermano ",
-        { "entryId": "yojanan_apostol", "form": "Yojanán" },
-        ", que también estaban en la barca remendando las redes."
+        "Y pasando de allí un poco más adelante, vio a ",
+        {
+          "entryId": "yaaqov_zebedeo",
+          "form": "Yaaqov"
+        },
+        ", hijo de ",
+        {
+          "entryId": "zavdai",
+          "form": "Zavdai"
+        },
+        ", y a ",
+        {
+          "entryId": "yojanan_apostol",
+          "form": "Yojanan"
+        },
+        " su hermano, también ellos en el navío, que aderezaban las redes."
       ]
     },
     {
       "verse": 20,
       "segments": [
-        "Y en seguida los llamó; y dejando a su padre Zavdai en la barca con los jornaleros, se fueron detrás de él."
+        "Y luego los llamó: y dejando a su padre ",
+        {
+          "entryId": "zavdai",
+          "form": "Zavdai"
+        },
+        " en el barco con los jornaleros, fueron en pos de él."
       ]
     },
     {
       "verse": 21,
       "segments": [
-        "Y entraron en Kefar Najúm; y enseguida, el día de ",
-        { "entryId": "shabbat", "form": "Shabbat" },
+        "Y entraron en ",
+        {
+          "entryId": "kefar_najum",
+          "form": "Kefar Najum"
+        },
+        "; y luego los ",
+        {
+          "entryId": "shabbat",
+          "form": "sábados"
+        },
         ", entrando en la sinagoga, enseñaba."
       ]
     },
     {
       "verse": 22,
       "segments": [
-        "Y se admiraban de su enseñanza, porque les enseñaba como quien tiene autoridad, y no como los escribas."
+        "Y se admiraban de su doctrina; porque les enseñaba como quien tiene potestad, y no como los escribas."
       ]
     },
     {
       "verse": 23,
       "segments": [
-        "Y había en la sinagoga de ellos un hombre con un espíritu impuro, que gritó,"
+        "Y había en la sinagoga de ellos un hombre con espíritu inmundo, el cual dio voces,"
       ]
     },
     {
       "verse": 24,
       "segments": [
-        "diciendo: «¿Qué tenemos contigo, ",
-        { "entryId": "yeshua", "form": "Yeshúa" },
-        " de ",
-        { "entryId": "natzeret", "form": "Natzeret" },
-        "? ¿Has venido a destruirnos? Yo te conozco, quién eres: el santo de ",
-        { "entryId": "elohim", "form": "Elohim" },
-        "»."
+        "Diciendo: ¡Ah! ¿qué tienes con nosotros, ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " Nazareno? ¿Has venido a destruirnos? Sé quién eres, el Santo de Dios."
       ]
     },
     {
       "verse": 25,
       "segments": [
         "Y ",
-        { "entryId": "yeshua", "form": "Yeshúa" },
-        " lo reprendió, diciendo: «Cállate y sal de él»."
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " le riñó, diciendo: Enmudece, y sal de él."
       ]
     },
     {
       "verse": 26,
       "segments": [
-        "Y el espíritu impuro, sacudiéndolo con violencia y clamando a gran voz, salió de él."
+        "Y el espíritu inmundo, haciéndole pedazos, y clamando a gran voz, salió de él."
       ]
     },
     {
       "verse": 27,
       "segments": [
-        "Y todos se asombraron, de tal manera que discutían entre sí, diciendo: «¿Qué es esto? ¿Una enseñanza nueva con autoridad? Hasta a los espíritus impuros manda, y le obedecen»."
+        "Y todos se maravillaron, de tal manera que inquirían entre sí, diciendo: ¿Qué es esto? ¿Qué nueva doctrina es ésta, que con potestad aun a los espíritus inmundos manda, y le obedecen?"
       ]
     },
     {
       "verse": 28,
       "segments": [
-        "Y su fama se difundió enseguida por todas partes en toda la región de alrededor del ",
-        { "entryId": "galil", "form": "Galil" },
+        "Y vino luego su fama por toda la provincia alrededor de ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
         "."
       ]
     },
     {
       "verse": 29,
       "segments": [
-        "Y al salir de la sinagoga, vinieron a la casa de ",
-        { "entryId": "simon_kefa", "form": "Shim'on" },
-        " y ",
-        { "entryId": "andreas", "form": "Andreas" },
+        "Y luego saliendo de la sinagoga, vinieron a casa de ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Shimón"
+        },
+        " y de ",
+        {
+          "entryId": "andreas",
+          "form": "Andreas"
+        },
         ", con ",
-        { "entryId": "yaaqov_zebedeo", "form": "Ya'aqov" },
+        {
+          "entryId": "yaaqov_zebedeo",
+          "form": "Yaaqov"
+        },
         " y ",
-        { "entryId": "yojanan_apostol", "form": "Yojanán" },
+        {
+          "entryId": "yojanan_apostol",
+          "form": "Yojanan"
+        },
         "."
       ]
     },
@@ -262,108 +387,126 @@
       "verse": 30,
       "segments": [
         "Y la suegra de ",
-        { "entryId": "simon_kefa", "form": "Shim'on" },
-        " estaba acostada con fiebre; y en seguida le hablaron acerca de ella."
+        {
+          "entryId": "simon_kefa",
+          "form": "Shimón"
+        },
+        " estaba acostada con calentura; y le hablaron luego de ella."
       ]
     },
     {
       "verse": 31,
       "segments": [
-        "Y acercándose, la tomó de la mano y la levantó; y la fiebre la dejó, y ella les servía."
+        "Entonces llegando él, la tomó de su mano y la levantó; y luego la dejó la calentura, y les servía."
       ]
     },
     {
       "verse": 32,
       "segments": [
-        "Al atardecer, cuando se puso el sol, le trajeron todos los que tenían dolencias y los endemoniados;"
+        "Y cuando fue la tarde, luego que el sol se puso, traían a él todos los que tenían mal, y endemoniados;"
       ]
     },
     {
       "verse": 33,
       "segments": [
-        "y toda la ciudad estaba reunida a la puerta."
+        "Y toda la ciudad se juntó a la puerta."
       ]
     },
     {
       "verse": 34,
       "segments": [
-        "Y sanó a muchos que sufrían diversas enfermedades, y expulsó a muchos demonios; y no dejaba hablar a los demonios, porque le conocían."
+        "Y sanó a muchos que estaban enfermos de diversas enfermedades, y echó fuera muchos demonios; y no dejaba decir a los demonios que le conocían."
       ]
     },
     {
       "verse": 35,
       "segments": [
-        "Levantándose muy de madrugada, cuando aún estaba oscuro, salió y se fue a un lugar desierto, y allí oraba."
+        "Y levantándose muy de mañana, aun muy de noche, salió y se fue a un lugar desierto, y allí oraba."
       ]
     },
     {
       "verse": 36,
       "segments": [
-        "Y ",
-        { "entryId": "simon_kefa", "form": "Shim'on" },
-        " y los que estaban con él le buscaron;"
+        "Y le siguió ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Shimón"
+        },
+        ", y los que estaban con él;"
       ]
     },
     {
       "verse": 37,
       "segments": [
-        "y hallándole, le dijeron: «Todos te buscan»."
+        "Y hallándole, le dicen: Todos te buscan."
       ]
     },
     {
       "verse": 38,
       "segments": [
-        "Y él les dijo: «Vamos a los pueblos vecinos, para que predique también allí; porque para esto he salido»."
+        "Y les dice: Vamos a los lugares vecinos, para que predique también allí; porque para esto he venido."
       ]
     },
     {
       "verse": 39,
       "segments": [
-        "Y fue predicando en las sinagogas de ellos por todo el ",
-        { "entryId": "galil", "form": "Galil" },
-        ", y expulsando los demonios."
+        "Y predicaba en las sinagogas de ellos en toda ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        ", y echaba fuera los demonios."
       ]
     },
     {
       "verse": 40,
       "segments": [
-        "Y vino a él un leproso, rogándole y arrodillándose, y diciéndole: «Si quieres, puedes limpiarme»."
+        "Y un leproso vino a él, rogándole; e hincada la rodilla, le dice: Si quieres, puedes limpiarme."
       ]
     },
     {
       "verse": 41,
       "segments": [
         "Y ",
-        { "entryId": "yeshua", "form": "Yeshúa" },
-        ", teniendo compasión, extendió la mano y le tocó, y le dijo: «Quiero; sé limpio»."
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", teniendo misericordia de él, extendió su mano, y le tocó, y le dice: Quiero, sé limpio."
       ]
     },
     {
       "verse": 42,
       "segments": [
-        "Y tan pronto como él habló, la lepra se apartó de él, y quedó limpio."
+        "Y así que hubo él hablado, la lepra se fue luego de aquél, y fue limpio."
       ]
     },
     {
       "verse": 43,
       "segments": [
-        "Y le advirtió severamente, y en seguida le despidió,"
+        "Entonces le apercibió, y despidióle luego,"
       ]
     },
     {
       "verse": 44,
       "segments": [
-        "y le dijo: «Mira, no digas nada a nadie; sino ve, muéstrate al sacerdote, y ofrece por tu purificación lo que ordenó ",
-        { "entryId": "moshe", "form": "Moshé" },
-        ", para testimonio a ellos»."
+        "Y le dice: Mira, no digas a nadie nada; sino ve, muéstrate al sacerdote, y ofrece por tu limpieza lo que ",
+        {
+          "entryId": "moshe",
+          "form": "Moshe"
+        },
+        " mandó, para testimonio a ellos."
       ]
     },
     {
       "verse": 45,
       "segments": [
-        "Pero él, salido, empezó a proclamarlo mucho y a divulgar el asunto, de manera que ",
-        { "entryId": "yeshua", "form": "Yeshúa" },
-        " ya no podía entrar abiertamente en ninguna ciudad, sino que se quedaba fuera en lugares desiertos; y venían a él de todas partes."
+        "Mas él salido, comenzó a publicarlo mucho, y a divulgar el hecho, de manera que ya ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " no podía entrar manifiestamente en la ciudad, sino que estaba fuera en los lugares desiertos; y venían a él de todas partes."
       ]
     }
   ]

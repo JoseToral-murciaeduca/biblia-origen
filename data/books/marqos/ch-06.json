@@ -4,61 +4,476 @@
   "bookTitle": "Marqos",
   "chapter": 6,
   "verses": [
-    {"verse": 1, "segments": ["Y salió de allí y vino a su tierra, y le siguieron sus discípulos."]},
-    {"verse": 2, "segments": ["Y llegado el ", {"entryId": "shabbat"}, ", comenzó a enseñar en la sinagoga. Muchos, al oírle, se maravillaban, diciendo: «¿De dónde tiene este estas cosas? ¿Qué sabiduría es esta que le ha sido dada, y qué maravillas son hechas por sus manos?»."]},
-    {"verse": 3, "segments": ["«¿No es este el carpintero, hijo de Miryam, hermano de Ya'aqov, Yosef, Yehudá y Shim'on? ¿No están también aquí con nosotros sus hermanas?». Y tropezaban a causa de él."]},
-    {"verse": 4, "segments": ["Mas ", {"entryId": "yeshua"}, " les decía: «No hay profeta sin honra, excepto en su propia tierra, entre sus parientes y en su casa»."]},
-    {"verse": 5, "segments": ["Y no pudo hacer allí ninguna obra poderosa, excepto sanar a unos pocos enfermos, poniendo las manos sobre ellos."]},
-    {"verse": 6, "segments": ["Y se maravillaba de su incredulidad. Y recorría las aldeas de alrededor, enseñando."]},
-    {"verse": 7, "segments": ["Y llamó a los doce y comenzó a enviarlos de dos en dos, y les dio autoridad sobre los espíritus impuros."]},
-    {"verse": 8, "segments": ["Y les mandó que no llevasen nada para el camino, excepto un bastón: ni alforja, ni pan, ni dinero en el cinturón;"]},
-    {"verse": 9, "segments": ["sino que calzasen sandalias y no vistiesen dos túnicas."]},
-    {"verse": 10, "segments": ["Y les decía: «Dondequiera que entréis en una casa, permaneced allí hasta que salgáis de aquel lugar."]},
-    {"verse": 11, "segments": ["Y donde no os reciban ni os escuchen, al salir de allí sacudid el polvo que está debajo de vuestros pies, como testimonio contra ellos. De cierto os digo que será más tolerable el castigo de Sodoma y Gomorra en el día del juicio que el de aquella ciudad»."]},
-    {"verse": 12, "segments": ["Y saliendo, proclamaban que los hombres se arrepintiesen."]},
-    {"verse": 13, "segments": ["Y expulsaban muchos demonios, ungían con aceite a muchos enfermos y los sanaban."]},
-    {"verse": 14, "segments": ["Y el rey Herodes oyó hablar de ", {"entryId": "yeshua"}, ", porque su nombre se había hecho conocido; y decía: «", {"entryId": "yojanan_bautista"}, ", el que bautizaba, ha resucitado de los muertos, y por eso actúan en él poderes extraordinarios»."]},
-    {"verse": 15, "segments": ["Otros decían: «Es Eliyahu». Y otros decían: «Es un profeta, como alguno de los profetas»."]},
-    {"verse": 16, "segments": ["Pero Herodes, al oírlo, dijo: «Este es ", {"entryId": "yojanan_bautista"}, ", al que yo decapité; ha resucitado de los muertos»."]},
-    {"verse": 17, "segments": ["Porque el propio Herodes había mandado prender a ", {"entryId": "yojanan_bautista"}, " y encadenarle en la cárcel por causa de Herodías, mujer de Philippos, su hermano, pues la había tomado por mujer."]},
-    {"verse": 18, "segments": ["Porque ", {"entryId": "yojanan_bautista"}, " decía a Herodes: «No te es lícito tener a la mujer de tu hermano»."]},
-    {"verse": 19, "segments": ["Mas Herodías le guardaba rencor y deseaba matarle, pero no podía."]},
-    {"verse": 20, "segments": ["Porque Herodes temía a ", {"entryId": "yojanan_bautista"}, ", sabiendo que era un hombre justo y santo, y le protegía; y al oírle, hacía muchas cosas y le escuchaba de buena gana."]},
-    {"verse": 21, "segments": ["Y llegó un día oportuno, cuando Herodes, en la celebración de su nacimiento, ofreció una cena a sus dignatarios, tribunos y principales del ", {"entryId": "galil"}, "."]},
-    {"verse": 22, "segments": ["Y entrando la hija de Herodías, danzó y agradó a Herodes y a los que estaban con él a la mesa. El rey dijo a la muchacha: «Pídeme lo que quieras, y te lo daré»."]},
-    {"verse": 23, "segments": ["Y le juró: «Todo cuanto me pidas te daré, hasta la mitad de mi reino»."]},
-    {"verse": 24, "segments": ["Ella salió y dijo a su madre: «¿Qué pediré?». Y ella respondió: «La cabeza de ", {"entryId": "yojanan_bautista"}, " el Bautista»."]},
-    {"verse": 25, "segments": ["Entonces entró apresuradamente ante el rey y pidió: «Quiero que ahora mismo me des en un plato la cabeza de ", {"entryId": "yojanan_bautista"}, " el Bautista»."]},
-    {"verse": 26, "segments": ["Y el rey se entristeció mucho, pero a causa del juramento y de los que estaban con él a la mesa, no quiso rechazar su petición."]},
-    {"verse": 27, "segments": ["Y enseguida el rey envió a uno de su guardia, ordenándole que trajese su cabeza."]},
-    {"verse": 28, "segments": ["Este fue y le decapitó en la cárcel, trajo su cabeza en un plato y se la dio a la muchacha, y la muchacha se la dio a su madre."]},
-    {"verse": 29, "segments": ["Y al enterarse sus discípulos, vinieron, tomaron su cuerpo y lo depositaron en un sepulcro."]},
-    {"verse": 30, "segments": ["Y los apóstoles se reunieron con ", {"entryId": "yeshua"}, " y le contaron todo lo que habían hecho y enseñado."]},
-    {"verse": 31, "segments": ["Y él les dijo: «Venid vosotros aparte, a un lugar desierto, y descansad un poco». Porque eran muchos los que iban y venían, y ni siquiera tenían tiempo para comer."]},
-    {"verse": 32, "segments": ["Y se fueron en una barca, aparte, a un lugar desierto."]},
-    {"verse": 33, "segments": ["Pero muchos los vieron marcharse y le reconocieron; y acudieron allí a pie desde todas las ciudades, llegaron antes que ellos y se reunieron con él."]},
-    {"verse": 34, "segments": ["Y al salir ", {"entryId": "yeshua"}, ", vio una gran multitud y tuvo compasión de ellos, porque eran como ovejas sin pastor; y comenzó a enseñarles muchas cosas."]},
-    {"verse": 35, "segments": ["Y siendo ya avanzada la hora, sus discípulos se acercaron a él y dijeron: «El lugar es desierto y la hora ya es avanzada."]},
-    {"verse": 36, "segments": ["Despídelos para que vayan a los campos y aldeas de alrededor y compren pan para sí, porque no tienen qué comer»."]},
-    {"verse": 37, "segments": ["Y respondiendo él, les dijo: «Dadles vosotros de comer». Y le dijeron: «¿Vamos a comprar pan por doscientos denarios para darles de comer?»."]},
-    {"verse": 38, "segments": ["Y les dijo: «¿Cuántos panes tenéis? Id y vedlo». Y después de comprobarlo, dijeron: «Cinco panes y dos peces»."]},
-    {"verse": 39, "segments": ["Y les mandó que hiciesen sentar a todos por grupos sobre la hierba verde."]},
-    {"verse": 40, "segments": ["Y se sentaron en grupos de cien y de cincuenta."]},
-    {"verse": 41, "segments": ["Y tomando los cinco panes y los dos peces, levantó la mirada al cielo, bendijo, partió los panes y los dio a sus discípulos para que los distribuyesen; y repartió entre todos los dos peces."]},
-    {"verse": 42, "segments": ["Y todos comieron y quedaron satisfechos."]},
-    {"verse": 43, "segments": ["Y recogieron doce cestas llenas de los trozos de pan y de los peces."]},
-    {"verse": 44, "segments": ["Y los que comieron eran cinco mil hombres."]},
-    {"verse": 45, "segments": ["Y enseguida hizo que sus discípulos subiesen a la barca y fuesen delante de él al otro lado, hacia Beit Tzaida, mientras él despedía a la multitud."]},
-    {"verse": 46, "segments": ["Y después de despedirlos, se fue al monte a orar."]},
-    {"verse": 47, "segments": ["Y al llegar la tarde, la barca estaba en medio del mar, y él estaba solo en tierra."]},
-    {"verse": 48, "segments": ["Y los vio fatigados al remar, porque el viento les era contrario. Cerca de la cuarta vigilia de la noche vino hacia ellos andando sobre el mar, y quería pasar delante de ellos."]},
-    {"verse": 49, "segments": ["Pero al verle andar sobre el mar, pensaron que era un fantasma y gritaron."]},
-    {"verse": 50, "segments": ["Porque todos le vieron y se turbaron. Mas él les habló enseguida y les dijo: «Tened ánimo; soy yo, no temáis»."]},
-    {"verse": 51, "segments": ["Y subió con ellos a la barca, y cesó el viento; y ellos quedaron extraordinariamente asombrados y maravillados."]},
-    {"verse": 52, "segments": ["Porque aún no habían comprendido lo sucedido con los panes, pues sus corazones estaban endurecidos."]},
-    {"verse": 53, "segments": ["Y habiendo cruzado al otro lado, llegaron a la tierra de Genesaret y atracaron."]},
-    {"verse": 54, "segments": ["Y cuando salieron de la barca, enseguida le reconocieron."]},
-    {"verse": 55, "segments": ["Y recorrieron toda aquella región, comenzando a llevar a los enfermos en camillas adonde oían que él estaba."]},
-    {"verse": 56, "segments": ["Y dondequiera que entraba, en aldeas, ciudades o campos, ponían a los enfermos en las plazas y le rogaban que les permitiese tocar siquiera el borde de su vestido; y cuantos le tocaban quedaban sanos."]}
+    {
+      "verse": 1,
+      "segments": [
+        "Y SALIÓ de allí, y vino a su tierra, y le siguieron sus discípulos."
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Y llegado el ",
+        {
+          "entryId": "shabbat",
+          "form": "Shabbat"
+        },
+        ", comenzó a enseñar en la sinagoga; y muchos oyéndole, estaban atónitos, diciendo: ¿De dónde tiene éste estas cosas? ¿Y qué sabiduría es ésta que le es dada, y tales maravillas que por sus manos son hechas?"
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "¿No es éste el carpintero, hijo de ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        ", hermano de Jacobo, y de ",
+        {
+          "entryId": "yosef",
+          "form": "Yosef"
+        },
+        ", y de Judas, y de Simón? ¿No están también aquí con nosotros, sus hermanas? Y se escandalizaban en él."
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Mas ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " les decía: No hay profeta deshonrado sino en su tierra, y entre sus parientes, y en su casa."
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Y no pudo hacer allí alguna maravilla; solamente sanó unos pocos enfermos, poniendo sobre ellos las manos."
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Y estaba maravillado de la incredulidad de ellos. Y rodeaba las aldeas de alrededor, enseñando."
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "Y llamó a los doce, y comenzó a enviarlos de dos en dos: y les dio potestad sobre los espíritus inmundos."
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Y les mandó que no llevasen nada para el camino, sino solamente báculo; no alforja, ni pan, ni dinero en la bolsa;"
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Mas que calzasen sandalias, y no vistiesen dos túnicas."
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Y les decía: Donde quiera que entréis en una casa, posad en ella hasta que salgáis de allí."
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "Y todos aquellos que no os recibieren ni os oyeren, saliendo de allí, sacudid el polvo que está debajo de vuestros pies, en testimonio a ellos. De cierto os digo que más tolerable será el castigo de los de Sodoma y Gomorra el día del juicio, que el de aquella ciudad."
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Y saliendo, predicaban que los hombres se arrepintiesen."
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Y echaban fuera muchos demonios, y ungían con aceite a muchos enfermos, y sanaban."
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Y oyó el rey ",
+        {
+          "entryId": "herodes",
+          "form": "Herodes"
+        },
+        " la fama de ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", porque su nombre se había hecho notorio; y dijo: ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        " el que bautizaba, ha resucitado de los muertos, y por tanto, virtudes obran en él."
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Otros decían: ",
+        {
+          "entryId": "eliyahu",
+          "form": "Eliyahu"
+        },
+        " es. Y otros decían: Profeta es, o alguno de los profetas."
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "Y oyéndolo ",
+        {
+          "entryId": "herodes",
+          "form": "Herodes"
+        },
+        ", dijo: Este es ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        " el que yo degollé: él ha resucitado de los muertos."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Porque el mismo ",
+        {
+          "entryId": "herodes",
+          "form": "Herodes"
+        },
+        " había enviado, y prendido a ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        ", y le había aprisionado en la cárcel a causa de ",
+        {
+          "entryId": "herodias",
+          "form": "Herodias"
+        },
+        ", mujer de Felipe su hermano; pues la había tomado por mujer."
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Porque ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        " decía a ",
+        {
+          "entryId": "herodes",
+          "form": "Herodes"
+        },
+        ": No te es lícito tener la mujer de tu hermano."
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Mas ",
+        {
+          "entryId": "herodias",
+          "form": "Herodias"
+        },
+        " le acechaba, y deseaba matarle, y no podía:"
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Porque ",
+        {
+          "entryId": "herodes",
+          "form": "Herodes"
+        },
+        " temía a ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        ", sabiendo que era varón justo y santo, y le tenía respeto: y oyéndole, hacía muchas cosas; y le oía de buena gana."
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "Y venido un día oportuno, en que ",
+        {
+          "entryId": "herodes",
+          "form": "Herodes"
+        },
+        ", en la fiesta de su nacimiento, daba una cena a sus príncipes y tribunos, y a los principales de ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        ";"
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "Y entrando la hija de ",
+        {
+          "entryId": "herodias",
+          "form": "Herodias"
+        },
+        ", y danzando, y agradando a ",
+        {
+          "entryId": "herodes",
+          "form": "Herodes"
+        },
+        " y a los que estaban con él a la mesa, el rey dijo a la muchacha: Pídeme lo que quisieres, que yo te lo daré."
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "Y le juró: Todo lo que me pidieres te daré, hasta la mitad de mi reino."
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "Y saliendo ella, dijo a su madre: ¿Qué pediré? Y ella dijo: La cabeza de ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan el Bautista"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "Entonces ella entró prestamente al rey, y pidió, diciendo: Quiero que ahora mismo me des en un plato la cabeza de ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan el Bautista"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 26,
+      "segments": [
+        "Y el rey se entristeció mucho; mas a causa del juramento, y de los que estaban con él a la mesa, no quiso desecharla."
+      ]
+    },
+    {
+      "verse": 27,
+      "segments": [
+        "Y luego el rey, enviando uno de la guardia, mandó que fuese traída su cabeza;"
+      ]
+    },
+    {
+      "verse": 28,
+      "segments": [
+        "El cual fue, y le degolló en la cárcel, y trajo su cabeza en un plato, y la dio a la muchacha, y la muchacha la dio a su madre."
+      ]
+    },
+    {
+      "verse": 29,
+      "segments": [
+        "Y oyéndolo sus discípulos, vinieron y tomaron su cuerpo, y le pusieron en un sepulcro."
+      ]
+    },
+    {
+      "verse": 30,
+      "segments": [
+        "Y los apóstoles se juntaron con ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", y le contaron todo lo que habían hecho, y lo que habían enseñado."
+      ]
+    },
+    {
+      "verse": 31,
+      "segments": [
+        "Y él les dijo: Venid vosotros aparte al lugar desierto, y reposad un poco. Porque eran muchos los que iban y venían, que ni aun tenían lugar de comer."
+      ]
+    },
+    {
+      "verse": 32,
+      "segments": [
+        "Y se fueron en un barco al lugar desierto aparte."
+      ]
+    },
+    {
+      "verse": 33,
+      "segments": [
+        "Y los vieron ir muchos, y le conocieron; y concurrieron allá muchos a pie de las ciudades, y llegaron antes que ellos, y se juntaron a él."
+      ]
+    },
+    {
+      "verse": 34,
+      "segments": [
+        "Y saliendo ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " vio grande multitud, y tuvo compasión de ellos, porque eran como ovejas que no tenían pastor; y les comenzó a enseñar muchas cosas."
+      ]
+    },
+    {
+      "verse": 35,
+      "segments": [
+        "Y como ya fuese el día muy entrado, sus discípulos llegaron a él, diciendo: El lugar es desierto, y el día ya muy entrado;"
+      ]
+    },
+    {
+      "verse": 36,
+      "segments": [
+        "Envíalos para que vayan a los cortijos y aldeas de alrededor, y compren para sí pan; porque no tienen qué comer."
+      ]
+    },
+    {
+      "verse": 37,
+      "segments": [
+        "Y respondiendo él, les dijo: Dadles de comer vosotros. Y le dijeron: ¿Que vayamos y compremos pan por doscientos denarios, y les demos de comer?"
+      ]
+    },
+    {
+      "verse": 38,
+      "segments": [
+        "Y él les dice: ¿Cuántos panes tenéis? Id, y vedlo. Y sabiéndolo, dijeron: Cinco, y dos peces."
+      ]
+    },
+    {
+      "verse": 39,
+      "segments": [
+        "Y les mandó que hiciesen recostar a todos por partidas sobre la hierba verde."
+      ]
+    },
+    {
+      "verse": 40,
+      "segments": [
+        "Y se recostaron por partidas, de ciento en ciento, y de cincuenta en cincuenta."
+      ]
+    },
+    {
+      "verse": 41,
+      "segments": [
+        "Y tomados los cinco panes y los dos peces, mirando al cielo, bendijo, y partió los panes, y dio a sus discípulos para que los pusiesen delante: y repartió a todos los dos peces."
+      ]
+    },
+    {
+      "verse": 42,
+      "segments": [
+        "Y comieron todos, y se hartaron."
+      ]
+    },
+    {
+      "verse": 43,
+      "segments": [
+        "Y alzaron de los pedazos doce cofines llenos, y de los peces."
+      ]
+    },
+    {
+      "verse": 44,
+      "segments": [
+        "Y los que comieron eran cinco mil hombres."
+      ]
+    },
+    {
+      "verse": 45,
+      "segments": [
+        "Y luego dio priesa a sus discípulos a subir en el barco, e ir delante de él a ",
+        {
+          "entryId": "beit_tzaida",
+          "form": "Beit Tzaida"
+        },
+        " de la otra parte, entre tanto que él despedía la multitud."
+      ]
+    },
+    {
+      "verse": 46,
+      "segments": [
+        "Y después que los hubo despedido, se fue al monte a orar."
+      ]
+    },
+    {
+      "verse": 47,
+      "segments": [
+        "Y como fue la tarde, el barco estaba en medio de la mar, y él solo en tierra."
+      ]
+    },
+    {
+      "verse": 48,
+      "segments": [
+        "Y los vio fatigados bogando, porque el viento les era contrario: y cerca de la cuarta vigilia de la noche, vino a ellos andando sobre la mar, y quería precederlos."
+      ]
+    },
+    {
+      "verse": 49,
+      "segments": [
+        "Y viéndole ellos, que andaba sobre la mar, pensaron que era fantasma, y dieron voces;"
+      ]
+    },
+    {
+      "verse": 50,
+      "segments": [
+        "Porque todos le veían, y se turbaron. Mas luego habló con ellos, y les dijo: Alentaos; yo soy, no temáis."
+      ]
+    },
+    {
+      "verse": 51,
+      "segments": [
+        "Y subió a ellos en el barco, y calmó el viento: y ellos en gran manera estaban fuera de sí, y se maravillaban:"
+      ]
+    },
+    {
+      "verse": 52,
+      "segments": [
+        "Porque aun no habían considerado lo de los panes, por cuanto estaban ofuscados sus corazones."
+      ]
+    },
+    {
+      "verse": 53,
+      "segments": [
+        "Y cuando estuvieron de la otra parte, vinieron a tierra de Genezaret, y tomaron puerto."
+      ]
+    },
+    {
+      "verse": 54,
+      "segments": [
+        "Y saliendo ellos del barco, luego le conocieron."
+      ]
+    },
+    {
+      "verse": 55,
+      "segments": [
+        "Y recorriendo toda la tierra de alrededor, comenzaron a traer de todas partes enfermos en lechos, a donde oían que estaba."
+      ]
+    },
+    {
+      "verse": 56,
+      "segments": [
+        "Y donde quiera que entraba, en aldeas, o ciudades, o heredades, ponían en las calles a los que estaban enfermos, y le rogaban que tocasen siquiera el borde de su vestido; y todos los que le tocaban quedaban sanos."
+      ]
+    }
   ]
 }
