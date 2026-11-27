@@ -2,6 +2,7 @@
 const APP_NAME = "Biblia Origen";
 const APP_TAGLINE = "Descubre la raíz de cada palabra.";
 const PROGRESS_STORAGE_KEY = "escrituras_progress_v1";
+const LIBRARY_STORAGE_KEY = "biblia_origen_library_v1";
 
 const TESTAMENT_CATEGORIES = {
   ot: [
@@ -482,9 +483,134 @@ function createBookCard(book) {
   return card;
 }
 
+
+// ==========================================
+// SECCIONES DESPLEGABLES DE LA BIBLIOTECA
+// ==========================================
+
+function loadLibraryPreferences() {
+  try {
+    const raw = localStorage.getItem(
+      LIBRARY_STORAGE_KEY
+    );
+
+    return raw ? JSON.parse(raw) || {} : {};
+
+  } catch {
+    return {};
+  }
+}
+
+function saveLibraryPreference(key, expanded) {
+  const preferences = loadLibraryPreferences();
+
+  preferences[key] = expanded;
+
+  try {
+    localStorage.setItem(
+      LIBRARY_STORAGE_KEY,
+      JSON.stringify(preferences)
+    );
+  } catch {
+    // Ignorar errores de almacenamiento.
+  }
+}
+
+function isLibrarySectionExpanded(
+  key,
+  defaultValue = false
+) {
+  const preferences = loadLibraryPreferences();
+
+  return typeof preferences[key] === "boolean"
+    ? preferences[key]
+    : defaultValue;
+}
+
+function createLibraryToggle(
+  heading,
+  panel,
+  key,
+  title,
+  bookCount,
+  defaultExpanded = false
+) {
+  let expanded = isLibrarySectionExpanded(
+    key,
+    defaultExpanded
+  );
+
+  const button = document.createElement("button");
+
+  button.type = "button";
+  button.className = "library-toggle";
+
+  button.setAttribute(
+    "aria-controls",
+    panel.id
+  );
+
+  // Flecha desplegable.
+
+  const arrow = document.createElement("span");
+
+  arrow.className = "library-toggle__arrow";
+  arrow.setAttribute("aria-hidden", "true");
+
+  // Título de la sección.
+
+  const label = document.createElement("span");
+
+  label.className = "library-toggle__label";
+  label.textContent = title;
+
+  // Contador de libros.
+
+  const count = document.createElement("span");
+
+  count.className = "library-toggle__count";
+
+  count.textContent = bookCount === 1
+    ? "1 libro"
+    : `${bookCount} libros`;
+
+  button.append(arrow, label, count);
+
+  function syncExpanded() {
+    panel.hidden = !expanded;
+
+    button.setAttribute(
+      "aria-expanded",
+      String(expanded)
+    );
+
+    button.classList.toggle(
+      "is-expanded",
+      expanded
+    );
+  }
+
+  button.addEventListener("click", () => {
+    expanded = !expanded;
+
+    syncExpanded();
+
+    saveLibraryPreference(
+      key,
+      expanded
+    );
+  });
+
+  heading.replaceChildren(button);
+
+  syncExpanded();
+}
+
+
 // ==========================================
 // BIBLIOTECA
 // ==========================================
+
 
 function renderTestamentSection(
   container,
@@ -496,33 +622,11 @@ function renderTestamentSection(
   const categories =
     TESTAMENT_CATEGORIES[testamentKey] || [];
 
-  categories.forEach(category => {
-    const categoryBooks = books.filter(
+  const visibleCategories = categories.filter(
+    category => books.some(
       book => book.category === category.key
-    );
-
-    if (categoryBooks.length === 0) return;
-
-    const group = document.createElement("div");
-
-    group.className = "category-group";
-
-    const heading = document.createElement("h3");
-
-    heading.className = "category-heading";
-    heading.textContent = category.label;
-
-    const grid = document.createElement("div");
-
-    grid.className = "books-grid";
-
-    categoryBooks.forEach(book => {
-      grid.appendChild(createBookCard(book));
-    });
-
-    group.append(heading, grid);
-    container.appendChild(group);
-  });
+    )
+  );
 
   const uncategorized = books.filter(
     book => !categories.some(
@@ -530,20 +634,92 @@ function renderTestamentSection(
     )
   );
 
-  if (uncategorized.length > 0) {
+  const totalGroups =
+    visibleCategories.length +
+    (uncategorized.length > 0 ? 1 : 0);
+
+  function renderCategory(category, categoryBooks) {
+
+    const group = document.createElement("div");
+
+    group.className = "category-group";
+
+    // Cabecera de la categoría.
+
+    const heading = document.createElement("h3");
+
+    heading.className = "category-heading";
+
+    // Cuadrícula de libros.
+
     const grid = document.createElement("div");
 
     grid.className = "books-grid";
 
-    uncategorized.forEach(book => {
-      grid.appendChild(createBookCard(book));
+    grid.id =
+      `category-${testamentKey}-${category.key}`;
+
+    // Mantener el orden del catálogo original.
+
+    categoryBooks.forEach(book => {
+      grid.appendChild(
+        createBookCard(book)
+      );
     });
 
-    container.appendChild(grid);
+    group.append(heading, grid);
+
+    container.appendChild(group);
+
+    // Crear desplegable de la categoría.
+
+    createLibraryToggle(
+      heading,
+      grid,
+      `category:${testamentKey}:${category.key}`,
+      category.label,
+      categoryBooks.length,
+
+      // Si solamente hay una categoría publicada,
+      // se muestra abierta inicialmente.
+
+      totalGroups === 1
+    );
+  }
+
+  // Categorías principales.
+
+  visibleCategories.forEach(category => {
+
+    const categoryBooks = books.filter(
+      book => book.category === category.key
+    );
+
+    renderCategory(
+      category,
+      categoryBooks
+    );
+  });
+
+  // Libros sin categoría reconocida.
+
+  if (uncategorized.length > 0) {
+
+    renderCategory(
+      {
+        key: "otros",
+        label: "Otros libros"
+      },
+      uncategorized
+    );
+
   }
 }
 
+
+
 function renderLibraryView() {
+
   const otGrid = $("ot-books-grid");
   const ntGrid = $("nt-books-grid");
 
@@ -555,18 +731,82 @@ function renderLibraryView() {
     book => book.testament === "nt"
   );
 
-  otGrid.closest(".testament-block").hidden =
-    otBooks.length === 0;
+  const otBlock = otGrid.closest(
+    ".testament-block"
+  );
 
-  ntGrid.closest(".testament-block").hidden =
-    ntBooks.length === 0;
+  const ntBlock = ntGrid.closest(
+    ".testament-block"
+  );
 
-  renderTestamentSection(otGrid, "ot", otBooks);
-  renderTestamentSection(ntGrid, "nt", ntBooks);
+  // Ocultar testamentos sin libros publicados.
+
+  otBlock.hidden = otBooks.length === 0;
+  ntBlock.hidden = ntBooks.length === 0;
+
+  // Generar las categorías de cada testamento.
+
+  renderTestamentSection(
+    otGrid,
+    "ot",
+    otBooks
+  );
+
+  renderTestamentSection(
+    ntGrid,
+    "nt",
+    ntBooks
+  );
+
+  // Obtener las cabeceras existentes.
+
+  const otHeading = otBlock.querySelector(
+    ".testament-heading"
+  );
+
+  const ntHeading = ntBlock.querySelector(
+    ".testament-heading"
+  );
+
+  // Desplegable del Antiguo Testamento.
+
+  if (otHeading) {
+
+    createLibraryToggle(
+      otHeading,
+      otGrid,
+      "testament:ot",
+      "Antiguo Testamento",
+      otBooks.length,
+
+      // Abrir inicialmente si es el único disponible.
+
+      ntBooks.length === 0
+    );
+
+  }
+
+  // Desplegable del Nuevo Testamento.
+
+  if (ntHeading) {
+
+    createLibraryToggle(
+      ntHeading,
+      ntGrid,
+      "testament:nt",
+      "Nuevo Testamento",
+      ntBooks.length,
+      true
+    );
+
+  }
+
+  // Mensaje cuando no hay libros disponibles.
 
   let emptyMessage = $("library-empty-message");
 
   if (!emptyMessage) {
+
     emptyMessage = document.createElement("p");
 
     emptyMessage.id = "library-empty-message";
@@ -576,7 +816,9 @@ function renderLibraryView() {
     emptyMessage.textContent =
       "Todavía no hay libros disponibles.";
 
-    $("library-view").appendChild(emptyMessage);
+    $("library-view").appendChild(
+      emptyMessage
+    );
   }
 
   emptyMessage.hidden =
