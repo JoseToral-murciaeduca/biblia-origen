@@ -1093,6 +1093,9 @@ function renderLibraryView() {
 
   emptyMessage.hidden =
     state.availableBooks.length > 0;
+  
+  // Mostrar el último libro abierto
+  renderContinueReading();
 }
 
 
@@ -1110,6 +1113,7 @@ async function openLibrary() {
 
   url.searchParams.delete("libro");
   url.searchParams.delete("cap");
+  url.searchParams.delete("vers");
 
   window.history.replaceState(
     {},
@@ -1143,6 +1147,9 @@ async function openBook(bookId, chapterNum = 1) {
     await openLibrary();
     return;
   }
+
+  // Cancelar cualquier búsqueda global activa.
+  clearGlobalSearch();
 
   const navigationId = ++state.navigationId;
 
@@ -1292,6 +1299,10 @@ async function loadChapter(chapterNum) {
 
     url.searchParams.set("libro", bookId);
     url.searchParams.set("cap", String(num));
+
+    // Evitar conservar un versículo perteneciente
+    // al capítulo anterior.
+    url.searchParams.delete("vers");
 
     window.history.replaceState({}, "", url);
 
@@ -1665,10 +1676,7 @@ function render() {
       );
     }
 
-    const number = document.createElement("span");
-
-    number.className = "verse-num";
-    number.textContent = verse.verse;
+    const number = createVerseNumberButton(verse);
 
     p.appendChild(number);
 
@@ -1745,6 +1753,12 @@ function render() {
         p.appendChild(badge);
       }
     });
+
+    // Favoritos, marcadores, resaltados y anotaciones.
+    decoratePersonalVerse(p, verse);
+
+    // Notas textuales y referencias cruzadas
+    decorateStudyVerse(p, verse);
 
     reader.appendChild(p);
   });
@@ -2134,6 +2148,14 @@ function bindEvents() {
   document.addEventListener(
     "keydown",
     async event => {
+    // Evitar cambiar de capítulo mientras
+    // se modifican los ajustes de lectura.
+
+      
+      if (document.querySelector("dialog[open]")) {
+        return;
+      }
+
       if (event.key === "Escape") {
         closeTooltip();
         return;
@@ -2212,6 +2234,15 @@ function bindEvents() {
 async function init() {
   document.title = `${APP_NAME} | Lee, explora y comprende`;
 
+  // Fase 1: herramientas de lectura.
+  initReadingFeatures();
+
+  // Fase 2: biblioteca personal.
+  initPersonalFeatures();
+
+  // Fase 3: estudio biblico.
+  initStudyFeatures();
+
   syncModeButtons();
   bindEvents();
   syncViewVisibility();
@@ -2241,6 +2272,9 @@ async function init() {
     await loadBooksCatalog();
 
     await detectAvailableBooks();
+
+    // Cargar instrcciones y referencias cruzadas.
+    await loadStudyData();
 
   } catch (error) {
     console.error(error);
@@ -2283,10 +2317,33 @@ async function init() {
       10
     ) || 1;
 
-  await openBook(
-    bookParam,
-    initialChapter
+  
+  // Comprobar si la URL contiene un versículo.
+
+  const verseParam = Number(
+    params.get("vers")
   );
+
+  if (
+    Number.isInteger(verseParam) &&
+    verseParam > 0
+  ) {
+
+    await openPersonalVerseLink(
+      bookParam,
+      initialChapter,
+      verseParam
+    );
+
+  } else {
+
+    await openBook(
+      bookParam,
+      initialChapter
+    );
+
+  }
+
 }
 
 init();

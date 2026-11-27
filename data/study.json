@@ -1,0 +1,129 @@
+
+{
+  "aliases": {
+    "mattai": ["mattai", "mateo"],
+    "marqos": ["marqos", "marcos", "markos"],
+    "loukas": ["loukas", "lucas", "lukas", "luqa"],
+    "yojanan": ["yojanan", "juan", "yohanan", "ioannes"],
+    "genesis": ["genesis", "bereshit"],
+    "isaias": ["isaias", "yeshayahu"]
+  },
+  "introductions": {
+    "mattai": {
+      "title": "Evangelio según Mateo",
+      "author": "Atribuido tradicionalmente a Mateo, el apóstol. La identidad histórica del autor no puede establecerse con certeza.",
+      "date": "Frecuentemente situado hacia finales del siglo I, después del año 70 d. C.",
+      "language": "Griego koiné.",
+      "context": "Presenta a Jesús en estrecha relación con la historia de Israel y las Escrituras judías.",
+      "themes": [
+        "El Reino de los cielos",
+        "El cumplimiento de las Escrituras",
+        "La enseñanza de Jesús",
+        "El discipulado"
+      ],
+      "structure": [
+        "1–2: Genealogía y nacimiento",
+        "3–4: Preparación del ministerio",
+        "5–7: Sermón del monte",
+        "8–25: Ministerio y enseñanzas",
+        "26–28: Pasión y resurrección"
+      ],
+      "source": "https://bible.usccb.org/bible/matthew/0"
+    },
+    "marqos": {
+      "title": "Evangelio según Marcos",
+      "author": "Atribuido tradicionalmente a Juan Marcos. La identificación del autor no es concluyente.",
+      "date": "Habitualmente situado alrededor del año 70 d. C.",
+      "language": "Griego koiné.",
+      "context": "Relato centrado en el ministerio, la identidad de Jesús y el significado de su pasión.",
+      "themes": [
+        "La identidad de Jesús",
+        "El servicio",
+        "La fe",
+        "El sufrimiento y el discipulado"
+      ],
+      "structure": [
+        "1: Preparación e inicio del ministerio",
+        "2–8: Ministerio y controversias",
+        "8–10: Camino hacia Jerusalén",
+        "11–13: Jerusalén y enseñanzas",
+        "14–16: Pasión y resurrección"
+      ],
+      "source": "https://bible.usccb.org/bible/mark/0"
+    },
+    "loukas": {
+      "title": "Evangelio según Lucas",
+      "author": "La tradición cristiana atribuye esta obra y Hechos de los Apóstoles a Lucas.",
+      "date": "Una datación académica frecuente es 80–90 d. C.",
+      "language": "Griego koiné.",
+      "context": "Forma la primera parte de una obra continuada en Hechos de los Apóstoles. Destaca el alcance universal de la salvación.",
+      "themes": [
+        "La misericordia",
+        "La oración",
+        "El Espíritu Santo",
+        "La atención a los pobres y marginados"
+      ],
+      "structure": [
+        "1–2: Nacimiento e infancia",
+        "3–4: Preparación del ministerio",
+        "4–9: Ministerio en Galilea",
+        "9–19: Viaje hacia Jerusalén",
+        "19–24: Jerusalén, pasión y resurrección"
+      ],
+      "source": "https://bible.usccb.org/bible/luke/0"
+    },
+    "yojanan": {
+      "title": "Evangelio según Juan",
+      "author": "Atribuido tradicionalmente a Juan, el apóstol. La autoría y las etapas de composición son objeto de debate.",
+      "date": "Su redacción final suele situarse aproximadamente entre 90 y 100 d. C.",
+      "language": "Griego koiné.",
+      "context": "Posee una estructura y un lenguaje teológico propios, diferentes en numerosos aspectos de los evangelios sinópticos.",
+      "themes": [
+        "El Logos",
+        "La vida eterna",
+        "La luz y la verdad",
+        "La fe y el amor"
+      ],
+      "structure": [
+        "1:1–18: Prólogo",
+        "1:19–12:50: Signos y ministerio",
+        "13–20: Últimas enseñanzas, pasión y resurrección",
+        "21: Epílogo"
+      ],
+      "source": "https://bible.usccb.org/bible/john/0"
+    }
+  },
+  "crossReferences": [
+    {
+      "label": "La voz que clama en el desierto",
+      "relation": "Cita profética y pasajes paralelos",
+      "references": [
+        ["isaias", 40, 3],
+        ["mattai", 3, 3],
+        ["marqos", 1, 3],
+        ["loukas", 3, 4],
+        ["yojanan", 1, 23]
+      ],
+      "source": "https://bible.usccb.org/bible/mark/1"
+    },
+    {
+      "label": "En el principio",
+      "relation": "Alusión literaria",
+      "references": [
+        ["genesis", 1, 1],
+        ["yojanan", 1, 1]
+      ],
+      "source": "https://bible.usccb.org/bible/john/1"
+    },
+    {
+      "label": "El bautismo de Jesús",
+      "relation": "Pasajes paralelos",
+      "references": [
+        ["mattai", 3, 16],
+        ["marqos", 1, 10],
+        ["loukas", 3, 22]
+      ],
+      "source": "https://bible.usccb.org/bible/mark/1"
+    }
+  ]
+}

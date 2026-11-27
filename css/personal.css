@@ -1,0 +1,642 @@
+
+/* ==========================================
+   BIBLIA ORIGEN
+   BIBLIOTECA PERSONAL
+   ========================================== */
+
+:root {
+  --highlight-yellow: #F5E5A5;
+  --highlight-green: #D3E5C8;
+  --highlight-blue: #D2E5F5;
+  --highlight-pink: #F1D3D7;
+  --highlight-purple: #E4D7F2;
+}
+
+/* Resaltados para el modo oscuro */
+
+:root[data-reading-theme="dark"] {
+  --highlight-yellow: #51451F;
+  --highlight-green: #294536;
+  --highlight-blue: #29465E;
+  --highlight-pink: #52333C;
+  --highlight-purple: #443554;
+}
+
+
+/* ==========================================
+   BOTÓN DE MI BIBLIOTECA
+   ========================================== */
+
+.personal-library-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.45rem;
+}
+
+.personal-library-btn svg {
+  flex-shrink: 0;
+  width: 18px;
+  height: 18px;
+}
+
+
+/* ==========================================
+   NÚMEROS DE VERSÍCULOS INTERACTIVOS
+   ========================================== */
+
+.verse-action-btn {
+  appearance: none;
+
+  display: inline;
+
+  padding: 0.1rem 0.2rem;
+
+  background: transparent;
+  color: var(--gold);
+
+  border: none;
+  border-bottom: 1px dotted transparent;
+  border-radius: 3px;
+
+  font-family: system-ui, sans-serif;
+  font-size: 0.8rem;
+  font-weight: 700;
+
+  cursor: pointer;
+
+  transition:
+    background-color 0.18s ease,
+    border-color 0.18s ease;
+}
+
+.verse-action-btn:hover {
+  background: var(--gold-soft);
+  border-bottom-color: var(--gold);
+}
+
+.verse-action-btn:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 3px;
+}
+
+
+/* ==========================================
+   COLORES DE RESALTADO
+   ========================================== */
+
+[data-personal-highlight="yellow"] {
+  --personal-highlight:
+    var(--highlight-yellow);
+}
+
+[data-personal-highlight="green"] {
+  --personal-highlight:
+    var(--highlight-green);
+}
+
+[data-personal-highlight="blue"] {
+  --personal-highlight:
+    var(--highlight-blue);
+}
+
+[data-personal-highlight="pink"] {
+  --personal-highlight:
+    var(--highlight-pink);
+}
+
+[data-personal-highlight="purple"] {
+  --personal-highlight:
+    var(--highlight-purple);
+}
+
+.reader .verse[data-personal-highlight] {
+  background-color:
+    var(--personal-highlight);
+
+  border-radius: 5px;
+
+  padding: 0.3rem 0.45rem;
+}
+
+.reader .verse--match[data-personal-highlight] {
+  border-left: 3px solid var(--gold);
+}
+
+
+/* ==========================================
+   INDICADORES DEL VERSÍCULO
+   ========================================== */
+
+.personal-verse-flags {
+  display: inline-block;
+
+  margin-left: 0.5rem;
+  padding: 0.1rem 0.4rem;
+
+  border: 1px solid var(--gold-soft);
+  border-radius: 4px;
+
+  color: var(--gold);
+
+  font-family: system-ui, sans-serif;
+  font-size: 0.65rem;
+  font-weight: 600;
+  line-height: 1.4;
+
+  vertical-align: middle;
+}
+
+
+/* ==========================================
+   VENTANAS PERSONALES
+   ========================================== */
+
+.personal-dialog {
+  width: min(500px, calc(100vw - 32px));
+
+  max-height: calc(100dvh - 32px);
+
+  overflow-y: auto;
+
+  background: var(--surface);
+  color: var(--text);
+}
+
+.personal-library-dialog {
+  width: min(640px, calc(100vw - 32px));
+}
+
+.personal-verse-preview {
+  margin: 0 0 1.25rem;
+
+  padding: 1rem;
+
+  border-left: 3px solid var(--gold);
+  border-radius: 5px;
+
+  background: var(--bg);
+  color: var(--text);
+
+  font-family: var(--reading-font-family);
+  font-size: 1.05rem;
+  font-style: italic;
+  line-height: 1.7;
+
+  overflow-wrap: anywhere;
+}
+
+
+/* ==========================================
+   BOTONES DE ACCIONES
+   ========================================== */
+
+.personal-action-grid {
+  display: grid;
+
+  grid-template-columns:
+    repeat(2, minmax(0, 1fr));
+
+  gap: 0.6rem;
+
+  margin-bottom: 1.25rem;
+}
+
+.personal-action-grid button {
+  min-height: 42px;
+
+  padding: 0.65rem 0.5rem;
+
+  font-size: 0.82rem;
+}
+
+.personal-action-grid
+button[aria-pressed="true"] {
+
+  background: var(--brand-navy);
+  color: var(--brand-gold);
+
+  border-color: var(--brand-gold);
+}
+
+.personal-action-grid
+button[aria-pressed="true"]:hover {
+
+  background: #253B50;
+  color: #E8CE99;
+}
+
+
+/* ==========================================
+   SECCIONES DEL DIÁLOGO
+   ========================================== */
+
+.personal-section {
+  margin-top: 1.3rem;
+
+  padding-top: 1rem;
+
+  border-top: 1px solid var(--border);
+}
+
+.personal-section h3 {
+  margin: 0 0 0.85rem;
+
+  font-family: system-ui, sans-serif;
+  font-size: 0.9rem;
+  font-weight: 600;
+
+  color: var(--text);
+}
+
+
+/* ==========================================
+   PALETA DE COLORES
+   ========================================== */
+
+.highlight-palette {
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+
+  gap: 0.75rem;
+}
+
+.highlight-swatch {
+  position: relative;
+
+  width: 32px;
+  height: 32px;
+
+  padding: 0;
+
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  border-radius: 50%;
+
+  cursor: pointer;
+
+  transition:
+    transform 0.15s ease,
+    box-shadow 0.15s ease;
+}
+
+.highlight-swatch:hover {
+  transform: scale(1.1);
+}
+
+.highlight-swatch[data-highlight="yellow"] {
+  background: #EAD17C;
+}
+
+.highlight-swatch[data-highlight="green"] {
+  background: #A9C9A4;
+}
+
+.highlight-swatch[data-highlight="blue"] {
+  background: #A6C8E6;
+}
+
+.highlight-swatch[data-highlight="pink"] {
+  background: #E4B0B5;
+}
+
+.highlight-swatch[data-highlight="purple"] {
+  background: #CBB8DF;
+}
+
+.highlight-swatch[aria-pressed="true"] {
+  box-shadow: 0 0 0 3px var(--gold);
+}
+
+.highlight-swatch[aria-pressed="true"]::after {
+  content: "✓";
+
+  position: absolute;
+
+  inset: 0;
+
+  display: grid;
+  place-items: center;
+
+  color: #25231F;
+
+  font-size: 0.95rem;
+  font-weight: 700;
+}
+
+.highlight-swatch:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 4px;
+}
+
+.highlight-clear {
+  padding: 0.4rem 0.7rem;
+  font-size: 0.75rem;
+}
+
+
+/* ==========================================
+   ANOTACIONES PERSONALES
+   ========================================== */
+
+.personal-textarea {
+  display: block;
+
+  width: 100%;
+  min-height: 100px;
+
+  padding: 0.85rem;
+
+  border: 1px solid var(--border);
+  border-radius: 7px;
+
+  background: var(--bg);
+  color: var(--text);
+
+  font-family: system-ui, sans-serif;
+  font-size: 0.9rem;
+  line-height: 1.6;
+
+  resize: vertical;
+}
+
+.personal-textarea::placeholder {
+  color: var(--muted);
+}
+
+.personal-textarea:focus {
+  outline: 2px solid var(--gold-soft);
+  border-color: var(--gold);
+}
+
+.personal-note-footer {
+  display: flex;
+
+  align-items: center;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+
+  gap: 0.5rem;
+
+  margin-top: 0.75rem;
+}
+
+.personal-note-footer small {
+  margin-right: auto;
+
+  font-family: system-ui, sans-serif;
+  font-size: 0.73rem;
+
+  color: var(--muted);
+}
+
+.personal-note-footer button {
+  padding: 0.5rem 0.75rem;
+
+  font-size: 0.78rem;
+}
+
+.personal-status {
+  min-height: 1.25rem;
+
+  margin: 0.8rem 0 0;
+
+  color: var(--muted);
+
+  font-family: system-ui, sans-serif;
+  font-size: 0.8rem;
+}
+
+#verse-copy-fallback {
+  margin-top: 1rem;
+}
+
+
+/* ==========================================
+   FILTROS DE MI BIBLIOTECA
+   ========================================== */
+
+.personal-library-filters {
+  display: flex;
+
+  align-items: center;
+  flex-wrap: wrap;
+
+  gap: 0.75rem;
+
+  margin: 1rem 0;
+
+  font-family: system-ui, sans-serif;
+  font-size: 0.85rem;
+}
+
+.personal-library-filters select {
+  flex: 1;
+  min-width: 0;
+
+  padding: 0.65rem;
+
+  background: var(--bg);
+  color: var(--text);
+
+  border: 1px solid var(--border);
+  border-radius: 6px;
+
+  font: inherit;
+}
+
+.personal-library-filters select:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 2px;
+}
+
+
+/* ==========================================
+   LISTADO DE VERSÍCULOS GUARDADOS
+   ========================================== */
+
+#personal-library-list {
+  display: grid;
+  gap: 0.8rem;
+
+  margin-top: 0.75rem;
+}
+
+.personal-library-item {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+
+  gap: 0.65rem;
+
+  padding: 1rem;
+
+  background: var(--bg);
+
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+.personal-library-item h3 {
+  margin: 0;
+
+  color: var(--text);
+  font-size: 1.12rem;
+}
+
+.personal-library-item
+.secondary-btn {
+  align-self: flex-end;
+  font-size: 0.8rem;
+}
+
+.personal-tags {
+  display: flex;
+  flex-wrap: wrap;
+
+  gap: 0.35rem;
+}
+
+.personal-tag {
+  display: inline-block;
+
+  padding: 0.15rem 0.5rem;
+
+  background: var(--surface);
+  color: var(--gold);
+
+  border: 1px solid var(--gold-soft);
+  border-radius: 4px;
+
+  font-family: system-ui, sans-serif;
+  font-size: 0.7rem;
+}
+
+.personal-tag[data-personal-highlight] {
+  background: var(--personal-highlight);
+  color: var(--text);
+}
+
+.personal-note-preview {
+  width: 100%;
+
+  margin: 0;
+
+  padding: 0.65rem 0.8rem;
+
+  border-left: 2px solid var(--gold);
+
+  background: var(--surface);
+
+  color: var(--text);
+
+  font-family: system-ui, sans-serif;
+  font-size: 0.85rem;
+  line-height: 1.6;
+
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+.personal-empty {
+  padding: 2rem 0.75rem;
+  text-align: center;
+}
+
+.personal-privacy-note {
+  margin: 1.5rem 0 0;
+
+  padding-top: 0.85rem;
+
+  border-top: 1px solid var(--border);
+
+  color: var(--muted);
+
+  font-family: system-ui, sans-serif;
+  font-size: 0.72rem;
+  line-height: 1.5;
+
+  text-align: center;
+}
+
+
+/* ==========================================
+   ADAPTACIÓN A MÓVILES
+   ========================================== */
+
+@media (max-width: 540px) {
+
+  .personal-library-btn {
+    position: relative;
+
+    width: 34px;
+    min-height: 34px;
+
+    padding: 0.4rem;
+  }
+
+  /* Ocultar visualmente el texto del botón,
+     manteniéndolo para lectores de pantalla. */
+
+  .personal-library-btn span {
+    position: absolute;
+
+    width: 1px;
+    height: 1px;
+
+    overflow: hidden;
+
+    clip-path: inset(50%);
+    white-space: nowrap;
+  }
+
+  .personal-dialog {
+    padding: 1rem;
+  }
+
+  .personal-action-grid {
+    gap: 0.45rem;
+  }
+
+  .highlight-palette {
+    gap: 0.65rem;
+  }
+
+  .highlight-swatch {
+    width: 29px;
+    height: 29px;
+  }
+
+  .personal-library-item {
+    padding: 0.85rem;
+  }
+
+  .personal-verse-flags {
+    font-size: 0.6rem;
+  }
+
+  .personal-note-footer {
+    gap: 0.4rem;
+  }
+
+}
+
+
+/* ==========================================
+   ACCESIBILIDAD
+   ========================================== */
+
+@media (prefers-reduced-motion: reduce) {
+
+  .highlight-swatch,
+  .verse-action-btn {
+    transition: none;
+  }
+
+  .highlight-swatch:hover {
+    transform: none;
+  }
+
+}
