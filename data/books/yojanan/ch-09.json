@@ -34,7 +34,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        ": Ni éste pecó, ni sus padres: mas para que las obras de Dios se manifiesten en él."
+        ": Ni éste pecó, ni sus padres: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " para que las obras de Dios se manifiesten en él."
       ]
     },
     {
@@ -169,7 +174,11 @@
     {
       "verse": 18,
       "segments": [
-        "Mas los Judíos no creían de él, que había sido ciego, y hubiese recibido la vista, hasta que llamaron a los padres del que había recibido la vista;"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " los Judíos no creían de él, que había sido ciego, y hubiese recibido la vista, hasta que llamaron a los padres del que había recibido la vista;"
       ]
     },
     {
@@ -187,7 +196,11 @@
     {
       "verse": 21,
       "segments": [
-        "Mas cómo vea ahora, no sabemos; o quién le haya abierto los ojos, nosotros no lo sabemos; él tiene edad, preguntadle a él; él hablará de sí."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " cómo vea ahora, no sabemos; o quién le haya abierto los ojos, nosotros no lo sabemos; él tiene edad, preguntadle a él; él hablará de sí."
       ]
     },
     {
@@ -245,7 +258,12 @@
           "entryId": "moshe",
           "form": "Moshe"
         },
-        " habló Dios: mas éste no sabemos de dónde es."
+        " habló Dios: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " éste no sabemos de dónde es."
       ]
     },
     {
@@ -257,7 +275,12 @@
     {
       "verse": 31,
       "segments": [
-        "Y sabemos que Dios no oye a los pecadores: mas si alguno es temeroso de Dios, y hace su voluntad, a éste oye."
+        "Y sabemos que Dios no oye a los pecadores: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " si alguno es temeroso de Dios, y hace su voluntad, a éste oye."
       ]
     },
     {
@@ -342,7 +365,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        ": Si fuerais ciegos, no tuvierais pecado: mas ahora porque decís, Vemos, por tanto vuestro pecado permanece."
+        ": Si fuerais ciegos, no tuvierais pecado: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " ahora porque decís, Vemos, por tanto vuestro pecado permanece."
       ]
     }
   ]

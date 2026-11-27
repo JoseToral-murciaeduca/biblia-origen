@@ -27,7 +27,12 @@
           "entryId": "herodes",
           "form": "Herodes"
         },
-        " tetrarca de ",
+        " ",
+        {
+          "entryId": "glosario_tetrarca",
+          "form": "tetrarca"
+        },
+        " de ",
         {
           "entryId": "galil",
           "form": "Galil"
@@ -37,7 +42,17 @@
           "entryId": "philippos",
           "form": "Philippos"
         },
-        " tetrarca de Iturea y de la provincia de Traconite, y Lisanias tetrarca de Abilinia,"
+        " ",
+        {
+          "entryId": "glosario_tetrarca",
+          "form": "tetrarca"
+        },
+        " de Iturea y de la provincia de Traconite, y Lisanias ",
+        {
+          "entryId": "glosario_tetrarca",
+          "form": "tetrarca"
+        },
+        " de Abilinia,"
       ]
     },
     {
@@ -148,7 +163,12 @@
     {
       "verse": 12,
       "segments": [
-        "Y vinieron también publicanos para ser bautizados, y le dijeron: Maestro, ¿qué haremos?"
+        "Y vinieron también ",
+        {
+          "entryId": "glosario_publicano",
+          "form": "publicanos"
+        },
+        " para ser bautizados, y le dijeron: Maestro, ¿qué haremos?"
       ]
     },
     {
@@ -187,7 +207,12 @@
           "entryId": "yojanan_bautista",
           "form": "Yojanan"
         },
-        ", diciendo a todos: Yo, a la verdad, os bautizo en agua; mas viene quien es más poderoso que yo, de quien no soy digno de desatar la correa de sus zapatos: él os bautizará en ",
+        ", diciendo a todos: Yo, a la verdad, os bautizo en agua; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " viene quien es más poderoso que yo, de quien no soy digno de desatar la correa de sus zapatos: él os bautizará en ",
         {
           "entryId": "ruaj_haqodesh",
           "form": "Ruaj HaQodesh"
@@ -198,7 +223,17 @@
     {
       "verse": 17,
       "segments": [
-        "Cuyo bieldo está en su mano, y limpiará su era, y juntará el trigo en su alfolí, y la paja quemará en fuego que nunca se apagará."
+        "Cuyo ",
+        {
+          "entryId": "glosario_bieldo",
+          "form": "bieldo"
+        },
+        " está en su mano, y limpiará su era, y juntará el trigo en su ",
+        {
+          "entryId": "glosario_alfolí",
+          "form": "alfolí"
+        },
+        ", y la paja quemará en fuego que nunca se apagará."
       ]
     },
     {
@@ -215,7 +250,12 @@
           "entryId": "herodes",
           "form": "Herodes"
         },
-        " el tetrarca, siendo reprendido por él a causa de Herodías, mujer de ",
+        " el ",
+        {
+          "entryId": "glosario_tetrarca",
+          "form": "tetrarca"
+        },
+        ", siendo reprendido por él a causa de Herodías, mujer de ",
         {
           "entryId": "philippos",
           "form": "Philippos"

@@ -7,13 +7,23 @@
     {
       "verse": 1,
       "segments": [
-        "MIRAD que no hagáis vuestra justicia delante de los hombres, para ser vistos de ellos: de otra manera no tendréis merced de vuestro Padre que está en los cielos."
+        "MIRAD que no hagáis vuestra justicia delante de los hombres, para ser vistos de ellos: de otra manera no tendréis ",
+        {
+          "entryId": "glosario_merced",
+          "form": "merced"
+        },
+        " de vuestro Padre que está en los cielos."
       ]
     },
     {
       "verse": 2,
       "segments": [
-        "Cuando pues haces limosna, no hagas tocar trompeta delante de ti, como hacen los hipócritas en las sinagogas y en las plazas, para ser estimados de los hombres: ",
+        "Cuando pues haces limosna, no hagas tocar trompeta delante de ti, como hacen los ",
+        {
+          "entryId": "glosario_hipócrita",
+          "form": "hipócritas"
+        },
+        " en las sinagogas y en las plazas, para ser estimados de los hombres: ",
         {
           "entryId": "amen",
           "form": "Amén"
@@ -24,7 +34,11 @@
     {
       "verse": 3,
       "segments": [
-        "Mas cuando tú haces limosna, no sepa tu izquierda lo que hace tu derecha;"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " cuando tú haces limosna, no sepa tu izquierda lo que hace tu derecha;"
       ]
     },
     {
@@ -36,7 +50,12 @@
     {
       "verse": 5,
       "segments": [
-        "Y cuando oras, no seas como los hipócritas; porque ellos aman el orar en las sinagogas, y en los cantones de las calles en pie, para ser vistos de los hombres: ",
+        "Y cuando oras, no seas como los ",
+        {
+          "entryId": "glosario_hipócrita",
+          "form": "hipócritas"
+        },
+        "; porque ellos aman el orar en las sinagogas, y en los cantones de las calles en pie, para ser vistos de los hombres: ",
         {
           "entryId": "amen",
           "form": "Amén"
@@ -47,13 +66,22 @@
     {
       "verse": 6,
       "segments": [
-        "Mas tú, cuando oras, éntrate en tu cámara, y cerrada tu puerta, ora a tu Padre que está en secreto; y tu Padre que ve en secreto, te recompensará en público."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " tú, cuando oras, éntrate en tu cámara, y cerrada tu puerta, ora a tu Padre que está en secreto; y tu Padre que ve en secreto, te recompensará en público."
       ]
     },
     {
       "verse": 7,
       "segments": [
-        "Y orando, no seáis prolijos, como los Gentiles; que piensan que por su parlería serán oídos."
+        "Y orando, no seáis prolijos, como los ",
+        {
+          "entryId": "glosario_gentil",
+          "form": "Gentiles"
+        },
+        "; que piensan que por su parlería serán oídos."
       ]
     },
     {
@@ -94,7 +122,12 @@
     {
       "verse": 13,
       "segments": [
-        "Y no nos metas en tentación, mas líbranos del mal: porque tuyo es el reino, y el poder, y la gloria, por todos los siglos. ",
+        "Y no nos metas en tentación, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " líbranos del mal: porque tuyo es el reino, y el poder, y la gloria, por todos los siglos. ",
         {
           "entryId": "amen",
           "form": "Amén"
@@ -111,13 +144,22 @@
     {
       "verse": 15,
       "segments": [
-        "Mas si no perdonareis a los hombres sus ofensas, tampoco vuestro Padre os perdonará vuestras ofensas."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " si no perdonareis a los hombres sus ofensas, tampoco vuestro Padre os perdonará vuestras ofensas."
       ]
     },
     {
       "verse": 16,
       "segments": [
-        "Y cuando ayunáis, no seáis como los hipócritas, austeros; porque ellos demudan sus rostros para parecer a los hombres que ayunan: ",
+        "Y cuando ayunáis, no seáis como los ",
+        {
+          "entryId": "glosario_hipócrita",
+          "form": "hipócritas"
+        },
+        ", austeros; porque ellos demudan sus rostros para parecer a los hombres que ayunan: ",
         {
           "entryId": "amen",
           "form": "Amén"
@@ -128,7 +170,11 @@
     {
       "verse": 17,
       "segments": [
-        "Mas tú, cuando ayunas, unge tu cabeza y lava tu rostro;"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " tú, cuando ayunas, unge tu cabeza y lava tu rostro;"
       ]
     },
     {
@@ -146,7 +192,11 @@
     {
       "verse": 20,
       "segments": [
-        "Mas haceos tesoros en el cielo, donde ni polilla ni orín corrompe, y donde ladrones no minan ni hurtan:"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " haceos tesoros en el cielo, donde ni polilla ni orín corrompe, y donde ladrones no minan ni hurtan:"
       ]
     },
     {
@@ -164,7 +214,11 @@
     {
       "verse": 23,
       "segments": [
-        "Mas si tu ojo fuere malo, todo tu cuerpo será tenebroso. Así que, si la lumbre que en ti hay son tinieblas, ¿cuántas serán las mismas tinieblas?"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " si tu ojo fuere malo, todo tu cuerpo será tenebroso. Así que, si la lumbre que en ti hay son tinieblas, ¿cuántas serán las mismas tinieblas?"
       ]
     },
     {
@@ -192,13 +246,27 @@
     {
       "verse": 26,
       "segments": [
-        "Mirad las aves del cielo, que no siembran, ni siegan, ni allegan en alfolíes; y vuestro Padre celestial las alimenta. ¿No sois vosotros mucho mejores que ellas?"
+        "Mirad las aves del cielo, que no siembran, ni siegan, ni allegan en ",
+        {
+          "entryId": "glosario_alfolí",
+          "form": "alfolíes"
+        },
+        "; y vuestro Padre celestial las alimenta. ¿No sois vosotros mucho mejores que ellas?"
       ]
     },
     {
       "verse": 27,
       "segments": [
-        "Mas ¿quién de vosotros podrá, congojándose, añadir a su estatura un codo?"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ¿quién de vosotros podrá, congojándose, añadir a su estatura un ",
+        {
+          "entryId": "glosario_codo",
+          "form": "codo"
+        },
+        "?"
       ]
     },
     {
@@ -210,7 +278,11 @@
     {
       "verse": 29,
       "segments": [
-        "Mas os digo, que ni aun Salomón con toda su gloria fue vestido así como uno de ellos."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " os digo, que ni aun Salomón con toda su gloria fue vestido así como uno de ellos."
       ]
     },
     {
@@ -233,13 +305,27 @@
     {
       "verse": 32,
       "segments": [
-        "Porque los Gentiles buscan todas estas cosas: que vuestro Padre celestial sabe que de todas estas cosas habéis menester."
+        "Porque los ",
+        {
+          "entryId": "glosario_gentil",
+          "form": "Gentiles"
+        },
+        " buscan todas estas cosas: que vuestro Padre celestial sabe que de todas estas cosas habéis ",
+        {
+          "entryId": "glosario_menester",
+          "form": "menester"
+        },
+        "."
       ]
     },
     {
       "verse": 33,
       "segments": [
-        "Mas buscad primeramente el ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " buscad primeramente el ",
         {
           "entryId": "basileia",
           "form": "reino"

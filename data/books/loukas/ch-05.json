@@ -51,7 +51,12 @@
           "entryId": "epistates",
           "form": "Epistátes"
         },
-        ", habiendo trabajado toda la noche, nada hemos tomado; mas en tu palabra echaré la red."
+        ", habiendo trabajado toda la noche, nada hemos tomado; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " en tu palabra echaré la red."
       ]
     },
     {
@@ -133,7 +138,12 @@
     {
       "verse": 12,
       "segments": [
-        "Y aconteció que estando en una ciudad, he aquí un hombre lleno de lepra, el cual viendo a ",
+        "Y aconteció que estando en una ciudad, ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " un hombre lleno de lepra, el cual viendo a ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -150,7 +160,12 @@
     {
       "verse": 14,
       "segments": [
-        "Y él le mandó que no lo dijese a nadie: Mas ve, díjole, muéstrate al sacerdote, y ofrece por tu limpieza, como mandó ",
+        "Y él le mandó que no lo dijese a nadie: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ve, díjole, muéstrate al sacerdote, y ofrece por tu limpieza, como mandó ",
         {
           "entryId": "moshe",
           "form": "Moshe"
@@ -161,13 +176,21 @@
     {
       "verse": 15,
       "segments": [
-        "Empero tanto más se extendía su fama: y se juntaban muchas gentes a oir y ser sanadas de sus enfermedades."
+        {
+          "entryId": "glosario_empero",
+          "form": "Empero"
+        },
+        " tanto más se extendía su fama: y se juntaban muchas gentes a oir y ser sanadas de sus enfermedades."
       ]
     },
     {
       "verse": 16,
       "segments": [
-        "Mas él se apartaba a los desiertos, y oraba."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " él se apartaba a los desiertos, y oraba."
       ]
     },
     {
@@ -199,7 +222,12 @@
     {
       "verse": 18,
       "segments": [
-        "Y he aquí unos hombres, que traían sobre un lecho un hombre que estaba paralítico; y buscaban meterle, y ponerle delante de él."
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " unos hombres, que traían sobre un lecho un hombre que estaba paralítico; y buscaban meterle, y ponerle delante de él."
       ]
     },
     {
@@ -227,7 +255,12 @@
           "entryId": "perushim",
           "form": "Perushim"
         },
-        " comenzaron a pensar, diciendo: ¿Quién es éste que habla blasfemias? ¿Quién puede perdonar pecados sino sólo Dios?"
+        " comenzaron a pensar, diciendo: ¿Quién es éste que habla ",
+        {
+          "entryId": "glosario_blasfemia",
+          "form": "blasfemias"
+        },
+        "? ¿Quién puede perdonar pecados sino sólo Dios?"
       ]
     },
     {
@@ -267,7 +300,12 @@
     {
       "verse": 27,
       "segments": [
-        "Y después de estas cosas salió, y vio a un publicano llamado Leví, sentado al banco de los públicos tributos, y le dijo: Sígueme."
+        "Y después de estas cosas salió, y vio a un ",
+        {
+          "entryId": "glosario_publicano",
+          "form": "publicano"
+        },
+        " llamado Leví, sentado al banco de los públicos tributos, y le dijo: Sígueme."
       ]
     },
     {
@@ -279,7 +317,12 @@
     {
       "verse": 29,
       "segments": [
-        "E hizo Leví gran banquete en su casa; y había mucha compañía de publicanos y de otros, los cuales estaban a la mesa con ellos."
+        "E hizo Leví gran banquete en su casa; y había mucha compañía de ",
+        {
+          "entryId": "glosario_publicano",
+          "form": "publicanos"
+        },
+        " y de otros, los cuales estaban a la mesa con ellos."
       ]
     },
     {
@@ -290,7 +333,12 @@
           "entryId": "perushim",
           "form": "Perushim"
         },
-        " murmuraban contra sus discípulos, diciendo: ¿Por qué coméis y bebéis con los publicanos y pecadores?"
+        " murmuraban contra sus discípulos, diciendo: ¿Por qué coméis y bebéis con los ",
+        {
+          "entryId": "glosario_publicano",
+          "form": "publicanos"
+        },
+        " y pecadores?"
       ]
     },
     {
@@ -335,13 +383,22 @@
     {
       "verse": 35,
       "segments": [
-        "Empero vendrán días cuando el esposo les será quitado: entonces ayunarán en aquellos días."
+        {
+          "entryId": "glosario_empero",
+          "form": "Empero"
+        },
+        " vendrán días cuando el esposo les será quitado: entonces ayunarán en aquellos días."
       ]
     },
     {
       "verse": 36,
       "segments": [
-        "Y les decía también una parábola: Nadie mete remiendo de paño nuevo en vestido viejo; de otra manera el nuevo rompe, y al viejo no conviene remiendo nuevo."
+        "Y les decía también una ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábola"
+        },
+        ": Nadie mete remiendo de paño nuevo en vestido viejo; de otra manera el nuevo rompe, y al viejo no conviene remiendo nuevo."
       ]
     },
     {
@@ -353,7 +410,11 @@
     {
       "verse": 38,
       "segments": [
-        "Mas el vino nuevo en cueros nuevos se ha de echar; y lo uno y lo otro se conserva."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " el vino nuevo en cueros nuevos se ha de echar; y lo uno y lo otro se conserva."
       ]
     },
     {

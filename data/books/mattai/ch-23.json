@@ -34,19 +34,34 @@
     {
       "verse": 3,
       "segments": [
-        "Así que, todo lo que os dijeren que guardéis, guardadlo y hacedlo; mas no hagáis conforme a sus obras: porque dicen, y no hacen."
+        "Así que, todo lo que os dijeren que guardéis, guardadlo y hacedlo; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " no hagáis conforme a sus obras: porque dicen, y no hacen."
       ]
     },
     {
       "verse": 4,
       "segments": [
-        "Porque atan cargas pesadas y difíciles de llevar, y las ponen sobre los hombros de los hombres; mas ni aun con su dedo las quieren mover."
+        "Porque atan cargas pesadas y difíciles de llevar, y las ponen sobre los hombros de los hombres; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " ni aun con su dedo las quieren mover."
       ]
     },
     {
       "verse": 5,
       "segments": [
-        "Antes, todas sus obras hacen para ser mirados de los hombres; porque ensanchan sus filacterias, y extienden los flecos de sus mantos;"
+        "Antes, todas sus obras hacen para ser mirados de los hombres; porque ensanchan sus ",
+        {
+          "entryId": "glosario_filacteria",
+          "form": "filacterias"
+        },
+        ", y extienden los flecos de sus mantos;"
       ]
     },
     {
@@ -74,7 +89,11 @@
     {
       "verse": 8,
       "segments": [
-        "Mas vosotros, no queráis ser llamados ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " vosotros, no queráis ser llamados ",
         {
           "entryId": "rabbi",
           "form": "Rabbí"
@@ -119,12 +138,21 @@
     {
       "verse": 13,
       "segments": [
-        "Mas ¡ay de vosotros, escribas y ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ¡ay de vosotros, escribas y ",
         {
           "entryId": "perushim",
           "form": "Perushim"
         },
-        ", hipócritas! porque cerráis el reino de los cielos delante de los hombres; que ni vosotros entráis, ni a los que están entrando dejáis entrar."
+        ", ",
+        {
+          "entryId": "glosario_hipócrita",
+          "form": "hipócritas"
+        },
+        "! porque cerráis el reino de los cielos delante de los hombres; que ni vosotros entráis, ni a los que están entrando dejáis entrar."
       ]
     },
     {
@@ -135,7 +163,12 @@
           "entryId": "perushim",
           "form": "Perushim"
         },
-        ", hipócritas! porque coméis las casas de las viudas, y por pretexto hacéis larga oración: por esto llevaréis más grave juicio."
+        ", ",
+        {
+          "entryId": "glosario_hipócrita",
+          "form": "hipócritas"
+        },
+        "! porque coméis las casas de las viudas, y por pretexto hacéis larga oración: por esto llevaréis más grave juicio."
       ]
     },
     {
@@ -146,7 +179,17 @@
           "entryId": "perushim",
           "form": "Perushim"
         },
-        ", hipócritas! porque rodeáis la mar y la tierra por hacer un prosélito; y cuando fuere hecho, le hacéis hijo del ",
+        ", ",
+        {
+          "entryId": "glosario_hipócrita",
+          "form": "hipócritas"
+        },
+        "! porque rodeáis la mar y la tierra por hacer un ",
+        {
+          "entryId": "glosario_prosélito",
+          "form": "prosélito"
+        },
+        "; y cuando fuere hecho, le hacéis hijo del ",
         {
           "entryId": "gehenna",
           "form": "Gehena"
@@ -157,7 +200,12 @@
     {
       "verse": 16,
       "segments": [
-        "¡Ay de vosotros, guías ciegos! que decís: Cualquiera que jurare por el templo es nada; mas cualquiera que jurare por el oro del templo, deudor es."
+        "¡Ay de vosotros, guías ciegos! que decís: Cualquiera que jurare por el templo es nada; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " cualquiera que jurare por el oro del templo, deudor es."
       ]
     },
     {
@@ -169,7 +217,12 @@
     {
       "verse": 18,
       "segments": [
-        "Y: Cualquiera que jurare por el altar, es nada; mas cualquiera que jurare por el presente que está sobre él, deudor es."
+        "Y: Cualquiera que jurare por el altar, es nada; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " cualquiera que jurare por el presente que está sobre él, deudor es."
       ]
     },
     {
@@ -209,13 +262,28 @@
           "entryId": "perushim",
           "form": "Perushim"
         },
-        ", hipócritas! porque diezmáis la menta y el eneldo y el comino, y dejasteis lo que es lo más grave de la ley, es a saber, el juicio y la misericordia y la fe: esto era menester hacer, y no dejar lo otro."
+        ", ",
+        {
+          "entryId": "glosario_hipócrita",
+          "form": "hipócritas"
+        },
+        "! porque diezmáis la menta y el eneldo y el comino, y dejasteis lo que es lo más grave de la ley, es a saber, el juicio y la misericordia y la fe: esto era ",
+        {
+          "entryId": "glosario_menester",
+          "form": "menester"
+        },
+        " hacer, y no dejar lo otro."
       ]
     },
     {
       "verse": 24,
       "segments": [
-        "¡Guías ciegos, que coláis el mosquito, mas tragáis el camello!"
+        "¡Guías ciegos, que coláis el mosquito, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " tragáis el camello!"
       ]
     },
     {
@@ -226,7 +294,17 @@
           "entryId": "perushim",
           "form": "Perushim"
         },
-        ", hipócritas! porque limpiáis lo que está de fuera del vaso y del plato; mas de dentro están llenos de robo y de injusticia."
+        ", ",
+        {
+          "entryId": "glosario_hipócrita",
+          "form": "hipócritas"
+        },
+        "! porque limpiáis lo que está de fuera del vaso y del plato; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " de dentro están llenos de robo y de injusticia."
       ]
     },
     {
@@ -243,13 +321,38 @@
           "entryId": "perushim",
           "form": "Perushim"
         },
-        ", hipócritas! porque sois semejantes a sepulcros blanqueados, que de fuera, a la verdad, se muestran hermosos, mas de dentro están llenos de huesos de muertos y de toda suciedad."
+        ", ",
+        {
+          "entryId": "glosario_hipócrita",
+          "form": "hipócritas"
+        },
+        "! porque sois semejantes a ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcros"
+        },
+        " blanqueados, que de fuera, a la verdad, se muestran hermosos, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " de dentro están llenos de huesos de muertos y de toda suciedad."
       ]
     },
     {
       "verse": 28,
       "segments": [
-        "Así también vosotros de fuera, a la verdad, os mostráis justos a los hombres; mas de dentro, llenos estáis de hipocresía e iniquidad."
+        "Así también vosotros de fuera, a la verdad, os mostráis justos a los hombres; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " de dentro, llenos estáis de hipocresía e ",
+        {
+          "entryId": "glosario_iniquidad",
+          "form": "iniquidad"
+        },
+        "."
       ]
     },
     {
@@ -260,7 +363,17 @@
           "entryId": "perushim",
           "form": "Perushim"
         },
-        ", hipócritas! porque edificáis los sepulcros de los profetas, y adornáis los monumentos de los justos,"
+        ", ",
+        {
+          "entryId": "glosario_hipócrita",
+          "form": "hipócritas"
+        },
+        "! porque edificáis los ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcros"
+        },
+        " de los profetas, y adornáis los monumentos de los justos,"
       ]
     },
     {
@@ -295,7 +408,12 @@
     {
       "verse": 34,
       "segments": [
-        "Por tanto, he aquí, yo envío a vosotros profetas, y sabios, y escribas: y de ellos, a unos mataréis y crucificaréis, y a otros de ellos azotaréis en vuestras sinagogas, y perseguiréis de ciudad en ciudad:"
+        "Por tanto, ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        ", yo envío a vosotros profetas, y sabios, y escribas: y de ellos, a unos mataréis y crucificaréis, y a otros de ellos azotaréis en vuestras sinagogas, y perseguiréis de ciudad en ciudad:"
       ]
     },
     {
@@ -333,7 +451,11 @@
     {
       "verse": 38,
       "segments": [
-        "He aquí vuestra casa os es dejada desierta."
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        " vuestra casa os es dejada desierta."
       ]
     },
     {

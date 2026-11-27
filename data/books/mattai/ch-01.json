@@ -610,7 +610,12 @@
     {
       "verse": 20,
       "segments": [
-        "Y pensando él en esto, he aquí el ángel del Señor le aparece en sueños, diciendo: ",
+        "Y pensando él en esto, ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " el ángel del Señor le aparece en sueños, diciendo: ",
         {
           "entryId": "yosef",
           "form": "Yosef"
@@ -653,7 +658,11 @@
     {
       "verse": 23,
       "segments": [
-        "He aquí la virgen concebirá y parirá un hijo, y llamarás su nombre Emmanuel, que declarado, es: Con nosotros ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        " la virgen concebirá y parirá un hijo, y llamarás su nombre Emmanuel, que declarado, es: Con nosotros ",
         {
           "entryId": "elohim",
           "form": "Elohim"
@@ -675,7 +684,12 @@
     {
       "verse": 25,
       "segments": [
-        "Y no la conoció hasta que parió a su hijo primogénito: y llamó su nombre ",
+        "Y no la conoció hasta que parió a su hijo ",
+        {
+          "entryId": "glosario_primogénito",
+          "form": "primogénito"
+        },
+        ": y llamó su nombre ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"

@@ -29,7 +29,12 @@
     {
       "verse": 3,
       "segments": [
-        "Y si alguien os dijere: ¿Por qué hacéis eso? decid que el Señor lo ha menester: y luego lo enviará acá."
+        "Y si alguien os dijere: ¿Por qué hacéis eso? decid que el Señor lo ha ",
+        {
+          "entryId": "glosario_menester",
+          "form": "menester"
+        },
+        ": y luego lo enviará acá."
       ]
     },
     {
@@ -173,7 +178,12 @@
     {
       "verse": 17,
       "segments": [
-        "Y les enseñaba diciendo: ¿No está escrito que mi casa, casa de oración será llamada por todas las gentes? Mas vosotros la habéis hecho cueva de ladrones."
+        "Y les enseñaba diciendo: ¿No está escrito que mi casa, casa de oración será llamada por todas las gentes? ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " vosotros la habéis hecho cueva de ladrones."
       ]
     },
     {
@@ -185,7 +195,11 @@
     {
       "verse": 19,
       "segments": [
-        "Mas como fue tarde, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " como fue tarde, ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -212,7 +226,12 @@
           "entryId": "rabbi",
           "form": "Rabbí"
         },
-        ", he aquí la higuera que maldijiste, se ha secado."
+        ", ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " la higuera que maldijiste, se ha secado."
       ]
     },
     {
@@ -234,7 +253,12 @@
           "entryId": "amen",
           "form": "Amén"
         },
-        " os digo que cualquiera que dijere a este monte: Quítate, y échate en la mar, y no dudare en su corazón, mas creyere que será hecho lo que dice, lo que dijere le será hecho."
+        " os digo que cualquiera que dijere a este monte: Quítate, y échate en la mar, y no dudare en su corazón, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " creyere que será hecho lo que dice, lo que dijere le será hecho."
       ]
     },
     {

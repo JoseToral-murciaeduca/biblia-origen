@@ -13,7 +13,12 @@
     {
       "verse": 2,
       "segments": [
-        "Y he aquí le trajeron un paralítico, echado en una cama: y viendo ",
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " le trajeron un paralítico, echado en una cama: y viendo ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -24,7 +29,12 @@
     {
       "verse": 3,
       "segments": [
-        "Y he aquí, algunos de los escribas decían dentro de sí: Este blasfema."
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        ", algunos de los escribas decían dentro de sí: Este blasfema."
       ]
     },
     {
@@ -86,7 +96,17 @@
     {
       "verse": 10,
       "segments": [
-        "Y aconteció que estando él sentado a la mesa en casa, he aquí que muchos publicanos y pecadores, que habían venido, se sentaron juntamente a la mesa con ",
+        "Y aconteció que estando él sentado a la mesa en casa, ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " que muchos ",
+        {
+          "entryId": "glosario_publicano",
+          "form": "publicanos"
+        },
+        " y pecadores, que habían venido, se sentaron juntamente a la mesa con ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -102,7 +122,12 @@
           "entryId": "perushim",
           "form": "Perushim"
         },
-        ", dijeron a sus discípulos: ¿Por qué come vuestro Maestro con los publicanos y pecadores?"
+        ", dijeron a sus discípulos: ¿Por qué come vuestro Maestro con los ",
+        {
+          "entryId": "glosario_publicano",
+          "form": "publicanos"
+        },
+        " y pecadores?"
       ]
     },
     {
@@ -151,7 +176,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        " les dijo: ¿Pueden los que son de bodas tener luto entre tanto que el esposo está con ellos? mas vendrán días cuando el esposo será quitado de ellos, y entonces ayunarán."
+        " les dijo: ¿Pueden los que son de bodas tener luto entre tanto que el esposo está con ellos? ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " vendrán días cuando el esposo será quitado de ellos, y entonces ayunarán."
       ]
     },
     {
@@ -163,13 +193,28 @@
     {
       "verse": 17,
       "segments": [
-        "Ni echan vino nuevo en cueros viejos: de otra manera los cueros se rompen, y el vino se derrama, y se pierden los cueros; mas echan el vino nuevo en cueros nuevos, y lo uno y lo otro se conserva juntamente."
+        "Ni echan vino nuevo en cueros viejos: de otra manera los cueros se rompen, y el vino se derrama, y se pierden los cueros; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " echan el vino nuevo en cueros nuevos, y lo uno y lo otro se conserva juntamente."
       ]
     },
     {
       "verse": 18,
       "segments": [
-        "Hablando él estas cosas a ellos, he aquí vino un principal, y le adoraba, diciendo: Mi hija es muerta poco ha: mas ven y pon tu mano sobre ella, y vivirá."
+        "Hablando él estas cosas a ellos, ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " vino un principal, y le adoraba, diciendo: Mi hija es muerta poco ha: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " ven y pon tu mano sobre ella, y vivirá."
       ]
     },
     {
@@ -186,7 +231,12 @@
     {
       "verse": 20,
       "segments": [
-        "Y he aquí una mujer enferma de flujo de sangre doce años había, llegándose por detrás, tocó la franja de su vestido:"
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " una mujer enferma de flujo de sangre doce años había, llegándose por detrás, tocó la franja de su vestido:"
       ]
     },
     {
@@ -198,7 +248,11 @@
     {
       "verse": 22,
       "segments": [
-        "Mas ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -220,7 +274,12 @@
     {
       "verse": 24,
       "segments": [
-        "Díceles: Apartaos, que la muchacha no es muerta, mas duerme. Y se burlaban de él."
+        "Díceles: Apartaos, que la muchacha no es muerta, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " duerme. Y se burlaban de él."
       ]
     },
     {
@@ -282,13 +341,22 @@
     {
       "verse": 31,
       "segments": [
-        "Mas ellos salidos, divulgaron su fama por toda aquella tierra."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ellos salidos, divulgaron su fama por toda aquella tierra."
       ]
     },
     {
       "verse": 32,
       "segments": [
-        "Y saliendo ellos, he aquí, le trajeron un hombre mudo, endemoniado."
+        "Y saliendo ellos, ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        ", le trajeron un hombre mudo, endemoniado."
       ]
     },
     {
@@ -300,7 +368,11 @@
     {
       "verse": 34,
       "segments": [
-        "Mas los ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " los ",
         {
           "entryId": "perushim",
           "form": "Perushim"
@@ -333,7 +405,12 @@
     {
       "verse": 37,
       "segments": [
-        "Entonces dice a sus discípulos: A la verdad la mies es mucha, mas los obreros pocos."
+        "Entonces dice a sus discípulos: A la verdad la mies es mucha, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " los obreros pocos."
       ]
     },
     {

@@ -1,0 +1,571 @@
+{
+  "bookId": "yojanan",
+  "titleEntryId": "book_yojanan",
+  "bookTitle": "Yojanan",
+  "chapter": 4,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "DE manera que como ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " entendió que los ",
+        {
+          "entryId": "perushim",
+          "form": "Perushim"
+        },
+        " habían oído que ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " hacía y bautizaba más discípulos que ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        ","
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "(Aunque ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " no bautizaba, sino sus discípulos),"
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Dejó a ",
+        {
+          "entryId": "yehuda_region",
+          "form": "Yehudá"
+        },
+        ", y fuése otra vez a ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Y era menester que pasase por ",
+        {
+          "entryId": "shomron_region",
+          "form": "Shomron"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Vino, pues, a una ciudad de ",
+        {
+          "entryId": "shomron_region",
+          "form": "Shomron"
+        },
+        " que se llamaba Sichâr, junto a la heredad que ",
+        {
+          "entryId": "yaaqov_patriarca",
+          "form": "Yaaqov"
+        },
+        " dio a ",
+        {
+          "entryId": "yosef",
+          "form": "Yosef"
+        },
+        " su hijo."
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Y estaba allí la fuente de ",
+        {
+          "entryId": "yaaqov_patriarca",
+          "form": "Yaaqov"
+        },
+        ". Pues ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", cansado del camino, así se sentó a la fuente. Era como la hora de sexta."
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "Vino una mujer de ",
+        {
+          "entryId": "shomron_region",
+          "form": "Shomron"
+        },
+        " a sacar agua: y ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " le dice: Dame de beber."
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "(Porque sus discípulos habían ido a la ciudad a comprar de comer.)"
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Y la mujer Samaritana le dice: ¿Cómo tú, siendo Judío, me pides a mí de beber, que soy mujer Samaritana? porque los Judíos no se tratan con los Samaritanos."
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Respondió ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " y díjole: Si conocieses el don de Dios, y quién es el que te dice: Dame de beber: tú pedirías de él, y él te daría agua viva."
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "La mujer le dice: Señor, no tienes con qué sacarla, y el pozo es hondo: ¿de dónde, pues, tienes el agua viva?"
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "¿Eres tú mayor que nuestro padre ",
+        {
+          "entryId": "yaaqov_patriarca",
+          "form": "Yaaqov"
+        },
+        ", que nos dio este pozo, del cual él bebió, y sus hijos, y sus ganados?"
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Respondió ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " y díjole: Cualquiera que bebiere de esta agua, volverá a tener sed;"
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Mas el que bebiere del agua que yo le daré, para siempre no tendrá sed: mas el agua que yo le daré, será en él una fuente de agua que salte para vida eterna."
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "La mujer le dice: Señor, dame esta agua, para que no tenga sed, ni venga acá a sacarla."
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " le dice: Ve, llama a tu marido, y ven acá."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Respondió la mujer, y dijo: No tengo marido. Dícele ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": Bien has dicho, No tengo marido;"
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Porque cinco maridos has tenido: y el que ahora tienes no es tu marido; esto has dicho con verdad."
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Dícele la mujer: Señor, paréceme que tú eres profeta."
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Nuestros padres adoraron en este monte, y vosotros decís que en ",
+        {
+          "entryId": "yerushalayim",
+          "form": "Yerushalayim"
+        },
+        " es el lugar donde es necesario adorar."
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "Dícele ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": Mujer, créeme, que la hora viene, cuando ni en este monte, ni en ",
+        {
+          "entryId": "yerushalayim",
+          "form": "Yerushalayim"
+        },
+        " adoraréis al Padre."
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "Vosotros adoráis lo que no sabéis; nosotros adoramos lo que sabemos: porque la salud viene de los Judíos."
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "Mas la hora viene, y ahora es, cuando los verdaderos adoradores adorarán al Padre en espíritu y en verdad; porque también el Padre tales adoradores busca que le adoren."
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "Dios es Espíritu; y los que le adoran, en espíritu y en verdad es necesario que adoren."
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "Dícele la mujer: Sé que el ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mesías"
+        },
+        " ha de venir, el cual se dice el ",
+        {
+          "entryId": "mashiaj",
+          "form": "Cristo"
+        },
+        ": cuando él viniere nos declarará todas las cosas."
+      ]
+    },
+    {
+      "verse": 26,
+      "segments": [
+        "Dícele ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": Yo soy, que hablo contigo."
+      ]
+    },
+    {
+      "verse": 27,
+      "segments": [
+        "Y en esto vinieron sus discípulos, y maravilláronse de que hablaba con mujer; mas ninguno dijo: ¿Qué preguntas? o, ¿Qué hablas con ella?"
+      ]
+    },
+    {
+      "verse": 28,
+      "segments": [
+        "Entonces la mujer dejó su cántaro, y fue a la ciudad, y dijo a aquellos hombres:"
+      ]
+    },
+    {
+      "verse": 29,
+      "segments": [
+        "Venid, ved un hombre que me ha dicho todo lo que he hecho: ¿si quizás es éste el ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        "?"
+      ]
+    },
+    {
+      "verse": 30,
+      "segments": [
+        "Entonces salieron de la ciudad, y vinieron a él."
+      ]
+    },
+    {
+      "verse": 31,
+      "segments": [
+        "Entre tanto los discípulos le rogaban, diciendo: ",
+        {
+          "entryId": "rabbi",
+          "form": "Rabbí"
+        },
+        ", come."
+      ]
+    },
+    {
+      "verse": 32,
+      "segments": [
+        "Y él les dijo: Yo tengo una comida que comer, que vosotros no sabéis."
+      ]
+    },
+    {
+      "verse": 33,
+      "segments": [
+        "Entonces los discípulos decían el uno al otro: ¿Si le habrá traído alguien de comer?"
+      ]
+    },
+    {
+      "verse": 34,
+      "segments": [
+        "Díceles ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": Mi comida es que haga la voluntad del que me envió, y que acabe su obra."
+      ]
+    },
+    {
+      "verse": 35,
+      "segments": [
+        "¿No decís vosotros: Aun hay cuatro meses hasta que llegue la siega? He aquí os digo: Alzad vuestros ojos, y mirad las regiones, porque ya están blancas para la siega."
+      ]
+    },
+    {
+      "verse": 36,
+      "segments": [
+        "Y el que siega, recibe salario, y allega fruto para vida eterna; para que el que siembra también goce, y el que siega."
+      ]
+    },
+    {
+      "verse": 37,
+      "segments": [
+        "Porque en esto es el dicho verdadero: Que uno es el que siembra, y otro es el que siega."
+      ]
+    },
+    {
+      "verse": 38,
+      "segments": [
+        "Yo os he enviado a segar lo que vosotros no labrasteis: otros labraron, y vosotros habéis entrado en sus labores."
+      ]
+    },
+    {
+      "verse": 39,
+      "segments": [
+        "Y muchos de los Samaritanos de aquella ciudad creyeron en él por la palabra de la mujer, que daba testimonio, diciendo: Que me dijo todo lo que he hecho."
+      ]
+    },
+    {
+      "verse": 40,
+      "segments": [
+        "Viniendo pues los Samaritanos a él, rogáronle que se quedase allí: y se quedó allí dos días."
+      ]
+    },
+    {
+      "verse": 41,
+      "segments": [
+        "Y creyeron muchos más por la palabra de él."
+      ]
+    },
+    {
+      "verse": 42,
+      "segments": [
+        "Y decían a la mujer: Ya no creemos por tu dicho; porque nosotros mismos hemos oído, y sabemos que verdaderamente éste es el Salvador del mundo, el ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 43,
+      "segments": [
+        "Y dos días después, salió de allí, y fuése a ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 44,
+      "segments": [
+        "Porque el mismo ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " dio testimonio de que el profeta en su tierra no tiene honra."
+      ]
+    },
+    {
+      "verse": 45,
+      "segments": [
+        "Y como vino a ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        ", los Galileos le recibieron, vistas todas las cosas que había hecho en ",
+        {
+          "entryId": "yerushalayim",
+          "form": "Yerushalayim"
+        },
+        " en el día de la fiesta: porque también ellos habían ido a la fiesta."
+      ]
+    },
+    {
+      "verse": 46,
+      "segments": [
+        "Vino pues ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " otra vez a ",
+        {
+          "entryId": "qana",
+          "form": "Qana"
+        },
+        " de ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        ", donde había hecho el vino del agua. Y había en ",
+        {
+          "entryId": "kefar_najum",
+          "form": "Kefar Najum"
+        },
+        " uno del rey, cuyo hijo estaba enfermo."
+      ]
+    },
+    {
+      "verse": 47,
+      "segments": [
+        "Este, como oyó que ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " venía de ",
+        {
+          "entryId": "yehuda_region",
+          "form": "Yehudá"
+        },
+        " a ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        ", fue a él, y rogábale que descendiese, y sanase a su hijo, porque se comenzaba a morir."
+      ]
+    },
+    {
+      "verse": 48,
+      "segments": [
+        "Entonces ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " le dijo: Si no viereis señales y milagros no creeréis."
+      ]
+    },
+    {
+      "verse": 49,
+      "segments": [
+        "El del rey le dijo: Señor, desciende antes que mi hijo muera."
+      ]
+    },
+    {
+      "verse": 50,
+      "segments": [
+        "Dícele ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": Ve, tu hijo vive. Y el hombre creyó a la palabra que ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " le dijo, y se fue."
+      ]
+    },
+    {
+      "verse": 51,
+      "segments": [
+        "Y cuando ya él descendía, los siervos le salieron a recibir, y le dieron nuevas, diciendo: Tu hijo vive."
+      ]
+    },
+    {
+      "verse": 52,
+      "segments": [
+        "Entonces él les preguntó a qué hora comenzó a estar mejor. Y dijéronle: Ayer a las siete le dejó la fiebre."
+      ]
+    },
+    {
+      "verse": 53,
+      "segments": [
+        "El padre entonces entendió, que aquella hora era cuando ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " le dijo: Tu hijo vive; y creyó él y toda su casa."
+      ]
+    },
+    {
+      "verse": 54,
+      "segments": [
+        "Esta segunda señal volvió ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " a hacer, cuando vino de ",
+        {
+          "entryId": "yehuda_region",
+          "form": "Yehudá"
+        },
+        " a ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        "."
+      ]
+    }
+  ]
+}

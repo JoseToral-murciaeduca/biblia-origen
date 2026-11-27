@@ -1,0 +1,524 @@
+{
+  "bookId": "yojanan",
+  "titleEntryId": "book_yojanan",
+  "bookTitle": "Yojanan",
+  "chapter": 18,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "COMO ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " hubo dicho estas cosas, salióse con sus discípulos tras el arroyo de Cedrón, donde estaba un huerto, en el cual entró ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " y sus discípulos."
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Y también ",
+        {
+          "entryId": "yehuda_iscariote",
+          "form": "Yehudá"
+        },
+        ", el que le entregaba, sabía aquel lugar; porque muchas veces ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " se juntaba allí con sus discípulos."
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        {
+          "entryId": "yehuda_iscariote",
+          "form": "Yehudá"
+        },
+        " pues tomando una compañía, y ministros de los pontífices y de los ",
+        {
+          "entryId": "perushim",
+          "form": "Perushim"
+        },
+        ", vino allí con linternas y antorchas, y con armas."
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Empero ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", sabiendo todas las cosas que habían de venir sobre él, salió delante, y díjoles: ¿A quién buscáis?"
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Respondiéronle: A ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " Nazareno. Díceles ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": ",
+        {
+          "entryId": "ego_eimi",
+          "form": "Egō eimi"
+        },
+        ". (Y estaba también con ellos ",
+        {
+          "entryId": "yehuda_iscariote",
+          "form": "Yehudá"
+        },
+        ", el que le entregaba.)"
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Y como les dijo, ",
+        {
+          "entryId": "ego_eimi",
+          "form": "Egō eimi"
+        },
+        ", volvieron atrás, y cayeron en tierra."
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "Volvióles, pues, a preguntar: ¿A quién buscáis? Y ellos dijeron: A ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " Nazareno."
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Respondió ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": Os he dicho que ",
+        {
+          "entryId": "ego_eimi",
+          "form": "Egō eimi"
+        },
+        ": pues si a mí buscáis, dejad ir a éstos."
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Para que se cumpliese la palabra que había dicho: De los que me diste, ninguno de ellos perdí."
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Entonces ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Shimón Kefa"
+        },
+        ", que tenía espada, sacóla, e hirió al siervo del pontífice, y le cortó la oreja derecha. Y el siervo se llamaba ",
+        {
+          "entryId": "maljos",
+          "form": "Maljos"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " entonces dijo a ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        ": Mete tu espada en la vaina: el vaso que el Padre me ha dado, ¿no lo tengo de beber?"
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Entonces la compañía y el tribuno, y los ministros de los Judíos, prendieron a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " y le ataron,"
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Y lleváronle primeramente a ",
+        {
+          "entryId": "janan_sumosacerdote",
+          "form": "Janan"
+        },
+        "; porque era suegro de ",
+        {
+          "entryId": "qayafa",
+          "form": "Qayafa"
+        },
+        ", el cual era pontífice de aquel año."
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Y era ",
+        {
+          "entryId": "qayafa",
+          "form": "Qayafa"
+        },
+        " el que había dado el consejo a los Judíos, que era necesario que un hombre muriese por el pueblo."
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Y seguía a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Shimón Kefa"
+        },
+        ", y otro discípulo. Y aquel discípulo era conocido del pontífice, y entró con ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " al atrio del pontífice;"
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "Mas ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        " estaba fuera a la puerta. Y salió aquel discípulo que era conocido del pontífice, y habló a la portera, y metió dentro a ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Entonces la criada portera dijo a ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        ": ¿No eres tú también de los discípulos de este hombre? Dice él: No soy."
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Y estaban en pie los siervos y los ministros que habían allegado las ascuas; porque hacía frío, y calentábanse: y estaba también con ellos ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        " en pie, calentándose."
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Y el pontífice preguntó a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " acerca de sus discípulos y de su doctrina."
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " le respondió: Yo manifiestamente he hablado al mundo: yo siempre he enseñado en la sinagoga y en el templo, donde se juntan todos los Judíos, y nada he hablado en oculto."
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "¿Qué me preguntas a mí? Pregunta a los que han oído, qué les haya yo hablado: he aquí, ésos saben lo que yo he dicho."
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "Y como él hubo dicho esto, uno de los criados que estaba allí, dio una bofetada a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", diciendo: ¿Así respondes al pontífice?"
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "Respondióle ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": Si he hablado mal, da testimonio del mal: y si bien, ¿por qué me hieres?"
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "janan_sumosacerdote",
+          "form": "Janan"
+        },
+        " le había enviado atado a ",
+        {
+          "entryId": "qayafa",
+          "form": "Qayafa"
+        },
+        " pontífice."
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "Estaba pues ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        " en pie calentándose. Y dijéronle: ¿No eres tú de sus discípulos? El negó, y dijo: No soy."
+      ]
+    },
+    {
+      "verse": 26,
+      "segments": [
+        "Uno de los siervos del pontífice, pariente de aquél a quien ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        " había cortado la oreja, le dice: ¿No te vi yo en el huerto con él?"
+      ]
+    },
+    {
+      "verse": 27,
+      "segments": [
+        "Y negó ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        " otra vez: y luego el gallo cantó."
+      ]
+    },
+    {
+      "verse": 28,
+      "segments": [
+        "Y llevaron a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " de ",
+        {
+          "entryId": "qayafa",
+          "form": "Qayafa"
+        },
+        " al pretorio: y era por la mañana: y ellos no entraron en el pretorio por no ser contaminados, sino que comiesen la ",
+        {
+          "entryId": "pesaj",
+          "form": "Pesaj"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 29,
+      "segments": [
+        "Entonces salió ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        " a ellos fuera, y dijo: ¿Qué acusación traéis contra este hombre?"
+      ]
+    },
+    {
+      "verse": 30,
+      "segments": [
+        "Respondieron y dijéronle: Si éste no fuera malhechor, no te le habríamos entregado."
+      ]
+    },
+    {
+      "verse": 31,
+      "segments": [
+        "Díceles entonces ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        ": Tomadle vosotros, y juzgadle según vuestra ley. Y los Judíos le dijeron: A nosotros no es lícito matar a nadie:"
+      ]
+    },
+    {
+      "verse": 32,
+      "segments": [
+        "Para que se cumpliese el dicho de ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", que había dicho, dando a entender de qué muerte había de morir."
+      ]
+    },
+    {
+      "verse": 33,
+      "segments": [
+        "Así que, ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        " volvió a entrar en el pretorio, y llamó a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", y díjole: ¿Eres tú el Rey de los Judíos?"
+      ]
+    },
+    {
+      "verse": 34,
+      "segments": [
+        "Respondióle ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": ¿Dices tú esto de ti mismo, o te lo han dicho otros de mí?"
+      ]
+    },
+    {
+      "verse": 35,
+      "segments": [
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        " respondió: ¿Soy yo Judío? Tu gente, y los pontífices, te han entregado a mí: ¿qué has hecho?"
+      ]
+    },
+    {
+      "verse": 36,
+      "segments": [
+        "Respondió ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": Mi reino no es de este mundo: si de este mundo fuera mi reino, mis servidores pelearían para que yo no fuera entregado a los Judíos: ahora, pues, mi reino no es de aquí."
+      ]
+    },
+    {
+      "verse": 37,
+      "segments": [
+        "Díjole entonces ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        ": ¿Luego rey eres tú? Respondió ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": Tú dices que yo soy rey. Yo para esto he nacido, y para esto he venido al mundo, para dar testimonio a la verdad. Todo aquél que es de la verdad, oye mi voz."
+      ]
+    },
+    {
+      "verse": 38,
+      "segments": [
+        "Dícele ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        ": ¿Qué cosa es verdad? Y como hubo dicho esto, salió otra vez a los Judíos, y díceles: Yo no hallo en él ningún crimen."
+      ]
+    },
+    {
+      "verse": 39,
+      "segments": [
+        "Empero vosotros tenéis costumbre, que os suelte uno en la ",
+        {
+          "entryId": "pesaj",
+          "form": "Pesaj"
+        },
+        ": ¿queréis, pues, que os suelte al Rey de los Judíos?"
+      ]
+    },
+    {
+      "verse": 40,
+      "segments": [
+        "Entonces todos dieron voces otra vez, diciendo: No a éste, sino a ",
+        {
+          "entryId": "bar_abba",
+          "form": "Bar-Abba"
+        },
+        ". Y ",
+        {
+          "entryId": "bar_abba",
+          "form": "Bar-Abba"
+        },
+        " era ladrón."
+      ]
+    }
+  ]
+}

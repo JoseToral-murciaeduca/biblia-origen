@@ -35,7 +35,12 @@
           "entryId": "shabbat",
           "form": "Shabbat"
         },
-        ", o hacer mal? ¿salvar la vida, o quitarla? Mas ellos callaban."
+        ", o hacer mal? ¿salvar la vida, o quitarla? ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ellos callaban."
       ]
     },
     {
@@ -58,7 +63,11 @@
     {
       "verse": 7,
       "segments": [
-        "Mas ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -113,7 +122,11 @@
     {
       "verse": 12,
       "segments": [
-        "Mas él les reñía mucho que no le manifestasen."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " él les reñía mucho que no le manifestasen."
       ]
     },
     {
@@ -264,7 +277,12 @@
     {
       "verse": 23,
       "segments": [
-        "Y habiéndolos llamado, les decía en parábolas: ¿Cómo puede ",
+        "Y habiéndolos llamado, les decía en ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábolas"
+        },
+        ": ¿Cómo puede ",
         {
           "entryId": "satan",
           "form": "Satán"
@@ -313,18 +331,32 @@
           "entryId": "amen",
           "form": "Amén"
         },
-        " os digo que todos los pecados serán perdonados a los hijos de los hombres, y las blasfemias cualesquiera con que blasfemaren;"
+        " os digo que todos los pecados serán perdonados a los hijos de los hombres, y las ",
+        {
+          "entryId": "glosario_blasfemia",
+          "form": "blasfemias"
+        },
+        " cualesquiera con que blasfemaren;"
       ]
     },
     {
       "verse": 29,
       "segments": [
-        "Mas cualquiera que blasfemare contra el ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " cualquiera que blasfemare contra el ",
         {
           "entryId": "ruaj_haqodesh",
           "form": "Ruaj HaQodesh"
         },
-        ", no tiene jamás perdón, mas está expuesto a eterno juicio."
+        ", no tiene jamás perdón, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " está expuesto a eterno juicio."
       ]
     },
     {
@@ -342,7 +374,12 @@
     {
       "verse": 32,
       "segments": [
-        "Y la gente estaba sentada alrededor de él, y le dijeron: He aquí, tu madre y tus hermanos te buscan fuera."
+        "Y la gente estaba sentada alrededor de él, y le dijeron: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        ", tu madre y tus hermanos te buscan fuera."
       ]
     },
     {
@@ -354,7 +391,12 @@
     {
       "verse": 34,
       "segments": [
-        "Y mirando a los que estaban sentados alrededor de él, dijo: He aquí mi madre y hermanos."
+        "Y mirando a los que estaban sentados alrededor de él, dijo: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        " mi madre y hermanos."
       ]
     },
     {

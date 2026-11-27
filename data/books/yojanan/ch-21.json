@@ -75,7 +75,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        " se puso a la ribera: mas los discípulos no entendieron que era ",
+        " se puso a la ribera: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " los discípulos no entendieron que era ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -119,7 +124,12 @@
     {
       "verse": 8,
       "segments": [
-        "Y los otros discípulos vinieron con el barco (porque no estaban lejos de tierra sino como doscientos codos), trayendo la red de peces."
+        "Y los otros discípulos vinieron con el barco (porque no estaban lejos de tierra sino como doscientos ",
+        {
+          "entryId": "glosario_codo",
+          "form": "codos"
+        },
+        "), trayendo la red de peces."
       ]
     },
     {
@@ -239,7 +249,12 @@
     {
       "verse": 18,
       "segments": [
-        "De cierto, de cierto te digo: Cuando eras más mozo, te ceñías, e ibas donde querías; mas cuando ya fueres viejo, extenderás tus manos, y te ceñirá otro, y te llevará a donde no quieras."
+        "De cierto, de cierto te digo: Cuando eras más mozo, te ceñías, e ibas donde querías; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " cuando ya fueres viejo, extenderás tus manos, y te ceñirá otro, y te llevará a donde no quieras."
       ]
     },
     {
@@ -294,7 +309,12 @@
     {
       "verse": 23,
       "segments": [
-        "Salió entonces este dicho entre los hermanos, que aquel discípulo no había de morir. Mas ",
+        "Salió entonces este dicho entre los hermanos, que aquel discípulo no había de morir. ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"

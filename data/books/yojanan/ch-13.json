@@ -51,7 +51,12 @@
     {
       "verse": 5,
       "segments": [
-        "Luego puso agua en un lebrillo, y comenzó a lavar los pies de los discípulos, y a limpiarlos con la toalla con que estaba ceñido."
+        "Luego puso agua en un ",
+        {
+          "entryId": "glosario_lebrillo",
+          "form": "lebrillo"
+        },
+        ", y comenzó a lavar los pies de los discípulos, y a limpiarlos con la toalla con que estaba ceñido."
       ]
     },
     {
@@ -78,7 +83,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        ", y díjole: Lo que yo hago, tú no entiendes ahora; mas lo entenderás después."
+        ", y díjole: Lo que yo hago, tú no entiendes ahora; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " lo entenderás después."
       ]
     },
     {
@@ -105,7 +115,12 @@
           "entryId": "simon_kefa",
           "form": "Shimón Kefa"
         },
-        ": Señor, no sólo mis pies, mas aun las manos y la cabeza."
+        ": Señor, no sólo mis pies, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " aun las manos y la cabeza."
       ]
     },
     {
@@ -116,7 +131,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        ": El que está lavado, no necesita sino que lave los pies, mas está todo limpio: y vosotros limpios estáis, aunque no todos."
+        ": El que está lavado, no necesita sino que lave los pies, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " está todo limpio: y vosotros limpios estáis, aunque no todos."
       ]
     },
     {
@@ -164,7 +184,17 @@
     {
       "verse": 18,
       "segments": [
-        "No hablo de todos vosotros: yo sé los que he elegido: mas para que se cumpla la Escritura: El que come pan conmigo, levantó contra mí su calcañar."
+        "No hablo de todos vosotros: yo sé los que he elegido: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " para que se cumpla la Escritura: El que come pan conmigo, levantó contra mí su ",
+        {
+          "entryId": "glosario_calcañar",
+          "form": "calcañar"
+        },
+        "."
       ]
     },
     {
@@ -269,7 +299,11 @@
     {
       "verse": 28,
       "segments": [
-        "Mas ninguno de los que estaban a la mesa entendió a qué propósito le dijo esto."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ninguno de los que estaban a la mesa entendió a qué propósito le dijo esto."
       ]
     },
     {
@@ -314,7 +348,12 @@
     {
       "verse": 33,
       "segments": [
-        "Hijitos, aun un poco estoy con vosotros. Me buscaréis; mas, como dije a los Judíos: Donde yo voy, vosotros no podéis venir; así digo a vosotros ahora."
+        "Hijitos, aun un poco estoy con vosotros. Me buscaréis; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        ", como dije a los Judíos: Donde yo voy, vosotros no podéis venir; así digo a vosotros ahora."
       ]
     },
     {
@@ -342,7 +381,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        ": Donde yo voy, no me puedes ahora seguir; mas me seguirás después."
+        ": Donde yo voy, no me puedes ahora seguir; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " me seguirás después."
       ]
     },
     {

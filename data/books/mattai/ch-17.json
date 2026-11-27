@@ -39,7 +39,12 @@
     {
       "verse": 3,
       "segments": [
-        "Y he aquí les aparecieron ",
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " les aparecieron ",
         {
           "entryId": "moshe",
           "form": "Moshe"
@@ -81,7 +86,17 @@
     {
       "verse": 5,
       "segments": [
-        "Y estando aún él hablando, he aquí una nube de luz que los cubrió; y he aquí una voz de la nube, que dijo: Este es mi Hijo amado, en el cual tomo contentamiento: a él oid."
+        "Y estando aún él hablando, ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " una nube de luz que los cubrió; y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " una voz de la nube, que dijo: Este es mi Hijo amado, en el cual tomo contentamiento: a él oid."
       ]
     },
     {
@@ -126,7 +141,12 @@
     {
       "verse": 10,
       "segments": [
-        "Entonces sus discípulos le preguntaron, diciendo: ¿Por qué dicen pues los escribas que es menester que ",
+        "Entonces sus discípulos le preguntaron, diciendo: ¿Por qué dicen pues los escribas que es ",
+        {
+          "entryId": "glosario_menester",
+          "form": "menester"
+        },
+        " que ",
         {
           "entryId": "eliyahu",
           "form": "Eliyahu"
@@ -153,7 +173,11 @@
     {
       "verse": 12,
       "segments": [
-        "Mas os digo, que ya vino ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " os digo, que ya vino ",
         {
           "entryId": "eliyahu",
           "form": "Eliyahu"
@@ -242,7 +266,11 @@
     {
       "verse": 21,
       "segments": [
-        "Mas este linaje no sale sino por oración y ayuno."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " este linaje no sale sino por oración y ayuno."
       ]
     },
     {
@@ -264,7 +292,12 @@
     {
       "verse": 23,
       "segments": [
-        "Y le matarán; mas al tercer día resucitará. Y ellos se entristecieron en gran manera."
+        "Y le matarán; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " al tercer día resucitará. Y ellos se entristecieron en gran manera."
       ]
     },
     {
@@ -280,7 +313,17 @@
           "entryId": "simon_kefa",
           "form": "Kefa"
         },
-        " los que cobraban las dos dracmas, y dijeron: ¿Vuestro Maestro no paga las dos dracmas?"
+        " los que cobraban las dos ",
+        {
+          "entryId": "glosario_dracma",
+          "form": "dracmas"
+        },
+        ", y dijeron: ¿Vuestro Maestro no paga las dos ",
+        {
+          "entryId": "glosario_dracma",
+          "form": "dracmas"
+        },
+        "?"
       ]
     },
     {
@@ -317,7 +360,11 @@
     {
       "verse": 27,
       "segments": [
-        "Mas porque no los escandalicemos, ve a la mar, y echa el anzuelo, y el primer pez que viniere, tómalo, y abierta su boca, hallarás un estatero: tómalo, y dáselo por mí y por ti."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " porque no los escandalicemos, ve a la mar, y echa el anzuelo, y el primer pez que viniere, tómalo, y abierta su boca, hallarás un estatero: tómalo, y dáselo por mí y por ti."
       ]
     }
   ],

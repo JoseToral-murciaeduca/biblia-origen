@@ -1,0 +1,626 @@
+{
+  "bookId": "yojanan",
+  "titleEntryId": "book_yojanan",
+  "bookTitle": "Yojanan",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "EN el principio era el ",
+        {
+          "entryId": "logos",
+          "form": "Logos"
+        },
+        ", y el ",
+        {
+          "entryId": "logos",
+          "form": "Logos"
+        },
+        " era con Dios, y el ",
+        {
+          "entryId": "logos",
+          "form": "Logos"
+        },
+        " era Dios."
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Este era en el principio con Dios."
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Todas las cosas por él fueron hechas; y sin él nada de lo que es hecho, fue hecho."
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "En él estaba la vida, y la vida era la luz de los hombres."
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Y la luz en las tinieblas resplandece; mas las tinieblas no la comprendieron."
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Fue un hombre enviado de Dios, el cual se llamaba ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "Este vino por testimonio, para que diese testimonio de la luz, para que todos creyesen por él."
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "No era él la luz, sino para que diese testimonio de la luz."
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Aquél era la luz verdadera, que alumbra a todo hombre que viene a este mundo."
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "En el mundo estaba, y el mundo fue hecho por él; y el mundo no le conoció."
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "A lo suyo vino, y los suyos no le recibieron."
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Mas a todos los que le recibieron, dióles potestad de ser hechos hijos de Dios, a los que creen en su nombre:"
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Los cuales no son engendrados de sangre, ni de voluntad de carne, ni de voluntad de varón, mas de Dios."
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Y aquel ",
+        {
+          "entryId": "logos",
+          "form": "Logos"
+        },
+        " fue hecho carne, y habitó entre nosotros (y vimos su gloria, gloria como del ",
+        {
+          "entryId": "monogenes",
+          "form": "Monogenés"
+        },
+        " del Padre), lleno de gracia y de verdad."
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        " dio testimonio de él, y clamó diciendo: Este es del que yo decía: El que viene tras mí, es antes de mí: porque es primero que yo."
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "Porque de su plenitud tomamos todos, y gracia por gracia."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Porque la ley por ",
+        {
+          "entryId": "moshe",
+          "form": "Moshe"
+        },
+        " fue dada: mas la gracia y la verdad por ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        " fue hecha."
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "A Dios nadie le vio jamás: el ",
+        {
+          "entryId": "monogenes",
+          "form": "Monogenés"
+        },
+        " Hijo, que está en el seno del Padre, él le declaró."
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Y éste es el testimonio de ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        ", cuando los Judíos enviaron de ",
+        {
+          "entryId": "yerushalayim",
+          "form": "Yerushalayim"
+        },
+        " sacerdotes y Levitas, que le preguntasen: ¿Tú, quién eres?"
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Y confesó, y no negó; mas declaró: No soy yo el ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "Y le preguntaron: ¿Qué pues? ¿Eres tú ",
+        {
+          "entryId": "eliyahu",
+          "form": "Eliyahu"
+        },
+        "? Dijo: No soy. ¿Eres tú el profeta? Y respondió: No."
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "Dijéronle: ¿Pues quién eres? para que demos respuesta a los que nos enviaron. ¿Qué dices de ti mismo?"
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "Dijo: Yo soy la voz del que clama en el desierto: Enderezad el camino del Señor, como dijo ",
+        {
+          "entryId": "yeshayahu",
+          "form": "Yeshayahu"
+        },
+        " profeta."
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "Y los que habían sido enviados eran de los ",
+        {
+          "entryId": "perushim",
+          "form": "Perushim"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "Y preguntáronle, y dijéronle: ¿Por qué pues bautizas, si tú no eres el ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        ", ni ",
+        {
+          "entryId": "eliyahu",
+          "form": "Eliyahu"
+        },
+        ", ni el profeta?"
+      ]
+    },
+    {
+      "verse": 26,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        " les respondió, diciendo: Yo bautizo con agua; mas en medio de vosotros ha estado a quien vosotros no conocéis."
+      ]
+    },
+    {
+      "verse": 27,
+      "segments": [
+        "Este es el que ha de venir tras mí, el cual es antes de mí: del cual yo no soy digno de desatar la correa del zapato."
+      ]
+    },
+    {
+      "verse": 28,
+      "segments": [
+        "Estas cosas acontecieron en Betábara, de la otra parte del ",
+        {
+          "entryId": "yarden",
+          "form": "Yarden"
+        },
+        ", donde ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        " bautizaba."
+      ]
+    },
+    {
+      "verse": 29,
+      "segments": [
+        "El siguiente día ve ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        " a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " que venía a él, y dice: He aquí el Cordero de Dios, que quita el pecado del mundo."
+      ]
+    },
+    {
+      "verse": 30,
+      "segments": [
+        "Este es del que dije: Tras mí viene un varón, el cual es antes de mí: porque era primero que yo."
+      ]
+    },
+    {
+      "verse": 31,
+      "segments": [
+        "Y yo no le conocía; más para que fuese manifestado a Israel, por eso vine yo bautizando con agua."
+      ]
+    },
+    {
+      "verse": 32,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        " dio testimonio, diciendo: Vi al Espíritu que descendía del cielo como paloma, y reposó sobre él."
+      ]
+    },
+    {
+      "verse": 33,
+      "segments": [
+        "Y yo no le conocía; mas el que me envió a bautizar con agua, aquél me dijo: Sobre quien vieres descender el Espíritu, y que reposa sobre él, éste es el que bautiza con ",
+        {
+          "entryId": "ruaj_haqodesh",
+          "form": "Ruaj HaQodesh"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 34,
+      "segments": [
+        "Y yo le vi, y he dado testimonio que éste es el Hijo de Dios."
+      ]
+    },
+    {
+      "verse": 35,
+      "segments": [
+        "El siguiente día otra vez estaba ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        ", y dos de sus discípulos."
+      ]
+    },
+    {
+      "verse": 36,
+      "segments": [
+        "Y mirando a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " que andaba por allí, dijo: He aquí el Cordero de Dios."
+      ]
+    },
+    {
+      "verse": 37,
+      "segments": [
+        "Y oyéronle los dos discípulos hablar, y siguieron a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 38,
+      "segments": [
+        "Y volviéndose ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", y viéndolos seguirle, díceles: ¿Qué buscáis? Y ellos le dijeron: ",
+        {
+          "entryId": "rabbi",
+          "form": "Rabbí"
+        },
+        " (que declarado quiere decir Maestro) ¿dónde moras?"
+      ]
+    },
+    {
+      "verse": 39,
+      "segments": [
+        "Díceles: Venid y ved. Vinieron, y vieron donde moraba, y quedáronse con él aquel día: porque era como la hora de las diez."
+      ]
+    },
+    {
+      "verse": 40,
+      "segments": [
+        "Era ",
+        {
+          "entryId": "andreas",
+          "form": "Andreas"
+        },
+        ", hermano de ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Shimón Kefa"
+        },
+        ", uno de los dos que habían oído de ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        ", y le habían seguido."
+      ]
+    },
+    {
+      "verse": 41,
+      "segments": [
+        "Este halló primero a su hermano Simón, y díjole: Hemos hallado al ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mesías"
+        },
+        " (que declarado es, el ",
+        {
+          "entryId": "mashiaj",
+          "form": "Cristo"
+        },
+        ")."
+      ]
+    },
+    {
+      "verse": 42,
+      "segments": [
+        "Y le trajo a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ". Y mirándole ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", dijo: Tú eres ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Shimón"
+        },
+        ", hijo de Jonás: tú serás llamado ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        " (que quiere decir, Piedra)."
+      ]
+    },
+    {
+      "verse": 43,
+      "segments": [
+        "El siguiente día quiso ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " ir a ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        ", y halla a ",
+        {
+          "entryId": "philippos",
+          "form": "Philippos"
+        },
+        ", al cual dijo: Sígueme."
+      ]
+    },
+    {
+      "verse": 44,
+      "segments": [
+        "Y era ",
+        {
+          "entryId": "philippos",
+          "form": "Philippos"
+        },
+        " de Bethsaida, la ciudad de ",
+        {
+          "entryId": "andreas",
+          "form": "Andreas"
+        },
+        " y de ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 45,
+      "segments": [
+        {
+          "entryId": "philippos",
+          "form": "Philippos"
+        },
+        " halló a ",
+        {
+          "entryId": "natanael",
+          "form": "Netanel"
+        },
+        ", y dícele: Hemos hallado a aquel de quien escribió ",
+        {
+          "entryId": "moshe",
+          "form": "Moshe"
+        },
+        " en la ley, y los profetas: a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", el hijo de ",
+        {
+          "entryId": "yosef",
+          "form": "Yosef"
+        },
+        ", de ",
+        {
+          "entryId": "natzeret",
+          "form": "Natzeret"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 46,
+      "segments": [
+        "Y díjole ",
+        {
+          "entryId": "natanael",
+          "form": "Netanel"
+        },
+        ": ¿De ",
+        {
+          "entryId": "natzeret",
+          "form": "Natzeret"
+        },
+        " puede haber algo de bueno? Dícele ",
+        {
+          "entryId": "philippos",
+          "form": "Philippos"
+        },
+        ": Ven y ve."
+      ]
+    },
+    {
+      "verse": 47,
+      "segments": [
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " vio venir a sí a ",
+        {
+          "entryId": "natanael",
+          "form": "Netanel"
+        },
+        ", y dijo de él: He aquí un verdadero Israelita, en el cual no hay engaño."
+      ]
+    },
+    {
+      "verse": 48,
+      "segments": [
+        "Dícele ",
+        {
+          "entryId": "natanael",
+          "form": "Netanel"
+        },
+        ": ¿De dónde me conoces? Respondió ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", y díjole: Antes que ",
+        {
+          "entryId": "philippos",
+          "form": "Philippos"
+        },
+        " te llamara, cuando estabas debajo de la higuera te vi."
+      ]
+    },
+    {
+      "verse": 49,
+      "segments": [
+        "Respondió ",
+        {
+          "entryId": "natanael",
+          "form": "Netanel"
+        },
+        ", y díjole: ",
+        {
+          "entryId": "rabbi",
+          "form": "Rabbí"
+        },
+        ", tú eres el Hijo de Dios; tú eres el Rey de Israel."
+      ]
+    },
+    {
+      "verse": 50,
+      "segments": [
+        "Respondió ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " y díjole: ¿Porque te dije, te vi debajo de la higuera, crees? cosas mayores que éstas verás."
+      ]
+    },
+    {
+      "verse": 51,
+      "segments": [
+        "Y dícele: De cierto, de cierto os digo: De aquí adelante veréis el cielo abierto, y los ángeles de Dios que suben y descienden sobre el Hijo del hombre."
+      ]
+    }
+  ]
+}

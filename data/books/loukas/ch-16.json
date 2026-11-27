@@ -43,7 +43,12 @@
     {
       "verse": 7,
       "segments": [
-        "Después dijo a otro: ¿Y tú, cuánto debes? Y él dijo: Cien coros de trigo. Y él le dijo: Toma tu obligación, y escribe ochenta."
+        "Después dijo a otro: ¿Y tú, cuánto debes? Y él dijo: Cien ",
+        {
+          "entryId": "glosario_coro",
+          "form": "coros"
+        },
+        " de trigo. Y él le dijo: Toma tu obligación, y escribe ochenta."
       ]
     },
     {
@@ -111,7 +116,12 @@
     {
       "verse": 15,
       "segments": [
-        "Y díjoles: Vosotros sois los que os justificáis a vosotros mismos delante de los hombres; mas Dios conoce vuestros corazones; porque lo que los hombres tienen por sublime, delante de Dios es abominación."
+        "Y díjoles: Vosotros sois los que os justificáis a vosotros mismos delante de los hombres; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " Dios conoce vuestros corazones; porque lo que los hombres tienen por sublime, delante de Dios es abominación."
       ]
     },
     {
@@ -128,7 +138,11 @@
     {
       "verse": 17,
       "segments": [
-        "Empero más fácil cosa es pasar el cielo y la tierra, que frustrarse un tilde de la ley."
+        {
+          "entryId": "glosario_empero",
+          "form": "Empero"
+        },
+        " más fácil cosa es pasar el cielo y la tierra, que frustrarse un tilde de la ley."
       ]
     },
     {
@@ -221,7 +235,12 @@
           "entryId": "lazan",
           "form": "Elazar"
         },
-        " también males; mas ahora éste es consolado aquí, y tú atormentado."
+        " también males; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " ahora éste es consolado aquí, y tú atormentado."
       ]
     },
     {
@@ -266,13 +285,22 @@
           "entryId": "avraham",
           "form": "Avraham"
         },
-        ": mas si alguno fuere a ellos de los muertos, se arrepentirán."
+        ": ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " si alguno fuere a ellos de los muertos, se arrepentirán."
       ]
     },
     {
       "verse": 31,
       "segments": [
-        "Mas ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ",
         {
           "entryId": "avraham",
           "form": "Avraham"

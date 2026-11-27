@@ -43,13 +43,23 @@
           "entryId": "elazar_betania",
           "form": "Elazar"
         },
-        " estaba enfermo, era la que ungió al Señor con ungüento, y limpió sus pies con sus cabellos.)"
+        " estaba enfermo, era la que ",
+        {
+          "entryId": "glosario_ungir",
+          "form": "ungió"
+        },
+        " al Señor con ungüento, y limpió sus pies con sus cabellos.)"
       ]
     },
     {
       "verse": 3,
       "segments": [
-        "Enviaron, pues, sus hermanas a él, diciendo: Señor, he aquí, el que amas está enfermo."
+        "Enviaron, pues, sus hermanas a él, diciendo: Señor, ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        ", el que amas está enfermo."
       ]
     },
     {
@@ -60,7 +70,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        ", dijo: Esta enfermedad no es para muerte, mas por gloria de Dios, para que el Hijo de Dios sea glorificado por ella."
+        ", dijo: Esta enfermedad no es para muerte, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " por gloria de Dios, para que el Hijo de Dios sea glorificado por ella."
       ]
     },
     {
@@ -126,7 +141,11 @@
     {
       "verse": 10,
       "segments": [
-        "Mas el que anduviere de noche, tropieza, porque no hay luz en él."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " el que anduviere de noche, tropieza, porque no hay luz en él."
       ]
     },
     {
@@ -137,7 +156,12 @@
           "entryId": "elazar_betania",
           "form": "Elazar"
         },
-        " nuestro amigo duerme; mas voy a despertarle del sueño."
+        " nuestro amigo duerme; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " voy a despertarle del sueño."
       ]
     },
     {
@@ -149,7 +173,11 @@
     {
       "verse": 13,
       "segments": [
-        "Mas esto decía ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " esto decía ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -176,7 +204,12 @@
     {
       "verse": 15,
       "segments": [
-        "Y huélgome por vosotros, que yo no haya estado allí, para que creáis: mas vamos a él."
+        "Y huélgome por vosotros, que yo no haya estado allí, para que creáis: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " vamos a él."
       ]
     },
     {
@@ -203,7 +236,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        ", y halló que había ya cuatro días que estaba en el sepulcro."
+        ", y halló que había ya cuatro días que estaba en el ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        "."
       ]
     },
     {
@@ -219,7 +257,12 @@
           "entryId": "yerushalayim",
           "form": "Yerushalayim"
         },
-        ", como quince estadios;"
+        ", como quince ",
+        {
+          "entryId": "glosario_estadio",
+          "form": "estadios"
+        },
+        ";"
       ]
     },
     {
@@ -251,7 +294,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        " venía, salió a encontrarle; mas ",
+        " venía, salió a encontrarle; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " ",
         {
           "entryId": "miryam",
           "form": "Miryam"
@@ -278,7 +326,11 @@
     {
       "verse": 22,
       "segments": [
-        "Mas también sé ahora, que todo lo que pidieres de Dios, te dará Dios."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " también sé ahora, que todo lo que pidieres de Dios, te dará Dios."
       ]
     },
     {
@@ -299,7 +351,12 @@
           "entryId": "marta",
           "form": "Marta"
         },
-        " le dice: Yo sé que resucitará en la resurrección en el día postrero."
+        " le dice: Yo sé que resucitará en la resurrección en el día ",
+        {
+          "entryId": "glosario_postrero",
+          "form": "postrero"
+        },
+        "."
       ]
     },
     {
@@ -355,7 +412,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        " a la aldea, mas estaba en aquel lugar donde ",
+        " a la aldea, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " estaba en aquel lugar donde ",
         {
           "entryId": "marta",
           "form": "Marta"
@@ -371,13 +433,22 @@
           "entryId": "miryam",
           "form": "Miryam"
         },
-        " se había levantado prestamente, y había salido, siguiéronla, diciendo: Va al sepulcro a llorar allí."
+        " se había levantado prestamente, y había salido, siguiéronla, diciendo: Va al ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        " a llorar allí."
       ]
     },
     {
       "verse": 32,
       "segments": [
-        "Mas ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ",
         {
           "entryId": "miryam",
           "form": "Miryam"
@@ -437,7 +508,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        ", conmoviéndose otra vez en sí mismo, vino al sepulcro. Era una cueva, la cual tenía una piedra encima."
+        ", conmoviéndose otra vez en sí mismo, vino al ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        ". Era una cueva, la cual tenía una piedra encima."
       ]
     },
     {
@@ -480,7 +556,12 @@
     {
       "verse": 42,
       "segments": [
-        "Que yo sabía que siempre me oyes; mas por causa de la compañía que está alrededor, lo dije, para que crean que tú me has enviado."
+        "Que yo sabía que siempre me oyes; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " por causa de la compañía que está alrededor, lo dije, para que crean que tú me has enviado."
       ]
     },
     {
@@ -524,7 +605,11 @@
     {
       "verse": 46,
       "segments": [
-        "Mas algunos de ellos fueron a los ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " algunos de ellos fueron a los ",
         {
           "entryId": "perushim",
           "form": "Perushim"
@@ -574,7 +659,11 @@
     {
       "verse": 51,
       "segments": [
-        "Mas esto no lo dijo de sí mismo; sino que, como era el sumo pontífice de aquel año, profetizó que ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " esto no lo dijo de sí mismo; sino que, como era el sumo pontífice de aquel año, profetizó que ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -585,7 +674,12 @@
     {
       "verse": 52,
       "segments": [
-        "Y no solamente por aquella nación, mas también para que juntase en uno los hijos de Dios que estaban derramados."
+        "Y no solamente por aquella nación, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " también para que juntase en uno los hijos de Dios que estaban derramados."
       ]
     },
     {
@@ -602,7 +696,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        " ya no andaba manifiestamente entre los Judíos; mas fuése de allí a la tierra que está junto al desierto, a una ciudad que se llama Ephraim: y estábase allí con sus discípulos."
+        " ya no andaba manifiestamente entre los Judíos; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " fuése de allí a la tierra que está junto al desierto, a una ciudad que se llama Ephraim: y estábase allí con sus discípulos."
       ]
     },
     {

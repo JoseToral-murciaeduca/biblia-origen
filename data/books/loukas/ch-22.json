@@ -18,7 +18,12 @@
     {
       "verse": 2,
       "segments": [
-        "Y los príncipes de los sacerdotes y los escribas buscaban cómo le matarían; mas tenían miedo del pueblo."
+        "Y los príncipes de los sacerdotes y los escribas buscaban cómo le matarían; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " tenían miedo del pueblo."
       ]
     },
     {
@@ -96,13 +101,23 @@
     {
       "verse": 10,
       "segments": [
-        "Y él les dijo: He aquí cuando entrareis en la ciudad, os encontrará un hombre que lleva un cántaro de agua: seguidle hasta la casa donde entrare,"
+        "Y él les dijo: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        " cuando entrareis en la ciudad, os encontrará un hombre que lleva un cántaro de agua: seguidle hasta la casa donde entrare,"
       ]
     },
     {
       "verse": 11,
       "segments": [
-        "Y decid al padre de la familia de la casa: El Maestro te dice: ¿Dónde está el aposento donde tengo de comer la ",
+        "Y decid al padre de la familia de la casa: El Maestro te dice: ¿Dónde está el ",
+        {
+          "entryId": "glosario_aposento",
+          "form": "aposento"
+        },
+        " donde tengo de comer la ",
         {
           "entryId": "pesaj",
           "form": "Pesaj"
@@ -177,13 +192,23 @@
     {
       "verse": 21,
       "segments": [
-        "Con todo eso, he aquí la mano del que me entrega, conmigo en la mesa."
+        "Con todo eso, ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " la mano del que me entrega, conmigo en la mesa."
       ]
     },
     {
       "verse": 22,
       "segments": [
-        "Y a la verdad el Hijo del hombre va, según lo que está determinado; empero ¡ay de aquel hombre por el cual es entregado!"
+        "Y a la verdad el Hijo del hombre va, según lo que está determinado; ",
+        {
+          "entryId": "glosario_empero",
+          "form": "empero"
+        },
+        " ¡ay de aquel hombre por el cual es entregado!"
       ]
     },
     {
@@ -195,7 +220,12 @@
     {
       "verse": 24,
       "segments": [
-        "Y hubo entre ellos una contienda, quién de ellos parecía ser el mayor."
+        "Y hubo entre ellos una ",
+        {
+          "entryId": "glosario_contienda",
+          "form": "contienda"
+        },
+        ", quién de ellos parecía ser el mayor."
       ]
     },
     {
@@ -207,7 +237,11 @@
     {
       "verse": 26,
       "segments": [
-        "Mas vosotros, no así: antes el que es mayor entre vosotros, sea como el más mozo; y el que es príncipe, como el que sirve."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " vosotros, no así: antes el que es mayor entre vosotros, sea como el más mozo; y el que es príncipe, como el que sirve."
       ]
     },
     {
@@ -219,7 +253,11 @@
     {
       "verse": 28,
       "segments": [
-        "Empero vosotros sois los que habéis permanecido conmigo en mis tentaciones:"
+        {
+          "entryId": "glosario_empero",
+          "form": "Empero"
+        },
+        " vosotros sois los que habéis permanecido conmigo en mis tentaciones:"
       ]
     },
     {
@@ -247,7 +285,12 @@
           "entryId": "simon_kefa",
           "form": "Shimón"
         },
-        ", he aquí ",
+        ", ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " ",
         {
           "entryId": "satan",
           "form": "Satán"
@@ -258,7 +301,11 @@
     {
       "verse": 32,
       "segments": [
-        "Mas yo he rogado por ti que tu fe no falte: y tú, una vez vuelto, confirma a tus hermanos."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " yo he rogado por ti que tu fe no falte: y tú, una vez vuelto, confirma a tus hermanos."
       ]
     },
     {
@@ -299,7 +346,12 @@
     {
       "verse": 38,
       "segments": [
-        "Entonces ellos dijeron: Señor, he aquí dos espadas. Y él les dijo: Basta."
+        "Entonces ellos dijeron: Señor, ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " dos espadas. Y él les dijo: Basta."
       ]
     },
     {
@@ -323,7 +375,12 @@
     {
       "verse": 42,
       "segments": [
-        "Diciendo: Padre, si quieres, pasa este vaso de mí; empero no se haga mi voluntad, sino la tuya."
+        "Diciendo: Padre, si quieres, pasa este vaso de mí; ",
+        {
+          "entryId": "glosario_empero",
+          "form": "empero"
+        },
+        " no se haga mi voluntad, sino la tuya."
       ]
     },
     {
@@ -353,7 +410,12 @@
     {
       "verse": 47,
       "segments": [
-        "Estando él aún hablando, he aquí una turba; y el que se llamaba ",
+        "Estando él aún hablando, ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " una turba; y el que se llamaba ",
         {
           "entryId": "yehuda_iscariote",
           "form": "Yehudá Iscariote"
@@ -419,7 +481,12 @@
     {
       "verse": 53,
       "segments": [
-        "Habiendo estado con vosotros cada día en el templo, no extendisteis las manos contra mí; mas ésta es vuestra hora, y la potestad de las tinieblas."
+        "Habiendo estado con vosotros cada día en el templo, no extendisteis las manos contra mí; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " ésta es vuestra hora, y la potestad de las tinieblas."
       ]
     },
     {
@@ -560,7 +627,11 @@
     {
       "verse": 69,
       "segments": [
-        "Mas después de ahora el Hijo del hombre se asentará a la diestra de la potencia de Dios."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " después de ahora el Hijo del hombre se asentará a la diestra de la potencia de Dios."
       ]
     },
     {

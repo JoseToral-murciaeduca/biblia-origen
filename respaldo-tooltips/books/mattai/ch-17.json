@@ -1,0 +1,331 @@
+{
+  "bookId": "mattai",
+  "titleEntryId": "book_mattai",
+  "bookTitle": "Mattai",
+  "chapter": 17,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "Y DESPUÉS de seis días, ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " toma a ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        ", y a ",
+        {
+          "entryId": "yaaqov_zebedeo",
+          "form": "Yaaqov"
+        },
+        ", y a ",
+        {
+          "entryId": "yojanan_apostol",
+          "form": "Yojanan"
+        },
+        " su hermano, y los lleva aparte a un monte alto:"
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Y se transfiguró delante de ellos; y resplandeció su rostro como el sol, y sus vestidos fueron blancos como la luz."
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Y he aquí les aparecieron ",
+        {
+          "entryId": "moshe",
+          "form": "Moshe"
+        },
+        " y ",
+        {
+          "entryId": "eliyahu",
+          "form": "Eliyahu"
+        },
+        ", hablando con él."
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Y respondiendo ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        ", dijo a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": Señor, bien es que nos quedemos aquí: si quieres, hagamos aquí tres pabellones: para ti uno, y para ",
+        {
+          "entryId": "moshe",
+          "form": "Moshe"
+        },
+        " otro, y otro para ",
+        {
+          "entryId": "eliyahu",
+          "form": "Eliyahu"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Y estando aún él hablando, he aquí una nube de luz que los cubrió; y he aquí una voz de la nube, que dijo: Este es mi Hijo amado, en el cual tomo contentamiento: a él oid."
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Y oyendo esto los discípulos, cayeron sobre sus rostros, y temieron en gran manera."
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "Entonces ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " llegando, los tocó, y dijo: Levantaos, y no temáis."
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Y alzando ellos sus ojos, a nadie vieron, sino a solo ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Y como descendieron del monte, les mandó ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", diciendo: No digáis a nadie la visión, hasta que el Hijo del hombre resucite de los muertos."
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Entonces sus discípulos le preguntaron, diciendo: ¿Por qué dicen pues los escribas que es menester que ",
+        {
+          "entryId": "eliyahu",
+          "form": "Eliyahu"
+        },
+        " venga primero?"
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "Y respondiendo ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", les dijo: A la verdad, ",
+        {
+          "entryId": "eliyahu",
+          "form": "Eliyahu"
+        },
+        " vendrá primero, y restituirá todas las cosas."
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Mas os digo, que ya vino ",
+        {
+          "entryId": "eliyahu",
+          "form": "Eliyahu"
+        },
+        ", y no le conocieron; antes hicieron en él todo lo que quisieron: así también el Hijo del hombre padecerá de ellos."
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Los discípulos entonces entendieron, que les habló de ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan el Bautista"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Y como ellos llegaron al gentío, vino a él un hombre hincándosele de rodillas,"
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Y diciendo: Señor, ten misericordia de mi hijo, que es lunático, y padece malamente; porque muchas veces cae en el fuego, y muchas en el agua."
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "Y le he presentado a tus discípulos, y no le han podido sanar."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Y respondiendo ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", dijo: ¡Oh generación infiel y torcida! ¿hasta cuándo tengo de estar con vosotros? ¿hasta cuándo os tengo de sufrir? traédmele acá."
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " le reprendió, y salió el demonio de él; y el mozo fue sano desde aquella hora."
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Entonces, llegándose los discípulos a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", aparte, dijeron: ¿Por qué nosotros no lo pudimos echar fuera?"
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " les dijo: Por vuestra incredulidad; porque ",
+        {
+          "entryId": "amen",
+          "form": "Amén"
+        },
+        " os digo, que si tuviereis fe como un grano de mostaza, diréis a este monte: Pásate de aquí allá: y se pasará: y nada os será imposible."
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "Mas este linaje no sale sino por oración y ayuno."
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "Y estando ellos en ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        ", ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " les dijo: El Hijo del hombre será entregado en manos de hombres,"
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "Y le matarán; mas al tercer día resucitará. Y ellos se entristecieron en gran manera."
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "Y como llegaron a ",
+        {
+          "entryId": "kefar_najum",
+          "form": "Kefar Najum"
+        },
+        ", vinieron a ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        " los que cobraban las dos dracmas, y dijeron: ¿Vuestro Maestro no paga las dos dracmas?"
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "El dice: Sí. Y entrando él en casa, ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " le habló antes, diciendo: ¿Qué te parece, ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Shimón"
+        },
+        "? Los reyes de la tierra, ¿de quién cobran los tributos o el censo? ¿de sus hijos o de los extraños?"
+      ]
+    },
+    {
+      "verse": 26,
+      "segments": [
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        " le dice: De los extraños. ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " le dijo: Luego los hijos son francos."
+      ]
+    },
+    {
+      "verse": 27,
+      "segments": [
+        "Mas porque no los escandalicemos, ve a la mar, y echa el anzuelo, y el primer pez que viniere, tómalo, y abierta su boca, hallarás un estatero: tómalo, y dáselo por mí y por ti."
+      ]
+    }
+  ],
+  "textualNotes": [
+    {
+      "verse": 21,
+      "note": "Versículo conservado en RV1909, ausente del texto principal de SBLGNT.",
+      "source": "https://openwordbible.org/variants/"
+    }
+  ]
+}

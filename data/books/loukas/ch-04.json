@@ -45,7 +45,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        " respondiéndole, dijo: Escrito está: Que no con pan solo vivirá el hombre, mas con toda palabra de Dios."
+        " respondiéndole, dijo: Escrito está: Que no con pan solo vivirá el hombre, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " con toda palabra de Dios."
       ]
     },
     {
@@ -174,7 +179,12 @@
     {
       "verse": 18,
       "segments": [
-        "El Espíritu del Señor es sobre mí, por cuanto me ha ungido para dar buenas nuevas a los pobres: me ha enviado para sanar a los quebrantados de corazón; para pregonar a los cautivos libertad, y a los ciegos vista; para poner en libertad a los quebrantados:"
+        "El Espíritu del Señor es sobre mí, por cuanto me ha ",
+        {
+          "entryId": "glosario_ungir",
+          "form": "ungido"
+        },
+        " para dar buenas nuevas a los pobres: me ha enviado para sanar a los quebrantados de corazón; para pregonar a los cautivos libertad, y a los ciegos vista; para poner en libertad a los quebrantados:"
       ]
     },
     {
@@ -226,7 +236,11 @@
     {
       "verse": 25,
       "segments": [
-        "Mas en verdad os digo, que muchas viudas había en Israel en los días de ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " en verdad os digo, que muchas viudas había en Israel en los días de ",
         {
           "entryId": "eliyahu",
           "form": "Eliyahu"
@@ -248,7 +262,12 @@
     {
       "verse": 27,
       "segments": [
-        "Y muchos leprosos había en Israel en tiempo del profeta Eliseo; mas ninguno de ellos fue limpio, sino Naamán el Siro."
+        "Y muchos leprosos había en Israel en tiempo del profeta Eliseo; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " ninguno de ellos fue limpio, sino Naamán el Siro."
       ]
     },
     {
@@ -266,7 +285,11 @@
     {
       "verse": 30,
       "segments": [
-        "Mas él, pasando por medio de ellos, se fue."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " él, pasando por medio de ellos, se fue."
       ]
     },
     {
@@ -362,7 +385,12 @@
     {
       "verse": 41,
       "segments": [
-        "Y salían también demonios de muchos, dando voces, y diciendo: Tú eres el Hijo de Dios. Mas riñéndolos no les dejaba hablar; porque sabían que él era el ",
+        "Y salían también demonios de muchos, dando voces, y diciendo: Tú eres el Hijo de Dios. ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " riñéndolos no les dejaba hablar; porque sabían que él era el ",
         {
           "entryId": "mashiaj",
           "form": "Mashiaj"
@@ -379,7 +407,11 @@
     {
       "verse": 43,
       "segments": [
-        "Mas él les dijo: Que también a otras ciudades es necesario que anuncie el ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " él les dijo: Que también a otras ciudades es necesario que anuncie el ",
         {
           "entryId": "euangelion",
           "form": "evangelio"

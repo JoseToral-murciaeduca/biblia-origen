@@ -46,7 +46,11 @@
     {
       "verse": 5,
       "segments": [
-        "Mas ellos pensaban dentro de sí, diciendo: Si dijéremos, del cielo, dirá: ¿Por qué, pues, no le creísteis?"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ellos pensaban dentro de sí, diciendo: Si dijéremos, del cielo, dirá: ¿Por qué, pues, no le creísteis?"
       ]
     },
     {
@@ -80,25 +84,45 @@
     {
       "verse": 9,
       "segments": [
-        "Y comenzó a decir al pueblo esta parábola: Un hombre plantó una viña, y arrendóla a labradores, y se ausentó por mucho tiempo."
+        "Y comenzó a decir al pueblo esta ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábola"
+        },
+        ": Un hombre plantó una viña, y arrendóla a labradores, y se ausentó por mucho tiempo."
       ]
     },
     {
       "verse": 10,
       "segments": [
-        "Y al tiempo, envió un siervo a los labradores, para que le diesen del fruto de la viña; mas los labradores le hirieron, y enviaron vacío."
+        "Y al tiempo, envió un siervo a los labradores, para que le diesen del fruto de la viña; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " los labradores le hirieron, y enviaron vacío."
       ]
     },
     {
       "verse": 11,
       "segments": [
-        "Y volvió a enviar otro siervo; mas ellos a éste también, herido y afrentado, le enviaron vacío."
+        "Y volvió a enviar otro siervo; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " ellos a éste también, herido y afrentado, le enviaron vacío."
       ]
     },
     {
       "verse": 12,
       "segments": [
-        "Y volvió a enviar al tercer siervo; mas ellos también a éste echaron herido."
+        "Y volvió a enviar al tercer siervo; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " ellos también a éste echaron herido."
       ]
     },
     {
@@ -110,7 +134,11 @@
     {
       "verse": 14,
       "segments": [
-        "Mas los labradores, viéndole, pensaron entre sí, diciendo: Este es el heredero; venid, matémosle para que la heredad sea nuestra."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " los labradores, viéndole, pensaron entre sí, diciendo: Este es el heredero; venid, matémosle para que la heredad sea nuestra."
       ]
     },
     {
@@ -128,19 +156,38 @@
     {
       "verse": 17,
       "segments": [
-        "Mas él mirándolos, dice: ¿Qué pues es lo que está escrito: La piedra que condenaron los edificadores, ésta fue por cabeza de esquina?"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " él mirándolos, dice: ¿Qué pues es lo que está escrito: La piedra que condenaron los edificadores, ésta fue por cabeza de esquina?"
       ]
     },
     {
       "verse": 18,
       "segments": [
-        "Cualquiera que cayere sobre aquella piedra, será quebrantado; mas sobre el que la piedra cayere, le desmenuzará."
+        "Cualquiera que cayere sobre aquella piedra, será quebrantado; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " sobre el que la piedra cayere, le desmenuzará."
       ]
     },
     {
       "verse": 19,
       "segments": [
-        "Y procuraban los príncipes de los sacerdotes y los escribas echarle mano en aquella hora, porque entendieron que contra ellos había dicho esta parábola: mas temieron al pueblo."
+        "Y procuraban los príncipes de los sacerdotes y los escribas echarle mano en aquella hora, porque entendieron que contra ellos había dicho esta ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábola"
+        },
+        ": ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " temieron al pueblo."
       ]
     },
     {
@@ -164,7 +211,11 @@
     {
       "verse": 23,
       "segments": [
-        "Mas él, entendiendo la astucia de ellos, les dijo: ¿Por qué me tentáis?"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " él, entendiendo la astucia de ellos, les dijo: ¿Por qué me tentáis?"
       ]
     },
     {
@@ -251,7 +302,11 @@
     {
       "verse": 35,
       "segments": [
-        "Mas los que fueren tenidos por dignos de aquel siglo y de la resurrección de los muertos, ni se casan, ni son dados en casamiento:"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " los que fueren tenidos por dignos de aquel siglo y de la resurrección de los muertos, ni se casan, ni son dados en casamiento:"
       ]
     },
     {
@@ -289,7 +344,12 @@
     {
       "verse": 38,
       "segments": [
-        "Porque Dios no es Dios de muertos, mas de vivos: porque todos viven a él."
+        "Porque Dios no es Dios de muertos, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " de vivos: porque todos viven a él."
       ]
     },
     {

@@ -1,0 +1,366 @@
+{
+  "bookId": "loukas",
+  "titleEntryId": "book_loukas",
+  "bookTitle": "Loukas",
+  "chapter": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "Y ACONTECIÓ, que estando él junto al lago de Genezaret, las gentes se agolpaban sobre él para oir la palabra de Dios."
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Y vio dos barcos que estaban cerca de la orilla del lago: y los pescadores, habiendo descendido de ellos, lavaban sus redes."
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Y entrado en uno de estos barcos, el cual era de ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Shimón"
+        },
+        ", le rogó que lo desviase de tierra un poco; y sentándose, enseñaba desde el barco a las gentes."
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Y como cesó de hablar, dijo a ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Shimón"
+        },
+        ": Tira a alta mar, y echad vuestras redes para pescar."
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Y respondiendo ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Shimón"
+        },
+        ", le dijo: ",
+        {
+          "entryId": "epistates",
+          "form": "Epistátes"
+        },
+        ", habiendo trabajado toda la noche, nada hemos tomado; mas en tu palabra echaré la red."
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Y habiéndolo hecho, encerraron gran multitud de pescado, que su red se rompía."
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "E hicieron señas a los compañeros que estaban en el otro barco, que viniesen a ayudarles; y vinieron, y llenaron ambos barcos, de tal manera que se anegaban."
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Lo cual viendo ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Shimón Kefa"
+        },
+        ", se derribó de rodillas a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", diciendo: Apártate de mí, Señor, porque soy hombre pecador."
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Porque temor le había rodeado, y a todos los que estaban con él, de la presa de los peces que habían tomado;"
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Y asimismo a ",
+        {
+          "entryId": "yaaqov_zebedeo",
+          "form": "Yaaqov"
+        },
+        " y a ",
+        {
+          "entryId": "yojanan_apostol",
+          "form": "Yojanan"
+        },
+        ", hijos de ",
+        {
+          "entryId": "zavdai",
+          "form": "Zavdai"
+        },
+        ", que eran compañeros de ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Shimón"
+        },
+        ". Y ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " dijo a ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Shimón"
+        },
+        ": No temas: desde ahora pescarás hombres."
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "Y como llegaron a tierra los barcos, dejándolo todo, le siguieron."
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Y aconteció que estando en una ciudad, he aquí un hombre lleno de lepra, el cual viendo a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", postrándose sobre el rostro, le rogó, diciendo: Señor, si quieres, puedes limpiarme."
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Entonces, extendiendo la mano, le tocó diciendo: Quiero: sé limpio. Y luego la lepra se fue de él."
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Y él le mandó que no lo dijese a nadie: Mas ve, díjole, muéstrate al sacerdote, y ofrece por tu limpieza, como mandó ",
+        {
+          "entryId": "moshe",
+          "form": "Moshe"
+        },
+        ", para testimonio a ellos."
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Empero tanto más se extendía su fama: y se juntaban muchas gentes a oir y ser sanadas de sus enfermedades."
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "Mas él se apartaba a los desiertos, y oraba."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Y aconteció un día, que él estaba enseñando, y los ",
+        {
+          "entryId": "perushim",
+          "form": "Perushim"
+        },
+        " y doctores de la ley estaban sentados, los cuales habían venido de todas las aldeas de ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        ", y de ",
+        {
+          "entryId": "yehuda_region",
+          "form": "Yehudá"
+        },
+        " y ",
+        {
+          "entryId": "yerushalayim",
+          "form": "Yerushalayim"
+        },
+        ": y la virtud del Señor estaba allí para sanarlos."
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Y he aquí unos hombres, que traían sobre un lecho un hombre que estaba paralítico; y buscaban meterle, y ponerle delante de él."
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Y no hallando por donde meterle a causa de la multitud, subieron encima de la casa, y por el tejado le bajaron con el lecho en medio, delante de ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ";"
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "El cual, viendo la fe de ellos, le dice: Hombre, tus pecados te son perdonados."
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "Entonces los escribas y los ",
+        {
+          "entryId": "perushim",
+          "form": "Perushim"
+        },
+        " comenzaron a pensar, diciendo: ¿Quién es éste que habla blasfemias? ¿Quién puede perdonar pecados sino sólo Dios?"
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " entonces, conociendo los pensamientos de ellos, respondiendo les dijo: ¿Qué pensáis en vuestros corazones?"
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "¿Qué es más fácil, decir: Tus pecados te son perdonados, o decir: Levántate y anda?"
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "Pues para que sepáis que el Hijo del hombre tiene potestad en la tierra de perdonar pecados, (dice al paralítico): A ti digo, levántate, toma tu lecho, y vete a tu casa."
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "Y luego, levantándose en presencia de ellos, y tomando aquel en que estaba echado, se fue a su casa, glorificando a Dios."
+      ]
+    },
+    {
+      "verse": 26,
+      "segments": [
+        "Y tomó espanto a todos, y glorificaban a Dios; y fueron llenos de temor, diciendo: Hemos visto maravillas hoy."
+      ]
+    },
+    {
+      "verse": 27,
+      "segments": [
+        "Y después de estas cosas salió, y vio a un publicano llamado Leví, sentado al banco de los públicos tributos, y le dijo: Sígueme."
+      ]
+    },
+    {
+      "verse": 28,
+      "segments": [
+        "Y dejadas todas las cosas, levantándose, le siguió."
+      ]
+    },
+    {
+      "verse": 29,
+      "segments": [
+        "E hizo Leví gran banquete en su casa; y había mucha compañía de publicanos y de otros, los cuales estaban a la mesa con ellos."
+      ]
+    },
+    {
+      "verse": 30,
+      "segments": [
+        "Y los escribas y los ",
+        {
+          "entryId": "perushim",
+          "form": "Perushim"
+        },
+        " murmuraban contra sus discípulos, diciendo: ¿Por qué coméis y bebéis con los publicanos y pecadores?"
+      ]
+    },
+    {
+      "verse": 31,
+      "segments": [
+        "Y respondiendo ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", les dijo: Los que están sanos no necesitan médico, sino los que están enfermos."
+      ]
+    },
+    {
+      "verse": 32,
+      "segments": [
+        "No he venido a llamar justos, sino pecadores a ",
+        {
+          "entryId": "metanoia",
+          "form": "arrepentimiento"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 33,
+      "segments": [
+        "Entonces ellos le dijeron: ¿Por qué los discípulos de Juan ayunan muchas veces y hacen oraciones, y asimismo los de los ",
+        {
+          "entryId": "perushim",
+          "form": "Perushim"
+        },
+        ", y tus discípulos comen y beben?"
+      ]
+    },
+    {
+      "verse": 34,
+      "segments": [
+        "Y él les dijo: ¿Podéis hacer que los que están de bodas ayunen, entre tanto que el esposo está con ellos?"
+      ]
+    },
+    {
+      "verse": 35,
+      "segments": [
+        "Empero vendrán días cuando el esposo les será quitado: entonces ayunarán en aquellos días."
+      ]
+    },
+    {
+      "verse": 36,
+      "segments": [
+        "Y les decía también una parábola: Nadie mete remiendo de paño nuevo en vestido viejo; de otra manera el nuevo rompe, y al viejo no conviene remiendo nuevo."
+      ]
+    },
+    {
+      "verse": 37,
+      "segments": [
+        "Y nadie echa vino nuevo en cueros viejos; de otra manera el vino nuevo romperá los cueros, y el vino se derramará, y los cueros se perderán."
+      ]
+    },
+    {
+      "verse": 38,
+      "segments": [
+        "Mas el vino nuevo en cueros nuevos se ha de echar; y lo uno y lo otro se conserva."
+      ]
+    },
+    {
+      "verse": 39,
+      "segments": [
+        "Y ninguno que bebiere del añejo, quiere luego el nuevo; porque dice: El añejo es mejor."
+      ]
+    }
+  ]
+}

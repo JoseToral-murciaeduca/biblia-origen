@@ -1,0 +1,240 @@
+{
+  "bookId": "mattai",
+  "titleEntryId": "book_mattai",
+  "bookTitle": "Mattai",
+  "chapter": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "Y EN aquellos días vino ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan el Bautista"
+        },
+        " predicando en el desierto de ",
+        {
+          "entryId": "yehuda_region",
+          "form": "Yehudá"
+        },
+        ","
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Y diciendo: Arrepentíos, que el ",
+        {
+          "entryId": "basileia",
+          "form": "reino"
+        },
+        " de los cielos se ha acercado."
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Porque éste es aquel del cual fue dicho por el profeta ",
+        {
+          "entryId": "yeshayahu",
+          "form": "Yeshayahu"
+        },
+        ", que dijo: Voz de uno que clama en el desierto: Aparejad el camino del ",
+        {
+          "entryId": "yahweh_nt",
+          "form": "Yahweh"
+        },
+        ", enderezad sus veredas."
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Y tenía ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        " su vestido de pelos de camellos, y una cinta de cuero alrededor de sus lomos; y su comida era langostas y miel silvestre."
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Entonces salía a él ",
+        {
+          "entryId": "yerushalayim",
+          "form": "Yerushalayim"
+        },
+        ", y toda ",
+        {
+          "entryId": "yehuda_region",
+          "form": "Yehudá"
+        },
+        ", y toda la provincia de alrededor del ",
+        {
+          "entryId": "yarden",
+          "form": "Yarden"
+        },
+        ";"
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Y eran bautizados de él en el ",
+        {
+          "entryId": "yarden",
+          "form": "Yarden"
+        },
+        ", confesando sus pecados."
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "Y viendo él muchos de los ",
+        {
+          "entryId": "perushim",
+          "form": "Perushim"
+        },
+        " y de los ",
+        {
+          "entryId": "tzaduqim",
+          "form": "Tzaduqim"
+        },
+        ", que venían a su bautismo, decíales: Generación de víboras, ¿quién os ha enseñado a huir de la ira que vendrá?"
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Haced pues frutos dignos de ",
+        {
+          "entryId": "metanoia",
+          "form": "arrepentimiento"
+        },
+        ","
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Y no penséis decir dentro de vosotros: A ",
+        {
+          "entryId": "avraham",
+          "form": "Avraham"
+        },
+        " tenemos por padre: porque yo os digo, que puede ",
+        {
+          "entryId": "elohim",
+          "form": "Elohim"
+        },
+        " despertar hijos a ",
+        {
+          "entryId": "avraham",
+          "form": "Avraham"
+        },
+        " aun de estas piedras."
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Ahora, ya también la segur está puesta a la raíz de los árboles; y todo árbol que no hace buen fruto, es cortado y echado en el fuego."
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "Yo a la verdad os bautizo en agua para ",
+        {
+          "entryId": "metanoia",
+          "form": "arrepentimiento"
+        },
+        "; mas el que viene tras mí, más poderoso es que yo; los zapatos del cual yo no soy digno de llevar; él os bautizará en ",
+        {
+          "entryId": "ruaj_haqodesh",
+          "form": "Ruaj HaQodesh"
+        },
+        " y en fuego."
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Su aventador en su mano está, y aventará su era: y allegará su trigo en el alfolí, y quemará la paja en fuego que nunca se apagará."
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Entonces ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " vino de ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        " a ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        " al ",
+        {
+          "entryId": "yarden",
+          "form": "Yarden"
+        },
+        ", para ser bautizado de él."
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Mas ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        " lo resistía mucho, diciendo: Yo he menester ser bautizado de ti, ¿y tú vienes a mí?"
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Empero respondiendo ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " le dijo: Deja ahora; porque así nos conviene cumplir toda justicia. Entonces le dejó."
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", después que fue bautizado, subió luego del agua; y he aquí los cielos le fueron abiertos, y vio al Espíritu de ",
+        {
+          "entryId": "elohim",
+          "form": "Elohim"
+        },
+        " que descendía como paloma, y venía sobre él."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Y he aquí una voz de los cielos que decía: Este es mi Hijo amado, en el cual tengo contentamiento."
+      ]
+    }
+  ]
+}

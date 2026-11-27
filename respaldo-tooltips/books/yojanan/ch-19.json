@@ -1,0 +1,505 @@
+{
+  "bookId": "yojanan",
+  "titleEntryId": "book_yojanan",
+  "bookTitle": "Yojanan",
+  "chapter": 19,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "ASÍ que, entonces tomó ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        " a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", y le azotó."
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Y los soldados entretejieron de espinas una corona, y pusiéronla sobre su cabeza, y le vistieron de una ropa de grana;"
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Y decían: ¡Salve, Rey de los Judíos! y dábanle de bofetadas."
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Entonces ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        " salió otra vez fuera, y díjoles: He aquí, os le traigo fuera, para que entendáis que ningún crimen hallo en él."
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Y salió ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " fuera, llevando la corona de espinas y la ropa de grana. Y díceles ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        ": He aquí el hombre."
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Y como le vieron los príncipes de los sacerdotes, y los servidores, dieron voces diciendo: Crucifícale, crucifícale. Díceles ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        ": Tomadle vosotros, y crucificadle; porque yo no hallo en él crimen."
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "Respondiéronle los Judíos: Nosotros tenemos ley, y según nuestra ley debe morir, porque se hizo Hijo de Dios."
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Y como ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        " oyó esta palabra, tuvo más miedo."
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Y entró otra vez en el pretorio, y dijo a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": ¿De dónde eres tú? Mas ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " no le dio respuesta."
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Entonces dícele ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        ": ¿A mí no me hablas? ¿no sabes que tengo potestad para crucificarte, y que tengo potestad para soltarte?"
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "Respondió ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": Ninguna potestad tendrías contra mí, si no te fuese dado de arriba: por tanto, el que a ti me ha entregado, mayor pecado tiene."
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Desde entonces procuraba ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        " soltarle; mas los Judíos daban voces, diciendo: Si a éste sueltas, no eres amigo de César: cualquiera que se hace rey, a César contradice."
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Entonces ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        ", oyendo este dicho, llevó fuera a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", y se sentó en el tribunal en el lugar que se dice Lithóstrotos, y en hebreo ",
+        {
+          "entryId": "gabbatha",
+          "form": "Gabbatha"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Y era la víspera de la ",
+        {
+          "entryId": "pesaj",
+          "form": "Pesaj"
+        },
+        ", y como la hora de sexta. Entonces dijo a los Judíos: He aquí vuestro Rey."
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Mas ellos dieron voces: Quita, quita, crucifícale. Díceles ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        ": ¿A vuestro Rey he de crucificar? Respondieron los pontífices: No tenemos rey sino a César."
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "Así que entonces lo entregó a ellos para que fuese crucificado. Y tomaron a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", y le llevaron."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Y llevando su cruz, salió al lugar que se dice de la Calavera, y en hebreo, ",
+        {
+          "entryId": "golgota",
+          "form": "Golgota"
+        },
+        ";"
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Donde le crucificaron, y con él otros dos, uno a cada lado, y ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " en medio."
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Y escribió también ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        " un título, que puso encima de la cruz. Y el escrito era: ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " NAZARENO, REY DE LOS JUDIOS."
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Y muchos de los Judíos leyeron este título: porque el lugar donde estaba crucificado ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " era cerca de la ciudad: y estaba escrito en hebreo, en griego, y en latín."
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "Y decían a ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        " los pontífices de los Judíos: No escribas, Rey de los Judíos: sino, que él dijo: Rey soy de los Judíos."
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "Respondió ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        ": Lo que he escrito, he escrito."
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "Y como los soldados hubieron crucificado a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", tomaron sus vestidos, e hicieron cuatro partes (para cada soldado una parte); y la túnica; mas la túnica era sin costura, toda tejida desde arriba."
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "Y dijeron entre ellos: No la partamos, sino echemos suertes sobre ella, de quién será; para que se cumpliese la Escritura, que dice: Partieron para sí mis vestidos, y sobre mi vestidura echaron suertes. Y los soldados hicieron esto."
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "Y estaban junto a la cruz de ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " su madre, y la hermana de su madre, ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        " mujer de ",
+        {
+          "entryId": "klopas",
+          "form": "Klopas"
+        },
+        ", y ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        " Magdalena."
+      ]
+    },
+    {
+      "verse": 26,
+      "segments": [
+        "Y como vio ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " a la madre, y al discípulo que él amaba, que estaba presente, dice a su madre: Mujer, he ahí tu hijo."
+      ]
+    },
+    {
+      "verse": 27,
+      "segments": [
+        "Después dice al discípulo: He ahí tu madre. Y desde aquella hora el discípulo la recibió consigo."
+      ]
+    },
+    {
+      "verse": 28,
+      "segments": [
+        "Después de esto, sabiendo ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " que todas las cosas eran ya cumplidas, para que la Escritura se cumpliese, dijo: Sed tengo."
+      ]
+    },
+    {
+      "verse": 29,
+      "segments": [
+        "Y estaba allí un vaso lleno de vinagre: entonces ellos hinchieron una esponja de vinagre, y rodeada a un hisopo, se la llegaron a la boca."
+      ]
+    },
+    {
+      "verse": 30,
+      "segments": [
+        "Y como ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " tomó el vinagre, dijo: Consumado es. Y habiendo inclinado la cabeza, dio el espíritu."
+      ]
+    },
+    {
+      "verse": 31,
+      "segments": [
+        "Entonces los Judíos, por cuanto era la víspera de la ",
+        {
+          "entryId": "pesaj",
+          "form": "Pesaj"
+        },
+        ", para que los cuerpos no quedasen en la cruz en el ",
+        {
+          "entryId": "shabbat",
+          "form": "Shabbat"
+        },
+        ", pues era el gran día del ",
+        {
+          "entryId": "shabbat",
+          "form": "Shabbat"
+        },
+        ", rogaron a ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        " que se les quebrasen las piernas, y fuesen quitados."
+      ]
+    },
+    {
+      "verse": 32,
+      "segments": [
+        "Y vinieron los soldados, y quebraron las piernas al primero, y asimismo al otro que había sido crucificado con él."
+      ]
+    },
+    {
+      "verse": 33,
+      "segments": [
+        "Mas cuando vinieron a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", como le vieron ya muerto, no le quebraron las piernas:"
+      ]
+    },
+    {
+      "verse": 34,
+      "segments": [
+        "Empero uno de los soldados le abrió el costado con una lanza, y luego salió sangre y agua."
+      ]
+    },
+    {
+      "verse": 35,
+      "segments": [
+        "Y el que lo vio, da testimonio, y su testimonio es verdadero: y él sabe que dice verdad, para que vosotros también creáis."
+      ]
+    },
+    {
+      "verse": 36,
+      "segments": [
+        "Porque estas cosas fueron hechas para que se cumpliese la Escritura: Hueso no quebrantaréis de él."
+      ]
+    },
+    {
+      "verse": 37,
+      "segments": [
+        "Y también otra Escritura dice: Mirarán al que traspasaron."
+      ]
+    },
+    {
+      "verse": 38,
+      "segments": [
+        "Después de estas cosas, ",
+        {
+          "entryId": "yosef",
+          "form": "Yosef"
+        },
+        " de Arimatea, el cual era discípulo de ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", mas secreto por miedo de los Judíos, rogó a ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        " que pudiera quitar el cuerpo de ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": y permitióselo ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        ". Entonces vino, y quitó el cuerpo de ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 39,
+      "segments": [
+        "Y vino también ",
+        {
+          "entryId": "nikodemos",
+          "form": "Nikodemos"
+        },
+        ", el que antes había venido a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " de noche, trayendo un compuesto de mirra y de áloes, como cien libras."
+      ]
+    },
+    {
+      "verse": 40,
+      "segments": [
+        "Tomaron pues el cuerpo de ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", y envolviéronlo en lienzos con especias, como es costumbre de los Judíos sepultar."
+      ]
+    },
+    {
+      "verse": 41,
+      "segments": [
+        "Y en aquel lugar donde había sido crucificado, había un huerto; y en el huerto un sepulcro nuevo, en el cual aun no había sido puesto ninguno."
+      ]
+    },
+    {
+      "verse": 42,
+      "segments": [
+        "Allí, pues, por causa de la víspera de la ",
+        {
+          "entryId": "pesaj",
+          "form": "Pesaj"
+        },
+        " de los Judíos, porque aquel sepulcro estaba cerca, pusieron a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        "."
+      ]
+    }
+  ]
+}

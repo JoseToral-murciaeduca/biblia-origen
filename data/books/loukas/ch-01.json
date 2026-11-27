@@ -119,7 +119,11 @@
     {
       "verse": 13,
       "segments": [
-        "Mas el ángel le dijo: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " el ángel le dijo: ",
         {
           "entryId": "zejaryah_padre",
           "form": "Zejaryah"
@@ -196,7 +200,12 @@
     {
       "verse": 20,
       "segments": [
-        "Y he aquí estarás mudo y no podrás hablar, hasta el día que esto sea hecho, por cuanto no creíste a mis palabras, las cuales se cumplirán a su tiempo."
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " estarás mudo y no podrás hablar, hasta el día que esto sea hecho, por cuanto no creíste a mis palabras, las cuales se cumplirán a su tiempo."
       ]
     },
     {
@@ -290,7 +299,11 @@
     {
       "verse": 29,
       "segments": [
-        "Mas ella, cuando le vio, se turbó de sus palabras, y pensaba qué salutación fuese ésta."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ella, cuando le vio, se turbó de sus palabras, y pensaba qué salutación fuese ésta."
       ]
     },
     {
@@ -307,7 +320,12 @@
     {
       "verse": 31,
       "segments": [
-        "Y he aquí, concebirás en tu seno, y parirás un hijo, y llamarás su nombre ",
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        ", concebirás en tu seno, y parirás un hijo, y llamarás su nombre ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -362,7 +380,12 @@
     {
       "verse": 36,
       "segments": [
-        "Y he aquí, ",
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        ", ",
         {
           "entryId": "elisheva",
           "form": "Elisheva"
@@ -384,7 +407,12 @@
           "entryId": "miryam",
           "form": "Miryam"
         },
-        " dijo: He aquí la sierva del Señor; hágase a mí conforme a tu palabra. Y el ángel partió de ella."
+        " dijo: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        " la sierva del Señor; hágase a mí conforme a tu palabra. Y el ángel partió de ella."
       ]
     },
     {
@@ -455,7 +483,12 @@
     {
       "verse": 44,
       "segments": [
-        "Porque he aquí, como llegó la voz de tu salutación a mis oídos, la criatura saltó de alegría en mi vientre."
+        "Porque ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        ", como llegó la voz de tu salutación a mis oídos, la criatura saltó de alegría en mi vientre."
       ]
     },
     {
@@ -484,7 +517,12 @@
     {
       "verse": 48,
       "segments": [
-        "Porque ha mirado a la bajeza de su criada; porque he aquí, desde ahora me dirán bienaventurada todas las generaciones."
+        "Porque ha mirado a la bajeza de su criada; porque ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        ", desde ahora me dirán bienaventurada todas las generaciones."
       ]
     },
     {
@@ -649,7 +687,12 @@
     {
       "verse": 68,
       "segments": [
-        "Bendito el Señor Dios de Israel, que ha visitado y hecho redención a su pueblo,"
+        "Bendito el Señor Dios de Israel, que ha visitado y hecho ",
+        {
+          "entryId": "glosario_redención",
+          "form": "redención"
+        },
+        " a su pueblo,"
       ]
     },
     {

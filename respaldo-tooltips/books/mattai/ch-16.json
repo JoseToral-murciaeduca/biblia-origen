@@ -1,0 +1,345 @@
+{
+  "bookId": "mattai",
+  "titleEntryId": "book_mattai",
+  "bookTitle": "Mattai",
+  "chapter": 16,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "Y LLEGÁNDOSE los ",
+        {
+          "entryId": "perushim",
+          "form": "Perushim"
+        },
+        " y los ",
+        {
+          "entryId": "tzaduqim",
+          "form": "Tzaduqim"
+        },
+        " para tentarle, le pedían que les mostrase señal del cielo."
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Mas él respondiendo, les dijo: Cuando es la tarde del día, decís: Sereno; porque el cielo tiene arreboles."
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Y a la mañana: Hoy tempestad; porque tiene arreboles el cielo triste. Hipócritas, que sabéis hacer diferencia en la faz del cielo; ¿y en las señales de los tiempos no podéis?"
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "La generación mala y adulterina demanda señal; mas señal no le será dada, sino la señal de ",
+        {
+          "entryId": "yonah",
+          "form": "Yonah"
+        },
+        " profeta. Y dejándolos, se fue."
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Y viniendo sus discípulos de la otra parte del lago, se habían olvidado de tomar pan."
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " les dijo: Mirad, y guardaos de la levadura de los ",
+        {
+          "entryId": "perushim",
+          "form": "Perushim"
+        },
+        " y de los ",
+        {
+          "entryId": "tzaduqim",
+          "form": "Tzaduqim"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "Y ellos pensaban dentro de sí, diciendo: Esto dice porque no tomamos pan."
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Y entendiéndolo ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", les dijo: ¿Por qué pensáis dentro de vosotros, hombres de poca fe, que no tomasteis pan?"
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "¿No entendéis aún, ni os acordáis de los cinco panes entre cinco mil hombres, y cuántos cestos alzasteis?"
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "¿Ni de los siete panes entre cuatro mil, y cuántas espuertas tomasteis?"
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "¿Cómo es que no entendéis que no por el pan os dije, que os guardaseis de la levadura de los ",
+        {
+          "entryId": "perushim",
+          "form": "Perushim"
+        },
+        " y de los ",
+        {
+          "entryId": "tzaduqim",
+          "form": "Tzaduqim"
+        },
+        "?"
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Entonces entendieron que no les había dicho que se guardasen de la levadura de pan, sino de la doctrina de los ",
+        {
+          "entryId": "perushim",
+          "form": "Perushim"
+        },
+        " y de los ",
+        {
+          "entryId": "tzaduqim",
+          "form": "Tzaduqim"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Y viniendo ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " a las partes de Cesarea de Filipo, preguntó a sus discípulos, diciendo: ¿Quién dicen los hombres que es el Hijo del hombre?"
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Y ellos dijeron: Unos, ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan el Bautista"
+        },
+        "; y otros, ",
+        {
+          "entryId": "eliyahu",
+          "form": "Eliyahu"
+        },
+        "; y otros, ",
+        {
+          "entryId": "yirmeyahu",
+          "form": "Yirmeyahu"
+        },
+        ", o alguno de los profetas."
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "El les dice: Y vosotros, ¿quién decís que soy?"
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "Y respondiendo ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Shimón Kefa"
+        },
+        ", dijo: Tú eres el ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        ", el Hijo del ",
+        {
+          "entryId": "elohim",
+          "form": "Elohim"
+        },
+        " viviente."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Entonces, respondiendo ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", le dijo: Bienaventurado eres, ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Shimón"
+        },
+        ", hijo de Jonás; porque no te lo reveló carne ni sangre, mas mi Padre que está en los cielos."
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Mas yo también te digo, que tú eres ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        ", y sobre esta ",
+        {
+          "entryId": "petra",
+          "form": "piedra"
+        },
+        " edificaré mi ",
+        {
+          "entryId": "ekklesia",
+          "form": "iglesia"
+        },
+        "; y las puertas del ",
+        {
+          "entryId": "hades",
+          "form": "Hades"
+        },
+        " no prevalecerán contra ella."
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Y a ti daré las llaves del reino de los cielos; y todo lo que ligares en la tierra será ligado en los cielos; y todo lo que desatares en la tierra será desatado en los cielos."
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Entonces mandó a sus discípulos que a nadie dijesen que él era ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " el ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "Desde aquel tiempo comenzó ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " a declarar a sus discípulos que le convenía ir a ",
+        {
+          "entryId": "yerushalayim",
+          "form": "Yerushalayim"
+        },
+        ", y padecer mucho de los ancianos, y de los príncipes de los sacerdotes, y de los escribas; y ser muerto, y resucitar al tercer día."
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        ", tomándolo aparte, comenzó a reprenderle, diciendo: Señor, ten compasión de ti: en ninguna manera esto te acontezca."
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "Entonces él, volviéndose, dijo a ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        ": Quítate de delante de mí, ",
+        {
+          "entryId": "satan",
+          "form": "Satán"
+        },
+        "; me eres escándalo; porque no entiendes lo que es de ",
+        {
+          "entryId": "elohim",
+          "form": "Elohim"
+        },
+        " sino lo que es de los hombres."
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "Entonces ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " dijo a sus discípulos: Si alguno quiere venir en pos de mí, niéguese a sí mismo, y tome su cruz, y sígame."
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "Porque cualquiera que quisiere salvar su vida, la perderá, y cualquiera que perdiere su vida por causa de mí, la hallará."
+      ]
+    },
+    {
+      "verse": 26,
+      "segments": [
+        "Porque ¿de qué aprovecha al hombre, si granjeare todo el mundo, y perdiere su alma? O ¿qué recompensa dará el hombre por su alma?"
+      ]
+    },
+    {
+      "verse": 27,
+      "segments": [
+        "Porque el Hijo del hombre vendrá en la gloria de su Padre con sus ángeles, y entonces pagará a cada uno conforme a sus obras."
+      ]
+    },
+    {
+      "verse": 28,
+      "segments": [
+        {
+          "entryId": "amen",
+          "form": "Amén"
+        },
+        " os digo: hay algunos de los que están aquí, que no gustarán la muerte, hasta que hayan visto al Hijo del hombre viniendo en su reino."
+      ]
+    }
+  ]
+}

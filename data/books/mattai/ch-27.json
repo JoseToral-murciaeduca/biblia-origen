@@ -35,7 +35,12 @@
     {
       "verse": 4,
       "segments": [
-        "Diciendo: Yo he pecado entregando la sangre inocente. Mas ellos dijeron: ¿Qué se nos da a nosotros? Viéraslo tú."
+        "Diciendo: Yo he pecado entregando la sangre inocente. ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ellos dijeron: ¿Qué se nos da a nosotros? Viéraslo tú."
       ]
     },
     {
@@ -53,7 +58,11 @@
     {
       "verse": 7,
       "segments": [
-        "Mas habido consejo, compraron con ellas el campo del alfarero, por sepultura para los extranjeros."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " habido consejo, compraron con ellas el campo del alfarero, por sepultura para los extranjeros."
       ]
     },
     {
@@ -166,7 +175,11 @@
     {
       "verse": 20,
       "segments": [
-        "Mas los príncipes de los sacerdotes y los ancianos, persuadieron al pueblo que pidiese a ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " los príncipes de los sacerdotes y los ancianos, persuadieron al pueblo que pidiese a ",
         {
           "entryId": "bar_abba",
           "form": "Bar-Abba"
@@ -209,7 +222,12 @@
     {
       "verse": 23,
       "segments": [
-        "Y el presidente les dijo: Pues ¿qué mal ha hecho? Mas ellos gritaban más, diciendo: Sea crucificado."
+        "Y el presidente les dijo: Pues ¿qué mal ha hecho? ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ellos gritaban más, diciendo: Sea crucificado."
       ]
     },
     {
@@ -248,7 +266,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        " al pretorio, y juntaron a él toda la cuadrilla;"
+        " al ",
+        {
+          "entryId": "glosario_pretorio",
+          "form": "pretorio"
+        },
+        ", y juntaron a él toda la cuadrilla;"
       ]
     },
     {
@@ -272,7 +295,12 @@
     {
       "verse": 31,
       "segments": [
-        "Y después que le hubieron escarnecido, le desnudaron el manto, y le vistieron de sus vestidos, y le llevaron para crucificarle."
+        "Y después que le hubieron ",
+        {
+          "entryId": "glosario_escarnecer",
+          "form": "escarnecido"
+        },
+        ", le desnudaron el manto, y le vistieron de sus vestidos, y le llevaron para crucificarle."
       ]
     },
     {
@@ -446,7 +474,11 @@
     {
       "verse": 50,
       "segments": [
-        "Mas ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -457,25 +489,45 @@
     {
       "verse": 51,
       "segments": [
-        "Y he aquí, el velo del templo se rompió en dos, de alto a bajo: y la tierra tembló, y las piedras se hendieron;"
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        ", el velo del templo se rompió en dos, de alto a bajo: y la tierra tembló, y las piedras se hendieron;"
       ]
     },
     {
       "verse": 52,
       "segments": [
-        "Y abriéronse los sepulcros, y muchos cuerpos de santos que habían dormido, se levantaron;"
+        "Y abriéronse los ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcros"
+        },
+        ", y muchos cuerpos de santos que habían dormido, se levantaron;"
       ]
     },
     {
       "verse": 53,
       "segments": [
-        "Y salidos de los sepulcros, después de su resurrección, vinieron a la santa ciudad, y aparecieron a muchos."
+        "Y salidos de los ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcros"
+        },
+        ", después de su resurrección, vinieron a la santa ciudad, y aparecieron a muchos."
       ]
     },
     {
       "verse": 54,
       "segments": [
-        "Y el centurión, y los que estaban con él guardando a ",
+        "Y el ",
+        {
+          "entryId": "glosario_centurión",
+          "form": "centurión"
+        },
+        ", y los que estaban con él guardando a ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -571,7 +623,17 @@
     {
       "verse": 60,
       "segments": [
-        "Y lo puso en su sepulcro nuevo, que había labrado en la peña: y revuelta una grande piedra a la puerta del sepulcro, se fue."
+        "Y lo puso en su ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        " nuevo, que había labrado en la peña: y revuelta una grande piedra a la puerta del ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        ", se fue."
       ]
     },
     {
@@ -587,7 +649,12 @@
           "entryId": "miryam",
           "form": "Miryam"
         },
-        ", sentadas delante del sepulcro."
+        ", sentadas delante del ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        "."
       ]
     },
     {
@@ -610,7 +677,12 @@
     {
       "verse": 64,
       "segments": [
-        "Manda, pues, que se asegure el sepulcro hasta el día tercero; porque no vengan sus discípulos de noche, y le hurten, y digan al pueblo: Resucitó de los muertos. Y será el postrer error peor que el primero."
+        "Manda, pues, que se asegure el ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        " hasta el día tercero; porque no vengan sus discípulos de noche, y le hurten, y digan al pueblo: Resucitó de los muertos. Y será el postrer error peor que el primero."
       ]
     },
     {
@@ -622,7 +694,12 @@
     {
       "verse": 66,
       "segments": [
-        "Y yendo ellos, aseguraron el sepulcro, sellando la piedra, con la guardia."
+        "Y yendo ellos, aseguraron el ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        ", sellando la piedra, con la guardia."
       ]
     }
   ]

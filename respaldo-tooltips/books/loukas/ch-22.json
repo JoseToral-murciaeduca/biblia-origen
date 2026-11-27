@@ -1,0 +1,586 @@
+{
+  "bookId": "loukas",
+  "titleEntryId": "book_loukas",
+  "bookTitle": "Loukas",
+  "chapter": 22,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "Y ESTABA cerca el día de la fiesta de los ázimos, que se llama la ",
+        {
+          "entryId": "pesaj",
+          "form": "Pesaj"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Y los príncipes de los sacerdotes y los escribas buscaban cómo le matarían; mas tenían miedo del pueblo."
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Y entró ",
+        {
+          "entryId": "satan",
+          "form": "Satán"
+        },
+        " en ",
+        {
+          "entryId": "yehuda_iscariote",
+          "form": "Yehudá Iscariote"
+        },
+        ", por sobrenombre Iscariote, el cual era uno del número de los doce;"
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Y fue, y habló con los príncipes de los sacerdotes, y con los magistrados, de cómo se lo entregaría."
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Los cuales se holgaron, y concertaron de darle dinero."
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Y prometió, y buscaba oportunidad para entregarle a ellos sin bulla."
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "Y vino el día de los ázimos, en el cual era necesario matar la ",
+        {
+          "entryId": "pesaj",
+          "form": "Pesaj"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Y envió a ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        " y a ",
+        {
+          "entryId": "yojanan_apostol",
+          "form": "Yojanan"
+        },
+        ", diciendo: Id, aparejadnos la ",
+        {
+          "entryId": "pesaj",
+          "form": "Pesaj"
+        },
+        " para que comamos."
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Y ellos le dijeron: ¿Dónde quieres que aparejemos?"
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Y él les dijo: He aquí cuando entrareis en la ciudad, os encontrará un hombre que lleva un cántaro de agua: seguidle hasta la casa donde entrare,"
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "Y decid al padre de la familia de la casa: El Maestro te dice: ¿Dónde está el aposento donde tengo de comer la ",
+        {
+          "entryId": "pesaj",
+          "form": "Pesaj"
+        },
+        " con mis discípulos?"
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Entonces él os mostrará un gran cenáculo aderezado; aparejad allí."
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Fueron pues, y hallaron como les había dicho; y aparejaron la ",
+        {
+          "entryId": "pesaj",
+          "form": "Pesaj"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Y como fue hora, sentóse a la mesa, y con él los apóstoles."
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Y les dijo: En gran manera he deseado comer con vosotros esta ",
+        {
+          "entryId": "pesaj",
+          "form": "Pesaj"
+        },
+        " antes que padezca;"
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "Porque os digo que no comeré más de ella, hasta que se cumpla en el reino de Dios."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Y tomando el vaso, habiendo dado gracias, dijo: Tomad esto, y partidlo entre vosotros;"
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Porque os digo, que no beberé más del fruto de la vid, hasta que el reino de Dios venga."
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Y tomando el pan, habiendo dado gracias, partió, y les dio, diciendo: Esto es mi cuerpo, que por vosotros es dado: haced esto en memoria de mí."
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Asimismo también el vaso, después que hubo cenado, diciendo: Este vaso es el nuevo pacto en mi sangre, que por vosotros se derrama."
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "Con todo eso, he aquí la mano del que me entrega, conmigo en la mesa."
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "Y a la verdad el Hijo del hombre va, según lo que está determinado; empero ¡ay de aquel hombre por el cual es entregado!"
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "Ellos entonces comenzaron a preguntar entre sí, cuál de ellos sería el que había de hacer esto."
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "Y hubo entre ellos una contienda, quién de ellos parecía ser el mayor."
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "Entonces él les dijo: Los reyes de las gentes se enseñorean de ellas; y los que sobre ellas tienen potestad, son llamados bienhechores:"
+      ]
+    },
+    {
+      "verse": 26,
+      "segments": [
+        "Mas vosotros, no así: antes el que es mayor entre vosotros, sea como el más mozo; y el que es príncipe, como el que sirve."
+      ]
+    },
+    {
+      "verse": 27,
+      "segments": [
+        "Porque, ¿cuál es mayor, el que se sienta a la mesa, o el que sirve? ¿No es el que se sienta a la mesa? Y yo soy entre vosotros como el que sirve."
+      ]
+    },
+    {
+      "verse": 28,
+      "segments": [
+        "Empero vosotros sois los que habéis permanecido conmigo en mis tentaciones:"
+      ]
+    },
+    {
+      "verse": 29,
+      "segments": [
+        "Yo pues os ordeno un reino, como mi Padre me lo ordenó a mí,"
+      ]
+    },
+    {
+      "verse": 30,
+      "segments": [
+        "Para que comáis y bebáis en mi mesa en mi reino, y os sentéis sobre tronos juzgando a las doce tribus de Israel."
+      ]
+    },
+    {
+      "verse": 31,
+      "segments": [
+        "Dijo también el Señor: ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Shimón"
+        },
+        ", ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Shimón"
+        },
+        ", he aquí ",
+        {
+          "entryId": "satan",
+          "form": "Satán"
+        },
+        " os ha pedido para zarandaros como a trigo;"
+      ]
+    },
+    {
+      "verse": 32,
+      "segments": [
+        "Mas yo he rogado por ti que tu fe no falte: y tú, una vez vuelto, confirma a tus hermanos."
+      ]
+    },
+    {
+      "verse": 33,
+      "segments": [
+        "Y él le dijo: Señor, pronto estoy a ir contigo aun a cárcel y a muerte."
+      ]
+    },
+    {
+      "verse": 34,
+      "segments": [
+        "Y él dijo: ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        ", te digo que el gallo no cantará hoy antes que tú niegues tres veces que me conoces."
+      ]
+    },
+    {
+      "verse": 35,
+      "segments": [
+        "Y a ellos dijo: Cuando os envié sin bolsa, y sin alforja, y sin zapatos, ¿os faltó algo? Y ellos dijeron: Nada."
+      ]
+    },
+    {
+      "verse": 36,
+      "segments": [
+        "Y les dijo: Pues ahora, el que tiene bolsa, tómela, y también la alforja, y el que no tiene, venda su capa y compre espada."
+      ]
+    },
+    {
+      "verse": 37,
+      "segments": [
+        "Porque os digo, que es necesario que se cumpla todavía en mí aquello que está escrito: Y con los malos fue contado: porque lo que está escrito de mí, cumplimiento tiene."
+      ]
+    },
+    {
+      "verse": 38,
+      "segments": [
+        "Entonces ellos dijeron: Señor, he aquí dos espadas. Y él les dijo: Basta."
+      ]
+    },
+    {
+      "verse": 39,
+      "segments": [
+        "Y saliendo, se fue, como solía, al monte de las Olivas; y sus discípulos también le siguieron."
+      ]
+    },
+    {
+      "verse": 40,
+      "segments": [
+        "Y como llegó a aquel lugar, les dijo: Orad que no entréis en tentación."
+      ]
+    },
+    {
+      "verse": 41,
+      "segments": [
+        "Y él se apartó de ellos como un tiro de piedra; y puesto de rodillas oró,"
+      ]
+    },
+    {
+      "verse": 42,
+      "segments": [
+        "Diciendo: Padre, si quieres, pasa este vaso de mí; empero no se haga mi voluntad, sino la tuya."
+      ]
+    },
+    {
+      "verse": 43,
+      "segments": [
+        "Y le apareció un ángel del cielo confortándole."
+      ]
+    },
+    {
+      "verse": 44,
+      "segments": [
+        "Y estando en agonía, oraba más intensamente: y fue su sudor como grandes gotas de sangre que caían hasta la tierra."
+      ]
+    },
+    {
+      "verse": 45,
+      "segments": [
+        "Y como se levantó de la oración, y vino a sus discípulos, hallólos durmiendo de tristeza;"
+      ]
+    },
+    {
+      "verse": 46,
+      "segments": [
+        "Y les dijo: ¿Por qué dormís? Levantaos, y orad que no entréis en tentación."
+      ]
+    },
+    {
+      "verse": 47,
+      "segments": [
+        "Estando él aún hablando, he aquí una turba; y el que se llamaba ",
+        {
+          "entryId": "yehuda_iscariote",
+          "form": "Yehudá Iscariote"
+        },
+        ", uno de los doce, iba delante de ellos; y llegóse a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " para besarlo."
+      ]
+    },
+    {
+      "verse": 48,
+      "segments": [
+        "Entonces ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " le dijo: ",
+        {
+          "entryId": "yehuda_iscariote",
+          "form": "Yehudá Iscariote"
+        },
+        ", ¿con beso entregas al Hijo del hombre?"
+      ]
+    },
+    {
+      "verse": 49,
+      "segments": [
+        "Y viendo los que estaban con él lo que había de ser, le dijeron: Señor, ¿heriremos a cuchillo?"
+      ]
+    },
+    {
+      "verse": 50,
+      "segments": [
+        "Y uno de ellos hirió a un siervo del príncipe de los sacerdotes, y le quitó la oreja derecha."
+      ]
+    },
+    {
+      "verse": 51,
+      "segments": [
+        "Entonces respondiendo ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", dijo: Dejad hasta aquí. Y tocando su oreja, le sanó."
+      ]
+    },
+    {
+      "verse": 52,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " dijo a los que habían venido a él, los príncipes de los sacerdotes, y los magistrados del templo, y los ancianos: ¿Como a ladrón habéis salido con espadas y con palos?"
+      ]
+    },
+    {
+      "verse": 53,
+      "segments": [
+        "Habiendo estado con vosotros cada día en el templo, no extendisteis las manos contra mí; mas ésta es vuestra hora, y la potestad de las tinieblas."
+      ]
+    },
+    {
+      "verse": 54,
+      "segments": [
+        "Y prendiéndole trajéronle, y metiéronle en casa del príncipe de los sacerdotes. Y ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        " le seguía de lejos."
+      ]
+    },
+    {
+      "verse": 55,
+      "segments": [
+        "Y habiendo encendido fuego en medio de la sala, y sentándose todos alrededor, se sentó también ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        " entre ellos."
+      ]
+    },
+    {
+      "verse": 56,
+      "segments": [
+        "Y como una criada le vio que estaba sentado al fuego, fijóse en él, y dijo: Y éste con él estaba."
+      ]
+    },
+    {
+      "verse": 57,
+      "segments": [
+        "Entonces él lo negó, diciendo: Mujer, no le conozco."
+      ]
+    },
+    {
+      "verse": 58,
+      "segments": [
+        "Y un poco después, viéndole otro, dijo: Y tú de ellos eras. Y ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        " dijo: Hombre, no soy."
+      ]
+    },
+    {
+      "verse": 59,
+      "segments": [
+        "Y como una hora pasada otro afirmaba, diciendo: Verdaderamente también éste estaba con él, porque es Galileo."
+      ]
+    },
+    {
+      "verse": 60,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        " dijo: Hombre, no sé qué dices. Y luego, estando él aún hablando, el gallo cantó."
+      ]
+    },
+    {
+      "verse": 61,
+      "segments": [
+        "Entonces, vuelto el Señor, miró a ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        ": y ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        " se acordó de la palabra del Señor como le había dicho: Antes que el gallo cante, me negarás tres veces."
+      ]
+    },
+    {
+      "verse": 62,
+      "segments": [
+        "Y saliendo fuera ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        ", lloró amargamente."
+      ]
+    },
+    {
+      "verse": 63,
+      "segments": [
+        "Y los hombres que tenían a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", se burlaban de él hiriéndole;"
+      ]
+    },
+    {
+      "verse": 64,
+      "segments": [
+        "Y cubriéndole, herían su rostro, y preguntábanle, diciendo: Profetiza quién es el que te hirió."
+      ]
+    },
+    {
+      "verse": 65,
+      "segments": [
+        "Y decían otras muchas cosas injuriándole."
+      ]
+    },
+    {
+      "verse": 66,
+      "segments": [
+        "Y cuando fue de día, se juntaron los ancianos del pueblo, y los príncipes de los sacerdotes, y los escribas, y le trajeron a su concilio,"
+      ]
+    },
+    {
+      "verse": 67,
+      "segments": [
+        "Diciendo: ¿Eres tú el ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        "? dínoslo. Y les dijo: Si os lo dijere, no creeréis;"
+      ]
+    },
+    {
+      "verse": 68,
+      "segments": [
+        "Y también si os preguntare, no me responderéis, ni me soltaréis:"
+      ]
+    },
+    {
+      "verse": 69,
+      "segments": [
+        "Mas después de ahora el Hijo del hombre se asentará a la diestra de la potencia de Dios."
+      ]
+    },
+    {
+      "verse": 70,
+      "segments": [
+        "Y dijeron todos: ¿Luego tú eres Hijo de Dios? Y él les dijo: Vosotros decís que yo soy."
+      ]
+    },
+    {
+      "verse": 71,
+      "segments": [
+        "Entonces ellos dijeron: ¿Qué más testimonio deseamos? porque nosotros lo hemos oído de su boca."
+      ]
+    }
+  ],
+  "textualNotes": [
+    {
+      "verse": 43,
+      "note": "Lucas 22:43–44: algunos manuscritos no contienen estos versículos; se conservan según RV1909.",
+      "source": "https://openwordbible.org/variants/"
+    }
+  ]
+}

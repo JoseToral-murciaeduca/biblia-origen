@@ -94,7 +94,11 @@
     {
       "verse": 8,
       "segments": [
-        "Mas él sabía los pensamientos de ellos; y dijo al hombre que tenía la mano seca: Levántate, y ponte en medio. Y él levantándose, se puso en pie."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " él sabía los pensamientos de ellos; y dijo al hombre que tenía la mano seca: Levántate, y ponte en medio. Y él levantándose, se puso en pie."
       ]
     },
     {
@@ -263,13 +267,22 @@
     {
       "verse": 23,
       "segments": [
-        "Gozaos en aquel día, y alegraos; porque he aquí vuestro galardón es grande en los cielos; porque así hacían sus padres a los profetas."
+        "Gozaos en aquel día, y alegraos; porque ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " vuestro galardón es grande en los cielos; porque así hacían sus padres a los profetas."
       ]
     },
     {
       "verse": 24,
       "segments": [
-        "Mas ¡ay de vosotros, ricos! porque tenéis vuestro consuelo."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ¡ay de vosotros, ricos! porque tenéis vuestro consuelo."
       ]
     },
     {
@@ -287,7 +300,11 @@
     {
       "verse": 27,
       "segments": [
-        "Mas a vosotros los que oís, digo: Amad a vuestros enemigos, haced bien a los que os aborrecen;"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " a vosotros los que oís, digo: Amad a vuestros enemigos, haced bien a los que os aborrecen;"
       ]
     },
     {
@@ -359,13 +376,23 @@
     {
       "verse": 39,
       "segments": [
-        "Y les decía una parábola: ¿Puede el ciego guiar al ciego? ¿No caerán ambos en el hoyo?"
+        "Y les decía una ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábola"
+        },
+        ": ¿Puede el ciego guiar al ciego? ¿No caerán ambos en el hoyo?"
       ]
     },
     {
       "verse": 40,
       "segments": [
-        "El discípulo no es sobre su maestro; mas cualquiera que fuere como el maestro, será perfecto."
+        "El discípulo no es sobre su maestro; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " cualquiera que fuere como el maestro, será perfecto."
       ]
     },
     {
@@ -377,7 +404,12 @@
     {
       "verse": 42,
       "segments": [
-        "¿O cómo puedes decir a tu hermano: Hermano, deja, echaré fuera la paja que está en tu ojo, no mirando tú la viga que está en tu ojo? Hipócrita, echa primero fuera de tu ojo la viga, y entonces verás bien para sacar la paja que está en el ojo de tu hermano."
+        "¿O cómo puedes decir a tu hermano: Hermano, deja, echaré fuera la paja que está en tu ojo, no mirando tú la viga que está en tu ojo? ",
+        {
+          "entryId": "glosario_hipócrita",
+          "form": "Hipócrita"
+        },
+        ", echa primero fuera de tu ojo la viga, y entonces verás bien para sacar la paja que está en el ojo de tu hermano."
       ]
     },
     {
@@ -413,13 +445,22 @@
     {
       "verse": 48,
       "segments": [
-        "Semejante es al hombre que edifica una casa, el cual cavó y ahondó, y puso el fundamento sobre la peña; y cuando vino una avenida, el río dio con ímpetu en aquella casa, mas no la pudo menear: porque estaba fundada sobre la peña."
+        "Semejante es al hombre que edifica una casa, el cual cavó y ahondó, y puso el fundamento sobre la peña; y cuando vino una avenida, el río dio con ímpetu en aquella casa, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " no la pudo menear: porque estaba fundada sobre la peña."
       ]
     },
     {
       "verse": 49,
       "segments": [
-        "Mas el que oyó y no hizo, semejante es al hombre que edificó su casa sobre tierra, sin fundamento; en la cual el río dio con ímpetu, y luego cayó; y fue grande la ruina de aquella casa."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " el que oyó y no hizo, semejante es al hombre que edificó su casa sobre tierra, sin fundamento; en la cual el río dio con ímpetu, y luego cayó; y fue grande la ruina de aquella casa."
       ]
     }
   ]

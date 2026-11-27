@@ -90,13 +90,23 @@
     {
       "verse": 9,
       "segments": [
-        "Y como el maestresala gustó el agua hecha vino, que no sabía de dónde era (mas lo sabían los sirvientes que habían sacado el agua), el maestresala llama al esposo,"
+        "Y como el maestresala gustó el agua hecha vino, que no sabía de dónde era (",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " lo sabían los sirvientes que habían sacado el agua), el maestresala llama al esposo,"
       ]
     },
     {
       "verse": 10,
       "segments": [
-        "Y dícele: Todo hombre pone primero el buen vino, y cuando están satisfechos, entonces lo que es peor; mas tú has guardado el buen vino hasta ahora."
+        "Y dícele: Todo hombre pone primero el buen vino, y cuando están satisfechos, entonces lo que es peor; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " tú has guardado el buen vino hasta ahora."
       ]
     },
     {
@@ -161,7 +171,12 @@
     {
       "verse": 15,
       "segments": [
-        "Y hecho un azote de cuerdas, echólos a todos del templo, y las ovejas, y los bueyes; y derramó los dineros de los cambiadores, y trastornó las mesas;"
+        "Y hecho un ",
+        {
+          "entryId": "glosario_azote",
+          "form": "azote"
+        },
+        " de cuerdas, echólos a todos del templo, y las ovejas, y los bueyes; y derramó los dineros de los cambiadores, y trastornó las mesas;"
       ]
     },
     {
@@ -202,7 +217,11 @@
     {
       "verse": 21,
       "segments": [
-        "Mas él hablaba del templo de su cuerpo."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " él hablaba del templo de su cuerpo."
       ]
     },
     {
@@ -235,7 +254,11 @@
     {
       "verse": 24,
       "segments": [
-        "Mas el mismo ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " el mismo ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"

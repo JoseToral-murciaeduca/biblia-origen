@@ -89,19 +89,37 @@
     {
       "verse": 8,
       "segments": [
-        "Mas ¿qué salisteis a ver? ¿un hombre cubierto de delicados vestidos? He aquí, los que traen vestidos delicados, en las casas de los reyes están."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ¿qué salisteis a ver? ¿un hombre cubierto de delicados vestidos? ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        ", los que traen vestidos delicados, en las casas de los reyes están."
       ]
     },
     {
       "verse": 9,
       "segments": [
-        "Mas ¿qué salisteis a ver? ¿un profeta? También os digo, y más que profeta."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ¿qué salisteis a ver? ¿un profeta? También os digo, y más que profeta."
       ]
     },
     {
       "verse": 10,
       "segments": [
-        "Porque éste es de quien está escrito: He aquí, yo envío mi mensajero delante de tu faz, que aparejará tu camino delante de ti."
+        "Porque éste es de quien está escrito: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        ", yo envío mi mensajero delante de tu faz, que aparejará tu camino delante de ti."
       ]
     },
     {
@@ -116,7 +134,12 @@
           "entryId": "yojanan_bautista",
           "form": "Yojanan el Bautista"
         },
-        "; mas el que es muy más pequeño en el reino de los cielos, mayor es que él."
+        "; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " el que es muy más pequeño en el reino de los cielos, mayor es que él."
       ]
     },
     {
@@ -161,7 +184,11 @@
     {
       "verse": 16,
       "segments": [
-        "Mas ¿a quién compararé esta generación? Es semejante a los muchachos que se sientan en las plazas, y dan voces a sus compañeros,"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ¿a quién compararé esta generación? Es semejante a los muchachos que se sientan en las plazas, y dan voces a sus compañeros,"
       ]
     },
     {
@@ -184,7 +211,22 @@
     {
       "verse": 19,
       "segments": [
-        "Vino el Hijo del hombre, que come y bebe, y dicen: He aquí un hombre comilón, y bebedor de vino, amigo de publicanos y de pecadores. Mas la sabiduría es justificada por sus hijos."
+        "Vino el Hijo del hombre, que come y bebe, y dicen: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        " un hombre comilón, y bebedor de vino, amigo de ",
+        {
+          "entryId": "glosario_publicano",
+          "form": "publicanos"
+        },
+        " y de pecadores. ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " la sabiduría es justificada por sus hijos."
       ]
     },
     {
@@ -254,13 +296,23 @@
     {
       "verse": 29,
       "segments": [
-        "Llevad mi yugo sobre vosotros, y aprended de mí, que soy manso y humilde de corazón; y hallaréis descanso para vuestras almas."
+        "Llevad mi ",
+        {
+          "entryId": "glosario_yugo",
+          "form": "yugo"
+        },
+        " sobre vosotros, y aprended de mí, que soy manso y humilde de corazón; y hallaréis descanso para vuestras almas."
       ]
     },
     {
       "verse": 30,
       "segments": [
-        "Porque mi yugo es fácil, y ligera mi carga."
+        "Porque mi ",
+        {
+          "entryId": "glosario_yugo",
+          "form": "yugo"
+        },
+        " es fácil, y ligera mi carga."
       ]
     }
   ]

@@ -33,7 +33,12 @@
           "entryId": "yeshayahu",
           "form": "Yeshayahu"
         },
-        " el profeta: He aquí yo envío a mi mensajero delante de tu faz, que apareje tu camino delante de ti."
+        " el profeta: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        " yo envío a mi mensajero delante de tu faz, que apareje tu camino delante de ti."
       ]
     },
     {
@@ -99,7 +104,12 @@
     {
       "verse": 8,
       "segments": [
-        "Yo a la verdad os he bautizado con agua; mas él os bautizará con ",
+        "Yo a la verdad os he bautizado con agua; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " él os bautizará con ",
         {
           "entryId": "ruaj_haqodesh",
           "form": "Ruaj HaQodesh"
@@ -170,7 +180,11 @@
     {
       "verse": 14,
       "segments": [
-        "Mas después que ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " después que ",
         {
           "entryId": "yojanan_bautista",
           "form": "Yojanan"
@@ -501,7 +515,11 @@
     {
       "verse": 45,
       "segments": [
-        "Mas él salido, comenzó a publicarlo mucho, y a divulgar el hecho, de manera que ya ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " él salido, comenzó a publicarlo mucho, y a divulgar el hecho, de manera que ya ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"

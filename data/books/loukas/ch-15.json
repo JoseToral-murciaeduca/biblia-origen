@@ -7,7 +7,12 @@
     {
       "verse": 1,
       "segments": [
-        "Y SE llegaban a él todos los publicanos y pecadores a oirle."
+        "Y SE llegaban a él todos los ",
+        {
+          "entryId": "glosario_publicano",
+          "form": "publicanos"
+        },
+        " y pecadores a oirle."
       ]
     },
     {
@@ -24,7 +29,12 @@
     {
       "verse": 3,
       "segments": [
-        "Y él les propuso esta parábola, diciendo:"
+        "Y él les propuso esta ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábola"
+        },
+        ", diciendo:"
       ]
     },
     {
@@ -59,13 +69,28 @@
     {
       "verse": 8,
       "segments": [
-        "¿O qué mujer que tiene diez dracmas, si perdiere una dracma, no enciende el candil, y barre la casa, y busca con diligencia hasta hallarla?"
+        "¿O qué mujer que tiene diez ",
+        {
+          "entryId": "glosario_dracma",
+          "form": "dracmas"
+        },
+        ", si perdiere una ",
+        {
+          "entryId": "glosario_dracma",
+          "form": "dracma"
+        },
+        ", no enciende el candil, y barre la casa, y busca con diligencia hasta hallarla?"
       ]
     },
     {
       "verse": 9,
       "segments": [
-        "Y cuando la hubiere hallado, junta las amigas y las vecinas, diciendo: Dadme el parabién, porque he hallado la dracma que había perdido."
+        "Y cuando la hubiere hallado, junta las amigas y las vecinas, diciendo: Dadme el parabién, porque he hallado la ",
+        {
+          "entryId": "glosario_dracma",
+          "form": "dracma"
+        },
+        " que había perdido."
       ]
     },
     {
@@ -107,7 +132,12 @@
     {
       "verse": 16,
       "segments": [
-        "Y deseaba henchir su vientre de las algarrobas que comían los puercos; mas nadie se las daba."
+        "Y deseaba henchir su vientre de las algarrobas que comían los puercos; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " nadie se las daba."
       ]
     },
     {
@@ -143,7 +173,11 @@
     {
       "verse": 22,
       "segments": [
-        "Mas el padre dijo a sus siervos: Sacad el principal vestido, y vestidle; y poned un anillo en su mano, y zapatos en sus pies."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " el padre dijo a sus siervos: Sacad el principal vestido, y vestidle; y poned un anillo en su mano, y zapatos en sus pies."
       ]
     },
     {
@@ -185,13 +219,26 @@
     {
       "verse": 29,
       "segments": [
-        "Mas él respondiendo, dijo al padre: He aquí tantos años te sirvo, no habiendo traspasado jamás tu mandamiento, y nunca me has dado un cabrito para gozarme con mis amigos:"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " él respondiendo, dijo al padre: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        " tantos años te sirvo, no habiendo traspasado jamás tu mandamiento, y nunca me has dado un cabrito para gozarme con mis amigos:"
       ]
     },
     {
       "verse": 30,
       "segments": [
-        "Mas cuando vino éste tu hijo, que ha consumido tu hacienda con rameras, has matado para él el becerro grueso."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " cuando vino éste tu hijo, que ha consumido tu hacienda con rameras, has matado para él el becerro grueso."
       ]
     },
     {
@@ -203,7 +250,16 @@
     {
       "verse": 32,
       "segments": [
-        "Mas era menester hacer fiesta y holgarnos, porque este tu hermano muerto era, y ha revivido; habíase perdido, y es hallado."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " era ",
+        {
+          "entryId": "glosario_menester",
+          "form": "menester"
+        },
+        " hacer fiesta y holgarnos, porque este tu hermano muerto era, y ha revivido; habíase perdido, y es hallado."
       ]
     }
   ]

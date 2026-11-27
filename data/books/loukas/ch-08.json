@@ -34,7 +34,12 @@
           "entryId": "yojana",
           "form": "Yojana"
         },
-        ", mujer de Chuza, procurador de ",
+        ", mujer de Chuza, ",
+        {
+          "entryId": "glosario_procurador",
+          "form": "procurador"
+        },
+        " de ",
         {
           "entryId": "herodes",
           "form": "Herodes"
@@ -50,7 +55,12 @@
     {
       "verse": 4,
       "segments": [
-        "Y como se juntó una grande compañía, y los que estaban en cada ciudad vinieron a él, dijo por una parábola:"
+        "Y como se juntó una grande compañía, y los que estaban en cada ciudad vinieron a él, dijo por una ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábola"
+        },
+        ":"
       ]
     },
     {
@@ -80,19 +90,39 @@
     {
       "verse": 9,
       "segments": [
-        "Y sus discípulos le preguntaron, diciendo, qué era esta parábola."
+        "Y sus discípulos le preguntaron, diciendo, qué era esta ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábola"
+        },
+        "."
       ]
     },
     {
       "verse": 10,
       "segments": [
-        "Y él dijo: A vosotros es dado conocer los misterios del reino de Dios; mas a los otros por parábolas, para que viendo no vean, y oyendo no entiendan."
+        "Y él dijo: A vosotros es dado conocer los misterios del reino de Dios; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " a los otros por ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábolas"
+        },
+        ", para que viendo no vean, y oyendo no entiendan."
       ]
     },
     {
       "verse": 11,
       "segments": [
-        "Es pues ésta la parábola: La simiente es la palabra de Dios."
+        "Es pues ésta la ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábola"
+        },
+        ": La simiente es la palabra de Dios."
       ]
     },
     {
@@ -104,25 +134,44 @@
     {
       "verse": 13,
       "segments": [
-        "Y los de sobre la piedra, son los que habiendo oído, reciben la palabra con gozo; mas éstos no tienen raíces; que a tiempo creen, y en el tiempo de la tentación se apartan."
+        "Y los de sobre la piedra, son los que habiendo oído, reciben la palabra con gozo; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " éstos no tienen raíces; que a tiempo creen, y en el tiempo de la tentación se apartan."
       ]
     },
     {
       "verse": 14,
       "segments": [
-        "Y la que cayó entre las espinas, éstos son los que oyeron; mas yéndose, son ahogados de los cuidados y de las riquezas y de los pasatiempos de la vida, y no llevan fruto."
+        "Y la que cayó entre las espinas, éstos son los que oyeron; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " yéndose, son ahogados de los cuidados y de las riquezas y de los pasatiempos de la vida, y no llevan fruto."
       ]
     },
     {
       "verse": 15,
       "segments": [
-        "Mas la que en buena tierra, éstos son los que con corazón bueno y recto retienen la palabra oída, y llevan fruto en paciencia."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " la que en buena tierra, éstos son los que con corazón bueno y recto retienen la palabra oída, y llevan fruto en paciencia."
       ]
     },
     {
       "verse": 16,
       "segments": [
-        "Ninguno que enciende la antorcha la cubre con vasija, o la pone debajo de la cama; mas la pone en un candelero, para que los que entran vean la luz."
+        "Ninguno que enciende la antorcha la cubre con vasija, o la pone debajo de la cama; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " la pone en un candelero, para que los que entran vean la luz."
       ]
     },
     {
@@ -203,7 +252,12 @@
     {
       "verse": 27,
       "segments": [
-        "Y saliendo él a tierra, le vino al encuentro de la ciudad un hombre que tenía demonios ya de mucho tiempo; y no vestía vestido, ni estaba en casa, sino por los sepulcros."
+        "Y saliendo él a tierra, le vino al encuentro de la ciudad un hombre que tenía demonios ya de mucho tiempo; y no vestía vestido, ni estaba en casa, sino por los ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcros"
+        },
+        "."
       ]
     },
     {
@@ -225,7 +279,12 @@
     {
       "verse": 29,
       "segments": [
-        "(Porque mandaba al espíritu inmundo que saliese del hombre: porque ya de mucho tiempo le arrebataba; y le guardaban preso con cadenas y grillos; mas rompiendo las prisiones, era agitado del demonio por los desiertos.)"
+        "(Porque mandaba al espíritu inmundo que saliese del hombre: porque ya de mucho tiempo le arrebataba; y le guardaban preso con cadenas y grillos; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " rompiendo las prisiones, era agitado del demonio por los desiertos.)"
       ]
     },
     {
@@ -236,7 +295,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        ", diciendo: ¿Qué nombre tienes? Y él dijo: Legión. Porque muchos demonios habían entrado en él."
+        ", diciendo: ¿Qué nombre tienes? Y él dijo: ",
+        {
+          "entryId": "glosario_legión",
+          "form": "Legión"
+        },
+        ". Porque muchos demonios habían entrado en él."
       ]
     },
     {
@@ -294,7 +358,12 @@
     {
       "verse": 38,
       "segments": [
-        "Y aquel hombre, de quien habían salido los demonios, le rogó para estar con él; mas ",
+        "Y aquel hombre, de quien habían salido los demonios, le rogó para estar con él; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -327,7 +396,12 @@
     {
       "verse": 41,
       "segments": [
-        "Y he aquí un varón, llamado Jairo, y que era príncipe de la sinagoga, vino, y cayendo a los pies de ",
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " un varón, llamado Jairo, y que era príncipe de la sinagoga, vino, y cayendo a los pies de ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -450,7 +524,11 @@
     {
       "verse": 54,
       "segments": [
-        "Mas él, tomándola de la mano, clamó, diciendo: Muchacha, levántate."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " él, tomándola de la mano, clamó, diciendo: Muchacha, levántate."
       ]
     },
     {

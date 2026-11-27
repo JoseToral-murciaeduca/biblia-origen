@@ -51,7 +51,11 @@
     {
       "verse": 5,
       "segments": [
-        "Mas ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -67,7 +71,11 @@
     {
       "verse": 6,
       "segments": [
-        "Empero en el día de la fiesta les soltaba un preso, cualquiera que pidiesen."
+        {
+          "entryId": "glosario_empero",
+          "form": "Empero"
+        },
+        " en el día de la fiesta les soltaba un preso, cualquiera que pidiesen."
       ]
     },
     {
@@ -107,7 +115,11 @@
     {
       "verse": 11,
       "segments": [
-        "Mas los príncipes de los sacerdotes incitaron a la multitud, que les soltase antes a ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " los príncipes de los sacerdotes incitaron a la multitud, que les soltase antes a ",
         {
           "entryId": "bar_abba",
           "form": "Bar-Abba"
@@ -135,7 +147,11 @@
     {
       "verse": 14,
       "segments": [
-        "Mas ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ",
         {
           "entryId": "pilatus",
           "form": "Pilatus"
@@ -172,7 +188,12 @@
           "entryId": "praitorion",
           "form": "Pretorio"
         },
-        "; y convocan toda la cohorte."
+        "; y convocan toda la ",
+        {
+          "entryId": "glosario_cohorte",
+          "form": "cohorte"
+        },
+        "."
       ]
     },
     {
@@ -196,7 +217,12 @@
     {
       "verse": 20,
       "segments": [
-        "Y cuando le hubieron escarnecido, le desnudaron la púrpura, y le vistieron sus propios vestidos, y le sacaron para crucificarle."
+        "Y cuando le hubieron ",
+        {
+          "entryId": "glosario_escarnecer",
+          "form": "escarnecido"
+        },
+        ", le desnudaron la púrpura, y le vistieron sus propios vestidos, y le sacaron para crucificarle."
       ]
     },
     {
@@ -219,7 +245,17 @@
     {
       "verse": 23,
       "segments": [
-        "Y le dieron a beber vino mezclado con mirra; mas él no lo tomó."
+        "Y le dieron a beber vino mezclado con ",
+        {
+          "entryId": "glosario_mirra",
+          "form": "mirra"
+        },
+        "; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " él no lo tomó."
       ]
     },
     {
@@ -306,7 +342,12 @@
     {
       "verse": 35,
       "segments": [
-        "Y oyéndole unos de los que estaban allí, decían: He aquí, llama a ",
+        "Y oyéndole unos de los que estaban allí, decían: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        ", llama a ",
         {
           "entryId": "eliyahu",
           "form": "Eliyahu"
@@ -328,7 +369,11 @@
     {
       "verse": 37,
       "segments": [
-        "Mas ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -345,7 +390,12 @@
     {
       "verse": 39,
       "segments": [
-        "Y el centurión que estaba delante de él, viendo que había espirado así clamando, dijo: Verdaderamente este hombre era el Hijo de Dios."
+        "Y el ",
+        {
+          "entryId": "glosario_centurión",
+          "form": "centurión"
+        },
+        " que estaba delante de él, viendo que había espirado así clamando, dijo: Verdaderamente este hombre era el Hijo de Dios."
       ]
     },
     {
@@ -429,13 +479,23 @@
           "entryId": "pilatus",
           "form": "Pilatus"
         },
-        " se maravilló que ya fuese muerto; y haciendo venir al centurión, preguntóle si era ya muerto."
+        " se maravilló que ya fuese muerto; y haciendo venir al ",
+        {
+          "entryId": "glosario_centurión",
+          "form": "centurión"
+        },
+        ", preguntóle si era ya muerto."
       ]
     },
     {
       "verse": 45,
       "segments": [
-        "Y enterado del centurión, dio el cuerpo a ",
+        "Y enterado del ",
+        {
+          "entryId": "glosario_centurión",
+          "form": "centurión"
+        },
+        ", dio el cuerpo a ",
         {
           "entryId": "yosef",
           "form": "Yosef"
@@ -446,7 +506,17 @@
     {
       "verse": 46,
       "segments": [
-        "El cual compró una sábana, y quitándole, le envolvió en la sábana: y le puso en un sepulcro que estaba cavado en una peña; y revolvió una piedra a la puerta del sepulcro."
+        "El cual compró una sábana, y quitándole, le envolvió en la sábana: y le puso en un ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        " que estaba cavado en una peña; y revolvió una piedra a la puerta del ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        "."
       ]
     },
     {

@@ -28,7 +28,12 @@
           "entryId": "perushim",
           "form": "Perushim"
         },
-        ", le dijeron: He aquí tus discípulos hacen lo que no es lícito hacer en ",
+        ", le dijeron: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        " tus discípulos hacen lo que no es lícito hacer en ",
         {
           "entryId": "shabbat",
           "form": "Shabbat"
@@ -83,7 +88,11 @@
     {
       "verse": 7,
       "segments": [
-        "Mas si supieseis qué es: Misericordia quiero y no sacrificio, no condenaríais a los inocentes:"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " si supieseis qué es: Misericordia quiero y no sacrificio, no condenaríais a los inocentes:"
       ]
     },
     {
@@ -106,7 +115,12 @@
     {
       "verse": 10,
       "segments": [
-        "Y he aquí había allí uno que tenía una mano seca: y le preguntaron, diciendo: ¿Es lícito curar en ",
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " había allí uno que tenía una mano seca: y le preguntaron, diciendo: ¿Es lícito curar en ",
         {
           "entryId": "shabbat",
           "form": "Shabbat"
@@ -156,7 +170,11 @@
     {
       "verse": 15,
       "segments": [
-        "Mas sabiéndolo ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " sabiéndolo ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -184,7 +202,16 @@
     {
       "verse": 18,
       "segments": [
-        "He aquí mi siervo, al cual he escogido; mi Amado, en el cual se agrada mi alma: pondré mi Espíritu sobre él, y a los Gentiles anunciará juicio."
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        " mi siervo, al cual he escogido; mi Amado, en el cual se agrada mi alma: pondré mi Espíritu sobre él, y a los ",
+        {
+          "entryId": "glosario_gentil",
+          "form": "Gentiles"
+        },
+        " anunciará juicio."
       ]
     },
     {
@@ -202,7 +229,12 @@
     {
       "verse": 21,
       "segments": [
-        "Y en su nombre esperarán los Gentiles."
+        "Y en su nombre esperarán los ",
+        {
+          "entryId": "glosario_gentil",
+          "form": "Gentiles"
+        },
+        "."
       ]
     },
     {
@@ -225,7 +257,11 @@
     {
       "verse": 24,
       "segments": [
-        "Mas los ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " los ",
         {
           "entryId": "perushim",
           "form": "Perushim"
@@ -297,13 +333,33 @@
     {
       "verse": 31,
       "segments": [
-        "Por tanto os digo: Todo pecado y blasfemia será perdonado a los hombres: mas la blasfemia contra el Espíritu no será perdonada a los hombres."
+        "Por tanto os digo: Todo pecado y ",
+        {
+          "entryId": "glosario_blasfemia",
+          "form": "blasfemia"
+        },
+        " será perdonado a los hombres: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " la ",
+        {
+          "entryId": "glosario_blasfemia",
+          "form": "blasfemia"
+        },
+        " contra el Espíritu no será perdonada a los hombres."
       ]
     },
     {
       "verse": 32,
       "segments": [
-        "Y cualquiera que hablare contra el Hijo del hombre, le será perdonado: mas cualquiera que hablare contra el ",
+        "Y cualquiera que hablare contra el Hijo del hombre, le será perdonado: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " cualquiera que hablare contra el ",
         {
           "entryId": "ruaj_haqodesh",
           "form": "Ruaj HaQodesh"
@@ -332,7 +388,11 @@
     {
       "verse": 36,
       "segments": [
-        "Mas yo os digo, que toda palabra ociosa que hablaren los hombres, de ella darán cuenta en el día del juicio."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " yo os digo, que toda palabra ociosa que hablaren los hombres, de ella darán cuenta en el día del juicio."
       ]
     },
     {
@@ -355,7 +415,12 @@
     {
       "verse": 39,
       "segments": [
-        "Y él respondió, y les dijo: La generación mala y adulterina demanda señal; mas señal no le será dada, sino la señal de ",
+        "Y él respondió, y les dijo: La generación mala y adulterina demanda señal; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " señal no le será dada, sino la señal de ",
         {
           "entryId": "yonah",
           "form": "Yonah"
@@ -382,7 +447,12 @@
           "entryId": "yonah",
           "form": "Yonah"
         },
-        "; y he aquí más que ",
+        "; y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " más que ",
         {
           "entryId": "yonah",
           "form": "Yonah"
@@ -393,7 +463,12 @@
     {
       "verse": 42,
       "segments": [
-        "La reina del Austro se levantará en el juicio con esta generación, y la condenará; porque vino de los fines de la tierra para oir la sabiduría de Salomón: y he aquí más que Salomón en este lugar."
+        "La reina del Austro se levantará en el juicio con esta generación, y la condenará; porque vino de los fines de la tierra para oir la sabiduría de Salomón: y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " más que Salomón en este lugar."
       ]
     },
     {
@@ -417,13 +492,23 @@
     {
       "verse": 46,
       "segments": [
-        "Y estando él aún hablando a las gentes, he aquí su madre y sus hermanos estaban fuera, que le querían hablar."
+        "Y estando él aún hablando a las gentes, ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " su madre y sus hermanos estaban fuera, que le querían hablar."
       ]
     },
     {
       "verse": 47,
       "segments": [
-        "Y le dijo uno: He aquí tu madre y tus hermanos están fuera, que te quieren hablar."
+        "Y le dijo uno: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        " tu madre y tus hermanos están fuera, que te quieren hablar."
       ]
     },
     {
@@ -435,7 +520,12 @@
     {
       "verse": 49,
       "segments": [
-        "Y extendiendo su mano hacia sus discípulos, dijo: He aquí mi madre y mis hermanos."
+        "Y extendiendo su mano hacia sus discípulos, dijo: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        " mi madre y mis hermanos."
       ]
     },
     {

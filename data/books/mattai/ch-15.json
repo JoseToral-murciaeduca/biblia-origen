@@ -56,7 +56,11 @@
     {
       "verse": 5,
       "segments": [
-        "Mas vosotros decís: Cualquiera que dijere al padre o a la madre: Es ya ofrenda mía a ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " vosotros decís: Cualquiera que dijere al padre o a la madre: Es ya ofrenda mía a ",
         {
           "entryId": "elohim",
           "form": "Elohim"
@@ -78,7 +82,11 @@
     {
       "verse": 7,
       "segments": [
-        "Hipócritas, bien profetizó de vosotros ",
+        {
+          "entryId": "glosario_hipócrita",
+          "form": "Hipócritas"
+        },
+        ", bien profetizó de vosotros ",
         {
           "entryId": "yeshayahu",
           "form": "Yeshayahu"
@@ -89,13 +97,22 @@
     {
       "verse": 8,
       "segments": [
-        "Este pueblo de labios me honra; mas su corazón lejos está de mí."
+        "Este pueblo de labios me honra; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " su corazón lejos está de mí."
       ]
     },
     {
       "verse": 9,
       "segments": [
-        "Mas en vano me honran, enseñando doctrinas y mandamientos de hombres."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " en vano me honran, enseñando doctrinas y mandamientos de hombres."
       ]
     },
     {
@@ -107,7 +124,12 @@
     {
       "verse": 11,
       "segments": [
-        "No lo que entra en la boca contamina al hombre; mas lo que sale de la boca, esto contamina al hombre."
+        "No lo que entra en la boca contamina al hombre; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " lo que sale de la boca, esto contamina al hombre."
       ]
     },
     {
@@ -124,7 +146,11 @@
     {
       "verse": 13,
       "segments": [
-        "Mas respondiendo él, dijo: Toda planta que no plantó mi Padre celestial, será desarraigada."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " respondiendo él, dijo: Toda planta que no plantó mi Padre celestial, será desarraigada."
       ]
     },
     {
@@ -141,7 +167,12 @@
           "entryId": "simon_kefa",
           "form": "Kefa"
         },
-        ", le dijo: Decláranos esta parábola."
+        ", le dijo: Decláranos esta ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábola"
+        },
+        "."
       ]
     },
     {
@@ -164,13 +195,32 @@
     {
       "verse": 18,
       "segments": [
-        "Mas lo que sale de la boca, del corazón sale; y esto contamina al hombre."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " lo que sale de la boca, del corazón sale; y esto contamina al hombre."
       ]
     },
     {
       "verse": 19,
       "segments": [
-        "Porque del corazón salen los malos pensamientos, muertes, adulterios, fornicaciones, hurtos, falsos testimonios, blasfemias."
+        "Porque del corazón salen los malos pensamientos, muertes, ",
+        {
+          "entryId": "glosario_adulterio",
+          "form": "adulterios"
+        },
+        ", ",
+        {
+          "entryId": "glosario_fornicación",
+          "form": "fornicaciones"
+        },
+        ", hurtos, falsos testimonios, ",
+        {
+          "entryId": "glosario_blasfemia",
+          "form": "blasfemias"
+        },
+        "."
       ]
     },
     {
@@ -193,7 +243,12 @@
     {
       "verse": 22,
       "segments": [
-        "Y he aquí una mujer Cananea, que había salido de aquellos términos, clamaba, diciéndole: Señor, Hijo de ",
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " una mujer Cananea, que había salido de aquellos términos, clamaba, diciéndole: Señor, Hijo de ",
         {
           "entryId": "david",
           "form": "David"
@@ -204,7 +259,11 @@
     {
       "verse": 23,
       "segments": [
-        "Mas él no le respondió palabra. Entonces llegándose sus discípulos, le rogaron, diciendo: Despáchala, pues da voces tras nosotros."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " él no le respondió palabra. Entonces llegándose sus discípulos, le rogaron, diciendo: Despáchala, pues da voces tras nosotros."
       ]
     },
     {
@@ -228,7 +287,12 @@
     {
       "verse": 27,
       "segments": [
-        "Y ella dijo: Sí, Señor; mas los perrillos comen de las migajas que caen de la mesa de sus señores."
+        "Y ella dijo: Sí, Señor; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " los perrillos comen de las migajas que caen de la mesa de sus señores."
       ]
     },
     {

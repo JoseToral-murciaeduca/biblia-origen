@@ -7,7 +7,12 @@
     {
       "verse": 1,
       "segments": [
-        "Y PROPÚSOLES también una parábola sobre que es necesario orar siempre, y no desmayar,"
+        "Y PROPÚSOLES también una ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábola"
+        },
+        " sobre que es necesario orar siempre, y no desmayar,"
       ]
     },
     {
@@ -25,7 +30,12 @@
     {
       "verse": 4,
       "segments": [
-        "Pero él no quiso por algún tiempo; mas después de esto dijo dentro de sí: Aunque ni temo a Dios, ni tengo respeto a hombre,"
+        "Pero él no quiso por algún tiempo; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " después de esto dijo dentro de sí: Aunque ni temo a Dios, ni tengo respeto a hombre,"
       ]
     },
     {
@@ -49,25 +59,45 @@
     {
       "verse": 8,
       "segments": [
-        "Os digo que los defenderá presto. Empero cuando el Hijo del hombre viniere, ¿hallará fe en la tierra?"
+        "Os digo que los defenderá presto. ",
+        {
+          "entryId": "glosario_empero",
+          "form": "Empero"
+        },
+        " cuando el Hijo del hombre viniere, ¿hallará fe en la tierra?"
       ]
     },
     {
       "verse": 9,
       "segments": [
-        "Y dijo también a unos que confiaban de sí como justos, y menospreciaban a los otros, esta parábola:"
+        "Y dijo también a unos que confiaban de sí como justos, y menospreciaban a los otros, esta ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábola"
+        },
+        ":"
       ]
     },
     {
       "verse": 10,
       "segments": [
-        "Dos hombres subieron al templo a orar: el uno Fariseo, el otro publicano."
+        "Dos hombres subieron al templo a orar: el uno Fariseo, el otro ",
+        {
+          "entryId": "glosario_publicano",
+          "form": "publicano"
+        },
+        "."
       ]
     },
     {
       "verse": 11,
       "segments": [
-        "El Fariseo, en pie, oraba consigo de esta manera: Dios, te doy gracias, que no soy como los otros hombres, ladrones, injustos, adúlteros, ni aun como este publicano;"
+        "El Fariseo, en pie, oraba consigo de esta manera: Dios, te doy gracias, que no soy como los otros hombres, ladrones, injustos, adúlteros, ni aun como este ",
+        {
+          "entryId": "glosario_publicano",
+          "form": "publicano"
+        },
+        ";"
       ]
     },
     {
@@ -79,7 +109,16 @@
     {
       "verse": 13,
       "segments": [
-        "Mas el publicano estando lejos no quería ni aun alzar los ojos al cielo, sino que hería su pecho, diciendo: Dios, sé propicio a mí pecador."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " el ",
+        {
+          "entryId": "glosario_publicano",
+          "form": "publicano"
+        },
+        " estando lejos no quería ni aun alzar los ojos al cielo, sino que hería su pecho, diciendo: Dios, sé propicio a mí pecador."
       ]
     },
     {
@@ -97,7 +136,11 @@
     {
       "verse": 16,
       "segments": [
-        "Mas ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -194,7 +237,12 @@
           "entryId": "simon_kefa",
           "form": "Kefa"
         },
-        " dijo: He aquí, nosotros hemos dejado las posesiones nuestras, y te hemos seguido."
+        " dijo: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        ", nosotros hemos dejado las posesiones nuestras, y te hemos seguido."
       ]
     },
     {
@@ -217,7 +265,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        ", tomando a los doce, les dijo: He aquí subimos a ",
+        ", tomando a los doce, les dijo: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        " subimos a ",
         {
           "entryId": "yerushalayim",
           "form": "Yerushalayim"
@@ -228,13 +281,23 @@
     {
       "verse": 32,
       "segments": [
-        "Porque será entregado a las gentes, y será escarnecido, e injuriado, y escupido."
+        "Porque será entregado a las gentes, y será ",
+        {
+          "entryId": "glosario_escarnecer",
+          "form": "escarnecido"
+        },
+        ", e injuriado, y escupido."
       ]
     },
     {
       "verse": 33,
       "segments": [
-        "Y después que le hubieren azotado, le matarán: mas al tercer día resucitará."
+        "Y después que le hubieren azotado, le matarán: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " al tercer día resucitará."
       ]
     },
     {
@@ -290,7 +353,12 @@
     {
       "verse": 39,
       "segments": [
-        "Y los que iban delante, le reñían que callase; mas él clamaba mucho más: Hijo de ",
+        "Y los que iban delante, le reñían que callase; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " él clamaba mucho más: Hijo de ",
         {
           "entryId": "david",
           "form": "David"

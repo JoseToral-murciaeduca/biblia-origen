@@ -53,7 +53,12 @@
           "entryId": "herodes",
           "form": "Herodes"
         },
-        " el tetrarca todas las cosas que hacía; y estaba en duda, porque decían algunos: ",
+        " el ",
+        {
+          "entryId": "glosario_tetrarca",
+          "form": "tetrarca"
+        },
+        " todas las cosas que hacía; y estaba en duda, porque decían algunos: ",
         {
           "entryId": "yojanan_bautista",
           "form": "Yojanan"
@@ -177,7 +182,11 @@
     {
       "verse": 21,
       "segments": [
-        "Mas él, conminándolos, mandó que a nadie dijesen esto;"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " él, conminándolos, mandó que a nadie dijesen esto;"
       ]
     },
     {
@@ -246,7 +255,12 @@
     {
       "verse": 30,
       "segments": [
-        "Y he aquí dos varones que hablaban con él, los cuales eran ",
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " dos varones que hablaban con él, los cuales eran ",
         {
           "entryId": "moshe",
           "form": "Moshe"
@@ -344,13 +358,23 @@
     {
       "verse": 38,
       "segments": [
-        "Y he aquí, un hombre de la compañía clamó, diciendo: Maestro, ruégote que veas a mi hijo; que es el único que tengo:"
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        ", un hombre de la compañía clamó, diciendo: Maestro, ruégote que veas a mi hijo; que es el único que tengo:"
       ]
     },
     {
       "verse": 39,
       "segments": [
-        "Y he aquí un espíritu le toma, y de repente da voces; y le despedaza y hace echar espuma, y apenas se aparta de él quebrantándole."
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " un espíritu le toma, y de repente da voces; y le despedaza y hace echar espuma, y apenas se aparta de él quebrantándole."
       ]
     },
     {
@@ -373,7 +397,12 @@
     {
       "verse": 42,
       "segments": [
-        "Y como aun se acercaba, el demonio le derribó y despedazó: mas ",
+        "Y como aun se acercaba, el demonio le derribó y despedazó: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -396,7 +425,11 @@
     {
       "verse": 45,
       "segments": [
-        "Mas ellos no entendían esta palabra, y les era encubierta para que no la entendiesen; y temían preguntarle de esta palabra."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ellos no entendían esta palabra, y les era encubierta para que no la entendiesen; y temían preguntarle de esta palabra."
       ]
     },
     {
@@ -408,7 +441,11 @@
     {
       "verse": 47,
       "segments": [
-        "Mas ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -462,13 +499,22 @@
     {
       "verse": 52,
       "segments": [
-        "Y envió mensajeros delante de sí, los cuales fueron y entraron en una ciudad de los Samaritanos, para prevenirle."
+        "Y envió mensajeros delante de sí, los cuales fueron y entraron en una ciudad de los ",
+        {
+          "entryId": "glosario_samaritano",
+          "form": "Samaritanos"
+        },
+        ", para prevenirle."
       ]
     },
     {
       "verse": 53,
       "segments": [
-        "Mas no le recibieron, porque era su traza de ir a ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " no le recibieron, porque era su traza de ir a ",
         {
           "entryId": "yerushalayim",
           "form": "Yerushalayim"
@@ -523,7 +569,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        ": Las zorras tienen cuevas, y las aves de los cielos nidos; mas el Hijo del hombre no tiene donde recline la cabeza."
+        ": Las zorras tienen cuevas, y las aves de los cielos nidos; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " el Hijo del hombre no tiene donde recline la cabeza."
       ]
     },
     {
@@ -546,7 +597,12 @@
     {
       "verse": 61,
       "segments": [
-        "Entonces también dijo otro: Te seguiré, Señor; mas déjame que me despida primero de los que están en mi casa."
+        "Entonces también dijo otro: Te seguiré, Señor; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " déjame que me despida primero de los que están en mi casa."
       ]
     },
     {

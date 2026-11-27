@@ -35,7 +35,16 @@
     {
       "verse": 4,
       "segments": [
-        "Mas él respondiendo, dijo: Escrito está: No con solo el pan vivirá el hombre, mas con toda palabra que sale de la boca de ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " él respondiendo, dijo: Escrito está: No con solo el pan vivirá el hombre, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " con toda palabra que sale de la boca de ",
         {
           "entryId": "elohim",
           "form": "Elohim"
@@ -121,13 +130,22 @@
     {
       "verse": 11,
       "segments": [
-        "El diablo entonces le dejó: y he aquí los ángeles llegaron y le servían."
+        "El diablo entonces le dejó: y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " los ángeles llegaron y le servían."
       ]
     },
     {
       "verse": 12,
       "segments": [
-        "Mas oyendo ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " oyendo ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -185,7 +203,12 @@
           "entryId": "galil",
           "form": "Galil"
         },
-        " de los Gentiles;"
+        " de los ",
+        {
+          "entryId": "glosario_gentil",
+          "form": "Gentiles"
+        },
+        ";"
       ]
     },
     {

@@ -1,0 +1,253 @@
+{
+  "bookId": "yojanan",
+  "titleEntryId": "book_yojanan",
+  "bookTitle": "Yojanan",
+  "chapter": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "Y AL tercer día hiciéronse unas bodas en ",
+        {
+          "entryId": "qana",
+          "form": "Qana"
+        },
+        " de ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        "; y estaba allí la madre de ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Y fue también llamado ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " y sus discípulos a las bodas."
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Y faltando el vino, la madre de ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " le dijo: Vino no tienen."
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Y dícele ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": ¿Qué tengo yo contigo, mujer? aun no ha venido mi hora."
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Su madre dice a los que servían: Haced todo lo que os dijere."
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Y estaban allí seis tinajuelas de piedra para agua, conforme a la purificación de los Judíos, que cabían en cada una dos o tres cántaros."
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "Díceles ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": Henchid estas tinajuelas de agua. E hinchiéronlas hasta arriba."
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Y díceles: Sacad ahora, y presentad al maestresala. Y presentáronle."
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Y como el maestresala gustó el agua hecha vino, que no sabía de dónde era (mas lo sabían los sirvientes que habían sacado el agua), el maestresala llama al esposo,"
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Y dícele: Todo hombre pone primero el buen vino, y cuando están satisfechos, entonces lo que es peor; mas tú has guardado el buen vino hasta ahora."
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "Este principio de señales hizo ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " en ",
+        {
+          "entryId": "qana",
+          "form": "Qana"
+        },
+        " de ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        ", y manifestó su gloria; y sus discípulos creyeron en él."
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Después de esto descendió a ",
+        {
+          "entryId": "kefar_najum",
+          "form": "Kefar Najum"
+        },
+        ", él, y su madre, y hermanos, y discípulos; y estuvieron allí no muchos días."
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Y estaba cerca la ",
+        {
+          "entryId": "pesaj",
+          "form": "Pesaj"
+        },
+        " de los Judíos; y subió ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " a ",
+        {
+          "entryId": "yerushalayim",
+          "form": "Yerushalayim"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Y halló en el templo a los que vendían bueyes, y ovejas, y palomas, y a los cambiadores sentados."
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Y hecho un azote de cuerdas, echólos a todos del templo, y las ovejas, y los bueyes; y derramó los dineros de los cambiadores, y trastornó las mesas;"
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "Y a los que vendían las palomas, dijo: Quitad de aquí esto, y no hagáis la casa de mi Padre casa de mercado."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Entonces se acordaron sus discípulos que está escrito: El celo de tu casa me comió."
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Y los Judíos respondieron, y dijéronle: ¿Qué señal nos muestras de que haces esto?"
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Respondió ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", y díjoles: Destruid este templo, y en tres días lo levantaré."
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Dijeron luego los Judíos: En cuarenta y seis años fue este templo edificado, ¿y tú en tres días lo levantarás?"
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "Mas él hablaba del templo de su cuerpo."
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "Por tanto, cuando resucitó de los muertos, sus discípulos se acordaron que había dicho esto; y creyeron a la Escritura, y a la palabra que ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " había dicho."
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "Y estando en ",
+        {
+          "entryId": "yerushalayim",
+          "form": "Yerushalayim"
+        },
+        " en la ",
+        {
+          "entryId": "pesaj",
+          "form": "Pesaj"
+        },
+        ", en el día de la fiesta, muchos creyeron en su nombre, viendo las señales que hacía."
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "Mas el mismo ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " no se confiaba a sí mismo de ellos, porque él conocía a todos,"
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "Y no tenía necesidad que alguien le diese testimonio del hombre; porque él sabía lo que había en el hombre."
+      ]
+    }
+  ]
+}

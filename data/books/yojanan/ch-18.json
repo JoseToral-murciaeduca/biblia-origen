@@ -54,7 +54,11 @@
     {
       "verse": 4,
       "segments": [
-        "Empero ",
+        {
+          "entryId": "glosario_empero",
+          "form": "Empero"
+        },
+        " ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -166,7 +170,12 @@
     {
       "verse": 12,
       "segments": [
-        "Entonces la compañía y el tribuno, y los ministros de los Judíos, prendieron a ",
+        "Entonces la compañía y el ",
+        {
+          "entryId": "glosario_tribuno",
+          "form": "tribuno"
+        },
+        ", y los ministros de los Judíos, prendieron a ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -225,7 +234,11 @@
     {
       "verse": 16,
       "segments": [
-        "Mas ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ",
         {
           "entryId": "simon_kefa",
           "form": "Kefa"
@@ -284,7 +297,12 @@
     {
       "verse": 21,
       "segments": [
-        "¿Qué me preguntas a mí? Pregunta a los que han oído, qué les haya yo hablado: he aquí, ésos saben lo que yo he dicho."
+        "¿Qué me preguntas a mí? Pregunta a los que han oído, qué les haya yo hablado: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        ", ésos saben lo que yo he dicho."
       ]
     },
     {
@@ -371,7 +389,17 @@
           "entryId": "qayafa",
           "form": "Qayafa"
         },
-        " al pretorio: y era por la mañana: y ellos no entraron en el pretorio por no ser contaminados, sino que comiesen la ",
+        " al ",
+        {
+          "entryId": "glosario_pretorio",
+          "form": "pretorio"
+        },
+        ": y era por la mañana: y ellos no entraron en el ",
+        {
+          "entryId": "glosario_pretorio",
+          "form": "pretorio"
+        },
+        " por no ser contaminados, sino que comiesen la ",
         {
           "entryId": "pesaj",
           "form": "Pesaj"
@@ -426,7 +454,12 @@
           "entryId": "pilatus",
           "form": "Pilatus"
         },
-        " volvió a entrar en el pretorio, y llamó a ",
+        " volvió a entrar en el ",
+        {
+          "entryId": "glosario_pretorio",
+          "form": "pretorio"
+        },
+        ", y llamó a ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -496,7 +529,11 @@
     {
       "verse": 39,
       "segments": [
-        "Empero vosotros tenéis costumbre, que os suelte uno en la ",
+        {
+          "entryId": "glosario_empero",
+          "form": "Empero"
+        },
+        " vosotros tenéis costumbre, que os suelte uno en la ",
         {
           "entryId": "pesaj",
           "form": "Pesaj"

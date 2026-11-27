@@ -7,7 +7,12 @@
     {
       "verse": 1,
       "segments": [
-        "Y A SUS discípulos dice: Imposible es que no vengan escándalos; mas ¡ay de aquél por quien vienen!"
+        "Y A SUS discípulos dice: Imposible es que no vengan escándalos; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " ¡ay de aquél por quien vienen!"
       ]
     },
     {
@@ -122,7 +127,12 @@
     {
       "verse": 16,
       "segments": [
-        "Y derribóse sobre el rostro a sus pies, dándole gracias: y éste era Samaritano."
+        "Y derribóse sobre el rostro a sus pies, dándole gracias: y éste era ",
+        {
+          "entryId": "glosario_samaritano",
+          "form": "Samaritano"
+        },
+        "."
       ]
     },
     {
@@ -162,7 +172,12 @@
     {
       "verse": 21,
       "segments": [
-        "Ni dirán: Helo aquí, o helo allí: porque he aquí el reino de Dios entre vosotros está."
+        "Ni dirán: Helo aquí, o helo allí: porque ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " el reino de Dios entre vosotros está."
       ]
     },
     {
@@ -186,7 +201,11 @@
     {
       "verse": 25,
       "segments": [
-        "Mas primero es necesario que padezca mucho, y sea reprobado de esta generación."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " primero es necesario que padezca mucho, y sea reprobado de esta generación."
       ]
     },
     {
@@ -210,7 +229,11 @@
     {
       "verse": 29,
       "segments": [
-        "Mas el día que Lot salió de Sodoma, llovió del cielo fuego y azufre, y destruyó a todos:"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " el día que Lot salió de Sodoma, llovió del cielo fuego y azufre, y destruyó a todos:"
       ]
     },
     {

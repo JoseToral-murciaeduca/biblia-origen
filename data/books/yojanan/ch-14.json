@@ -84,7 +84,12 @@
     {
       "verse": 10,
       "segments": [
-        "¿No crees que yo soy en el Padre, y el Padre en mí? Las palabras que yo os hablo, no las hablo de mí mismo: mas el Padre que está en mí, él hace las obras."
+        "¿No crees que yo soy en el Padre, y el Padre en mí? Las palabras que yo os hablo, no las hablo de mí mismo: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " el Padre que está en mí, él hace las obras."
       ]
     },
     {
@@ -131,7 +136,12 @@
     {
       "verse": 17,
       "segments": [
-        "Al Espíritu de verdad, al cual el mundo no puede recibir, porque no le ve, ni le conoce: mas vosotros le conocéis; porque está con vosotros, y será en vosotros."
+        "Al Espíritu de verdad, al cual el mundo no puede recibir, porque no le ve, ni le conoce: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " vosotros le conocéis; porque está con vosotros, y será en vosotros."
       ]
     },
     {
@@ -143,7 +153,12 @@
     {
       "verse": 19,
       "segments": [
-        "Aun un poquito, y el mundo no me verá más; empero vosotros me veréis; porque yo vivo, y vosotros también viviréis."
+        "Aun un poquito, y el mundo no me verá más; ",
+        {
+          "entryId": "glosario_empero",
+          "form": "empero"
+        },
+        " vosotros me veréis; porque yo vivo, y vosotros también viviréis."
       ]
     },
     {
@@ -190,7 +205,11 @@
     {
       "verse": 26,
       "segments": [
-        "Mas el ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " el ",
         {
           "entryId": "parakletos",
           "form": "Parákletos"
@@ -224,13 +243,22 @@
     {
       "verse": 30,
       "segments": [
-        "Ya no hablaré mucho con vosotros: porque viene el príncipe de este mundo; mas no tiene nada en mí."
+        "Ya no hablaré mucho con vosotros: porque viene el príncipe de este mundo; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " no tiene nada en mí."
       ]
     },
     {
       "verse": 31,
       "segments": [
-        "Empero para que conozca el mundo que amo al Padre, y como el Padre me dio el mandamiento, así hago. Levantaos, vamos de aquí."
+        {
+          "entryId": "glosario_empero",
+          "form": "Empero"
+        },
+        " para que conozca el mundo que amo al Padre, y como el Padre me dio el mandamiento, así hago. Levantaos, vamos de aquí."
       ]
     }
   ]

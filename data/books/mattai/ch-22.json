@@ -12,7 +12,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        ", les volvió a hablar en parábolas, diciendo:"
+        ", les volvió a hablar en ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábolas"
+        },
+        ", diciendo:"
       ]
     },
     {
@@ -24,19 +29,33 @@
     {
       "verse": 3,
       "segments": [
-        "Y envió sus siervos para que llamasen los llamados a las bodas; mas no quisieron venir."
+        "Y envió sus siervos para que llamasen los llamados a las bodas; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " no quisieron venir."
       ]
     },
     {
       "verse": 4,
       "segments": [
-        "Volvió a enviar otros siervos, diciendo: Decid a los llamados: He aquí, mi comida he aparejado; mis toros y animales engordados son muertos, y todo está prevenido: venid a las bodas."
+        "Volvió a enviar otros siervos, diciendo: Decid a los llamados: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        ", mi comida he aparejado; mis toros y animales engordados son muertos, y todo está prevenido: venid a las bodas."
       ]
     },
     {
       "verse": 5,
       "segments": [
-        "Mas ellos no se cuidaron, y se fueron, uno a su labranza, y otro a sus negocios;"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ellos no se cuidaron, y se fueron, uno a su labranza, y otro a sus negocios;"
       ]
     },
     {
@@ -54,7 +73,12 @@
     {
       "verse": 8,
       "segments": [
-        "Entonces dice a sus siervos: Las bodas a la verdad están aparejadas; mas los que eran llamados no eran dignos."
+        "Entonces dice a sus siervos: Las bodas a la verdad están aparejadas; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " los que eran llamados no eran dignos."
       ]
     },
     {
@@ -66,19 +90,34 @@
     {
       "verse": 10,
       "segments": [
-        "Y saliendo los siervos por los caminos, juntaron a todos los que hallaron, juntamente malos y buenos: y las bodas fueron llenas de convidados."
+        "Y saliendo los siervos por los caminos, juntaron a todos los que hallaron, juntamente malos y buenos: y las bodas fueron llenas de ",
+        {
+          "entryId": "glosario_convidar",
+          "form": "convidados"
+        },
+        "."
       ]
     },
     {
       "verse": 11,
       "segments": [
-        "Y entró el rey para ver los convidados, y vio allí un hombre no vestido de boda."
+        "Y entró el rey para ver los ",
+        {
+          "entryId": "glosario_convidar",
+          "form": "convidados"
+        },
+        ", y vio allí un hombre no vestido de boda."
       ]
     },
     {
       "verse": 12,
       "segments": [
-        "Y le dijo: Amigo, ¿cómo entraste aquí no teniendo vestido de boda? Mas él cerró la boca."
+        "Y le dijo: Amigo, ¿cómo entraste aquí no teniendo vestido de boda? ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " él cerró la boca."
       ]
     },
     {
@@ -124,18 +163,32 @@
     {
       "verse": 18,
       "segments": [
-        "Mas ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        ", entendida la malicia de ellos, les dice: ¿Por qué me tentáis, hipócritas?"
+        ", entendida la malicia de ellos, les dice: ¿Por qué me tentáis, ",
+        {
+          "entryId": "glosario_hipócrita",
+          "form": "hipócritas"
+        },
+        "?"
       ]
     },
     {
       "verse": 19,
       "segments": [
-        "Mostradme la moneda del tributo. Y ellos le presentaron un denario."
+        "Mostradme la moneda del tributo. Y ellos le presentaron un ",
+        {
+          "entryId": "glosario_denario",
+          "form": "denario"
+        },
+        "."
       ]
     },
     {
@@ -231,7 +284,12 @@
     {
       "verse": 30,
       "segments": [
-        "Porque en la resurrección, ni los hombres tomarán mujeres, ni las mujeres maridos; mas son como los ángeles de ",
+        "Porque en la resurrección, ni los hombres tomarán mujeres, ni las mujeres maridos; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " son como los ángeles de ",
         {
           "entryId": "elohim",
           "form": "Elohim"

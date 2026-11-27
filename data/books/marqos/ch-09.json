@@ -164,7 +164,11 @@
     {
       "verse": 13,
       "segments": [
-        "Empero os digo que ",
+        {
+          "entryId": "glosario_empero",
+          "form": "Empero"
+        },
+        " os digo que ",
         {
           "entryId": "eliyahu",
           "form": "Eliyahu"
@@ -228,7 +232,12 @@
     {
       "verse": 22,
       "segments": [
-        "Y muchas veces le echa en el fuego y en aguas, para matarle; mas, si puedes algo, ayúdanos, teniendo misericordia de nosotros."
+        "Y muchas veces le echa en el fuego y en aguas, para matarle; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        ", si puedes algo, ayúdanos, teniendo misericordia de nosotros."
       ]
     },
     {
@@ -268,7 +277,11 @@
     {
       "verse": 27,
       "segments": [
-        "Mas ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -302,7 +315,12 @@
     {
       "verse": 31,
       "segments": [
-        "Porque enseñaba a sus discípulos, y les decía: El Hijo del hombre será entregado en manos de hombres, y le matarán; mas muerto él, resucitará al tercer día."
+        "Porque enseñaba a sus discípulos, y les decía: El Hijo del hombre será entregado en manos de hombres, y le matarán; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " muerto él, resucitará al tercer día."
       ]
     },
     {
@@ -325,13 +343,22 @@
     {
       "verse": 34,
       "segments": [
-        "Mas ellos callaron; porque los unos con los otros habían disputado en el camino quién había de ser el mayor."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ellos callaron; porque los unos con los otros habían disputado en el camino quién había de ser el mayor."
       ]
     },
     {
       "verse": 35,
       "segments": [
-        "Entonces sentándose, llamó a los doce, y les dice: Si alguno quiere ser el primero, será el postrero de todos, y el servidor de todos."
+        "Entonces sentándose, llamó a los doce, y les dice: Si alguno quiere ser el primero, será el ",
+        {
+          "entryId": "glosario_postrero",
+          "form": "postrero"
+        },
+        " de todos, y el servidor de todos."
       ]
     },
     {
@@ -343,7 +370,12 @@
     {
       "verse": 37,
       "segments": [
-        "El que recibiere en mi nombre uno de los tales niños, a mí recibe; y el que a mí recibe, no recibe a mí, mas al que me envió."
+        "El que recibiere en mi nombre uno de los tales niños, a mí recibe; y el que a mí recibe, no recibe a mí, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " al que me envió."
       ]
     },
     {
@@ -441,7 +473,12 @@
     {
       "verse": 50,
       "segments": [
-        "Buena es la sal; mas si la sal fuere desabrida, ¿con qué la adobaréis? Tened en vosotros mismos sal; y tened paz los unos con los otros."
+        "Buena es la sal; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " si la sal fuere desabrida, ¿con qué la adobaréis? Tened en vosotros mismos sal; y tened paz los unos con los otros."
       ]
     }
   ]

@@ -18,7 +18,12 @@
     {
       "verse": 2,
       "segments": [
-        "Y el siervo de un centurión, al cual tenía él en estima, estaba enfermo y a punto de morir."
+        "Y el siervo de un ",
+        {
+          "entryId": "glosario_centurión",
+          "form": "centurión"
+        },
+        ", al cual tenía él en estima, estaba enfermo y a punto de morir."
       ]
     },
     {
@@ -57,13 +62,28 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        " fue con ellos. Mas como ya no estuviesen lejos de su casa, envió el centurión amigos a él, diciéndole: Señor, no te incomodes, que no soy digno que entres debajo de mi tejado;"
+        " fue con ellos. ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " como ya no estuviesen lejos de su casa, envió el ",
+        {
+          "entryId": "glosario_centurión",
+          "form": "centurión"
+        },
+        " amigos a él, diciéndole: Señor, no te incomodes, que no soy digno que entres debajo de mi tejado;"
       ]
     },
     {
       "verse": 7,
       "segments": [
-        "Por lo cual ni aun me tuve por digno de venir a ti; mas di la palabra, y mi siervo será sano."
+        "Por lo cual ni aun me tuve por digno de venir a ti; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " di la palabra, y mi siervo será sano."
       ]
     },
     {
@@ -103,7 +123,17 @@
     {
       "verse": 12,
       "segments": [
-        "Y como llegó cerca de la puerta de la ciudad, he aquí que sacaban fuera a un difunto, unigénito de su madre, la cual también era viuda: y había con ella grande compañía de la ciudad."
+        "Y como llegó cerca de la puerta de la ciudad, ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " que sacaban fuera a un difunto, ",
+        {
+          "entryId": "glosario_unigénito",
+          "form": "unigénito"
+        },
+        " de su madre, la cual también era viuda: y había con ella grande compañía de la ciudad."
       ]
     },
     {
@@ -231,19 +261,37 @@
     {
       "verse": 25,
       "segments": [
-        "Mas ¿qué salisteis a ver? ¿un hombre cubierto de vestidos delicados? He aquí, los que están en vestido precioso, y viven en delicias, en los palacios de los reyes están."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ¿qué salisteis a ver? ¿un hombre cubierto de vestidos delicados? ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        ", los que están en vestido precioso, y viven en delicias, en los palacios de los reyes están."
       ]
     },
     {
       "verse": 26,
       "segments": [
-        "Mas ¿qué salisteis a ver? ¿un profeta? También os digo, y aun más que profeta."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ¿qué salisteis a ver? ¿un profeta? También os digo, y aun más que profeta."
       ]
     },
     {
       "verse": 27,
       "segments": [
-        "Este es de quien está escrito: He aquí, envío mi mensajero delante de tu faz, el cual aparejará tu camino delante de ti."
+        "Este es de quien está escrito: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        ", envío mi mensajero delante de tu faz, el cual aparejará tu camino delante de ti."
       ]
     },
     {
@@ -254,13 +302,23 @@
           "entryId": "yojanan_bautista",
           "form": "Yojanan el Bautista"
         },
-        ": mas el más pequeño en el reino de los cielos es mayor que él."
+        ": ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " el más pequeño en el reino de los cielos es mayor que él."
       ]
     },
     {
       "verse": 29,
       "segments": [
-        "Y todo el pueblo oyéndole, y los publicanos, justificaron a Dios, bautizándose con el bautismo de ",
+        "Y todo el pueblo oyéndole, y los ",
+        {
+          "entryId": "glosario_publicano",
+          "form": "publicanos"
+        },
+        ", justificaron a Dios, bautizándose con el bautismo de ",
         {
           "entryId": "yojanan_bautista",
           "form": "Yojanan"
@@ -271,7 +329,11 @@
     {
       "verse": 30,
       "segments": [
-        "Mas los ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " los ",
         {
           "entryId": "perushim",
           "form": "Perushim"
@@ -305,13 +367,27 @@
     {
       "verse": 34,
       "segments": [
-        "Vino el Hijo del hombre, que come y bebe, y decís: He aquí un hombre comilón, y bebedor de vino, amigo de publicanos y de pecadores."
+        "Vino el Hijo del hombre, que come y bebe, y decís: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        " un hombre comilón, y bebedor de vino, amigo de ",
+        {
+          "entryId": "glosario_publicano",
+          "form": "publicanos"
+        },
+        " y de pecadores."
       ]
     },
     {
       "verse": 35,
       "segments": [
-        "Mas la sabiduría es justificada de todos sus hijos."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " la sabiduría es justificada de todos sus hijos."
       ]
     },
     {
@@ -328,7 +404,17 @@
     {
       "verse": 37,
       "segments": [
-        "Y he aquí una mujer que había sido pecadora en la ciudad, como entendió que estaba a la mesa en casa de aquel Fariseo, trajo un alabastro de ungüento,"
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " una mujer que había sido pecadora en la ciudad, como entendió que estaba a la mesa en casa de aquel Fariseo, trajo un ",
+        {
+          "entryId": "glosario_alabastro",
+          "form": "alabastro"
+        },
+        " de ungüento,"
       ]
     },
     {
@@ -340,7 +426,12 @@
     {
       "verse": 39,
       "segments": [
-        "Y como vio esto el Fariseo que le había convidado, habló entre sí, diciendo: Este, si fuera profeta, conocería quién y cuál es la mujer que le toca, que es pecadora."
+        "Y como vio esto el Fariseo que le había ",
+        {
+          "entryId": "glosario_convidar",
+          "form": "convidado"
+        },
+        ", habló entre sí, diciendo: Este, si fuera profeta, conocería quién y cuál es la mujer que le toca, que es pecadora."
       ]
     },
     {
@@ -357,7 +448,12 @@
     {
       "verse": 41,
       "segments": [
-        "Un acreedor tenía dos deudores: el uno le debía quinientos denarios, y el otro cincuenta;"
+        "Un acreedor tenía dos deudores: el uno le debía quinientos ",
+        {
+          "entryId": "glosario_denario",
+          "form": "denarios"
+        },
+        ", y el otro cincuenta;"
       ]
     },
     {
@@ -375,25 +471,50 @@
     {
       "verse": 44,
       "segments": [
-        "Y vuelto a la mujer, dijo a Simón: ¿Ves esta mujer? Entré en tu casa, no diste agua para mis pies; mas ésta ha regado mis pies con lágrimas, y los ha limpiado con los cabellos."
+        "Y vuelto a la mujer, dijo a Simón: ¿Ves esta mujer? Entré en tu casa, no diste agua para mis pies; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " ésta ha regado mis pies con lágrimas, y los ha limpiado con los cabellos."
       ]
     },
     {
       "verse": 45,
       "segments": [
-        "No me diste beso, mas ésta, desde que entré, no ha cesado de besar mis pies."
+        "No me diste beso, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " ésta, desde que entré, no ha cesado de besar mis pies."
       ]
     },
     {
       "verse": 46,
       "segments": [
-        "No ungiste mi cabeza con óleo; mas ésta ha ungido con ungüento mis pies."
+        "No ungiste mi cabeza con óleo; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " ésta ha ",
+        {
+          "entryId": "glosario_ungir",
+          "form": "ungido"
+        },
+        " con ungüento mis pies."
       ]
     },
     {
       "verse": 47,
       "segments": [
-        "Por lo cual te digo que sus muchos pecados son perdonados, porque amó mucho; mas al que se perdona poco, poco ama."
+        "Por lo cual te digo que sus muchos pecados son perdonados, porque amó mucho; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " al que se perdona poco, poco ama."
       ]
     },
     {

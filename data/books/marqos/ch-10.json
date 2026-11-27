@@ -34,7 +34,11 @@
     {
       "verse": 3,
       "segments": [
-        "Mas él respondiendo, les dijo: ¿Qué os mandó ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " él respondiendo, les dijo: ¿Qué os mandó ",
         {
           "entryId": "moshe",
           "form": "Moshe"
@@ -97,13 +101,23 @@
     {
       "verse": 11,
       "segments": [
-        "Y les dice: Cualquiera que repudiare a su mujer, y se casare con otra, comete adulterio contra ella:"
+        "Y les dice: Cualquiera que repudiare a su mujer, y se casare con otra, comete ",
+        {
+          "entryId": "glosario_adulterio",
+          "form": "adulterio"
+        },
+        " contra ella:"
       ]
     },
     {
       "verse": 12,
       "segments": [
-        "Y si la mujer repudiare a su marido y se casare con otro, comete adulterio."
+        "Y si la mujer repudiare a su marido y se casare con otro, comete ",
+        {
+          "entryId": "glosario_adulterio",
+          "form": "adulterio"
+        },
+        "."
       ]
     },
     {
@@ -192,7 +206,11 @@
     {
       "verse": 22,
       "segments": [
-        "Mas él, entristecido por esta palabra, se fue triste, porque tenía muchas posesiones."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " él, entristecido por esta palabra, se fue triste, porque tenía muchas posesiones."
       ]
     },
     {
@@ -214,7 +232,12 @@
     {
       "verse": 24,
       "segments": [
-        "Y los discípulos se espantaron de sus palabras; mas ",
+        "Y los discípulos se espantaron de sus palabras; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -252,7 +275,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        " mirándolos, dice: Para los hombres es imposible; mas para Dios, no; porque todas las cosas son posibles para Dios."
+        " mirándolos, dice: Para los hombres es imposible; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " para Dios, no; porque todas las cosas son posibles para Dios."
       ]
     },
     {
@@ -263,7 +291,12 @@
           "entryId": "simon_kefa",
           "form": "Kefa"
         },
-        " comenzó a decirle: He aquí, nosotros hemos dejado todas las cosas, y te hemos seguido."
+        " comenzó a decirle: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        ", nosotros hemos dejado todas las cosas, y te hemos seguido."
       ]
     },
     {
@@ -296,7 +329,21 @@
     {
       "verse": 31,
       "segments": [
-        "Empero muchos primeros serán postreros, y postreros primeros."
+        {
+          "entryId": "glosario_empero",
+          "form": "Empero"
+        },
+        " muchos primeros serán ",
+        {
+          "entryId": "glosario_postrero",
+          "form": "postreros"
+        },
+        ", y ",
+        {
+          "entryId": "glosario_postrero",
+          "form": "postreros"
+        },
+        " primeros."
       ]
     },
     {
@@ -318,18 +365,32 @@
     {
       "verse": 33,
       "segments": [
-        "He aquí subimos a ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        " subimos a ",
         {
           "entryId": "yerushalayim",
           "form": "Yerushalayim"
         },
-        ", y el Hijo del hombre será entregado a los príncipes de los sacerdotes, y a los escribas, y le condenarán a muerte, y le entregarán a los Gentiles:"
+        ", y el Hijo del hombre será entregado a los príncipes de los sacerdotes, y a los escribas, y le condenarán a muerte, y le entregarán a los ",
+        {
+          "entryId": "glosario_gentil",
+          "form": "Gentiles"
+        },
+        ":"
       ]
     },
     {
       "verse": 34,
       "segments": [
-        "Y le escarnecerán, y le azotarán, y escupirán en él, y le matarán; mas al tercer día resucitará."
+        "Y le escarnecerán, y le azotarán, y escupirán en él, y le matarán; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " al tercer día resucitará."
       ]
     },
     {
@@ -390,7 +451,11 @@
     {
       "verse": 40,
       "segments": [
-        "Mas que os sentéis a mi diestra y a mi siniestra, no es mío darlo, sino a quienes está aparejado."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " que os sentéis a mi diestra y a mi siniestra, no es mío darlo, sino a quienes está aparejado."
       ]
     },
     {
@@ -412,7 +477,11 @@
     {
       "verse": 42,
       "segments": [
-        "Mas ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -423,7 +492,11 @@
     {
       "verse": 43,
       "segments": [
-        "Mas no será así entre vosotros: antes cualquiera que quisiere hacerse grande entre vosotros, será vuestro servidor;"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " no será así entre vosotros: antes cualquiera que quisiere hacerse grande entre vosotros, será vuestro servidor;"
       ]
     },
     {
@@ -435,7 +508,12 @@
     {
       "verse": 45,
       "segments": [
-        "Porque el Hijo del hombre tampoco vino para ser servido, mas para servir, y dar su vida en rescate por muchos."
+        "Porque el Hijo del hombre tampoco vino para ser servido, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " para servir, y dar su vida en rescate por muchos."
       ]
     },
     {
@@ -483,7 +561,12 @@
     {
       "verse": 48,
       "segments": [
-        "Y muchos le reñían, que callase: mas él daba mayores voces: Hijo de ",
+        "Y muchos le reñían, que callase: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " él daba mayores voces: Hijo de ",
         {
           "entryId": "david",
           "form": "David"

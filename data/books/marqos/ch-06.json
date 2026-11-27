@@ -40,7 +40,11 @@
     {
       "verse": 4,
       "segments": [
-        "Mas ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -75,7 +79,11 @@
     {
       "verse": 9,
       "segments": [
-        "Mas que calzasen sandalias, y no vistiesen dos túnicas."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " que calzasen sandalias, y no vistiesen dos túnicas."
       ]
     },
     {
@@ -99,7 +107,12 @@
     {
       "verse": 13,
       "segments": [
-        "Y echaban fuera muchos demonios, y ungían con aceite a muchos enfermos, y sanaban."
+        "Y echaban fuera muchos demonios, y ",
+        {
+          "entryId": "glosario_ungir",
+          "form": "ungían"
+        },
+        " con aceite a muchos enfermos, y sanaban."
       ]
     },
     {
@@ -190,7 +203,11 @@
     {
       "verse": 19,
       "segments": [
-        "Mas ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ",
         {
           "entryId": "herodias",
           "form": "Herodias"
@@ -222,7 +239,12 @@
           "entryId": "herodes",
           "form": "Herodes"
         },
-        ", en la fiesta de su nacimiento, daba una cena a sus príncipes y tribunos, y a los principales de ",
+        ", en la fiesta de su nacimiento, daba una cena a sus príncipes y ",
+        {
+          "entryId": "glosario_tribuno",
+          "form": "tribunos"
+        },
+        ", y a los principales de ",
         {
           "entryId": "galil",
           "form": "Galil"
@@ -277,7 +299,12 @@
     {
       "verse": 26,
       "segments": [
-        "Y el rey se entristeció mucho; mas a causa del juramento, y de los que estaban con él a la mesa, no quiso desecharla."
+        "Y el rey se entristeció mucho; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " a causa del juramento, y de los que estaban con él a la mesa, no quiso desecharla."
       ]
     },
     {
@@ -295,7 +322,12 @@
     {
       "verse": 29,
       "segments": [
-        "Y oyéndolo sus discípulos, vinieron y tomaron su cuerpo, y le pusieron en un sepulcro."
+        "Y oyéndolo sus discípulos, vinieron y tomaron su cuerpo, y le pusieron en un ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        "."
       ]
     },
     {
@@ -353,7 +385,12 @@
     {
       "verse": 37,
       "segments": [
-        "Y respondiendo él, les dijo: Dadles de comer vosotros. Y le dijeron: ¿Que vayamos y compremos pan por doscientos denarios, y les demos de comer?"
+        "Y respondiendo él, les dijo: Dadles de comer vosotros. Y le dijeron: ¿Que vayamos y compremos pan por doscientos ",
+        {
+          "entryId": "glosario_denario",
+          "form": "denarios"
+        },
+        ", y les demos de comer?"
       ]
     },
     {
@@ -436,7 +473,12 @@
     {
       "verse": 50,
       "segments": [
-        "Porque todos le veían, y se turbaron. Mas luego habló con ellos, y les dijo: Alentaos; yo soy, no temáis."
+        "Porque todos le veían, y se turbaron. ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " luego habló con ellos, y les dijo: Alentaos; yo soy, no temáis."
       ]
     },
     {

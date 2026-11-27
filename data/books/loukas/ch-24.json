@@ -7,13 +7,23 @@
     {
       "verse": 1,
       "segments": [
-        "Y EL primer día de la semana, muy de mañana, vinieron al sepulcro, trayendo las drogas aromáticas que habían aparejado, y algunas otras mujeres con ellas."
+        "Y EL primer día de la semana, muy de mañana, vinieron al ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        ", trayendo las drogas aromáticas que habían aparejado, y algunas otras mujeres con ellas."
       ]
     },
     {
       "verse": 2,
       "segments": [
-        "Y hallaron la piedra revuelta del sepulcro."
+        "Y hallaron la piedra revuelta del ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        "."
       ]
     },
     {
@@ -30,7 +40,12 @@
     {
       "verse": 4,
       "segments": [
-        "Y aconteció, que estando ellas espantadas de esto, he aquí se pararon junto a ellas dos varones con vestiduras resplandecientes;"
+        "Y aconteció, que estando ellas espantadas de esto, ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " se pararon junto a ellas dos varones con vestiduras resplandecientes;"
       ]
     },
     {
@@ -42,7 +57,12 @@
     {
       "verse": 6,
       "segments": [
-        "No está aquí, mas ha resucitado: acordaos de lo que os habló, cuando aun estaba en ",
+        "No está aquí, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " ha resucitado: acordaos de lo que os habló, cuando aun estaba en ",
         {
           "entryId": "galil",
           "form": "Galil"
@@ -53,7 +73,12 @@
     {
       "verse": 7,
       "segments": [
-        "Diciendo: Es menester que el Hijo del hombre sea entregado en manos de hombres pecadores, y que sea crucificado, y resucite al tercer día."
+        "Diciendo: Es ",
+        {
+          "entryId": "glosario_menester",
+          "form": "menester"
+        },
+        " que el Hijo del hombre sea entregado en manos de hombres pecadores, y que sea crucificado, y resucite al tercer día."
       ]
     },
     {
@@ -65,7 +90,12 @@
     {
       "verse": 9,
       "segments": [
-        "Y volviendo del sepulcro, dieron nuevas de todas estas cosas a los once, y a todos los demás."
+        "Y volviendo del ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        ", dieron nuevas de todas estas cosas a los once, y a todos los demás."
       ]
     },
     {
@@ -92,7 +122,11 @@
     {
       "verse": 11,
       "segments": [
-        "Mas a ellos les parecían como locura las palabras de ellas, y no las creyeron."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " a ellos les parecían como locura las palabras de ellas, y no las creyeron."
       ]
     },
     {
@@ -103,18 +137,33 @@
           "entryId": "simon_kefa",
           "form": "Kefa"
         },
-        ", corrió al sepulcro: y como miró dentro, vio solos los lienzos echados; y se fue maravillándose de lo que había sucedido."
+        ", corrió al ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        ": y como miró dentro, vio solos los lienzos echados; y se fue maravillándose de lo que había sucedido."
       ]
     },
     {
       "verse": 13,
       "segments": [
-        "Y he aquí, dos de ellos iban el mismo día a una aldea que estaba de ",
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        ", dos de ellos iban el mismo día a una aldea que estaba de ",
         {
           "entryId": "yerushalayim",
           "form": "Yerushalayim"
         },
-        " sesenta estadios, llamada ",
+        " sesenta ",
+        {
+          "entryId": "glosario_estadio",
+          "form": "estadios"
+        },
+        ", llamada ",
         {
           "entryId": "emmaus",
           "form": "Emmaous"
@@ -142,7 +191,11 @@
     {
       "verse": 16,
       "segments": [
-        "Mas los ojos de ellos estaban embargados, para que no le conociesen."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " los ojos de ellos estaban embargados, para que no le conociesen."
       ]
     },
     {
@@ -187,13 +240,22 @@
     {
       "verse": 21,
       "segments": [
-        "Mas nosotros esperábamos que él era el que había de redimir a Israel: y ahora sobre todo esto, hoy es el tercer día que esto ha acontecido."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " nosotros esperábamos que él era el que había de redimir a Israel: y ahora sobre todo esto, hoy es el tercer día que esto ha acontecido."
       ]
     },
     {
       "verse": 22,
       "segments": [
-        "Aunque también unas mujeres de los nuestros nos han espantado, las cuales antes del día fueron al sepulcro:"
+        "Aunque también unas mujeres de los nuestros nos han espantado, las cuales antes del día fueron al ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        ":"
       ]
     },
     {
@@ -205,7 +267,17 @@
     {
       "verse": 24,
       "segments": [
-        "Y fueron algunos de los nuestros al sepulcro, y hallaron así como las mujeres habían dicho; mas a él no le vieron."
+        "Y fueron algunos de los nuestros al ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        ", y hallaron así como las mujeres habían dicho; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " a él no le vieron."
       ]
     },
     {
@@ -245,7 +317,11 @@
     {
       "verse": 29,
       "segments": [
-        "Mas ellos le detuvieron por fuerza, diciendo: Quédate con nosotros, porque se hace tarde, y el día ya ha declinado. Entró pues a estarse con ellos."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ellos le detuvieron por fuerza, diciendo: Quédate con nosotros, porque se hace tarde, y el día ya ha declinado. Entró pues a estarse con ellos."
       ]
     },
     {
@@ -257,7 +333,12 @@
     {
       "verse": 31,
       "segments": [
-        "Entonces fueron abiertos los ojos de ellos, y le conocieron; mas él se desapareció de los ojos de ellos."
+        "Entonces fueron abiertos los ojos de ellos, y le conocieron; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " él se desapareció de los ojos de ellos."
       ]
     },
     {
@@ -309,7 +390,11 @@
     {
       "verse": 38,
       "segments": [
-        "Mas él les dice: ¿Por qué estáis turbados, y suben pensamientos a vuestros corazones?"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " él les dice: ¿Por qué estáis turbados, y suben pensamientos a vuestros corazones?"
       ]
     },
     {
@@ -395,7 +480,17 @@
     {
       "verse": 49,
       "segments": [
-        "Y he aquí, yo enviaré la promesa de mi Padre sobre vosotros: mas vosotros asentad en la ciudad de ",
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        ", yo enviaré la promesa de mi Padre sobre vosotros: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " vosotros asentad en la ciudad de ",
         {
           "entryId": "yerushalayim",
           "form": "Yerushalayim"

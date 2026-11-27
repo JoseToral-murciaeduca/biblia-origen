@@ -68,7 +68,12 @@
           "entryId": "mattai",
           "form": "Mattai"
         },
-        " el publicano; ",
+        " el ",
+        {
+          "entryId": "glosario_publicano",
+          "form": "publicano"
+        },
+        "; ",
         {
           "entryId": "yaaqov_alfai",
           "form": "Yaaqov"
@@ -100,13 +105,27 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        ", a los cuales dio mandamiento, diciendo: Por el camino de los Gentiles no iréis, y en ciudad de Samaritanos no entréis;"
+        ", a los cuales dio mandamiento, diciendo: Por el camino de los ",
+        {
+          "entryId": "glosario_gentil",
+          "form": "Gentiles"
+        },
+        " no iréis, y en ciudad de ",
+        {
+          "entryId": "glosario_samaritano",
+          "form": "Samaritanos"
+        },
+        " no entréis;"
       ]
     },
     {
       "verse": 6,
       "segments": [
-        "Mas id antes a las ovejas perdidas de la casa de Israel."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " id antes a las ovejas perdidas de la casa de Israel."
       ]
     },
     {
@@ -136,7 +155,11 @@
     {
       "verse": 11,
       "segments": [
-        "Mas en cualquier ciudad, o aldea donde entrareis, investigad quién sea en ella digno, y reposad allí hasta que salgáis."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " en cualquier ciudad, o aldea donde entrareis, investigad quién sea en ella digno, y reposad allí hasta que salgáis."
       ]
     },
     {
@@ -148,7 +171,12 @@
     {
       "verse": 13,
       "segments": [
-        "Y si la casa fuere digna, vuestra paz vendrá sobre ella; mas si no fuere digna, vuestra paz se volverá a vosotros."
+        "Y si la casa fuere digna, vuestra paz vendrá sobre ella; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " si no fuere digna, vuestra paz se volverá a vosotros."
       ]
     },
     {
@@ -170,7 +198,11 @@
     {
       "verse": 16,
       "segments": [
-        "He aquí, yo os envío como a ovejas en medio de lobos: sed pues prudentes como serpientes, y sencillos como palomas."
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        ", yo os envío como a ovejas en medio de lobos: sed pues prudentes como serpientes, y sencillos como palomas."
       ]
     },
     {
@@ -182,13 +214,22 @@
     {
       "verse": 18,
       "segments": [
-        "Y aun a príncipes y a reyes seréis llevados por causa de mí, por testimonio a ellos y a los Gentiles."
+        "Y aun a príncipes y a reyes seréis llevados por causa de mí, por testimonio a ellos y a los ",
+        {
+          "entryId": "glosario_gentil",
+          "form": "Gentiles"
+        },
+        "."
       ]
     },
     {
       "verse": 19,
       "segments": [
-        "Mas cuando os entregaren, no os apuréis por cómo o qué hablaréis; porque en aquella hora os será dado qué habéis de hablar."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " cuando os entregaren, no os apuréis por cómo o qué hablaréis; porque en aquella hora os será dado qué habéis de hablar."
       ]
     },
     {
@@ -206,13 +247,22 @@
     {
       "verse": 22,
       "segments": [
-        "Y seréis aborrecidos de todos por mi nombre; mas el que soportare hasta el fin, éste será salvo."
+        "Y seréis aborrecidos de todos por mi nombre; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " el que soportare hasta el fin, éste será salvo."
       ]
     },
     {
       "verse": 23,
       "segments": [
-        "Mas cuando os persiguieren en esta ciudad, huid a la otra: porque ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " cuando os persiguieren en esta ciudad, huid a la otra: porque ",
         {
           "entryId": "amen",
           "form": "Amén"
@@ -247,7 +297,12 @@
     {
       "verse": 28,
       "segments": [
-        "Y no temáis a los que matan el cuerpo, mas al alma no pueden matar: temed antes a aquel que puede destruir el alma y el cuerpo en el ",
+        "Y no temáis a los que matan el cuerpo, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " al alma no pueden matar: temed antes a aquel que puede destruir el alma y el cuerpo en el ",
         {
           "entryId": "gehenna",
           "form": "Gehena"
@@ -330,7 +385,17 @@
     {
       "verse": 41,
       "segments": [
-        "El que recibe profeta en nombre de profeta, merced de profeta recibirá; y el que recibe justo en nombre de justo, merced de justo recibirá."
+        "El que recibe profeta en nombre de profeta, ",
+        {
+          "entryId": "glosario_merced",
+          "form": "merced"
+        },
+        " de profeta recibirá; y el que recibe justo en nombre de justo, ",
+        {
+          "entryId": "glosario_merced",
+          "form": "merced"
+        },
+        " de justo recibirá."
       ]
     },
     {

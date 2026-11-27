@@ -1,0 +1,328 @@
+{
+  "bookId": "yojanan",
+  "titleEntryId": "book_yojanan",
+  "bookTitle": "Yojanan",
+  "chapter": 21,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "DESPUÉS se manifestó ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " otra vez a sus discípulos en la mar de Tiberias; y manifestóse de esta manera."
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Estaban juntos ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Shimón Kefa"
+        },
+        ", y ",
+        {
+          "entryId": "toma",
+          "form": "Toma"
+        },
+        ", llamado el ",
+        {
+          "entryId": "didymos",
+          "form": "Didymos"
+        },
+        ", y ",
+        {
+          "entryId": "natanael",
+          "form": "Netanel"
+        },
+        ", el que era de ",
+        {
+          "entryId": "qana",
+          "form": "Qana"
+        },
+        " de ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        ", y los hijos de ",
+        {
+          "entryId": "zavdai",
+          "form": "Zavdai"
+        },
+        ", y otros dos de sus discípulos."
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Díceles ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Shimón"
+        },
+        ": A pescar voy. Dícenle: Vamos nosotros también contigo. Fueron, y subieron en una barca; y aquella noche no cogieron nada."
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Y venida la mañana, ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " se puso a la ribera: mas los discípulos no entendieron que era ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Y díjoles: Mozos, ¿tenéis algo de comer? Respondiéronle: No."
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Y él les dice: Echad la red a la mano derecha del barco, y hallaréis. Entonces la echaron, y no la podían en ninguna manera sacar, por la multitud de los peces."
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "Entonces aquel discípulo, al cual amaba ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", dijo a ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        ": El Señor es. Y ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Shimón Kefa"
+        },
+        ", como oyó que era el Señor, ciñóse la ropa, porque estaba desnudo, y echóse a la mar."
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Y los otros discípulos vinieron con el barco (porque no estaban lejos de tierra sino como doscientos codos), trayendo la red de peces."
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Y como descendieron a tierra, vieron ascuas puestas, y un pez encima de ellas, y pan."
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Díceles ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": Traed de los peces que cogisteis ahora."
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "Subió ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Shimón Kefa"
+        },
+        ", y trajo la red a tierra, llena de grandes peces, ciento cincuenta y tres: y siendo tantos, la red no se rompió."
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Díceles ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": Venid, comed. Y ninguno de los discípulos osaba preguntarle: ¿Tú, quién eres? sabiendo que era el Señor."
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Viene pues ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", y toma el pan, y les da; y asimismo del pez."
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Esta era ya la tercera vez que ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " se manifestó a sus discípulos, habiendo resucitado de los muertos."
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Y cuando hubieron comido, ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " dijo a ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Shimón Kefa"
+        },
+        ": ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Shimón"
+        },
+        ", hijo de Jonás, ¿me amas más que éstos? Dícele: Sí, Señor: tú sabes que te amo. Dícele: Apacienta mis corderos."
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "Vuélvele a decir la segunda vez: ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Shimón"
+        },
+        ", hijo de Jonás, ¿me amas? Respóndele: Sí, Señor: tú sabes que te amo. Dícele: Apacienta mis ovejas."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Dícele la tercera vez: ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Shimón"
+        },
+        ", hijo de Jonás, ¿me amas? Entristecióse ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        " de que le dijese la tercera vez: ¿Me amas? y dícele: Señor, tú sabes todas las cosas; tú sabes que te amo. Dícele ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": Apacienta mis ovejas."
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "De cierto, de cierto te digo: Cuando eras más mozo, te ceñías, e ibas donde querías; mas cuando ya fueres viejo, extenderás tus manos, y te ceñirá otro, y te llevará a donde no quieras."
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Y esto dijo, dando a entender con qué muerte había de glorificar a Dios. Y dicho esto, dícele: Sígueme."
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Volviéndose ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        ", ve a aquel discípulo al cual amaba ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", que seguía, el que también se había recostado a su pecho en la cena, y le había dicho: Señor, ¿quién es el que te ha de entregar?"
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "Así que ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        " vio a éste, dice a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": Señor, ¿y éste, qué?"
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "Dícele ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": Si quiero que él quede hasta que yo venga, ¿qué a tí? Sígueme tú."
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "Salió entonces este dicho entre los hermanos, que aquel discípulo no había de morir. Mas ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " no le dijo, No morirá; sino: Si quiero que él quede hasta que yo venga ¿qué a ti?"
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "Este es aquel discípulo que da testimonio de estas cosas, y escribió estas cosas: y sabemos que su testimonio es verdadero."
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "Y hay también otras muchas cosas que hizo ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", que si se escribiesen cada una por sí, ni aun en el mundo pienso que cabrían los libros que se habrían de escribir. ",
+        {
+          "entryId": "amen",
+          "form": "Amén"
+        },
+        "."
+      ]
+    }
+  ]
+}

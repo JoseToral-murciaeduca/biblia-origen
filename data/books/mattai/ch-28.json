@@ -22,13 +22,23 @@
           "entryId": "miryam",
           "form": "Miryam"
         },
-        ", a ver el sepulcro."
+        ", a ver el ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        "."
       ]
     },
     {
       "verse": 2,
       "segments": [
-        "Y he aquí, fue hecho un gran terremoto: porque el ángel del Señor, descendiendo del cielo y llegando, había revuelto la piedra, y estaba sentado sobre ella."
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        ", fue hecho un gran terremoto: porque el ángel del Señor, descendiendo del cielo y llegando, había revuelto la piedra, y estaba sentado sobre ella."
       ]
     },
     {
@@ -63,24 +73,43 @@
     {
       "verse": 7,
       "segments": [
-        "E id presto, decid a sus discípulos que ha resucitado de los muertos: y he aquí va delante de vosotros a ",
+        "E id presto, decid a sus discípulos que ha resucitado de los muertos: y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " va delante de vosotros a ",
         {
           "entryId": "galil",
           "form": "Galil"
         },
-        "; allí le veréis; he aquí, os lo he dicho."
+        "; allí le veréis; ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        ", os lo he dicho."
       ]
     },
     {
       "verse": 8,
       "segments": [
-        "Entonces ellas, saliendo del sepulcro con temor y gran gozo, fueron corriendo a dar las nuevas a sus discípulos. Y mientras iban a dar las nuevas a sus discípulos,"
+        "Entonces ellas, saliendo del ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        " con temor y gran gozo, fueron corriendo a dar las nuevas a sus discípulos. Y mientras iban a dar las nuevas a sus discípulos,"
       ]
     },
     {
       "verse": 9,
       "segments": [
-        "He aquí, ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        ", ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -107,7 +136,12 @@
     {
       "verse": 11,
       "segments": [
-        "Y yendo ellas, he aquí unos de la guardia vinieron a la ciudad, y dieron aviso a los príncipes de los sacerdotes de todas las cosas que habían acontecido."
+        "Y yendo ellas, ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " unos de la guardia vinieron a la ciudad, y dieron aviso a los príncipes de los sacerdotes de todas las cosas que habían acontecido."
       ]
     },
     {
@@ -137,7 +171,11 @@
     {
       "verse": 16,
       "segments": [
-        "Mas los once discípulos se fueron a ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " los once discípulos se fueron a ",
         {
           "entryId": "galil",
           "form": "Galil"
@@ -153,7 +191,12 @@
     {
       "verse": 17,
       "segments": [
-        "Y como le vieron, le adoraron: mas algunos dudaban."
+        "Y como le vieron, le adoraron: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " algunos dudaban."
       ]
     },
     {
@@ -170,7 +213,12 @@
     {
       "verse": 19,
       "segments": [
-        "Por tanto, id, y doctrinad a todos los Gentiles, bautizándolos en el nombre del Padre, y del Hijo, y del ",
+        "Por tanto, id, y doctrinad a todos los ",
+        {
+          "entryId": "glosario_gentil",
+          "form": "Gentiles"
+        },
+        ", bautizándolos en el nombre del Padre, y del Hijo, y del ",
         {
           "entryId": "ruaj_haqodesh",
           "form": "Ruaj HaQodesh"
@@ -181,7 +229,12 @@
     {
       "verse": 20,
       "segments": [
-        "Enseñándoles que guarden todas las cosas que os he mandado: y he aquí, yo estoy con vosotros todos los días, hasta el fin del mundo. ",
+        "Enseñándoles que guarden todas las cosas que os he mandado: y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        ", yo estoy con vosotros todos los días, hasta el fin del mundo. ",
         {
           "entryId": "amen",
           "form": "Amén"

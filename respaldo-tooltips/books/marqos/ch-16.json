@@ -1,0 +1,185 @@
+{
+  "bookId": "marqos",
+  "titleEntryId": "book_marqos",
+  "bookTitle": "Marqos",
+  "chapter": 16,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "Y COMO pasó el ",
+        {
+          "entryId": "shabbat",
+          "form": "Shabbat"
+        },
+        ", ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        " Magdalena, y ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        " madre de Jacobo, y Salomé, compraron drogas aromáticas, para venir a ungirle."
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Y muy de mañana, el primer día de la semana, vienen al sepulcro, ya salido el sol."
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Y decían entre sí: ¿Quién nos revolverá la piedra de la puerta del sepulcro?"
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Y como miraron, ven la piedra revuelta; que era muy grande."
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Y entradas en el sepulcro, vieron un mancebo sentado al lado derecho, cubierto de una larga ropa blanca; y se espantaron."
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Mas él les dice: No os asustéis: buscáis a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " Nazareno, el que fue crucificado; resucitado há, no está aquí; he aquí el lugar en donde le pusieron."
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "Mas id, decid a sus discípulos y a ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        ", que él va antes que vosotros a ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        ": allí le veréis, como os dijo."
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Y ellas se fueron huyendo del sepulcro; porque las había tomado temblor y espanto; ni decían nada a nadie, porque tenían miedo."
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Mas como ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " resucitó por la mañana, el primer día de la semana, apareció primeramente a ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        " Magdalena, de la cual había echado siete demonios."
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Yendo ella, lo hizo saber a los que habían estado con él, que estaban tristes y llorando."
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "Y ellos como oyeron que vivía, y que había sido visto de ella, no lo creyeron."
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Mas después apareció en otra forma a dos de ellos que iban caminando, yendo al campo."
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Y ellos fueron, y lo hicieron saber a los otros; y ni aun a ellos creyeron."
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Finalmente se apareció a los once mismos, estando sentados a la mesa, y censuróles su incredulidad y dureza de corazón, que no hubiesen creído a los que le habían visto resucitado."
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Y les dijo: Id por todo el mundo; predicad el ",
+        {
+          "entryId": "euangelion",
+          "form": "evangelio"
+        },
+        " a toda criatura."
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "El que creyere y fuere bautizado, será salvo; mas el que no creyere, será condenado."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Y estas señales seguirán a los que creyeren: En mi nombre echarán fuera demonios; hablarán nuevas lenguas;"
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Quitarán serpientes, y si bebieren cosa mortífera, no les dañará; sobre los enfermos pondrán sus manos, y sanarán."
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Y el Señor, después que les habló, fue recibido arriba en el cielo, y sentóse a la diestra de Dios."
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Y ellos, saliendo, predicaron en todas partes, obrando con ellos el Señor, y confirmando la palabra con las señales que se seguían. ",
+        {
+          "entryId": "amen",
+          "form": "Amén"
+        },
+        "."
+      ]
+    }
+  ],
+  "textualNotes": [
+    {
+      "verse": 9,
+      "note": "Marcos 16:9–20: algunos testimonios griegos antiguos terminan en 16:8; otros transmiten el final largo. Se conserva íntegro según RV1909.",
+      "source": "https://www.bible.com/bible/107/MRK.16.NET"
+    }
+  ]
+}

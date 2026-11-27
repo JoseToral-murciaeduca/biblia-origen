@@ -23,12 +23,22 @@
     {
       "verse": 2,
       "segments": [
-        "Y he aquí un varón llamado ",
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " un varón llamado ",
         {
           "entryId": "zakkai",
           "form": "Zakkai"
         },
-        ", el cual era el principal de los publicanos, y era rico;"
+        ", el cual era el principal de los ",
+        {
+          "entryId": "glosario_publicano",
+          "form": "publicanos"
+        },
+        ", y era rico;"
       ]
     },
     {
@@ -39,7 +49,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        " quién fuese; mas no podía a causa de la multitud, porque era pequeño de estatura."
+        " quién fuese; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " no podía a causa de la multitud, porque era pequeño de estatura."
       ]
     },
     {
@@ -84,7 +99,12 @@
           "entryId": "zakkai",
           "form": "Zakkai"
         },
-        ", puesto en pie, dijo al Señor: He aquí, Señor, la mitad de mis bienes doy a los pobres; y si en algo he defraudado a alguno, lo vuelvo con el cuatro tanto."
+        ", puesto en pie, dijo al Señor: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        ", Señor, la mitad de mis bienes doy a los pobres; y si en algo he defraudado a alguno, lo vuelvo con el cuatro tanto."
       ]
     },
     {
@@ -117,7 +137,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        " y dijo una parábola, por cuanto estaba cerca de ",
+        " y dijo una ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábola"
+        },
+        ", por cuanto estaba cerca de ",
         {
           "entryId": "yerushalayim",
           "form": "Yerushalayim"
@@ -134,13 +159,26 @@
     {
       "verse": 13,
       "segments": [
-        "Mas llamados diez siervos suyos, les dio diez minas, y díjoles: Negociad entre tanto que vengo."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " llamados diez siervos suyos, les dio diez ",
+        {
+          "entryId": "glosario_mina",
+          "form": "minas"
+        },
+        ", y díjoles: Negociad entre tanto que vengo."
       ]
     },
     {
       "verse": 14,
       "segments": [
-        "Empero sus ciudadanos le aborrecían, y enviaron tras de él una embajada, diciendo: No queremos que éste reine sobre nosotros."
+        {
+          "entryId": "glosario_empero",
+          "form": "Empero"
+        },
+        " sus ciudadanos le aborrecían, y enviaron tras de él una embajada, diciendo: No queremos que éste reine sobre nosotros."
       ]
     },
     {
@@ -152,7 +190,17 @@
     {
       "verse": 16,
       "segments": [
-        "Y vino el primero, diciendo: Señor, tu mina ha ganado diez minas."
+        "Y vino el primero, diciendo: Señor, tu ",
+        {
+          "entryId": "glosario_mina",
+          "form": "mina"
+        },
+        " ha ganado diez ",
+        {
+          "entryId": "glosario_mina",
+          "form": "minas"
+        },
+        "."
       ]
     },
     {
@@ -164,7 +212,17 @@
     {
       "verse": 18,
       "segments": [
-        "Y vino otro, diciendo: Señor, tu mina ha hecho cinco minas."
+        "Y vino otro, diciendo: Señor, tu ",
+        {
+          "entryId": "glosario_mina",
+          "form": "mina"
+        },
+        " ha hecho cinco ",
+        {
+          "entryId": "glosario_mina",
+          "form": "minas"
+        },
+        "."
       ]
     },
     {
@@ -176,7 +234,17 @@
     {
       "verse": 20,
       "segments": [
-        "Y vino otro, diciendo: Señor, he aquí tu mina, la cual he tenido guardada en un pañizuelo:"
+        "Y vino otro, diciendo: Señor, ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " tu ",
+        {
+          "entryId": "glosario_mina",
+          "form": "mina"
+        },
+        ", la cual he tenido guardada en un pañizuelo:"
       ]
     },
     {
@@ -200,19 +268,39 @@
     {
       "verse": 24,
       "segments": [
-        "Y dijo a los que estaban presentes: Quitadle la mina, y dadla al que tiene las diez minas."
+        "Y dijo a los que estaban presentes: Quitadle la ",
+        {
+          "entryId": "glosario_mina",
+          "form": "mina"
+        },
+        ", y dadla al que tiene las diez ",
+        {
+          "entryId": "glosario_mina",
+          "form": "minas"
+        },
+        "."
       ]
     },
     {
       "verse": 25,
       "segments": [
-        "Y ellos le dijeron: Señor, tiene diez minas."
+        "Y ellos le dijeron: Señor, tiene diez ",
+        {
+          "entryId": "glosario_mina",
+          "form": "minas"
+        },
+        "."
       ]
     },
     {
       "verse": 26,
       "segments": [
-        "Pues yo os digo que a cualquiera que tuviere, le será dado; mas al que no tuviere, aun lo que tiene le será quitado."
+        "Pues yo os digo que a cualquiera que tuviere, le será dado; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " al que no tuviere, aun lo que tiene le será quitado."
       ]
     },
     {
@@ -252,7 +340,12 @@
     {
       "verse": 31,
       "segments": [
-        "Y si alguien os preguntare, ¿por qué lo desatáis? le responderéis así: Porque el Señor lo ha menester."
+        "Y si alguien os preguntare, ¿por qué lo desatáis? le responderéis así: Porque el Señor lo ha ",
+        {
+          "entryId": "glosario_menester",
+          "form": "menester"
+        },
+        "."
       ]
     },
     {
@@ -270,7 +363,12 @@
     {
       "verse": 34,
       "segments": [
-        "Y ellos dijeron: Porque el Señor lo ha menester."
+        "Y ellos dijeron: Porque el Señor lo ha ",
+        {
+          "entryId": "glosario_menester",
+          "form": "menester"
+        },
+        "."
       ]
     },
     {
@@ -333,7 +431,12 @@
     {
       "verse": 42,
       "segments": [
-        "Diciendo: ¡Oh si también tú conocieses, a lo menos en este tu día, lo que toca a tu paz! mas ahora está encubierto de tus ojos."
+        "Diciendo: ¡Oh si también tú conocieses, a lo menos en este tu día, lo que toca a tu paz! ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " ahora está encubierto de tus ojos."
       ]
     },
     {
@@ -357,13 +460,23 @@
     {
       "verse": 46,
       "segments": [
-        "Diciéndoles: Escrito está: Mi casa, casa de oración es; mas vosotros la habéis hecho cueva de ladrones."
+        "Diciéndoles: Escrito está: Mi casa, casa de oración es; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " vosotros la habéis hecho cueva de ladrones."
       ]
     },
     {
       "verse": 47,
       "segments": [
-        "Y enseñaba cada día en el templo; mas los príncipes de los sacerdotes, y los escribas, y los principales del pueblo procuraban matarle."
+        "Y enseñaba cada día en el templo; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " los príncipes de los sacerdotes, y los escribas, y los principales del pueblo procuraban matarle."
       ]
     },
     {

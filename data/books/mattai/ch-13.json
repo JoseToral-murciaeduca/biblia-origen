@@ -24,7 +24,17 @@
     {
       "verse": 3,
       "segments": [
-        "Y les habló muchas cosas por parábolas, diciendo: He aquí el que sembraba salió a sembrar."
+        "Y les habló muchas cosas por ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábolas"
+        },
+        ", diciendo: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        " el que sembraba salió a sembrar."
       ]
     },
     {
@@ -42,7 +52,11 @@
     {
       "verse": 6,
       "segments": [
-        "Mas en saliendo el sol, se quemó; y secóse, porque no tenía raíz."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " en saliendo el sol, se quemó; y secóse, porque no tenía raíz."
       ]
     },
     {
@@ -66,7 +80,12 @@
     {
       "verse": 10,
       "segments": [
-        "Entonces, llegándose los discípulos, le dijeron: ¿Por qué les hablas por parábolas?"
+        "Entonces, llegándose los discípulos, le dijeron: ¿Por qué les hablas por ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábolas"
+        },
+        "?"
       ]
     },
     {
@@ -77,7 +96,12 @@
           "entryId": "basileia",
           "form": "reino"
         },
-        " de los cielos; mas a ellos no es concedido."
+        " de los cielos; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " a ellos no es concedido."
       ]
     },
     {
@@ -89,7 +113,12 @@
     {
       "verse": 13,
       "segments": [
-        "Por eso les hablo por parábolas; porque viendo no ven, y oyendo no oyen, ni entienden."
+        "Por eso les hablo por ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábolas"
+        },
+        "; porque viendo no ven, y oyendo no oyen, ni entienden."
       ]
     },
     {
@@ -112,7 +141,11 @@
     {
       "verse": 16,
       "segments": [
-        "Mas bienaventurados vuestros ojos, porque ven; y vuestros oídos, porque oyen."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " bienaventurados vuestros ojos, porque ven; y vuestros oídos, porque oyen."
       ]
     },
     {
@@ -129,7 +162,12 @@
     {
       "verse": 18,
       "segments": [
-        "Oid, pues, vosotros la parábola del que siembra:"
+        "Oid, pues, vosotros la ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábola"
+        },
+        " del que siembra:"
       ]
     },
     {
@@ -152,7 +190,11 @@
     {
       "verse": 21,
       "segments": [
-        "Mas no tiene raíz en sí, antes es temporal: que venida la aflicción o la persecución por la palabra, luego se ofende."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " no tiene raíz en sí, antes es temporal: que venida la aflicción o la persecución por la palabra, luego se ofende."
       ]
     },
     {
@@ -164,13 +206,22 @@
     {
       "verse": 23,
       "segments": [
-        "Mas el que fue sembrado en buena tierra, éste es el que oye y entiende la palabra, y el que lleva fruto: y lleva uno a ciento, y otro a sesenta, y otro a treinta."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " el que fue sembrado en buena tierra, éste es el que oye y entiende la palabra, y el que lleva fruto: y lleva uno a ciento, y otro a sesenta, y otro a treinta."
       ]
     },
     {
       "verse": 24,
       "segments": [
-        "Otra parábola les propuso, diciendo: El ",
+        "Otra ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábola"
+        },
+        " les propuso, diciendo: El ",
         {
           "entryId": "basileia",
           "form": "reino"
@@ -181,19 +232,38 @@
     {
       "verse": 25,
       "segments": [
-        "Mas durmiendo los hombres, vino su enemigo, y sembró cizaña entre el trigo, y se fue."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " durmiendo los hombres, vino su enemigo, y sembró ",
+        {
+          "entryId": "glosario_cizaña",
+          "form": "cizaña"
+        },
+        " entre el trigo, y se fue."
       ]
     },
     {
       "verse": 26,
       "segments": [
-        "Y como la hierba salió e hizo fruto, entonces apareció también la cizaña."
+        "Y como la hierba salió e hizo fruto, entonces apareció también la ",
+        {
+          "entryId": "glosario_cizaña",
+          "form": "cizaña"
+        },
+        "."
       ]
     },
     {
       "verse": 27,
       "segments": [
-        "Y llegándose los siervos del padre de la familia, le dijeron: Señor, ¿no sembraste buena simiente en tu campo? ¿de dónde, pues, tiene cizaña?"
+        "Y llegándose los siervos del padre de la familia, le dijeron: Señor, ¿no sembraste buena simiente en tu campo? ¿de dónde, pues, tiene ",
+        {
+          "entryId": "glosario_cizaña",
+          "form": "cizaña"
+        },
+        "?"
       ]
     },
     {
@@ -205,19 +275,44 @@
     {
       "verse": 29,
       "segments": [
-        "Y él dijo: No; porque cogiendo la cizaña, no arranquéis también con ella el trigo."
+        "Y él dijo: No; porque cogiendo la ",
+        {
+          "entryId": "glosario_cizaña",
+          "form": "cizaña"
+        },
+        ", no arranquéis también con ella el trigo."
       ]
     },
     {
       "verse": 30,
       "segments": [
-        "Dejad crecer juntamente lo uno y lo otro hasta la siega; y al tiempo de la siega yo diré a los segadores: Coged primero la cizaña, y atadla en manojos para quemarla; mas recoged el trigo en mi alfolí."
+        "Dejad crecer juntamente lo uno y lo otro hasta la siega; y al tiempo de la siega yo diré a los segadores: Coged primero la ",
+        {
+          "entryId": "glosario_cizaña",
+          "form": "cizaña"
+        },
+        ", y atadla en manojos para quemarla; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " recoged el trigo en mi ",
+        {
+          "entryId": "glosario_alfolí",
+          "form": "alfolí"
+        },
+        "."
       ]
     },
     {
       "verse": 31,
       "segments": [
-        "Otra parábola les propuso, diciendo: El ",
+        "Otra ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábola"
+        },
+        " les propuso, diciendo: El ",
         {
           "entryId": "basileia",
           "form": "reino"
@@ -228,13 +323,23 @@
     {
       "verse": 32,
       "segments": [
-        "El cual a la verdad es la más pequeña de todas las simientes; mas cuando ha crecido, es la mayor de las hortalizas, y se hace árbol, que vienen las aves del cielo y hacen nidos en sus ramas."
+        "El cual a la verdad es la más pequeña de todas las simientes; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " cuando ha crecido, es la mayor de las hortalizas, y se hace árbol, que vienen las aves del cielo y hacen nidos en sus ramas."
       ]
     },
     {
       "verse": 33,
       "segments": [
-        "Otra parábola les dijo: El ",
+        "Otra ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábola"
+        },
+        " les dijo: El ",
         {
           "entryId": "basileia",
           "form": "reino"
@@ -250,13 +355,28 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        " por parábolas a las gentes, y sin parábolas no les hablaba:"
+        " por ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábolas"
+        },
+        " a las gentes, y sin ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábolas"
+        },
+        " no les hablaba:"
       ]
     },
     {
       "verse": 35,
       "segments": [
-        "Para que se cumpliese lo que fue dicho por el profeta, que dijo: Abriré en parábolas mi boca; rebosaré cosas escondidas desde la fundación del mundo."
+        "Para que se cumpliese lo que fue dicho por el profeta, que dijo: Abriré en ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábolas"
+        },
+        " mi boca; rebosaré cosas escondidas desde la fundación del mundo."
       ]
     },
     {
@@ -267,7 +387,17 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        " se vino a casa; y llegándose a él sus discípulos, le dijeron: Decláranos la parábola de la cizaña del campo."
+        " se vino a casa; y llegándose a él sus discípulos, le dijeron: Decláranos la ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábola"
+        },
+        " de la ",
+        {
+          "entryId": "glosario_cizaña",
+          "form": "cizaña"
+        },
+        " del campo."
       ]
     },
     {
@@ -284,7 +414,12 @@
           "entryId": "basileia",
           "form": "reino"
         },
-        ", y la cizaña son los hijos del malo;"
+        ", y la ",
+        {
+          "entryId": "glosario_cizaña",
+          "form": "cizaña"
+        },
+        " son los hijos del malo;"
       ]
     },
     {
@@ -296,7 +431,12 @@
     {
       "verse": 40,
       "segments": [
-        "De manera que como es cogida la cizaña, y quemada al fuego, así será en el fin de este siglo."
+        "De manera que como es cogida la ",
+        {
+          "entryId": "glosario_cizaña",
+          "form": "cizaña"
+        },
+        ", y quemada al fuego, así será en el fin de este siglo."
       ]
     },
     {
@@ -307,7 +447,12 @@
           "entryId": "basileia",
           "form": "reino"
         },
-        " todos los escándalos, y los que hacen iniquidad,"
+        " todos los escándalos, y los que hacen ",
+        {
+          "entryId": "glosario_iniquidad",
+          "form": "iniquidad"
+        },
+        ","
       ]
     },
     {
@@ -414,7 +559,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        " estas parábolas, pasó de allí."
+        " estas ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábolas"
+        },
+        ", pasó de allí."
       ]
     },
     {
@@ -448,7 +598,12 @@
     {
       "verse": 57,
       "segments": [
-        "Y se escandalizaban en él. Mas ",
+        "Y se escandalizaban en él. ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"

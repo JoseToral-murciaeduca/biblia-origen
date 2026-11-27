@@ -94,7 +94,12 @@
     {
       "verse": 8,
       "segments": [
-        "El viento de donde quiere sopla, y oyes su sonido; mas ni sabes de dónde viene, ni a dónde vaya: así es todo aquel que es nacido del Espíritu."
+        "El viento de donde quiere sopla, y oyes su sonido; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " ni sabes de dónde viene, ni a dónde vaya: así es todo aquel que es nacido del Espíritu."
       ]
     },
     {
@@ -162,19 +167,34 @@
           "entryId": "monogenes",
           "form": "Monogenés"
         },
-        ", para que todo aquel que en él cree, no se pierda, mas tenga vida eterna."
+        ", para que todo aquel que en él cree, no se pierda, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " tenga vida eterna."
       ]
     },
     {
       "verse": 17,
       "segments": [
-        "Porque no envió Dios a su Hijo al mundo para que condene al mundo, mas para que el mundo sea salvo por él."
+        "Porque no envió Dios a su Hijo al mundo para que condene al mundo, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " para que el mundo sea salvo por él."
       ]
     },
     {
       "verse": 18,
       "segments": [
-        "El que en él cree, no es condenado; mas el que no cree, ya es condenado, porque no creyó en el nombre del ",
+        "El que en él cree, no es condenado; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " el que no cree, ya es condenado, porque no creyó en el nombre del ",
         {
           "entryId": "monogenes",
           "form": "Monogenés"
@@ -197,7 +217,11 @@
     {
       "verse": 21,
       "segments": [
-        "Mas el que obra verdad, viene a la luz, para que sus obras sean manifestadas que son hechas en Dios."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " el que obra verdad, viene a la luz, para que sus obras sean manifestadas que son hechas en Dios."
       ]
     },
     {
@@ -267,7 +291,12 @@
           "entryId": "yarden",
           "form": "Yarden"
         },
-        ", del cual tú diste testimonio, he aquí bautiza, y todos vienen a él."
+        ", del cual tú diste testimonio, ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " bautiza, y todos vienen a él."
       ]
     },
     {
@@ -295,13 +324,23 @@
     {
       "verse": 29,
       "segments": [
-        "El que tiene la esposa, es el esposo; mas el amigo del esposo, que está en pie y le oye, se goza grandemente de la voz del esposo; así pues, este mi gozo es cumplido."
+        "El que tiene la esposa, es el esposo; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " el amigo del esposo, que está en pie y le oye, se goza grandemente de la voz del esposo; así pues, este mi gozo es cumplido."
       ]
     },
     {
       "verse": 30,
       "segments": [
-        "A él conviene crecer, mas a mí menguar."
+        "A él conviene crecer, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " a mí menguar."
       ]
     },
     {
@@ -337,7 +376,12 @@
     {
       "verse": 36,
       "segments": [
-        "El que cree en el Hijo, tiene vida eterna; mas el que es incrédulo al Hijo, no verá la vida, sino que la ira de Dios está sobre él."
+        "El que cree en el Hijo, tiene vida eterna; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " el que es incrédulo al Hijo, no verá la vida, sino que la ira de Dios está sobre él."
       ]
     }
   ]

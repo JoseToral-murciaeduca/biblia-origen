@@ -7,7 +7,17 @@
     {
       "verse": 1,
       "segments": [
-        "Y COMENZÓ a hablarles por parábolas: Plantó un hombre una viña, y la cercó con seto, y cavó un lagar, y edificó una torre, y la arrendó a labradores, y se partió lejos."
+        "Y COMENZÓ a hablarles por ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábolas"
+        },
+        ": Plantó un hombre una viña, y la cercó con seto, y cavó un ",
+        {
+          "entryId": "glosario_lagar",
+          "form": "lagar"
+        },
+        ", y edificó una torre, y la arrendó a labradores, y se partió lejos."
       ]
     },
     {
@@ -19,13 +29,22 @@
     {
       "verse": 3,
       "segments": [
-        "Mas ellos, tomándole, le hirieron, y le enviaron vacío."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ellos, tomándole, le hirieron, y le enviaron vacío."
       ]
     },
     {
       "verse": 4,
       "segments": [
-        "Y volvió a enviarles otro siervo; mas apedreándole, le hirieron en la cabeza, y volvieron a enviarle afrentado."
+        "Y volvió a enviarles otro siervo; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " apedreándole, le hirieron en la cabeza, y volvieron a enviarle afrentado."
       ]
     },
     {
@@ -37,13 +56,22 @@
     {
       "verse": 6,
       "segments": [
-        "Teniendo pues aún un hijo suyo amado, enviólo también a ellos el postrero, diciendo: Tendrán en reverencia a mi hijo."
+        "Teniendo pues aún un hijo suyo amado, enviólo también a ellos el ",
+        {
+          "entryId": "glosario_postrero",
+          "form": "postrero"
+        },
+        ", diciendo: Tendrán en reverencia a mi hijo."
       ]
     },
     {
       "verse": 7,
       "segments": [
-        "Mas aquellos labradores dijeron entre sí: Este es el heredero; venid, matémosle, y la heredad será nuestra."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " aquellos labradores dijeron entre sí: Este es el heredero; venid, matémosle, y la heredad será nuestra."
       ]
     },
     {
@@ -73,7 +101,17 @@
     {
       "verse": 12,
       "segments": [
-        "Y procuraban prenderle, porque entendían que decía a ellos aquella parábola; mas temían a la multitud; y dejándole, se fueron."
+        "Y procuraban prenderle, porque entendían que decía a ellos aquella ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábola"
+        },
+        "; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " temían a la multitud; y dejándole, se fueron."
       ]
     },
     {
@@ -176,7 +214,12 @@
     {
       "verse": 25,
       "segments": [
-        "Porque cuando resucitarán de los muertos, ni se casarán, ni serán dados en casamiento, mas son como los ángeles que están en los cielos."
+        "Porque cuando resucitarán de los muertos, ni se casarán, ni serán dados en casamiento, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " son como los ángeles que están en los cielos."
       ]
     },
     {
@@ -208,7 +251,12 @@
     {
       "verse": 27,
       "segments": [
-        "No es Dios de muertos, mas Dios de vivos; así que vosotros mucho erráis."
+        "No es Dios de muertos, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " Dios de vivos; así que vosotros mucho erráis."
       ]
     },
     {
@@ -249,7 +297,12 @@
     {
       "verse": 33,
       "segments": [
-        "Y que amarle de todo corazón, y de todo entendimiento, y de toda el alma, y de todas las fuerzas, y amar al prójimo como a sí mismo, más es que todos los holocaustos y sacrificios."
+        "Y que amarle de todo corazón, y de todo entendimiento, y de toda el alma, y de todas las fuerzas, y amar al prójimo como a sí mismo, más es que todos los ",
+        {
+          "entryId": "glosario_holocausto",
+          "form": "holocaustos"
+        },
+        " y sacrificios."
       ]
     },
     {
@@ -347,7 +400,12 @@
     {
       "verse": 42,
       "segments": [
-        "Y como vino una viuda pobre, echó dos blancas, que son un maravedí."
+        "Y como vino una viuda pobre, echó dos ",
+        {
+          "entryId": "glosario_blanca",
+          "form": "blancas"
+        },
+        ", que son un maravedí."
       ]
     },
     {
@@ -364,7 +422,12 @@
     {
       "verse": 44,
       "segments": [
-        "Porque todos han echado de lo que les sobra; mas ésta, de su pobreza echó todo lo que tenía, todo su alimento."
+        "Porque todos han echado de lo que les sobra; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " ésta, de su pobreza echó todo lo que tenía, todo su alimento."
       ]
     }
   ]

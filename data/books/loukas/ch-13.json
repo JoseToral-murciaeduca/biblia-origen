@@ -57,13 +57,23 @@
     {
       "verse": 6,
       "segments": [
-        "Y dijo esta parábola: Tenía uno una higuera plantada en su viña, y vino a buscar fruto en ella, y no lo halló."
+        "Y dijo esta ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábola"
+        },
+        ": Tenía uno una higuera plantada en su viña, y vino a buscar fruto en ella, y no lo halló."
       ]
     },
     {
       "verse": 7,
       "segments": [
-        "Y dijo al viñero: He aquí tres años ha que vengo a buscar fruto en esta higuera, y no lo hallo; córtala, ¿por qué ocupará aún la tierra?"
+        "Y dijo al viñero: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        " tres años ha que vengo a buscar fruto en esta higuera, y no lo hallo; córtala, ¿por qué ocupará aún la tierra?"
       ]
     },
     {
@@ -92,7 +102,12 @@
     {
       "verse": 11,
       "segments": [
-        "Y he aquí una mujer que tenía espíritu de enfermedad dieciocho años, y andaba agobiada, que en ninguna manera se podía enhestar."
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " una mujer que tenía espíritu de enfermedad dieciocho años, y andaba agobiada, que en ninguna manera se podía enhestar."
       ]
     },
     {
@@ -136,7 +151,12 @@
     {
       "verse": 15,
       "segments": [
-        "Entonces el Señor le respondió, y dijo: Hipócrita, cada uno de vosotros ¿no desata en ",
+        "Entonces el Señor le respondió, y dijo: ",
+        {
+          "entryId": "glosario_hipócrita",
+          "form": "Hipócrita"
+        },
+        ", cada uno de vosotros ¿no desata en ",
         {
           "entryId": "shabbat",
           "form": "Shabbat"
@@ -152,7 +172,12 @@
           "entryId": "avraham",
           "form": "Avraham"
         },
-        ", que he aquí ",
+        ", que ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " ",
         {
           "entryId": "satan",
           "form": "Satán"
@@ -168,7 +193,12 @@
     {
       "verse": 17,
       "segments": [
-        "Y diciendo estas cosas, se avergonzaban todos sus adversarios: mas todo el pueblo se gozaba de todas las cosas gloriosas que eran por él hechas."
+        "Y diciendo estas cosas, se avergonzaban todos sus adversarios: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " todo el pueblo se gozaba de todas las cosas gloriosas que eran por él hechas."
       ]
     },
     {
@@ -233,7 +263,12 @@
     {
       "verse": 27,
       "segments": [
-        "Y os dirá: Dígoos que no os conozco de dónde seáis; apartaos de mí todos los obreros de iniquidad."
+        "Y os dirá: Dígoos que no os conozco de dónde seáis; apartaos de mí todos los obreros de ",
+        {
+          "entryId": "glosario_iniquidad",
+          "form": "iniquidad"
+        },
+        "."
       ]
     },
     {
@@ -266,7 +301,22 @@
     {
       "verse": 30,
       "segments": [
-        "Y he aquí, son postreros los que eran los primeros; y son primeros los que eran los postreros."
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        ", son ",
+        {
+          "entryId": "glosario_postrero",
+          "form": "postreros"
+        },
+        " los que eran los primeros; y son primeros los que eran los ",
+        {
+          "entryId": "glosario_postrero",
+          "form": "postreros"
+        },
+        "."
       ]
     },
     {
@@ -288,13 +338,27 @@
     {
       "verse": 32,
       "segments": [
-        "Y les dijo: Id, y decid a aquella zorra: He aquí, echo fuera demonios y acabo sanidades hoy y mañana, y al tercer día soy consumado."
+        "Y les dijo: Id, y decid a aquella zorra: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        ", echo fuera demonios y acabo sanidades hoy y mañana, y al tercer día soy consumado."
       ]
     },
     {
       "verse": 33,
       "segments": [
-        "Empero es menester que hoy, y mañana, y pasado mañana camine; porque no es posible que profeta muera fuera de ",
+        {
+          "entryId": "glosario_empero",
+          "form": "Empero"
+        },
+        " es ",
+        {
+          "entryId": "glosario_menester",
+          "form": "menester"
+        },
+        " que hoy, y mañana, y pasado mañana camine; porque no es posible que profeta muera fuera de ",
         {
           "entryId": "yerushalayim",
           "form": "Yerushalayim"
@@ -321,7 +385,11 @@
     {
       "verse": 35,
       "segments": [
-        "He aquí, os es dejada vuestra casa desierta: y os digo que no me veréis, hasta que venga tiempo cuando digáis: Bendito el que viene en nombre del Señor."
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        ", os es dejada vuestra casa desierta: y os digo que no me veréis, hasta que venga tiempo cuando digáis: Bendito el que viene en nombre del Señor."
       ]
     }
   ]

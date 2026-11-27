@@ -24,7 +24,12 @@
     {
       "verse": 3,
       "segments": [
-        "Esta empero es la vida eterna: que te conozcan el solo Dios verdadero, y a ",
+        "Esta ",
+        {
+          "entryId": "glosario_empero",
+          "form": "empero"
+        },
+        " es la vida eterna: que te conozcan el solo Dios verdadero, y a ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -82,7 +87,12 @@
     {
       "verse": 11,
       "segments": [
-        "Y ya no estoy en el mundo; mas éstos están en el mundo, y yo a ti vengo. Padre santo, a los que me has dado, guárdalos por tu nombre, para que sean una cosa, como también nosotros."
+        "Y ya no estoy en el mundo; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " éstos están en el mundo, y yo a ti vengo. Padre santo, a los que me has dado, guárdalos por tu nombre, para que sean una cosa, como también nosotros."
       ]
     },
     {
@@ -94,7 +104,11 @@
     {
       "verse": 13,
       "segments": [
-        "Mas ahora vengo a ti; y hablo esto en el mundo, para que tengan mi gozo cumplido en sí mismos."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ahora vengo a ti; y hablo esto en el mundo, para que tengan mi gozo cumplido en sí mismos."
       ]
     },
     {
@@ -136,7 +150,11 @@
     {
       "verse": 20,
       "segments": [
-        "Mas no ruego solamente por éstos, sino también por los que han de creer en mí por la palabra de ellos."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " no ruego solamente por éstos, sino también por los que han de creer en mí por la palabra de ellos."
       ]
     },
     {
@@ -166,7 +184,12 @@
     {
       "verse": 25,
       "segments": [
-        "Padre justo, el mundo no te ha conocido, mas yo te he conocido; y éstos han conocido que tú me enviaste;"
+        "Padre justo, el mundo no te ha conocido, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " yo te he conocido; y éstos han conocido que tú me enviaste;"
       ]
     },
     {

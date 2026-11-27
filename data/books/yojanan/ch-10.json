@@ -7,13 +7,22 @@
     {
       "verse": 1,
       "segments": [
-        "DE cierto, de cierto os digo: El que no entra por la puerta en el corral de las ovejas, mas sube por otra parte, el tal es ladrón y robador."
+        "DE cierto, de cierto os digo: El que no entra por la puerta en el corral de las ovejas, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " sube por otra parte, el tal es ladrón y robador."
       ]
     },
     {
       "verse": 2,
       "segments": [
-        "Mas el que entra por la puerta, el pastor de las ovejas es."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " el que entra por la puerta, el pastor de las ovejas es."
       ]
     },
     {
@@ -31,18 +40,32 @@
     {
       "verse": 5,
       "segments": [
-        "Mas al extraño no seguirán, antes huirán de él: porque no conocen la voz de los extraños."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " al extraño no seguirán, antes huirán de él: porque no conocen la voz de los extraños."
       ]
     },
     {
       "verse": 6,
       "segments": [
-        "Esta parábola les dijo ",
+        "Esta ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábola"
+        },
+        " les dijo ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        "; mas ellos no entendieron qué era lo que les decía."
+        "; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " ellos no entendieron qué era lo que les decía."
       ]
     },
     {
@@ -59,7 +82,12 @@
     {
       "verse": 8,
       "segments": [
-        "Todos los que antes de mí vinieron, ladrones son y robadores; mas no los oyeron las ovejas."
+        "Todos los que antes de mí vinieron, ladrones son y robadores; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " no los oyeron las ovejas."
       ]
     },
     {
@@ -83,7 +111,11 @@
     {
       "verse": 12,
       "segments": [
-        "Mas el asalariado, y que no es el pastor, de quien no son propias las ovejas, ve al lobo que viene, y deja las ovejas, y huye, y el lobo las arrebata, y esparce las ovejas."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " el asalariado, y que no es el pastor, de quien no son propias las ovejas, ve al lobo que viene, y deja las ovejas, y huye, y el lobo las arrebata, y esparce las ovejas."
       ]
     },
     {
@@ -119,7 +151,12 @@
     {
       "verse": 18,
       "segments": [
-        "Nadie me la quita, mas yo la pongo de mí mismo. Tengo poder para ponerla, y tengo poder para volverla a tomar. Este mandamiento recibí de mi Padre."
+        "Nadie me la quita, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " yo la pongo de mí mismo. Tengo poder para ponerla, y tengo poder para volverla a tomar. Este mandamiento recibí de mi Padre."
       ]
     },
     {
@@ -187,7 +224,11 @@
     {
       "verse": 26,
       "segments": [
-        "Mas vosotros no creéis, porque no sois de mis ovejas, como os he dicho."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " vosotros no creéis, porque no sois de mis ovejas, como os he dicho."
       ]
     },
     {
@@ -234,7 +275,12 @@
     {
       "verse": 33,
       "segments": [
-        "Respondiéronle los Judíos, diciendo: Por buena obra no te apedreamos, sino por la blasfemia; y porque tú, siendo hombre, te haces Dios."
+        "Respondiéronle los Judíos, diciendo: Por buena obra no te apedreamos, sino por la ",
+        {
+          "entryId": "glosario_blasfemia",
+          "form": "blasfemia"
+        },
+        "; y porque tú, siendo hombre, te haces Dios."
       ]
     },
     {
@@ -269,13 +315,22 @@
     {
       "verse": 38,
       "segments": [
-        "Mas si las hago, aunque a mí no creáis, creed a las obras; para que conozcáis y creáis que el Padre está en mí, y yo en el Padre."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " si las hago, aunque a mí no creáis, creed a las obras; para que conozcáis y creáis que el Padre está en mí, y yo en el Padre."
       ]
     },
     {
       "verse": 39,
       "segments": [
-        "Y procuraban otra vez prenderle; mas él se salió de sus manos;"
+        "Y procuraban otra vez prenderle; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " él se salió de sus manos;"
       ]
     },
     {
@@ -302,7 +357,12 @@
           "entryId": "yojanan_bautista",
           "form": "Yojanan"
         },
-        ", a la verdad, ninguna señal hizo; mas todo lo que ",
+        ", a la verdad, ninguna señal hizo; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " todo lo que ",
         {
           "entryId": "yojanan_bautista",
           "form": "Yojanan"

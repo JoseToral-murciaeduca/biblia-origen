@@ -89,13 +89,23 @@
           "entryId": "moshe",
           "form": "Moshe"
         },
-        " os permitió repudiar a vuestras mujeres: mas al principio no fue así."
+        " os permitió repudiar a vuestras mujeres: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " al principio no fue así."
       ]
     },
     {
       "verse": 9,
       "segments": [
-        "Y yo os digo que cualquiera que repudiare a su mujer, si no fuere por causa de fornicación, y se casare con otra, adultera: y el que se casare con la repudiada, adultera."
+        "Y yo os digo que cualquiera que repudiare a su mujer, si no fuere por causa de ",
+        {
+          "entryId": "glosario_fornicación",
+          "form": "fornicación"
+        },
+        ", y se casare con otra, adultera: y el que se casare con la repudiada, adultera."
       ]
     },
     {
@@ -142,7 +152,12 @@
     {
       "verse": 16,
       "segments": [
-        "Y he aquí, uno llegándose le dijo: Maestro bueno, ¿qué bien haré para tener la vida eterna?"
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        ", uno llegándose le dijo: Maestro bueno, ¿qué bien haré para tener la vida eterna?"
       ]
     },
     {
@@ -215,7 +230,11 @@
     {
       "verse": 24,
       "segments": [
-        "Mas os digo, que más liviano trabajo es pasar un camello por el ojo de una aguja, que entrar un rico en el reino de ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " os digo, que más liviano trabajo es pasar un camello por el ojo de una aguja, que entrar un rico en el reino de ",
         {
           "entryId": "elohim",
           "form": "Elohim"
@@ -226,7 +245,11 @@
     {
       "verse": 25,
       "segments": [
-        "Mas sus discípulos, oyendo estas cosas, se espantaron en gran manera, diciendo: ¿Quién pues podrá ser salvo?"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " sus discípulos, oyendo estas cosas, se espantaron en gran manera, diciendo: ¿Quién pues podrá ser salvo?"
       ]
     },
     {
@@ -237,7 +260,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        ", les dijo: Para con los hombres imposible es esto; mas para con ",
+        ", les dijo: Para con los hombres imposible es esto; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " para con ",
         {
           "entryId": "elohim",
           "form": "Elohim"
@@ -253,7 +281,12 @@
           "entryId": "simon_kefa",
           "form": "Kefa"
         },
-        ", le dijo: He aquí, nosotros hemos dejado todo, y te hemos seguido: ¿qué pues tendremos?"
+        ", le dijo: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        ", nosotros hemos dejado todo, y te hemos seguido: ¿qué pues tendremos?"
       ]
     },
     {
@@ -281,7 +314,21 @@
     {
       "verse": 30,
       "segments": [
-        "Mas muchos primeros serán postreros, y postreros primeros."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " muchos primeros serán ",
+        {
+          "entryId": "glosario_postrero",
+          "form": "postreros"
+        },
+        ", y ",
+        {
+          "entryId": "glosario_postrero",
+          "form": "postreros"
+        },
+        " primeros."
       ]
     }
   ]

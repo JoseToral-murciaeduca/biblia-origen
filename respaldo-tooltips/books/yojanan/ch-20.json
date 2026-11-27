@@ -1,0 +1,349 @@
+{
+  "bookId": "yojanan",
+  "titleEntryId": "book_yojanan",
+  "bookTitle": "Yojanan",
+  "chapter": 20,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "Y EL primer día de la semana, ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        " Magdalena vino de mañana, siendo aún obscuro, al sepulcro; y vio la piedra quitada del sepulcro."
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Entonces corrió, y vino a ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Shimón Kefa"
+        },
+        ", y al otro discípulo, al cual amaba ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", y les dice: Han llevado al Señor del sepulcro, y no sabemos dónde le han puesto."
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Y salió ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        ", y el otro discípulo, y vinieron al sepulcro."
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Y corrían los dos juntos; mas el otro discípulo corrió más presto que ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        ", y llegó primero al sepulcro."
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Y bajándose a mirar, vio los lienzos echados; mas no entró."
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Llegó luego ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Shimón Kefa"
+        },
+        " siguiéndole, y entró en el sepulcro, y vio los lienzos echados,"
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "Y el sudario, que había estado sobre su cabeza, no puesto con los lienzos, sino envuelto en un lugar aparte."
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Y entonces entró también el otro discípulo, que había venido primero al sepulcro, y vio, y creyó."
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Porque aun no sabían la Escritura, que era necesario que él resucitase de los muertos."
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Y volvieron los discípulos a los suyos."
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "Empero ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        " estaba fuera llorando junto al sepulcro: y estando llorando, bajóse a mirar el sepulcro;"
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Y vio dos ángeles en ropas blancas que estaban sentados, el uno a la cabecera, y el otro a los pies, donde el cuerpo de ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " había sido puesto."
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Y dijéronle: Mujer, ¿por qué lloras? Díceles: Porque se han llevado a mi Señor, y no sé dónde le han puesto."
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Y como hubo dicho esto, volvióse atrás, y vio a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " que estaba allí; mas no sabía que era ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Dícele ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": Mujer, ¿por qué lloras? ¿a quién buscas? Ella, pensando que era el hortelano, dícele: Señor, si tú lo has llevado, dime dónde lo has puesto, y yo lo llevaré."
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "Dícele ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": ¡",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        "! Volviéndose ella, dícele: ¡",
+        {
+          "entryId": "rabbouni",
+          "form": "Rabbuní"
+        },
+        "! que quiere decir, Maestro."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Dícele ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": No me toques: porque aun no he subido a mi Padre: mas ve a mis hermanos, y diles: Subo a mi Padre y a vuestro Padre, a mi Dios y a vuestro Dios."
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Fue ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        " Magdalena dando las nuevas a los discípulos de que había visto al Señor, y que él le había dicho estas cosas."
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Y como fue tarde aquel día, el primero de la semana, y estando las puertas cerradas donde los discípulos estaban juntos por miedo de los Judíos, vino ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", y púsose en medio, y díjoles: Paz a vosotros."
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Y como hubo dicho esto, mostróles las manos y el costado. Y los discípulos se gozaron viendo al Señor."
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "Entonces les dijo ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " otra vez: Paz a vosotros; como me envió el Padre, así también yo os envío."
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "Y como hubo dicho esto, sopló, y díjoles: Tomad el ",
+        {
+          "entryId": "ruaj_haqodesh",
+          "form": "Ruaj HaQodesh"
+        },
+        ":"
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "A los que remitiereis los pecados, les son remitidos: a quienes los retuviereis, serán retenidos."
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "Empero ",
+        {
+          "entryId": "toma",
+          "form": "Toma"
+        },
+        ", uno de los doce, que se dice el ",
+        {
+          "entryId": "didymos",
+          "form": "Didymos"
+        },
+        ", no estaba con ellos cuando ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " vino."
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "Dijéronle pues los otros discípulos: Al Señor hemos visto. Y él les dijo: Si no viere en sus manos la señal de los clavos, y metiere mi dedo en el lugar de los clavos, y metiere mi mano en su costado, no creeré."
+      ]
+    },
+    {
+      "verse": 26,
+      "segments": [
+        "Y ocho días después, estaban otra vez sus discípulos dentro, y con ellos ",
+        {
+          "entryId": "toma",
+          "form": "Toma"
+        },
+        ". Vino ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", las puertas cerradas, y púsose en medio, y dijo: Paz a vosotros."
+      ]
+    },
+    {
+      "verse": 27,
+      "segments": [
+        "Luego dice a ",
+        {
+          "entryId": "toma",
+          "form": "Toma"
+        },
+        ": Mete tu dedo aquí, y ve mis manos: y alarga acá tu mano, y métela en mi costado: y no seas incrédulo, sino fiel."
+      ]
+    },
+    {
+      "verse": 28,
+      "segments": [
+        "Entonces ",
+        {
+          "entryId": "toma",
+          "form": "Toma"
+        },
+        " respondió, y díjole: ¡Señor mío, y Dios mío!"
+      ]
+    },
+    {
+      "verse": 29,
+      "segments": [
+        "Dícele ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": Porque me has visto, ",
+        {
+          "entryId": "toma",
+          "form": "Toma"
+        },
+        ", creiste: bienaventurados los que no vieron y creyeron."
+      ]
+    },
+    {
+      "verse": 30,
+      "segments": [
+        "Y también hizo ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " muchas otras señales en presencia de sus discípulos, que no están escritas en este libro."
+      ]
+    },
+    {
+      "verse": 31,
+      "segments": [
+        "Estas empero son escritas, para que creáis que ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " es el ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        ", el Hijo de Dios; y para que creyendo, tengáis vida en su nombre."
+      ]
+    }
+  ]
+}

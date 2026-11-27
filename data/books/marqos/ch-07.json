@@ -57,12 +57,22 @@
     {
       "verse": 6,
       "segments": [
-        "Y respondiendo él, les dijo: Hipócritas, bien profetizó de vosotros ",
+        "Y respondiendo él, les dijo: ",
+        {
+          "entryId": "glosario_hipócrita",
+          "form": "Hipócritas"
+        },
+        ", bien profetizó de vosotros ",
         {
           "entryId": "yeshayahu",
           "form": "Yeshayahu"
         },
-        ", como está escrito: Este pueblo con los labios me honra, mas su corazón lejos está de mí."
+        ", como está escrito: Este pueblo con los labios me honra, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " su corazón lejos está de mí."
       ]
     },
     {
@@ -126,7 +136,12 @@
     {
       "verse": 15,
       "segments": [
-        "Nada hay fuera del hombre que entre en él, que le pueda contaminar: mas lo que sale de él, aquello es lo que contamina al hombre."
+        "Nada hay fuera del hombre que entre en él, que le pueda contaminar: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " lo que sale de él, aquello es lo que contamina al hombre."
       ]
     },
     {
@@ -138,7 +153,12 @@
     {
       "verse": 17,
       "segments": [
-        "Y apartado de la multitud, habiendo entrado en casa, le preguntaron sus discípulos sobre la parábola."
+        "Y apartado de la multitud, habiendo entrado en casa, le preguntaron sus discípulos sobre la ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábola"
+        },
+        "."
       ]
     },
     {
@@ -156,13 +176,27 @@
     {
       "verse": 20,
       "segments": [
-        "Mas decía, que lo que del hombre sale, aquello contamina al hombre."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " decía, que lo que del hombre sale, aquello contamina al hombre."
       ]
     },
     {
       "verse": 21,
       "segments": [
-        "Porque de dentro, del corazón de los hombres, salen los malos pensamientos, los adulterios, las fornicaciones, los homicidios,"
+        "Porque de dentro, del corazón de los hombres, salen los malos pensamientos, los ",
+        {
+          "entryId": "glosario_adulterio",
+          "form": "adulterios"
+        },
+        ", las ",
+        {
+          "entryId": "glosario_fornicación",
+          "form": "fornicaciones"
+        },
+        ", los homicidios,"
       ]
     },
     {
@@ -180,7 +214,12 @@
     {
       "verse": 24,
       "segments": [
-        "Y levantándose de allí, se fue a los términos de Tiro y de Sidón; y entrando en casa, quiso que nadie lo supiese; mas no pudo esconderse."
+        "Y levantándose de allí, se fue a los términos de Tiro y de Sidón; y entrando en casa, quiso que nadie lo supiese; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " no pudo esconderse."
       ]
     },
     {
@@ -198,7 +237,11 @@
     {
       "verse": 27,
       "segments": [
-        "Mas ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"

@@ -46,7 +46,12 @@
     {
       "verse": 5,
       "segments": [
-        "Y la luz en las tinieblas resplandece; mas las tinieblas no la comprendieron."
+        "Y la luz en las tinieblas resplandece; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " las tinieblas no la comprendieron."
       ]
     },
     {
@@ -93,13 +98,22 @@
     {
       "verse": 12,
       "segments": [
-        "Mas a todos los que le recibieron, dióles potestad de ser hechos hijos de Dios, a los que creen en su nombre:"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " a todos los que le recibieron, dióles potestad de ser hechos hijos de Dios, a los que creen en su nombre:"
       ]
     },
     {
       "verse": 13,
       "segments": [
-        "Los cuales no son engendrados de sangre, ni de voluntad de carne, ni de voluntad de varón, mas de Dios."
+        "Los cuales no son engendrados de sangre, ni de voluntad de carne, ni de voluntad de varón, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " de Dios."
       ]
     },
     {
@@ -142,7 +156,12 @@
           "entryId": "moshe",
           "form": "Moshe"
         },
-        " fue dada: mas la gracia y la verdad por ",
+        " fue dada: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " la gracia y la verdad por ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -185,7 +204,12 @@
     {
       "verse": 20,
       "segments": [
-        "Y confesó, y no negó; mas declaró: No soy yo el ",
+        "Y confesó, y no negó; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " declaró: No soy yo el ",
         {
           "entryId": "mashiaj",
           "form": "Mashiaj"
@@ -256,7 +280,12 @@
           "entryId": "yojanan_bautista",
           "form": "Yojanan"
         },
-        " les respondió, diciendo: Yo bautizo con agua; mas en medio de vosotros ha estado a quien vosotros no conocéis."
+        " les respondió, diciendo: Yo bautizo con agua; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " en medio de vosotros ha estado a quien vosotros no conocéis."
       ]
     },
     {
@@ -294,7 +323,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        " que venía a él, y dice: He aquí el Cordero de Dios, que quita el pecado del mundo."
+        " que venía a él, y dice: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        " el Cordero de Dios, que quita el pecado del mundo."
       ]
     },
     {
@@ -323,7 +357,12 @@
     {
       "verse": 33,
       "segments": [
-        "Y yo no le conocía; mas el que me envió a bautizar con agua, aquél me dijo: Sobre quien vieres descender el Espíritu, y que reposa sobre él, éste es el que bautiza con ",
+        "Y yo no le conocía; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " el que me envió a bautizar con agua, aquél me dijo: Sobre quien vieres descender el Espíritu, y que reposa sobre él, éste es el que bautiza con ",
         {
           "entryId": "ruaj_haqodesh",
           "form": "Ruaj HaQodesh"
@@ -356,7 +395,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        " que andaba por allí, dijo: He aquí el Cordero de Dios."
+        " que andaba por allí, dijo: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        " el Cordero de Dios."
       ]
     },
     {
@@ -565,7 +609,12 @@
           "entryId": "natanael",
           "form": "Netanel"
         },
-        ", y dijo de él: He aquí un verdadero Israelita, en el cual no hay engaño."
+        ", y dijo de él: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        " un verdadero Israelita, en el cual no hay engaño."
       ]
     },
     {

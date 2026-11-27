@@ -1,0 +1,527 @@
+{
+  "bookId": "yojanan",
+  "titleEntryId": "book_yojanan",
+  "bookTitle": "Yojanan",
+  "chapter": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "Y PASADAS estas cosas andaba ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " en ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        ": que no quería andar en ",
+        {
+          "entryId": "yehuda_region",
+          "form": "Yehudá"
+        },
+        ", porque los Judíos procuraban matarle."
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Y estaba cerca la fiesta de los Judíos, la de los tabernáculos."
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Y dijéronle sus hermanos: Pásate de aquí, y vete a ",
+        {
+          "entryId": "yehuda_region",
+          "form": "Yehudá"
+        },
+        ", para que también tus discípulos vean las obras que haces."
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Que ninguno que procura ser claro, hace algo en oculto. Si estas cosas haces, manifiéstate al mundo."
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Porque ni aun sus hermanos creían en él."
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Díceles entonces ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": Mi tiempo aun no ha venido; mas vuestro tiempo siempre está presto."
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "No puede el mundo aborreceros a vosotros; mas a mí me aborrece, porque yo doy testimonio de él, que sus obras son malas."
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Vosotros subid a esta fiesta; yo no subo aún a esta fiesta, porque mi tiempo aun no es cumplido."
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Y habiéndoles dicho esto, quedóse en ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Mas como sus hermanos hubieron subido, entonces él también subió a la fiesta, no manifiestamente, sino como en secreto."
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "Y buscábanle los Judíos en la fiesta, y decían: ¿Dónde está aquél?"
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Y había grande murmullo de él entre la gente: porque unos decían: Bueno es; y otros decían: No, antes engaña a las gentes."
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Mas ninguno hablaba abiertamente de él, por miedo de los Judíos."
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Y al medio de la fiesta subió ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " al templo, y enseñaba."
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Y maravillábanse los Judíos, diciendo: ¿Cómo sabe éste letras, no habiendo aprendido?"
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "Respondióles ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", y dijo: Mi doctrina no es mía, sino de aquél que me envió."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "El que quisiere hacer su voluntad, conocerá de la doctrina si viene de Dios, o si yo hablo de mí mismo."
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "El que habla de sí mismo, su propia gloria busca; mas el que busca la gloria del que le envió, éste es verdadero, y no hay en él injusticia."
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "¿No os dio ",
+        {
+          "entryId": "moshe",
+          "form": "Moshe"
+        },
+        " la ley, y ninguno de vosotros hace la ley? ¿Por qué me procuráis matar?"
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Respondió la gente, y dijo: Demonio tienes: ¿quién te procura matar?"
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " respondió, y díjoles: Una obra hice, y todos os maravilláis."
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "Cierto, ",
+        {
+          "entryId": "moshe",
+          "form": "Moshe"
+        },
+        " os dio la circuncisión (no porque sea de ",
+        {
+          "entryId": "moshe",
+          "form": "Moshe"
+        },
+        ", mas de los padres); y en ",
+        {
+          "entryId": "shabbat",
+          "form": "Shabbat"
+        },
+        " circuncidáis al hombre."
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "Si recibe el hombre la circuncisión en ",
+        {
+          "entryId": "shabbat",
+          "form": "Shabbat"
+        },
+        ", para que la ley de ",
+        {
+          "entryId": "moshe",
+          "form": "Moshe"
+        },
+        " no sea quebrantada, ¿os enojáis conmigo porque en ",
+        {
+          "entryId": "shabbat",
+          "form": "Shabbat"
+        },
+        " hice sano todo un hombre?"
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "No juzguéis según lo que parece, mas juzgad justo juicio."
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "Decían entonces unos de los de ",
+        {
+          "entryId": "yerushalayim",
+          "form": "Yerushalayim"
+        },
+        ": ¿No es éste al que buscan para matarlo?"
+      ]
+    },
+    {
+      "verse": 26,
+      "segments": [
+        "Y he aquí, habla públicamente, y no le dicen nada; ¿si habrán entendido verdaderamente los príncipes, que éste es el ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        "?"
+      ]
+    },
+    {
+      "verse": 27,
+      "segments": [
+        "Mas éste, sabemos de dónde es: y cuando viniere el ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        ", nadie sabrá de dónde sea."
+      ]
+    },
+    {
+      "verse": 28,
+      "segments": [
+        "Entonces clamaba ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " en el templo, enseñando y diciendo: Y a mí me conocéis, y sabéis de dónde soy; y no he venido de mí mismo; mas el que me envió es verdadero, al cual vosotros no conocéis."
+      ]
+    },
+    {
+      "verse": 29,
+      "segments": [
+        "Yo le conozco, porque de él soy, y él me envió."
+      ]
+    },
+    {
+      "verse": 30,
+      "segments": [
+        "Entonces procuraban prenderle; mas ninguno puso en él mano, porque aun no había venido su hora."
+      ]
+    },
+    {
+      "verse": 31,
+      "segments": [
+        "Y muchos del pueblo creyeron en él, y decían: El ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        ", cuando viniere, ¿hará más señales que las que éste hace?"
+      ]
+    },
+    {
+      "verse": 32,
+      "segments": [
+        "Los ",
+        {
+          "entryId": "perushim",
+          "form": "Perushim"
+        },
+        " oyeron a la gente que murmuraba de él estas cosas; y los príncipes de los sacerdotes y los ",
+        {
+          "entryId": "perushim",
+          "form": "Perushim"
+        },
+        " enviaron servidores que le prendiesen."
+      ]
+    },
+    {
+      "verse": 33,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " dijo: Aun un poco de tiempo estaré con vosotros, e iré al que me envió."
+      ]
+    },
+    {
+      "verse": 34,
+      "segments": [
+        "Me buscaréis, y no me hallaréis; y donde yo estaré, vosotros no podréis venir."
+      ]
+    },
+    {
+      "verse": 35,
+      "segments": [
+        "Entonces los Judíos dijeron entre sí: ¿A dónde se ha de ir éste que no le hallemos? ¿Se ha de ir a los esparcidos entre los Griegos, y a enseñar a los Griegos?"
+      ]
+    },
+    {
+      "verse": 36,
+      "segments": [
+        "¿Qué dicho es éste que dijo: Me buscaréis, y no me hallaréis; y donde yo estaré, vosotros no podréis venir?"
+      ]
+    },
+    {
+      "verse": 37,
+      "segments": [
+        "Mas en el postrer día grande de la fiesta, ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " se ponía en pie y clamaba, diciendo: Si alguno tiene sed, venga a mí y beba."
+      ]
+    },
+    {
+      "verse": 38,
+      "segments": [
+        "El que cree en mí, como dice la Escritura, ríos de agua viva correrán de su vientre."
+      ]
+    },
+    {
+      "verse": 39,
+      "segments": [
+        "(Y esto dijo del Espíritu que habían de recibir los que creyesen en él: pues aun no había venido el ",
+        {
+          "entryId": "ruaj_haqodesh",
+          "form": "Ruaj HaQodesh"
+        },
+        "; porque ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " no estaba aún glorificado.)"
+      ]
+    },
+    {
+      "verse": 40,
+      "segments": [
+        "Entonces algunos de la multitud, oyendo este dicho, decían: Verdaderamente éste es el profeta."
+      ]
+    },
+    {
+      "verse": 41,
+      "segments": [
+        "Otros decían: Este es el ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        ". Algunos empero decían: ¿De ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        " ha de venir el ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        "?"
+      ]
+    },
+    {
+      "verse": 42,
+      "segments": [
+        "¿No dice la Escritura, que de la simiente de ",
+        {
+          "entryId": "david",
+          "form": "David"
+        },
+        ", y de la aldea de ",
+        {
+          "entryId": "beit_lejem",
+          "form": "Beit Lejem"
+        },
+        ", de donde era ",
+        {
+          "entryId": "david",
+          "form": "David"
+        },
+        ", vendrá el ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        "?"
+      ]
+    },
+    {
+      "verse": 43,
+      "segments": [
+        "Así que había disensión entre la gente acerca de él."
+      ]
+    },
+    {
+      "verse": 44,
+      "segments": [
+        "Y algunos de ellos querían prenderle; mas ninguno echó sobre él manos."
+      ]
+    },
+    {
+      "verse": 45,
+      "segments": [
+        "Y los ministriles vinieron a los principales sacerdotes y a los ",
+        {
+          "entryId": "perushim",
+          "form": "Perushim"
+        },
+        "; y ellos les dijeron: ¿Por qué no le trajisteis?"
+      ]
+    },
+    {
+      "verse": 46,
+      "segments": [
+        "Los ministriles respondieron: Nunca ha hablado hombre así como este hombre."
+      ]
+    },
+    {
+      "verse": 47,
+      "segments": [
+        "Entonces los ",
+        {
+          "entryId": "perushim",
+          "form": "Perushim"
+        },
+        " les respondieron: ¿Estáis también vosotros engañados?"
+      ]
+    },
+    {
+      "verse": 48,
+      "segments": [
+        "¿Ha creído en él alguno de los príncipes, o de los ",
+        {
+          "entryId": "perushim",
+          "form": "Perushim"
+        },
+        "?"
+      ]
+    },
+    {
+      "verse": 49,
+      "segments": [
+        "Mas estos comunales que no saben la ley, malditos son."
+      ]
+    },
+    {
+      "verse": 50,
+      "segments": [
+        "Díceles ",
+        {
+          "entryId": "nikodemos",
+          "form": "Nikodemos"
+        },
+        " (el que vino a él de noche, el cual era uno de ellos):"
+      ]
+    },
+    {
+      "verse": 51,
+      "segments": [
+        "¿Juzga nuestra ley a hombre, si primero no oyere de él, y entendiere lo que ha hecho?"
+      ]
+    },
+    {
+      "verse": 52,
+      "segments": [
+        "Respondieron y dijéronle: ¿Eres tú también Galileo? Escudriña y ve que de ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        " nunca se levantó profeta."
+      ]
+    },
+    {
+      "verse": 53,
+      "segments": [
+        "Y fuése cada uno a su casa."
+      ]
+    }
+  ],
+  "textualNotes": [
+    {
+      "verse": 53,
+      "note": "Juan 7:53–8:11 presenta variantes de inclusión y ubicación en la tradición manuscrita; se conserva RV1909.",
+      "source": "https://openwordbible.org/variants/"
+    }
+  ]
+}

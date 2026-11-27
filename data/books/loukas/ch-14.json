@@ -23,7 +23,12 @@
     {
       "verse": 2,
       "segments": [
-        "Y he aquí un hombre hidrópico estaba delante de él."
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " un hombre hidrópico estaba delante de él."
       ]
     },
     {
@@ -73,13 +78,33 @@
     {
       "verse": 7,
       "segments": [
-        "Y observando cómo escogían los primeros asientos a la mesa, propuso una parábola a los convidados, diciéndoles:"
+        "Y observando cómo escogían los primeros asientos a la mesa, propuso una ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábola"
+        },
+        " a los ",
+        {
+          "entryId": "glosario_convidar",
+          "form": "convidados"
+        },
+        ", diciéndoles:"
       ]
     },
     {
       "verse": 8,
       "segments": [
-        "Cuando fueres convidado de alguno a bodas, no te sientes en el primer lugar, no sea que otro más honrado que tú esté por él convidado,"
+        "Cuando fueres ",
+        {
+          "entryId": "glosario_convidar",
+          "form": "convidado"
+        },
+        " de alguno a bodas, no te sientes en el primer lugar, no sea que otro más honrado que tú esté por él ",
+        {
+          "entryId": "glosario_convidar",
+          "form": "convidado"
+        },
+        ","
       ]
     },
     {
@@ -91,7 +116,16 @@
     {
       "verse": 10,
       "segments": [
-        "Mas cuando fueres convidado, ve, y siéntate en el postrer lugar; porque cuando viniere el que te llamó, te diga: Amigo, sube arriba: entonces tendrás gloria delante de los que juntamente se asientan a la mesa."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " cuando fueres ",
+        {
+          "entryId": "glosario_convidar",
+          "form": "convidado"
+        },
+        ", ve, y siéntate en el postrer lugar; porque cuando viniere el que te llamó, te diga: Amigo, sube arriba: entonces tendrás gloria delante de los que juntamente se asientan a la mesa."
       ]
     },
     {
@@ -103,19 +137,38 @@
     {
       "verse": 12,
       "segments": [
-        "Y dijo también al que le había convidado: Cuando haces comida o cena, no llames a tus amigos, ni a tus hermanos, ni a tus parientes, ni a vecinos ricos; porque también ellos no te vuelvan a convidar, y te sea hecha compensación."
+        "Y dijo también al que le había ",
+        {
+          "entryId": "glosario_convidar",
+          "form": "convidado"
+        },
+        ": Cuando haces comida o cena, no llames a tus amigos, ni a tus hermanos, ni a tus parientes, ni a vecinos ricos; porque también ellos no te vuelvan a ",
+        {
+          "entryId": "glosario_convidar",
+          "form": "convidar"
+        },
+        ", y te sea hecha compensación."
       ]
     },
     {
       "verse": 13,
       "segments": [
-        "Mas cuando haces banquete, llama a los pobres, los mancos, los cojos, los ciegos;"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " cuando haces banquete, llama a los pobres, los mancos, los cojos, los ciegos;"
       ]
     },
     {
       "verse": 14,
       "segments": [
-        "Y serás bienaventurado; porque no te pueden retribuir; mas te será recompensado en la resurrección de los justos."
+        "Y serás bienaventurado; porque no te pueden retribuir; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " te será recompensado en la resurrección de los justos."
       ]
     },
     {
@@ -127,13 +180,23 @@
     {
       "verse": 16,
       "segments": [
-        "El entonces le dijo: Un hombre hizo una grande cena, y convidó a muchos."
+        "El entonces le dijo: Un hombre hizo una grande cena, y ",
+        {
+          "entryId": "glosario_convidar",
+          "form": "convidó"
+        },
+        " a muchos."
       ]
     },
     {
       "verse": 17,
       "segments": [
-        "Y a la hora de la cena envió a su siervo a decir a los convidados: Venid, que ya está todo aparejado."
+        "Y a la hora de la cena envió a su siervo a decir a los ",
+        {
+          "entryId": "glosario_convidar",
+          "form": "convidados"
+        },
+        ": Venid, que ya está todo aparejado."
       ]
     },
     {
@@ -235,7 +298,12 @@
     {
       "verse": 34,
       "segments": [
-        "Buena es la sal; mas si aun la sal fuere desvanecida, ¿con qué se adobará?"
+        "Buena es la sal; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " si aun la sal fuere desvanecida, ¿con qué se adobará?"
       ]
     },
     {

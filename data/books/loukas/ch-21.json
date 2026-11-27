@@ -13,7 +13,12 @@
     {
       "verse": 2,
       "segments": [
-        "Y vio también una viuda pobrecilla, que echaba allí dos blancas."
+        "Y vio también una viuda pobrecilla, que echaba allí dos ",
+        {
+          "entryId": "glosario_blanca",
+          "form": "blancas"
+        },
+        "."
       ]
     },
     {
@@ -25,7 +30,12 @@
     {
       "verse": 4,
       "segments": [
-        "Porque todos estos, de lo que les sobra echaron para las ofrendas de Dios; mas ésta de su pobreza echó todo el sustento que tenía."
+        "Porque todos estos, de lo que les sobra echaron para las ofrendas de Dios; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " ésta de su pobreza echó todo el sustento que tenía."
       ]
     },
     {
@@ -55,7 +65,16 @@
     {
       "verse": 9,
       "segments": [
-        "Empero cuando oyereis guerras y sediciones, no os espantéis; porque es necesario que estas cosas acontezcan primero: mas no luego será el fin."
+        {
+          "entryId": "glosario_empero",
+          "form": "Empero"
+        },
+        " cuando oyereis guerras y sediciones, no os espantéis; porque es necesario que estas cosas acontezcan primero: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " no luego será el fin."
       ]
     },
     {
@@ -73,7 +92,11 @@
     {
       "verse": 12,
       "segments": [
-        "Mas antes de todas estas cosas os echarán mano, y perseguirán, entregándoos a las sinagogas y a las cárceles, siendo llevados a los reyes y a los gobernadores por causa de mi nombre."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " antes de todas estas cosas os echarán mano, y perseguirán, entregándoos a las sinagogas y a las cárceles, siendo llevados a los reyes y a los gobernadores por causa de mi nombre."
       ]
     },
     {
@@ -97,7 +120,11 @@
     {
       "verse": 16,
       "segments": [
-        "Mas seréis entregados aun de vuestros padres, y hermanos, y parientes, y amigos; y matarán a algunos de vosotros."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " seréis entregados aun de vuestros padres, y hermanos, y parientes, y amigos; y matarán a algunos de vosotros."
       ]
     },
     {
@@ -109,7 +136,11 @@
     {
       "verse": 18,
       "segments": [
-        "Mas un pelo de vuestra cabeza no perecerá."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " un pelo de vuestra cabeza no perecerá."
       ]
     },
     {
@@ -149,7 +180,11 @@
     {
       "verse": 23,
       "segments": [
-        "Mas ¡ay de las preñadas, y de las que crían en aquellos días! porque habrá apuro grande sobre la tierra e ira en este pueblo."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ¡ay de las preñadas, y de las que crían en aquellos días! porque habrá apuro grande sobre la tierra e ira en este pueblo."
       ]
     },
     {
@@ -184,13 +219,23 @@
     {
       "verse": 28,
       "segments": [
-        "Y cuando estas cosas comenzaren a hacerse, mirad, y levantad vuestras cabezas, porque vuestra redención está cerca."
+        "Y cuando estas cosas comenzaren a hacerse, mirad, y levantad vuestras cabezas, porque vuestra ",
+        {
+          "entryId": "glosario_redención",
+          "form": "redención"
+        },
+        " está cerca."
       ]
     },
     {
       "verse": 29,
       "segments": [
-        "Y díjoles una parábola: Mirad la higuera y todos los árboles:"
+        "Y díjoles una ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábola"
+        },
+        ": Mirad la higuera y todos los árboles:"
       ]
     },
     {
@@ -214,7 +259,12 @@
     {
       "verse": 33,
       "segments": [
-        "El cielo y la tierra pasarán; mas mis palabras no pasarán."
+        "El cielo y la tierra pasarán; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " mis palabras no pasarán."
       ]
     },
     {

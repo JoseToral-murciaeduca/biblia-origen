@@ -78,7 +78,16 @@
     {
       "verse": 7,
       "segments": [
-        "Mas cuando oyereis de guerras y de rumores de guerras no os turbéis, porque conviene hacerse así; mas aun no será el fin."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " cuando oyereis de guerras y de rumores de guerras no os turbéis, porque conviene hacerse así; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " aun no será el fin."
       ]
     },
     {
@@ -90,7 +99,11 @@
     {
       "verse": 9,
       "segments": [
-        "Mas vosotros mirad por vosotros: porque os entregarán en los concilios, y en sinagogas seréis azotados: y delante de presidentes y de reyes seréis llamados por causa de mí, en testimonio a ellos."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " vosotros mirad por vosotros: porque os entregarán en los concilios, y en sinagogas seréis azotados: y delante de presidentes y de reyes seréis llamados por causa de mí, en testimonio a ellos."
       ]
     },
     {
@@ -107,7 +120,12 @@
     {
       "verse": 11,
       "segments": [
-        "Y cuando os trajeren para entregaros, no premeditéis qué habéis de decir, ni lo penséis: mas lo que os fuere dado en aquella hora, eso hablad; porque no sois vosotros los que habláis, sino el ",
+        "Y cuando os trajeren para entregaros, no premeditéis qué habéis de decir, ni lo penséis: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " lo que os fuere dado en aquella hora, eso hablad; porque no sois vosotros los que habláis, sino el ",
         {
           "entryId": "ruaj_haqodesh",
           "form": "Ruaj HaQodesh"
@@ -124,13 +142,22 @@
     {
       "verse": 13,
       "segments": [
-        "Y seréis aborrecidos de todos por mi nombre: mas el que perseverare hasta el fin, éste será salvo."
+        "Y seréis aborrecidos de todos por mi nombre: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " el que perseverare hasta el fin, éste será salvo."
       ]
     },
     {
       "verse": 14,
       "segments": [
-        "Empero cuando viereis la abominación de asolamiento, que fue dicha por el profeta Daniel, que estará donde no debe (el que lee, entienda), entonces los que estén en ",
+        {
+          "entryId": "glosario_empero",
+          "form": "Empero"
+        },
+        " cuando viereis la abominación de asolamiento, que fue dicha por el profeta Daniel, que estará donde no debe (el que lee, entienda), entonces los que estén en ",
         {
           "entryId": "yehuda_region",
           "form": "Yehudá"
@@ -153,7 +180,11 @@
     {
       "verse": 17,
       "segments": [
-        "Mas ¡ay de las preñadas, y de las que criaren en aquellos días!"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ¡ay de las preñadas, y de las que criaren en aquellos días!"
       ]
     },
     {
@@ -171,18 +202,33 @@
     {
       "verse": 20,
       "segments": [
-        "Y si el Señor no hubiese abreviado aquellos días, ninguna carne se salvaría; mas por causa de los escogidos que él escogió, abrevió aquellos días."
+        "Y si el Señor no hubiese abreviado aquellos días, ninguna carne se salvaría; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " por causa de los escogidos que él escogió, abrevió aquellos días."
       ]
     },
     {
       "verse": 21,
       "segments": [
-        "Y entonces si alguno os dijere: He aquí, aquí está el ",
+        "Y entonces si alguno os dijere: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        ", aquí está el ",
         {
           "entryId": "mashiaj",
           "form": "Mashiaj"
         },
-        "; o, He aquí, allí está, no le creáis."
+        "; o, ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        ", allí está, no le creáis."
       ]
     },
     {
@@ -194,13 +240,21 @@
     {
       "verse": 23,
       "segments": [
-        "Mas vosotros mirad; os lo he dicho antes todo."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " vosotros mirad; os lo he dicho antes todo."
       ]
     },
     {
       "verse": 24,
       "segments": [
-        "Empero en aquellos días, después de aquella aflicción, el sol se obscurecerá, y la luna no dará su resplandor;"
+        {
+          "entryId": "glosario_empero",
+          "form": "Empero"
+        },
+        " en aquellos días, después de aquella aflicción, el sol se obscurecerá, y la luna no dará su resplandor;"
       ]
     },
     {
@@ -246,13 +300,22 @@
     {
       "verse": 31,
       "segments": [
-        "El cielo y la tierra pasarán, mas mis palabras no pasarán."
+        "El cielo y la tierra pasarán, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " mis palabras no pasarán."
       ]
     },
     {
       "verse": 32,
       "segments": [
-        "Empero de aquel día y de la hora, nadie sabe; ni aun los ángeles que están en el cielo, ni el Hijo, sino el Padre."
+        {
+          "entryId": "glosario_empero",
+          "form": "Empero"
+        },
+        " de aquel día y de la hora, nadie sabe; ni aun los ángeles que están en el cielo, ni el Hijo, sino el Padre."
       ]
     },
     {

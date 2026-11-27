@@ -1,0 +1,482 @@
+{
+  "glosario_adulterio": {
+    "category": "term",
+    "defaultForm": "adulterio",
+    "traditional": "adulterio",
+    "bridgeGloss": "infidelidad conyugal",
+    "meaning": "Relación sexual que quebranta la fidelidad matrimonial.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/adulterio"
+  },
+  "glosario_alabastro": {
+    "category": "term",
+    "defaultForm": "alabastro",
+    "traditional": "alabastro",
+    "bridgeGloss": "piedra o recipiente",
+    "meaning": "Material mineral con el que se elaboraban recipientes, entre ellos frascos para perfumes.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/alabastro"
+  },
+  "glosario_alfolí": {
+    "category": "term",
+    "defaultForm": "alfolí",
+    "traditional": "alfolí",
+    "bridgeGloss": "granero",
+    "meaning": "Lugar destinado a almacenar grano.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/alfol%C3%AD"
+  },
+  "glosario_almud": {
+    "category": "term",
+    "defaultForm": "almud",
+    "traditional": "almud",
+    "bridgeGloss": "medida de capacidad",
+    "meaning": "Medida tradicional para productos secos y recipiente usado para medirlos.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/almud"
+  },
+  "glosario_aposento": {
+    "category": "term",
+    "defaultForm": "aposento",
+    "traditional": "aposento",
+    "bridgeGloss": "habitación",
+    "meaning": "Habitación o espacio destinado a alojarse.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/aposento"
+  },
+  "glosario_aventador": {
+    "category": "term",
+    "defaultForm": "aventador",
+    "traditional": "aventador",
+    "bridgeGloss": "instrumento para separar el grano",
+    "meaning": "Herramienta usada para lanzar la mies al aire y separar la paja.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/aventador"
+  },
+  "glosario_azote": {
+    "category": "term",
+    "defaultForm": "azote",
+    "traditional": "azote",
+    "bridgeGloss": "látigo o golpe",
+    "meaning": "Instrumento para golpear o golpe dado con él.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/azote"
+  },
+  "glosario_bieldo": {
+    "category": "term",
+    "defaultForm": "bieldo",
+    "traditional": "bieldo",
+    "bridgeGloss": "herramienta agrícola",
+    "meaning": "Instrumento para aventar o separar el grano de la paja.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/bieldo"
+  },
+  "glosario_blanca": {
+    "category": "term",
+    "defaultForm": "blanca",
+    "traditional": "blanca",
+    "bridgeGloss": "moneda pequeña",
+    "meaning": "Moneda de poco valor en la traducción bíblica antigua.",
+    "sourceNote": "Consulta léxica: https://dle.rae.es/blanca; contexto de Marcos 12:42 y Lucas 21:2."
+  },
+  "glosario_blasfemia": {
+    "category": "term",
+    "defaultForm": "blasfemia",
+    "traditional": "blasfemia",
+    "bridgeGloss": "ofensa contra lo sagrado",
+    "meaning": "Expresión injuriosa contra Dios o lo tenido por sagrado.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/blasfemia"
+  },
+  "glosario_calcañar": {
+    "category": "term",
+    "defaultForm": "calcañar",
+    "traditional": "calcañar",
+    "bridgeGloss": "talón",
+    "meaning": "Parte posterior del pie.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/calca%C3%B1ar"
+  },
+  "glosario_centurión": {
+    "category": "term",
+    "defaultForm": "centurión",
+    "traditional": "centurión",
+    "bridgeGloss": "oficial romano",
+    "meaning": "Oficial del ejército romano que mandaba una centuria.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/centuri%C3%B3n"
+  },
+  "glosario_cilicio": {
+    "category": "term",
+    "defaultForm": "cilicio",
+    "traditional": "cilicio",
+    "bridgeGloss": "vestidura áspera",
+    "meaning": "Prenda de tejido áspero asociada con el duelo o la penitencia.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/cilicio"
+  },
+  "glosario_cizaña": {
+    "category": "term",
+    "defaultForm": "cizaña",
+    "traditional": "cizaña",
+    "bridgeGloss": "mala hierba",
+    "meaning": "Planta que crece entre los cereales; en la parábola se contrapone al trigo.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/ciza%C3%B1a"
+  },
+  "glosario_codo": {
+    "category": "term",
+    "defaultForm": "codo",
+    "traditional": "codo",
+    "bridgeGloss": "medida antigua de longitud",
+    "meaning": "Distancia convencional relacionada con la longitud del antebrazo; variaba según época y región.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/codo"
+  },
+  "glosario_cohorte": {
+    "category": "term",
+    "defaultForm": "cohorte",
+    "traditional": "cohorte",
+    "bridgeGloss": "unidad militar romana",
+    "meaning": "Agrupación de soldados del ejército romano.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/cohorte"
+  },
+  "glosario_contienda": {
+    "category": "term",
+    "defaultForm": "contienda",
+    "traditional": "contienda",
+    "bridgeGloss": "disputa",
+    "meaning": "Conflicto o discusión entre personas.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/contienda"
+  },
+  "glosario_convidar": {
+    "category": "term",
+    "defaultForm": "convidar",
+    "traditional": "convidar",
+    "bridgeGloss": "invitar",
+    "meaning": "Invitar a alguien a participar, en especial a una comida.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/convidar"
+  },
+  "glosario_coro": {
+    "category": "term",
+    "defaultForm": "coro",
+    "traditional": "coro",
+    "bridgeGloss": "medida antigua",
+    "meaning": "Unidad antigua de capacidad; no se refiere a un grupo de cantores en este pasaje.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/coro"
+  },
+  "glosario_cuadrante": {
+    "category": "term",
+    "defaultForm": "cuadrante",
+    "traditional": "cuadrante",
+    "bridgeGloss": "moneda romana pequeña",
+    "meaning": "Moneda de escaso valor de la antigua Roma.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/cuadrante"
+  },
+  "glosario_denario": {
+    "category": "term",
+    "defaultForm": "denario",
+    "traditional": "denario",
+    "bridgeGloss": "moneda romana",
+    "meaning": "Moneda de la época romana; en Mateo 20 se emplea como paga de una jornada.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/denario"
+  },
+  "glosario_dracma": {
+    "category": "term",
+    "defaultForm": "dracma",
+    "traditional": "dracma",
+    "bridgeGloss": "moneda antigua",
+    "meaning": "Unidad monetaria griega antigua.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/dracma"
+  },
+  "glosario_empero": {
+    "category": "term",
+    "defaultForm": "empero",
+    "traditional": "empero",
+    "bridgeGloss": "sin embargo",
+    "meaning": "Introduce una oposición o contraste con lo anterior.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/empero"
+  },
+  "glosario_escarnecer": {
+    "category": "term",
+    "defaultForm": "escarnecer",
+    "traditional": "escarnecer",
+    "bridgeGloss": "burlarse cruelmente",
+    "meaning": "Ridiculizar o tratar con desprecio.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/escarnecer"
+  },
+  "glosario_estadio": {
+    "category": "term",
+    "defaultForm": "estadio",
+    "traditional": "estadio",
+    "bridgeGloss": "medida antigua de distancia",
+    "meaning": "Unidad antigua de longitud; aquí no significa recinto deportivo.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/estadio"
+  },
+  "glosario_filacteria": {
+    "category": "term",
+    "defaultForm": "filacteria",
+    "traditional": "filacteria",
+    "bridgeGloss": "cajita ritual",
+    "meaning": "Pequeño estuche con pasajes de la Torá que se lleva durante determinadas oraciones judías.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/filacteria"
+  },
+  "glosario_fornicación": {
+    "category": "term",
+    "defaultForm": "fornicación",
+    "traditional": "fornicación",
+    "bridgeGloss": "conducta sexual considerada ilícita",
+    "meaning": "Término tradicional cuyo alcance bíblico depende del contexto y del original griego.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/fornicaci%C3%B3n"
+  },
+  "glosario_gentil": {
+    "category": "term",
+    "defaultForm": "gentil",
+    "traditional": "gentil",
+    "bridgeGloss": "no judío",
+    "meaning": "En numerosos pasajes bíblicos designa a personas de otras naciones, no pertenecientes al pueblo judío.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/gentil"
+  },
+  "glosario_he_aquí": {
+    "category": "term",
+    "defaultForm": "he aquí",
+    "traditional": "he aquí",
+    "bridgeGloss": "mira; aquí está",
+    "meaning": "Expresión que llama la atención sobre algo que se presenta.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/he%20aqu%C3%AD"
+  },
+  "glosario_hipócrita": {
+    "category": "term",
+    "defaultForm": "hipócrita",
+    "traditional": "hipócrita",
+    "bridgeGloss": "persona que finge virtud",
+    "meaning": "Persona que aparenta convicciones o cualidades que no practica.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/hip%C3%B3crita"
+  },
+  "glosario_hisopo": {
+    "category": "term",
+    "defaultForm": "hisopo",
+    "traditional": "hisopo",
+    "bridgeGloss": "planta ritual",
+    "meaning": "Planta o rama utilizada en prácticas de aspersión; la identificación botánica del hisopo bíblico no es segura.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/hisopo"
+  },
+  "glosario_holocausto": {
+    "category": "term",
+    "defaultForm": "holocausto",
+    "traditional": "holocausto",
+    "bridgeGloss": "ofrenda quemada",
+    "meaning": "Sacrificio ritual en el que se consume la ofrenda por el fuego.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/holocausto"
+  },
+  "glosario_iniquidad": {
+    "category": "term",
+    "defaultForm": "iniquidad",
+    "traditional": "iniquidad",
+    "bridgeGloss": "injusticia o maldad",
+    "meaning": "Conducta contraria a la justicia o a la rectitud.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/iniquidad"
+  },
+  "glosario_lagar": {
+    "category": "term",
+    "defaultForm": "lagar",
+    "traditional": "lagar",
+    "bridgeGloss": "prensa de uvas",
+    "meaning": "Lugar o instalación para prensar uvas y obtener su jugo.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/lagar"
+  },
+  "glosario_lebrillo": {
+    "category": "term",
+    "defaultForm": "lebrillo",
+    "traditional": "lebrillo",
+    "bridgeGloss": "recipiente ancho",
+    "meaning": "Vasija ancha y relativamente poco profunda usada, entre otras cosas, para lavar.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/lebrillo"
+  },
+  "glosario_legión": {
+    "category": "term",
+    "defaultForm": "legión",
+    "traditional": "legión",
+    "bridgeGloss": "unidad militar numerosa",
+    "meaning": "Unidad militar romana; también se usa figuradamente para una multitud.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/legi%C3%B3n"
+  },
+  "glosario_mas": {
+    "category": "term",
+    "defaultForm": "mas",
+    "traditional": "mas",
+    "bridgeGloss": "pero",
+    "meaning": "Conjunción adversativa; no equivale al adverbio más.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/mas"
+  },
+  "glosario_menester": {
+    "category": "term",
+    "defaultForm": "menester",
+    "traditional": "menester",
+    "bridgeGloss": "necesidad",
+    "meaning": "Algo necesario; tener menester significa necesitar.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/menester"
+  },
+  "glosario_merced": {
+    "category": "term",
+    "defaultForm": "merced",
+    "traditional": "merced",
+    "bridgeGloss": "favor o beneficio",
+    "meaning": "Favor, gracia o beneficio concedido por alguien.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/merced"
+  },
+  "glosario_mina": {
+    "category": "term",
+    "defaultForm": "mina",
+    "traditional": "mina",
+    "bridgeGloss": "unidad monetaria antigua",
+    "meaning": "Unidad antigua de peso y de cuenta de valor.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/mina"
+  },
+  "glosario_mirra": {
+    "category": "term",
+    "defaultForm": "mirra",
+    "traditional": "mirra",
+    "bridgeGloss": "resina aromática",
+    "meaning": "Sustancia resinosa olorosa usada en perfumes y prácticas funerarias.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/mirra"
+  },
+  "glosario_nardo": {
+    "category": "term",
+    "defaultForm": "nardo",
+    "traditional": "nardo",
+    "bridgeGloss": "perfume aromático",
+    "meaning": "Sustancia aromática obtenida de una planta; en los evangelios se usa como perfume.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/nardo"
+  },
+  "glosario_odre": {
+    "category": "term",
+    "defaultForm": "odre",
+    "traditional": "odre",
+    "bridgeGloss": "recipiente de piel",
+    "meaning": "Bolsa de cuero utilizada para guardar líquidos, como el vino.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/odre"
+  },
+  "glosario_parábola": {
+    "category": "term",
+    "defaultForm": "parábola",
+    "traditional": "parábola",
+    "bridgeGloss": "relato comparativo",
+    "meaning": "Relato que utiliza situaciones reconocibles para transmitir una enseñanza.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/par%C3%A1bola"
+  },
+  "glosario_postrero": {
+    "category": "term",
+    "defaultForm": "postrero",
+    "traditional": "postrero",
+    "bridgeGloss": "último",
+    "meaning": "Lo que ocupa el último lugar.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/postrero"
+  },
+  "glosario_pretorio": {
+    "category": "term",
+    "defaultForm": "pretorio",
+    "traditional": "pretorio",
+    "bridgeGloss": "sede de la autoridad romana",
+    "meaning": "Residencia o cuartel donde ejercía funciones el gobernador o mando romano.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/pretorio"
+  },
+  "glosario_primogénito": {
+    "category": "term",
+    "defaultForm": "primogénito",
+    "traditional": "primogénito",
+    "bridgeGloss": "primer hijo",
+    "meaning": "Hijo nacido primero.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/primog%C3%A9nito"
+  },
+  "glosario_procurador": {
+    "category": "term",
+    "defaultForm": "procurador",
+    "traditional": "procurador",
+    "bridgeGloss": "funcionario romano",
+    "meaning": "Representante de la administración romana con funciones delegadas.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/procurador"
+  },
+  "glosario_prosélito": {
+    "category": "term",
+    "defaultForm": "prosélito",
+    "traditional": "prosélito",
+    "bridgeGloss": "converso",
+    "meaning": "Persona que ha adoptado una religión; en este contexto, el judaísmo.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/pros%C3%A9lito"
+  },
+  "glosario_publicano": {
+    "category": "term",
+    "defaultForm": "publicano",
+    "traditional": "publicano",
+    "bridgeGloss": "recaudador de impuestos",
+    "meaning": "Persona que cobraba tributos en el sistema fiscal romano.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/publicano"
+  },
+  "glosario_pámpano": {
+    "category": "term",
+    "defaultForm": "pámpano",
+    "traditional": "pámpano",
+    "bridgeGloss": "brote de vid",
+    "meaning": "Rama tierna de la vid.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/p%C3%A1mpano"
+  },
+  "glosario_redención": {
+    "category": "term",
+    "defaultForm": "redención",
+    "traditional": "redención",
+    "bridgeGloss": "liberación o rescate",
+    "meaning": "Liberación de una condición de sometimiento; en contextos religiosos puede referirse a la salvación.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/redenci%C3%B3n"
+  },
+  "glosario_samaritano": {
+    "category": "term",
+    "defaultForm": "samaritano",
+    "traditional": "samaritano",
+    "bridgeGloss": "habitante de Samaria o miembro de su comunidad",
+    "meaning": "Persona vinculada a Samaria y a la tradición religiosa samaritana.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/samaritano"
+  },
+  "glosario_sepulcro": {
+    "category": "term",
+    "defaultForm": "sepulcro",
+    "traditional": "sepulcro",
+    "bridgeGloss": "tumba",
+    "meaning": "Lugar donde se deposita a una persona fallecida.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/sepulcro"
+  },
+  "glosario_talento": {
+    "category": "term",
+    "defaultForm": "talento",
+    "traditional": "talento",
+    "bridgeGloss": "unidad antigua de peso o valor",
+    "meaning": "Gran unidad de peso o de cuenta monetaria, no una habilidad en estos pasajes.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/talento"
+  },
+  "glosario_tetrarca": {
+    "category": "term",
+    "defaultForm": "tetrarca",
+    "traditional": "tetrarca",
+    "bridgeGloss": "gobernante regional",
+    "meaning": "Título de un gobernante subordinado a una autoridad superior.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/tetrarca"
+  },
+  "glosario_tribuno": {
+    "category": "term",
+    "defaultForm": "tribuno",
+    "traditional": "tribuno",
+    "bridgeGloss": "oficial romano",
+    "meaning": "Cargo civil o militar romano; el sentido depende del pasaje.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/tribuno"
+  },
+  "glosario_ungir": {
+    "category": "term",
+    "defaultForm": "ungir",
+    "traditional": "ungir",
+    "bridgeGloss": "aplicar aceite",
+    "meaning": "Aplicar aceite o sustancia aromática; puede tener un sentido ritual.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/ungir"
+  },
+  "glosario_unigénito": {
+    "category": "term",
+    "defaultForm": "unigénito",
+    "traditional": "unigénito",
+    "bridgeGloss": "hijo único",
+    "meaning": "Designa al hijo único; en Juan se relaciona con el griego monogenés.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/unig%C3%A9nito"
+  },
+  "glosario_yugo": {
+    "category": "term",
+    "defaultForm": "yugo",
+    "traditional": "yugo",
+    "bridgeGloss": "pieza para unir animales de tiro",
+    "meaning": "Instrumento que une animales de labor; figuradamente, carga u obligación.",
+    "sourceNote": "Glosa editorial en castellano actual. Consulta léxica: https://dle.rae.es/yugo"
+  }
+}

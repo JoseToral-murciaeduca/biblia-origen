@@ -152,7 +152,12 @@
           "entryId": "metanoia",
           "form": "arrepentimiento"
         },
-        "; mas el que viene tras mí, más poderoso es que yo; los zapatos del cual yo no soy digno de llevar; él os bautizará en ",
+        "; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " el que viene tras mí, más poderoso es que yo; los zapatos del cual yo no soy digno de llevar; él os bautizará en ",
         {
           "entryId": "ruaj_haqodesh",
           "form": "Ruaj HaQodesh"
@@ -163,7 +168,17 @@
     {
       "verse": 12,
       "segments": [
-        "Su aventador en su mano está, y aventará su era: y allegará su trigo en el alfolí, y quemará la paja en fuego que nunca se apagará."
+        "Su ",
+        {
+          "entryId": "glosario_aventador",
+          "form": "aventador"
+        },
+        " en su mano está, y aventará su era: y allegará su trigo en el ",
+        {
+          "entryId": "glosario_alfolí",
+          "form": "alfolí"
+        },
+        ", y quemará la paja en fuego que nunca se apagará."
       ]
     },
     {
@@ -195,18 +210,31 @@
     {
       "verse": 14,
       "segments": [
-        "Mas ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ",
         {
           "entryId": "yojanan_bautista",
           "form": "Yojanan"
         },
-        " lo resistía mucho, diciendo: Yo he menester ser bautizado de ti, ¿y tú vienes a mí?"
+        " lo resistía mucho, diciendo: Yo he ",
+        {
+          "entryId": "glosario_menester",
+          "form": "menester"
+        },
+        " ser bautizado de ti, ¿y tú vienes a mí?"
       ]
     },
     {
       "verse": 15,
       "segments": [
-        "Empero respondiendo ",
+        {
+          "entryId": "glosario_empero",
+          "form": "Empero"
+        },
+        " respondiendo ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -222,7 +250,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        ", después que fue bautizado, subió luego del agua; y he aquí los cielos le fueron abiertos, y vio al Espíritu de ",
+        ", después que fue bautizado, subió luego del agua; y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " los cielos le fueron abiertos, y vio al Espíritu de ",
         {
           "entryId": "elohim",
           "form": "Elohim"
@@ -233,7 +266,12 @@
     {
       "verse": 17,
       "segments": [
-        "Y he aquí una voz de los cielos que decía: Este es mi Hijo amado, en el cual tengo contentamiento."
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " una voz de los cielos que decía: Este es mi Hijo amado, en el cual tengo contentamiento."
       ]
     }
   ]

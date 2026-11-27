@@ -13,13 +13,23 @@
     {
       "verse": 2,
       "segments": [
-        "Y les decía: La mies a la verdad es mucha, mas los obreros pocos; por tanto, rogad al Señor de la mies que envíe obreros a su mies."
+        "Y les decía: La mies a la verdad es mucha, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " los obreros pocos; por tanto, rogad al Señor de la mies que envíe obreros a su mies."
       ]
     },
     {
       "verse": 3,
       "segments": [
-        "Andad, he aquí yo os envío como corderos en medio de lobos."
+        "Andad, ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " yo os envío como corderos en medio de lobos."
       ]
     },
     {
@@ -61,13 +71,22 @@
     {
       "verse": 10,
       "segments": [
-        "Mas en cualquier ciudad donde entrareis, y no os recibieren, saliendo por sus calles, decid:"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " en cualquier ciudad donde entrareis, y no os recibieren, saliendo por sus calles, decid:"
       ]
     },
     {
       "verse": 11,
       "segments": [
-        "Aun el polvo que se nos ha pegado de vuestra ciudad a nuestros pies, sacudimos en vosotros: esto empero sabed, que el reino de los cielos se ha llegado a vosotros."
+        "Aun el polvo que se nos ha pegado de vuestra ciudad a nuestros pies, sacudimos en vosotros: esto ",
+        {
+          "entryId": "glosario_empero",
+          "form": "empero"
+        },
+        " sabed, que el reino de los cielos se ha llegado a vosotros."
       ]
     },
     {
@@ -79,7 +98,12 @@
     {
       "verse": 13,
       "segments": [
-        "¡Ay de ti, Corazín! ¡Ay de ti, Bethsaida! que si en Tiro y en Sidón hubieran sido hechas las maravillas que se han hecho en vosotras, ya días ha que, sentados en cilicio y ceniza, se habrían arrepentido."
+        "¡Ay de ti, Corazín! ¡Ay de ti, Bethsaida! que si en Tiro y en Sidón hubieran sido hechas las maravillas que se han hecho en vosotras, ya días ha que, sentados en ",
+        {
+          "entryId": "glosario_cilicio",
+          "form": "cilicio"
+        },
+        " y ceniza, se habrían arrepentido."
       ]
     },
     {
@@ -125,13 +149,21 @@
     {
       "verse": 19,
       "segments": [
-        "He aquí os doy potestad de hollar sobre las serpientes y sobre los escorpiones, y sobre toda fuerza del enemigo, y nada os dañará."
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        " os doy potestad de hollar sobre las serpientes y sobre los escorpiones, y sobre toda fuerza del enemigo, y nada os dañará."
       ]
     },
     {
       "verse": 20,
       "segments": [
-        "Mas no os gocéis de esto, que los espíritus se os sujetan; antes gozaos de que vuestros nombres están escritos en los cielos."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " no os gocéis de esto, que los espíritus se os sujetan; antes gozaos de que vuestros nombres están escritos en los cielos."
       ]
     },
     {
@@ -166,7 +198,12 @@
     {
       "verse": 25,
       "segments": [
-        "Y he aquí, un doctor de la ley se levantó, tentándole y diciendo: Maestro, ¿haciendo qué cosa poseeré la vida eterna?"
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        ", un doctor de la ley se levantó, tentándole y diciendo: Maestro, ¿haciendo qué cosa poseeré la vida eterna?"
       ]
     },
     {
@@ -190,7 +227,11 @@
     {
       "verse": 29,
       "segments": [
-        "Mas él, queriéndose justificar a sí mismo, dijo a ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " él, queriéndose justificar a sí mismo, dijo a ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -234,7 +275,16 @@
     {
       "verse": 33,
       "segments": [
-        "Mas un Samaritano que transitaba, viniendo cerca de él, y viéndole, fue movido a misericordia;"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " un ",
+        {
+          "entryId": "glosario_samaritano",
+          "form": "Samaritano"
+        },
+        " que transitaba, viniendo cerca de él, y viéndole, fue movido a misericordia;"
       ]
     },
     {
@@ -246,7 +296,12 @@
     {
       "verse": 35,
       "segments": [
-        "Y otro día al partir, sacó dos denarios, y diólos al huésped, y le dijo: Cuídamele; y todo lo que de más gastares, yo cuando vuelva te lo pagaré."
+        "Y otro día al partir, sacó dos ",
+        {
+          "entryId": "glosario_denario",
+          "form": "denarios"
+        },
+        ", y diólos al huésped, y le dijo: Cuídamele; y todo lo que de más gastares, yo cuando vuelva te lo pagaré."
       ]
     },
     {
@@ -296,7 +351,11 @@
     {
       "verse": 40,
       "segments": [
-        "Empero ",
+        {
+          "entryId": "glosario_empero",
+          "form": "Empero"
+        },
+        " ",
         {
           "entryId": "marta",
           "form": "Marta"
@@ -328,7 +387,11 @@
     {
       "verse": 42,
       "segments": [
-        "Empero una cosa es necesaria; y ",
+        {
+          "entryId": "glosario_empero",
+          "form": "Empero"
+        },
+        " una cosa es necesaria; y ",
         {
           "entryId": "miryam",
           "form": "Miryam"

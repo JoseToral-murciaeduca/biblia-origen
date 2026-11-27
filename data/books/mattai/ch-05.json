@@ -83,7 +83,12 @@
     {
       "verse": 12,
       "segments": [
-        "Gozaos y alegraos; porque vuestra merced es grande en los cielos: que así persiguieron a los profetas que fueron antes de vosotros."
+        "Gozaos y alegraos; porque vuestra ",
+        {
+          "entryId": "glosario_merced",
+          "form": "merced"
+        },
+        " es grande en los cielos: que así persiguieron a los profetas que fueron antes de vosotros."
       ]
     },
     {
@@ -101,7 +106,17 @@
     {
       "verse": 15,
       "segments": [
-        "Ni se enciende una lámpara y se pone debajo de un almud, mas sobre el candelero, y alumbra a todos los que están en casa."
+        "Ni se enciende una lámpara y se pone debajo de un ",
+        {
+          "entryId": "glosario_almud",
+          "form": "almud"
+        },
+        ", ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " sobre el candelero, y alumbra a todos los que están en casa."
       ]
     },
     {
@@ -130,7 +145,12 @@
     {
       "verse": 19,
       "segments": [
-        "De manera que cualquiera que infringiere uno de estos mandamientos muy pequeños, y así enseñare a los hombres, muy pequeño será llamado en el reino de los cielos: mas cualquiera que hiciere y enseñare, éste será llamado grande en el reino de los cielos."
+        "De manera que cualquiera que infringiere uno de estos mandamientos muy pequeños, y así enseñare a los hombres, muy pequeño será llamado en el reino de los cielos: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " cualquiera que hiciere y enseñare, éste será llamado grande en el reino de los cielos."
       ]
     },
     {
@@ -147,13 +167,22 @@
     {
       "verse": 21,
       "segments": [
-        "Oísteis que fue dicho a los antiguos: No matarás; mas cualquiera que matare, será culpado del juicio."
+        "Oísteis que fue dicho a los antiguos: No matarás; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " cualquiera que matare, será culpado del juicio."
       ]
     },
     {
       "verse": 22,
       "segments": [
-        "Mas yo os digo, que cualquiera que se enojare locamente con su hermano, será culpado del juicio; y cualquiera que dijere a su hermano, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " yo os digo, que cualquiera que se enojare locamente con su hermano, será culpado del juicio; y cualquiera que dijere a su hermano, ",
         {
           "entryId": "raka",
           "form": "Raka"
@@ -191,7 +220,12 @@
           "entryId": "amen",
           "form": "Amén"
         },
-        " te digo, que no saldrás de allí, hasta que pagues el último cuadrante."
+        " te digo, que no saldrás de allí, hasta que pagues el último ",
+        {
+          "entryId": "glosario_cuadrante",
+          "form": "cuadrante"
+        },
+        "."
       ]
     },
     {
@@ -203,7 +237,11 @@
     {
       "verse": 28,
       "segments": [
-        "Mas yo os digo, que cualquiera que mira a una mujer para codiciarla, ya adulteró con ella en su corazón."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " yo os digo, que cualquiera que mira a una mujer para codiciarla, ya adulteró con ella en su corazón."
       ]
     },
     {
@@ -237,19 +275,42 @@
     {
       "verse": 32,
       "segments": [
-        "Mas yo os digo, que el que repudiare a su mujer, fuera de causa de fornicación, hace que ella adultere; y el que se casare con la repudiada, comete adulterio."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " yo os digo, que el que repudiare a su mujer, fuera de causa de ",
+        {
+          "entryId": "glosario_fornicación",
+          "form": "fornicación"
+        },
+        ", hace que ella adultere; y el que se casare con la repudiada, comete ",
+        {
+          "entryId": "glosario_adulterio",
+          "form": "adulterio"
+        },
+        "."
       ]
     },
     {
       "verse": 33,
       "segments": [
-        "Además habéis oído que fue dicho a los antiguos: No te perjurarás; mas pagarás al Señor tus juramentos."
+        "Además habéis oído que fue dicho a los antiguos: No te perjurarás; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " pagarás al Señor tus juramentos."
       ]
     },
     {
       "verse": 34,
       "segments": [
-        "Mas yo os digo: No juréis en ninguna manera: ni por el cielo, porque es el trono de ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " yo os digo: No juréis en ninguna manera: ni por el cielo, porque es el trono de ",
         {
           "entryId": "elohim",
           "form": "Elohim"
@@ -277,7 +338,11 @@
     {
       "verse": 37,
       "segments": [
-        "Mas sea vuestro hablar: Sí, sí; No, no; porque lo que es más de esto, de mal procede."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " sea vuestro hablar: Sí, sí; No, no; porque lo que es más de esto, de mal procede."
       ]
     },
     {
@@ -289,7 +354,11 @@
     {
       "verse": 39,
       "segments": [
-        "Mas yo os digo: No resistáis al mal; antes a cualquiera que te hiriere en tu mejilla diestra, vuélvele también la otra;"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " yo os digo: No resistáis al mal; antes a cualquiera que te hiriere en tu mejilla diestra, vuélvele también la otra;"
       ]
     },
     {
@@ -319,7 +388,11 @@
     {
       "verse": 44,
       "segments": [
-        "Mas yo os digo: Amad a vuestros enemigos, bendecid a los que os maldicen, haced bien a los que os aborrecen, y orad por los que os ultrajan y os persiguen;"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " yo os digo: Amad a vuestros enemigos, bendecid a los que os maldicen, haced bien a los que os aborrecen, y orad por los que os ultrajan y os persiguen;"
       ]
     },
     {
@@ -331,13 +404,23 @@
     {
       "verse": 46,
       "segments": [
-        "Porque si amareis a los que os aman, ¿qué recompensa tendréis? ¿no hacen también lo mismo los publicanos?"
+        "Porque si amareis a los que os aman, ¿qué recompensa tendréis? ¿no hacen también lo mismo los ",
+        {
+          "entryId": "glosario_publicano",
+          "form": "publicanos"
+        },
+        "?"
       ]
     },
     {
       "verse": 47,
       "segments": [
-        "Y si abrazareis a vuestros hermanos solamente, ¿qué hacéis de más? ¿no hacen también así los Gentiles?"
+        "Y si abrazareis a vuestros hermanos solamente, ¿qué hacéis de más? ¿no hacen también así los ",
+        {
+          "entryId": "glosario_gentil",
+          "form": "Gentiles"
+        },
+        "?"
       ]
     },
     {

@@ -54,7 +54,17 @@
           "entryId": "miryam",
           "form": "Miryam"
         },
-        " tomó una libra de ungüento de nardo líquido de mucho precio, y ungió los pies de ",
+        " tomó una libra de ungüento de ",
+        {
+          "entryId": "glosario_nardo",
+          "form": "nardo"
+        },
+        " líquido de mucho precio, y ",
+        {
+          "entryId": "glosario_ungir",
+          "form": "ungió"
+        },
+        " los pies de ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -82,7 +92,11 @@
     {
       "verse": 6,
       "segments": [
-        "Mas dijo esto, no por el cuidado que él tenía de los pobres; sino porque era ladrón, y tenía la bolsa, y traía lo que se echaba en ella."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " dijo esto, no por el cuidado que él tenía de los pobres; sino porque era ladrón, y tenía la bolsa, y traía lo que se echaba en ella."
       ]
     },
     {
@@ -99,7 +113,12 @@
     {
       "verse": 8,
       "segments": [
-        "Porque a los pobres siempre los tenéis con vosotros, mas a mí no siempre me tenéis."
+        "Porque a los pobres siempre los tenéis con vosotros, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " a mí no siempre me tenéis."
       ]
     },
     {
@@ -110,7 +129,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        ", mas también por ver a ",
+        ", ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " también por ver a ",
         {
           "entryId": "elazar_betania",
           "form": "Elazar"
@@ -181,13 +205,23 @@
     {
       "verse": 15,
       "segments": [
-        "No temas, hija de Sión: he aquí tu Rey viene, sentado sobre un pollino de asna."
+        "No temas, hija de Sión: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " tu Rey viene, sentado sobre un pollino de asna."
       ]
     },
     {
       "verse": 16,
       "segments": [
-        "Estas cosas no las entendieron sus discípulos de primero: empero cuando ",
+        "Estas cosas no las entendieron sus discípulos de primero: ",
+        {
+          "entryId": "glosario_empero",
+          "form": "empero"
+        },
+        " cuando ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -203,7 +237,12 @@
           "entryId": "elazar_betania",
           "form": "Elazar"
         },
-        " del sepulcro, y le resucitó de los muertos."
+        " del ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        ", y le resucitó de los muertos."
       ]
     },
     {
@@ -215,12 +254,21 @@
     {
       "verse": 19,
       "segments": [
-        "Mas los ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " los ",
         {
           "entryId": "perushim",
           "form": "Perushim"
         },
-        " dijeron entre sí: ¿Veis que nada aprovecháis? he aquí, el mundo se va tras de él."
+        " dijeron entre sí: ¿Veis que nada aprovecháis? ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        ", el mundo se va tras de él."
       ]
     },
     {
@@ -295,7 +343,12 @@
     {
       "verse": 24,
       "segments": [
-        "De cierto, de cierto os digo, que si el grano de trigo no cae en la tierra y muere, él solo queda; mas si muriere, mucho fruto lleva."
+        "De cierto, de cierto os digo, que si el grano de trigo no cae en la tierra y muere, él solo queda; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " si muriere, mucho fruto lleva."
       ]
     },
     {
@@ -313,7 +366,12 @@
     {
       "verse": 27,
       "segments": [
-        "Ahora está turbada mi alma; ¿y qué diré? Padre, sálvame de esta hora. Mas por esto he venido en esta hora."
+        "Ahora está turbada mi alma; ¿y qué diré? Padre, sálvame de esta hora. ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " por esto he venido en esta hora."
       ]
     },
     {
@@ -336,7 +394,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        ", y dijo: No ha venido esta voz por mi causa, mas por causa de vosotros."
+        ", y dijo: No ha venido esta voz por mi causa, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " por causa de vosotros."
       ]
     },
     {
@@ -393,7 +456,11 @@
     {
       "verse": 37,
       "segments": [
-        "Empero habiendo hecho delante de ellos tantas señales, no creían en él."
+        {
+          "entryId": "glosario_empero",
+          "form": "Empero"
+        },
+        " habiendo hecho delante de ellos tantas señales, no creían en él."
       ]
     },
     {
@@ -438,7 +505,12 @@
     {
       "verse": 42,
       "segments": [
-        "Con todo eso, aun de los príncipes, muchos creyeron en él; mas por causa de los ",
+        "Con todo eso, aun de los príncipes, muchos creyeron en él; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " por causa de los ",
         {
           "entryId": "perushim",
           "form": "Perushim"
@@ -455,7 +527,11 @@
     {
       "verse": 44,
       "segments": [
-        "Mas ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -484,13 +560,23 @@
     {
       "verse": 48,
       "segments": [
-        "El que me desecha, y no recibe mis palabras, tiene quien le juzgue: la palabra que he hablado, ella le juzgará en el día postrero."
+        "El que me desecha, y no recibe mis palabras, tiene quien le juzgue: la palabra que he hablado, ella le juzgará en el día ",
+        {
+          "entryId": "glosario_postrero",
+          "form": "postrero"
+        },
+        "."
       ]
     },
     {
       "verse": 49,
       "segments": [
-        "Porque yo no he hablado de mí mismo: mas el Padre que me envió, él me dio mandamiento de lo que he de decir, y de lo que he de hablar."
+        "Porque yo no he hablado de mí mismo: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " el Padre que me envió, él me dio mandamiento de lo que he de decir, y de lo que he de hablar."
       ]
     },
     {

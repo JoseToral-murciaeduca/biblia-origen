@@ -30,13 +30,21 @@
     {
       "verse": 4,
       "segments": [
-        "Mas os digo, amigos míos: No temáis de los que matan el cuerpo, y después no tienen más que hacer."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " os digo, amigos míos: No temáis de los que matan el cuerpo, y después no tienen más que hacer."
       ]
     },
     {
       "verse": 5,
       "segments": [
-        "Mas os enseñaré a quién temáis: temed a aquel que después de haber quitado la vida, tiene poder de echar en la Gehenna: así os digo: a éste temed."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " os enseñaré a quién temáis: temed a aquel que después de haber quitado la vida, tiene poder de echar en la Gehenna: así os digo: a éste temed."
       ]
     },
     {
@@ -60,13 +68,22 @@
     {
       "verse": 9,
       "segments": [
-        "Mas el que me negare delante de los hombres, será negado delante de los ángeles de Dios."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " el que me negare delante de los hombres, será negado delante de los ángeles de Dios."
       ]
     },
     {
       "verse": 10,
       "segments": [
-        "Y todo aquel que dice palabra contra el Hijo del hombre, le será perdonado; mas al que blasfemare contra el ",
+        "Y todo aquel que dice palabra contra el Hijo del hombre, le será perdonado; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " al que blasfemare contra el ",
         {
           "entryId": "ruaj_haqodesh",
           "form": "Ruaj HaQodesh"
@@ -100,7 +117,11 @@
     {
       "verse": 14,
       "segments": [
-        "Mas él le dijo: Hombre, ¿quién me puso por juez o partidor sobre vosotros?"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " él le dijo: Hombre, ¿quién me puso por juez o partidor sobre vosotros?"
       ]
     },
     {
@@ -112,7 +133,12 @@
     {
       "verse": 16,
       "segments": [
-        "Y refirióles una parábola, diciendo: La heredad de un hombre rico había llevado mucho;"
+        "Y refirióles una ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábola"
+        },
+        ", diciendo: La heredad de un hombre rico había llevado mucho;"
       ]
     },
     {
@@ -124,7 +150,12 @@
     {
       "verse": 18,
       "segments": [
-        "Y dijo: Esto haré: derribaré mis alfolíes, y los edificaré mayores, y allí juntaré todos mis frutos y mis bienes;"
+        "Y dijo: Esto haré: derribaré mis ",
+        {
+          "entryId": "glosario_alfolí",
+          "form": "alfolíes"
+        },
+        ", y los edificaré mayores, y allí juntaré todos mis frutos y mis bienes;"
       ]
     },
     {
@@ -160,13 +191,23 @@
     {
       "verse": 24,
       "segments": [
-        "Considerad los cuervos, que ni siembran, ni siegan; que ni tienen cillero, ni alfolí; y Dios los alimenta. ¿Cuánto de más estima sois vosotros que las aves?"
+        "Considerad los cuervos, que ni siembran, ni siegan; que ni tienen cillero, ni ",
+        {
+          "entryId": "glosario_alfolí",
+          "form": "alfolí"
+        },
+        "; y Dios los alimenta. ¿Cuánto de más estima sois vosotros que las aves?"
       ]
     },
     {
       "verse": 25,
       "segments": [
-        "¿Y quién de vosotros podrá con afán añadir a su estatura un codo?"
+        "¿Y quién de vosotros podrá con afán añadir a su estatura un ",
+        {
+          "entryId": "glosario_codo",
+          "form": "codo"
+        },
+        "?"
       ]
     },
     {
@@ -202,7 +243,11 @@
     {
       "verse": 31,
       "segments": [
-        "Mas procurad el reino de Dios, y todas estas cosas os serán añadidas."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " procurad el reino de Dios, y todas estas cosas os serán añadidas."
       ]
     },
     {
@@ -250,7 +295,12 @@
     {
       "verse": 39,
       "segments": [
-        "Esto empero sabed, que si supiese el padre de familia a qué hora había de venir el ladrón, velaría ciertamente, y no dejaría minar su casa."
+        "Esto ",
+        {
+          "entryId": "glosario_empero",
+          "form": "empero"
+        },
+        " sabed, que si supiese el padre de familia a qué hora había de venir el ladrón, velaría ciertamente, y no dejaría minar su casa."
       ]
     },
     {
@@ -267,7 +317,12 @@
           "entryId": "simon_kefa",
           "form": "Kefa"
         },
-        " le dijo: Señor, ¿dices esta parábola a nosotros, o también a todos?"
+        " le dijo: Señor, ¿dices esta ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábola"
+        },
+        " a nosotros, o también a todos?"
       ]
     },
     {
@@ -291,7 +346,11 @@
     {
       "verse": 45,
       "segments": [
-        "Mas si el tal siervo dijere en su corazón: Mi señor tarda en venir: y comenzare a herir a los siervos y a las criadas, y a comer y a beber y a embriagarse;"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " si el tal siervo dijere en su corazón: Mi señor tarda en venir: y comenzare a herir a los siervos y a las criadas, y a comer y a beber y a embriagarse;"
       ]
     },
     {
@@ -309,7 +368,16 @@
     {
       "verse": 48,
       "segments": [
-        "Mas el que no entendió, e hizo cosas dignas de azotes, será azotado poco: porque a cualquiera que fue dado mucho, mucho será vuelto a demandar de él; y al que encomendaron mucho, más le será pedido."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " el que no entendió, e hizo cosas dignas de ",
+        {
+          "entryId": "glosario_azote",
+          "form": "azotes"
+        },
+        ", será azotado poco: porque a cualquiera que fue dado mucho, mucho será vuelto a demandar de él; y al que encomendaron mucho, más le será pedido."
       ]
     },
     {
@@ -321,13 +389,22 @@
     {
       "verse": 50,
       "segments": [
-        "Empero de bautismo me es necesario ser bautizado: y ¡cómo me angustio hasta que sea cumplido!"
+        {
+          "entryId": "glosario_empero",
+          "form": "Empero"
+        },
+        " de bautismo me es necesario ser bautizado: y ¡cómo me angustio hasta que sea cumplido!"
       ]
     },
     {
       "verse": 51,
       "segments": [
-        "¿Pensáis que he venido a la tierra a dar paz? No, os digo; mas disensión."
+        "¿Pensáis que he venido a la tierra a dar paz? No, os digo; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " disensión."
       ]
     },
     {
@@ -357,7 +434,12 @@
     {
       "verse": 56,
       "segments": [
-        "¡Hipócritas! Sabéis examinar la faz del cielo y de la tierra; ¿y cómo no reconocéis este tiempo?"
+        "¡",
+        {
+          "entryId": "glosario_hipócrita",
+          "form": "Hipócritas"
+        },
+        "! Sabéis examinar la faz del cielo y de la tierra; ¿y cómo no reconocéis este tiempo?"
       ]
     },
     {

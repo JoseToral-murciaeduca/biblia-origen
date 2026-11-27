@@ -62,13 +62,23 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        ": Mi tiempo aun no ha venido; mas vuestro tiempo siempre está presto."
+        ": Mi tiempo aun no ha venido; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " vuestro tiempo siempre está presto."
       ]
     },
     {
       "verse": 7,
       "segments": [
-        "No puede el mundo aborreceros a vosotros; mas a mí me aborrece, porque yo doy testimonio de él, que sus obras son malas."
+        "No puede el mundo aborreceros a vosotros; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " a mí me aborrece, porque yo doy testimonio de él, que sus obras son malas."
       ]
     },
     {
@@ -91,7 +101,11 @@
     {
       "verse": 10,
       "segments": [
-        "Mas como sus hermanos hubieron subido, entonces él también subió a la fiesta, no manifiestamente, sino como en secreto."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " como sus hermanos hubieron subido, entonces él también subió a la fiesta, no manifiestamente, sino como en secreto."
       ]
     },
     {
@@ -109,7 +123,11 @@
     {
       "verse": 13,
       "segments": [
-        "Mas ninguno hablaba abiertamente de él, por miedo de los Judíos."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ninguno hablaba abiertamente de él, por miedo de los Judíos."
       ]
     },
     {
@@ -149,7 +167,12 @@
     {
       "verse": 18,
       "segments": [
-        "El que habla de sí mismo, su propia gloria busca; mas el que busca la gloria del que le envió, éste es verdadero, y no hay en él injusticia."
+        "El que habla de sí mismo, su propia gloria busca; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " el que busca la gloria del que le envió, éste es verdadero, y no hay en él injusticia."
       ]
     },
     {
@@ -192,7 +215,12 @@
           "entryId": "moshe",
           "form": "Moshe"
         },
-        ", mas de los padres); y en ",
+        ", ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " de los padres); y en ",
         {
           "entryId": "shabbat",
           "form": "Shabbat"
@@ -224,7 +252,12 @@
     {
       "verse": 24,
       "segments": [
-        "No juzguéis según lo que parece, mas juzgad justo juicio."
+        "No juzguéis según lo que parece, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " juzgad justo juicio."
       ]
     },
     {
@@ -241,7 +274,12 @@
     {
       "verse": 26,
       "segments": [
-        "Y he aquí, habla públicamente, y no le dicen nada; ¿si habrán entendido verdaderamente los príncipes, que éste es el ",
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        ", habla públicamente, y no le dicen nada; ¿si habrán entendido verdaderamente los príncipes, que éste es el ",
         {
           "entryId": "mashiaj",
           "form": "Mashiaj"
@@ -252,7 +290,11 @@
     {
       "verse": 27,
       "segments": [
-        "Mas éste, sabemos de dónde es: y cuando viniere el ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " éste, sabemos de dónde es: y cuando viniere el ",
         {
           "entryId": "mashiaj",
           "form": "Mashiaj"
@@ -268,7 +310,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        " en el templo, enseñando y diciendo: Y a mí me conocéis, y sabéis de dónde soy; y no he venido de mí mismo; mas el que me envió es verdadero, al cual vosotros no conocéis."
+        " en el templo, enseñando y diciendo: Y a mí me conocéis, y sabéis de dónde soy; y no he venido de mí mismo; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " el que me envió es verdadero, al cual vosotros no conocéis."
       ]
     },
     {
@@ -280,7 +327,12 @@
     {
       "verse": 30,
       "segments": [
-        "Entonces procuraban prenderle; mas ninguno puso en él mano, porque aun no había venido su hora."
+        "Entonces procuraban prenderle; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " ninguno puso en él mano, porque aun no había venido su hora."
       ]
     },
     {
@@ -342,7 +394,11 @@
     {
       "verse": 37,
       "segments": [
-        "Mas en el postrer día grande de la fiesta, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " en el postrer día grande de la fiesta, ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -386,7 +442,12 @@
           "entryId": "mashiaj",
           "form": "Mashiaj"
         },
-        ". Algunos empero decían: ¿De ",
+        ". Algunos ",
+        {
+          "entryId": "glosario_empero",
+          "form": "empero"
+        },
+        " decían: ¿De ",
         {
           "entryId": "galil",
           "form": "Galil"
@@ -434,7 +495,12 @@
     {
       "verse": 44,
       "segments": [
-        "Y algunos de ellos querían prenderle; mas ninguno echó sobre él manos."
+        "Y algunos de ellos querían prenderle; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " ninguno echó sobre él manos."
       ]
     },
     {
@@ -479,7 +545,11 @@
     {
       "verse": 49,
       "segments": [
-        "Mas estos comunales que no saben la ley, malditos son."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " estos comunales que no saben la ley, malditos son."
       ]
     },
     {

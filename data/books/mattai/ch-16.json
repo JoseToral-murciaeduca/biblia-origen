@@ -23,19 +23,33 @@
     {
       "verse": 2,
       "segments": [
-        "Mas él respondiendo, les dijo: Cuando es la tarde del día, decís: Sereno; porque el cielo tiene arreboles."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " él respondiendo, les dijo: Cuando es la tarde del día, decís: Sereno; porque el cielo tiene arreboles."
       ]
     },
     {
       "verse": 3,
       "segments": [
-        "Y a la mañana: Hoy tempestad; porque tiene arreboles el cielo triste. Hipócritas, que sabéis hacer diferencia en la faz del cielo; ¿y en las señales de los tiempos no podéis?"
+        "Y a la mañana: Hoy tempestad; porque tiene arreboles el cielo triste. ",
+        {
+          "entryId": "glosario_hipócrita",
+          "form": "Hipócritas"
+        },
+        ", que sabéis hacer diferencia en la faz del cielo; ¿y en las señales de los tiempos no podéis?"
       ]
     },
     {
       "verse": 4,
       "segments": [
-        "La generación mala y adulterina demanda señal; mas señal no le será dada, sino la señal de ",
+        "La generación mala y adulterina demanda señal; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " señal no le será dada, sino la señal de ",
         {
           "entryId": "yonah",
           "form": "Yonah"
@@ -203,13 +217,22 @@
           "entryId": "simon_kefa",
           "form": "Shimón"
         },
-        ", hijo de Jonás; porque no te lo reveló carne ni sangre, mas mi Padre que está en los cielos."
+        ", hijo de Jonás; porque no te lo reveló carne ni sangre, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " mi Padre que está en los cielos."
       ]
     },
     {
       "verse": 18,
       "segments": [
-        "Mas yo también te digo, que tú eres ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " yo también te digo, que tú eres ",
         {
           "entryId": "simon_kefa",
           "form": "Kefa"

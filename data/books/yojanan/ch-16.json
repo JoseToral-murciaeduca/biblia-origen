@@ -25,13 +25,26 @@
     {
       "verse": 4,
       "segments": [
-        "Mas os he dicho esto, para que cuando aquella hora viniere, os acordéis que yo os lo había dicho. Esto empero no os lo dije al principio, porque yo estaba con vosotros."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " os he dicho esto, para que cuando aquella hora viniere, os acordéis que yo os lo había dicho. Esto ",
+        {
+          "entryId": "glosario_empero",
+          "form": "empero"
+        },
+        " no os lo dije al principio, porque yo estaba con vosotros."
       ]
     },
     {
       "verse": 5,
       "segments": [
-        "Mas ahora voy al que me envió; y ninguno de vosotros me pregunta: ¿Adónde vas?"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ahora voy al que me envió; y ninguno de vosotros me pregunta: ¿Adónde vas?"
       ]
     },
     {
@@ -43,12 +56,21 @@
     {
       "verse": 7,
       "segments": [
-        "Empero yo os digo la verdad: Os es necesario que yo vaya: porque si yo no fuese, el ",
+        {
+          "entryId": "glosario_empero",
+          "form": "Empero"
+        },
+        " yo os digo la verdad: Os es necesario que yo vaya: porque si yo no fuese, el ",
         {
           "entryId": "parakletos",
           "form": "Parákletos"
         },
-        " no vendría a vosotros; mas si yo fuere, os le enviaré."
+        " no vendría a vosotros; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " si yo fuere, os le enviaré."
       ]
     },
     {
@@ -78,7 +100,12 @@
     {
       "verse": 12,
       "segments": [
-        "Aun tengo muchas cosas que deciros, mas ahora no las podéis llevar."
+        "Aun tengo muchas cosas que deciros, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " ahora no las podéis llevar."
       ]
     },
     {
@@ -131,19 +158,34 @@
     {
       "verse": 20,
       "segments": [
-        "De cierto, de cierto os digo, que vosotros lloraréis y lamentaréis, y el mundo se alegrará: empero aunque vosotros estaréis tristes, vuestra tristeza se tornará en gozo."
+        "De cierto, de cierto os digo, que vosotros lloraréis y lamentaréis, y el mundo se alegrará: ",
+        {
+          "entryId": "glosario_empero",
+          "form": "empero"
+        },
+        " aunque vosotros estaréis tristes, vuestra tristeza se tornará en gozo."
       ]
     },
     {
       "verse": 21,
       "segments": [
-        "La mujer cuando pare, tiene dolor, porque es venida su hora; mas después que ha parido un niño, ya no se acuerda de la angustia, por el gozo de que haya nacido un hombre en el mundo."
+        "La mujer cuando pare, tiene dolor, porque es venida su hora; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " después que ha parido un niño, ya no se acuerda de la angustia, por el gozo de que haya nacido un hombre en el mundo."
       ]
     },
     {
       "verse": 22,
       "segments": [
-        "También, pues, vosotros ahora ciertamente tenéis tristeza; mas otra vez os veré, y se gozará vuestro corazón, y nadie quitará de vosotros vuestro gozo."
+        "También, pues, vosotros ahora ciertamente tenéis tristeza; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " otra vez os veré, y se gozará vuestro corazón, y nadie quitará de vosotros vuestro gozo."
       ]
     },
     {
@@ -185,7 +227,12 @@
     {
       "verse": 29,
       "segments": [
-        "Dícenle sus discípulos: He aquí, ahora hablas claramente, y ningún proverbio dices."
+        "Dícenle sus discípulos: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        ", ahora hablas claramente, y ningún proverbio dices."
       ]
     },
     {
@@ -208,13 +255,27 @@
     {
       "verse": 32,
       "segments": [
-        "He aquí, la hora viene, y ha venido, que seréis esparcidos cada uno por su parte, y me dejaréis solo: mas no estoy solo, porque el Padre está conmigo."
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        ", la hora viene, y ha venido, que seréis esparcidos cada uno por su parte, y me dejaréis solo: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " no estoy solo, porque el Padre está conmigo."
       ]
     },
     {
       "verse": 33,
       "segments": [
-        "Estas cosas os he hablado, para que en mí tengáis paz. En el mundo tendréis aflicción: mas confiad, yo he vencido al mundo."
+        "Estas cosas os he hablado, para que en mí tengáis paz. En el mundo tendréis aflicción: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " confiad, yo he vencido al mundo."
       ]
     }
   ]

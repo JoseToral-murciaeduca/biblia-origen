@@ -13,13 +13,23 @@
     {
       "verse": 2,
       "segments": [
-        "Y les enseñaba por parábolas muchas cosas, y les decía en su doctrina:"
+        "Y les enseñaba por ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábolas"
+        },
+        " muchas cosas, y les decía en su doctrina:"
       ]
     },
     {
       "verse": 3,
       "segments": [
-        "Oid: He aquí, el sembrador salió a sembrar."
+        "Oid: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        ", el sembrador salió a sembrar."
       ]
     },
     {
@@ -37,7 +47,11 @@
     {
       "verse": 6,
       "segments": [
-        "Mas salido el sol, se quemó; y por cuanto no tenía raíz, se secó."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " salido el sol, se quemó; y por cuanto no tenía raíz, se secó."
       ]
     },
     {
@@ -61,7 +75,12 @@
     {
       "verse": 10,
       "segments": [
-        "Y cuando estuvo solo, le preguntaron los que estaban cerca de él con los doce, sobre la parábola."
+        "Y cuando estuvo solo, le preguntaron los que estaban cerca de él con los doce, sobre la ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábola"
+        },
+        "."
       ]
     },
     {
@@ -72,7 +91,17 @@
           "entryId": "basileia",
           "form": "reino"
         },
-        " de Dios; mas a los que están fuera, por parábolas todas las cosas;"
+        " de Dios; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " a los que están fuera, por ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábolas"
+        },
+        " todas las cosas;"
       ]
     },
     {
@@ -84,7 +113,17 @@
     {
       "verse": 13,
       "segments": [
-        "Y les dijo: ¿No sabéis esta parábola? ¿Cómo, pues, entenderéis todas las parábolas?"
+        "Y les dijo: ¿No sabéis esta ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábola"
+        },
+        "? ¿Cómo, pues, entenderéis todas las ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábolas"
+        },
+        "?"
       ]
     },
     {
@@ -96,7 +135,12 @@
     {
       "verse": 15,
       "segments": [
-        "Y éstos son los de junto al camino: en los que la palabra es sembrada: mas después que la oyeron, luego viene ",
+        "Y éstos son los de junto al camino: en los que la palabra es sembrada: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " después que la oyeron, luego viene ",
         {
           "entryId": "satan",
           "form": "Satán"
@@ -113,7 +157,11 @@
     {
       "verse": 17,
       "segments": [
-        "Mas no tienen raíz en sí, antes son temporales, que en levantándose la tribulación o la persecución por causa de la palabra, luego se escandalizan."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " no tienen raíz en sí, antes son temporales, que en levantándose la tribulación o la persecución por causa de la palabra, luego se escandalizan."
       ]
     },
     {
@@ -125,7 +173,11 @@
     {
       "verse": 19,
       "segments": [
-        "Mas los cuidados de este siglo, y el engaño de las riquezas, y las codicias que hay en las otras cosas, entrando, ahogan la palabra, y se hace infructuosa."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " los cuidados de este siglo, y el engaño de las riquezas, y las codicias que hay en las otras cosas, entrando, ahogan la palabra, y se hace infructuosa."
       ]
     },
     {
@@ -137,7 +189,12 @@
     {
       "verse": 21,
       "segments": [
-        "También les dijo: ¿Tráese la antorcha para ser puesta debajo del almud, o debajo de la cama? ¿No es para ser puesta en el candelero?"
+        "También les dijo: ¿Tráese la antorcha para ser puesta debajo del ",
+        {
+          "entryId": "glosario_almud",
+          "form": "almud"
+        },
+        ", o debajo de la cama? ¿No es para ser puesta en el candelero?"
       ]
     },
     {
@@ -201,7 +258,12 @@
           "entryId": "basileia",
           "form": "reino"
         },
-        " de Dios? ¿o con qué parábola le compararemos?"
+        " de Dios? ¿o con qué ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábola"
+        },
+        " le compararemos?"
       ]
     },
     {
@@ -213,19 +275,38 @@
     {
       "verse": 32,
       "segments": [
-        "Mas después de sembrado, sube, y se hace la mayor de todas las legumbres, y echa grandes ramas, de tal manera que las aves del cielo puedan morar bajo su sombra."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " después de sembrado, sube, y se hace la mayor de todas las legumbres, y echa grandes ramas, de tal manera que las aves del cielo puedan morar bajo su sombra."
       ]
     },
     {
       "verse": 33,
       "segments": [
-        "Y con muchas tales parábolas les hablaba la palabra, conforme a lo que podían oir."
+        "Y con muchas tales ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábolas"
+        },
+        " les hablaba la palabra, conforme a lo que podían oir."
       ]
     },
     {
       "verse": 34,
       "segments": [
-        "Y sin parábola no les hablaba; mas a sus discípulos en particular declaraba todo."
+        "Y sin ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábola"
+        },
+        " no les hablaba; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " a sus discípulos en particular declaraba todo."
       ]
     },
     {

@@ -25,7 +25,12 @@
     {
       "verse": 4,
       "segments": [
-        "Y perdónanos nuestros pecados, porque también nosotros perdonamos a todos los que nos deben. Y no nos metas en tentación, mas líbranos del malo."
+        "Y perdónanos nuestros pecados, porque también nosotros perdonamos a todos los que nos deben. Y no nos metas en tentación, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " líbranos del malo."
       ]
     },
     {
@@ -49,7 +54,12 @@
     {
       "verse": 8,
       "segments": [
-        "Os digo, que aunque no se levante a darle por ser su amigo, cierto por su importunidad se levantará, y le dará todo lo que habrá menester."
+        "Os digo, que aunque no se levante a darle por ser su amigo, cierto por su importunidad se levantará, y le dará todo lo que habrá ",
+        {
+          "entryId": "glosario_menester",
+          "form": "menester"
+        },
+        "."
       ]
     },
     {
@@ -96,7 +106,11 @@
     {
       "verse": 15,
       "segments": [
-        "Mas algunos de ellos decían: En Beelzebub, príncipe de los demonios, echa fuera los demonios."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " algunos de ellos decían: En Beelzebub, príncipe de los demonios, echa fuera los demonios."
       ]
     },
     {
@@ -108,7 +122,11 @@
     {
       "verse": 17,
       "segments": [
-        "Mas él, conociendo los pensamientos de ellos, les dijo: Todo reino dividido contra sí mismo, es asolado; y una casa dividida contra sí misma, cae."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " él, conociendo los pensamientos de ellos, les dijo: Todo reino dividido contra sí mismo, es asolado; y una casa dividida contra sí misma, cae."
       ]
     },
     {
@@ -131,7 +149,11 @@
     {
       "verse": 20,
       "segments": [
-        "Mas si por el dedo de Dios echo yo fuera los demonios, cierto el reino de Dios ha llegado a vosotros."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " si por el dedo de Dios echo yo fuera los demonios, cierto el reino de Dios ha llegado a vosotros."
       ]
     },
     {
@@ -143,7 +165,11 @@
     {
       "verse": 22,
       "segments": [
-        "Mas si sobreviniendo otro más fuerte que él, le venciere, le toma todas sus armas en que confiaba, y reparte sus despojos."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " si sobreviniendo otro más fuerte que él, le venciere, le toma todas sus armas en que confiaba, y reparte sus despojos."
       ]
     },
     {
@@ -167,7 +193,12 @@
     {
       "verse": 26,
       "segments": [
-        "Entonces va, y toma otros siete espíritus peores que él; y entrados, habitan allí: y lo postrero del tal hombre es peor que lo primero."
+        "Entonces va, y toma otros siete espíritus peores que él; y entrados, habitan allí: y lo ",
+        {
+          "entryId": "glosario_postrero",
+          "form": "postrero"
+        },
+        " del tal hombre es peor que lo primero."
       ]
     },
     {
@@ -185,7 +216,12 @@
     {
       "verse": 29,
       "segments": [
-        "Y juntándose las gentes a él, comenzó a decir: Esta generación mala es: señal busca, mas señal no le será dada, sino la señal de Jonás."
+        "Y juntándose las gentes a él, comenzó a decir: Esta generación mala es: señal busca, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " señal no le será dada, sino la señal de Jonás."
       ]
     },
     {
@@ -197,25 +233,45 @@
     {
       "verse": 31,
       "segments": [
-        "La reina del Austro se levantará en juicio con los hombres de esta generación, y los condenará; porque vino de los fines de la tierra a oir la sabiduría de Salomón; y he aquí más que Salomón en este lugar."
+        "La reina del Austro se levantará en juicio con los hombres de esta generación, y los condenará; porque vino de los fines de la tierra a oir la sabiduría de Salomón; y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " más que Salomón en este lugar."
       ]
     },
     {
       "verse": 32,
       "segments": [
-        "Los hombres de Nínive se levantarán en juicio con esta generación, y la condenarán; porque a la predicación de Jonás se arrepintieron; y he aquí más que Jonás en este lugar."
+        "Los hombres de Nínive se levantarán en juicio con esta generación, y la condenarán; porque a la predicación de Jonás se arrepintieron; y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " más que Jonás en este lugar."
       ]
     },
     {
       "verse": 33,
       "segments": [
-        "Nadie pone en oculto la antorcha encendida, ni debajo del almud, sino en el candelero, para que los que entran vean la luz."
+        "Nadie pone en oculto la antorcha encendida, ni debajo del ",
+        {
+          "entryId": "glosario_almud",
+          "form": "almud"
+        },
+        ", sino en el candelero, para que los que entran vean la luz."
       ]
     },
     {
       "verse": 34,
       "segments": [
-        "La antorcha del cuerpo es el ojo: pues si tu ojo fuere simple, también todo tu cuerpo será resplandeciente; mas si fuere malo, también tu cuerpo será tenebroso."
+        "La antorcha del cuerpo es el ojo: pues si tu ojo fuere simple, también todo tu cuerpo será resplandeciente; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " si fuere malo, también tu cuerpo será tenebroso."
       ]
     },
     {
@@ -255,7 +311,12 @@
           "entryId": "perushim",
           "form": "Perushim"
         },
-        " lo de fuera del vaso y del plato limpiáis; mas lo interior de vosotros está lleno de rapiña y de maldad."
+        " lo de fuera del vaso y del plato limpiáis; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " lo interior de vosotros está lleno de rapiña y de maldad."
       ]
     },
     {
@@ -267,18 +328,36 @@
     {
       "verse": 41,
       "segments": [
-        "Empero de lo que os resta, dad limosna; y he aquí todo os será limpio."
+        {
+          "entryId": "glosario_empero",
+          "form": "Empero"
+        },
+        " de lo que os resta, dad limosna; y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " todo os será limpio."
       ]
     },
     {
       "verse": 42,
       "segments": [
-        "Mas ¡ay de vosotros, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ¡ay de vosotros, ",
         {
           "entryId": "perushim",
           "form": "Perushim"
         },
-        "! que diezmáis la menta, y la ruda, y toda hortaliza; mas el juicio y la caridad de Dios pasáis de largo. Pues estas cosas era necesario hacer, y no dejar las otras."
+        "! que diezmáis la menta, y la ruda, y toda hortaliza; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " el juicio y la caridad de Dios pasáis de largo. Pues estas cosas era necesario hacer, y no dejar las otras."
       ]
     },
     {
@@ -300,7 +379,17 @@
           "entryId": "perushim",
           "form": "Perushim"
         },
-        ", hipócritas! que sois como sepulcros que no se ven, y los hombres que andan encima no lo saben."
+        ", ",
+        {
+          "entryId": "glosario_hipócrita",
+          "form": "hipócritas"
+        },
+        "! que sois como ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcros"
+        },
+        " que no se ven, y los hombres que andan encima no lo saben."
       ]
     },
     {
@@ -312,19 +401,39 @@
     {
       "verse": 46,
       "segments": [
-        "Y él dijo: ¡Ay de vosotros también, doctores de la ley! que cargáis a los hombres con cargas que no pueden llevar; mas vosotros ni aun con un dedo tocáis las cargas."
+        "Y él dijo: ¡Ay de vosotros también, doctores de la ley! que cargáis a los hombres con cargas que no pueden llevar; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " vosotros ni aun con un dedo tocáis las cargas."
       ]
     },
     {
       "verse": 47,
       "segments": [
-        "¡Ay de vosotros! que edificáis los sepulcros de los profetas, y los mataron vuestros padres."
+        "¡Ay de vosotros! que edificáis los ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcros"
+        },
+        " de los profetas, y los mataron vuestros padres."
       ]
     },
     {
       "verse": 48,
       "segments": [
-        "De cierto dais testimonio que consentís en los hechos de vuestros padres; porque a la verdad ellos los mataron, mas vosotros edificáis sus sepulcros."
+        "De cierto dais testimonio que consentís en los hechos de vuestros padres; porque a la verdad ellos los mataron, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " vosotros edificáis sus ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcros"
+        },
+        "."
       ]
     },
     {

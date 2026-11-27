@@ -25,7 +25,11 @@
     {
       "verse": 4,
       "segments": [
-        "Mas las prudentes tomaron aceite en sus vasos, juntamente con sus lámparas."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " las prudentes tomaron aceite en sus vasos, juntamente con sus lámparas."
       ]
     },
     {
@@ -37,7 +41,12 @@
     {
       "verse": 6,
       "segments": [
-        "Y a la media noche fue oído un clamor: He aquí, el esposo viene; salid a recibirle."
+        "Y a la media noche fue oído un clamor: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        ", el esposo viene; salid a recibirle."
       ]
     },
     {
@@ -55,7 +64,11 @@
     {
       "verse": 9,
       "segments": [
-        "Mas las prudentes respondieron, diciendo: Porque no nos falte a nosotras y a vosotras, id antes a los que venden, y comprad para vosotras."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " las prudentes respondieron, diciendo: Porque no nos falte a nosotras y a vosotras, id antes a los que venden, y comprad para vosotras."
       ]
     },
     {
@@ -73,7 +86,11 @@
     {
       "verse": 12,
       "segments": [
-        "Mas respondiendo él, dijo: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " respondiendo él, dijo: ",
         {
           "entryId": "amen",
           "form": "Amén"
@@ -96,13 +113,28 @@
     {
       "verse": 15,
       "segments": [
-        "Y a éste dio cinco talentos, y al otro dos, y al otro uno: a cada uno conforme a su facultad; y luego se partió lejos."
+        "Y a éste dio cinco ",
+        {
+          "entryId": "glosario_talento",
+          "form": "talentos"
+        },
+        ", y al otro dos, y al otro uno: a cada uno conforme a su facultad; y luego se partió lejos."
       ]
     },
     {
       "verse": 16,
       "segments": [
-        "Y el que había recibido cinco talentos se fue, y granjeó con ellos, e hizo otros cinco talentos."
+        "Y el que había recibido cinco ",
+        {
+          "entryId": "glosario_talento",
+          "form": "talentos"
+        },
+        " se fue, y granjeó con ellos, e hizo otros cinco ",
+        {
+          "entryId": "glosario_talento",
+          "form": "talentos"
+        },
+        "."
       ]
     },
     {
@@ -114,7 +146,11 @@
     {
       "verse": 18,
       "segments": [
-        "Mas el que había recibido uno, fue y cavó en la tierra, y escondió el dinero de su señor."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " el que había recibido uno, fue y cavó en la tierra, y escondió el dinero de su señor."
       ]
     },
     {
@@ -126,7 +162,32 @@
     {
       "verse": 20,
       "segments": [
-        "Y llegando el que había recibido cinco talentos, trajo otros cinco talentos, diciendo: Señor, cinco talentos me entregaste; he aquí otros cinco talentos he ganado sobre ellos."
+        "Y llegando el que había recibido cinco ",
+        {
+          "entryId": "glosario_talento",
+          "form": "talentos"
+        },
+        ", trajo otros cinco ",
+        {
+          "entryId": "glosario_talento",
+          "form": "talentos"
+        },
+        ", diciendo: Señor, cinco ",
+        {
+          "entryId": "glosario_talento",
+          "form": "talentos"
+        },
+        " me entregaste; ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " otros cinco ",
+        {
+          "entryId": "glosario_talento",
+          "form": "talentos"
+        },
+        " he ganado sobre ellos."
       ]
     },
     {
@@ -138,7 +199,27 @@
     {
       "verse": 22,
       "segments": [
-        "Y llegando también el que había recibido dos talentos, dijo: Señor, dos talentos me entregaste; he aquí otros dos talentos he ganado sobre ellos."
+        "Y llegando también el que había recibido dos ",
+        {
+          "entryId": "glosario_talento",
+          "form": "talentos"
+        },
+        ", dijo: Señor, dos ",
+        {
+          "entryId": "glosario_talento",
+          "form": "talentos"
+        },
+        " me entregaste; ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " otros dos ",
+        {
+          "entryId": "glosario_talento",
+          "form": "talentos"
+        },
+        " he ganado sobre ellos."
       ]
     },
     {
@@ -150,13 +231,28 @@
     {
       "verse": 24,
       "segments": [
-        "Y llegando también el que había recibido un talento, dijo: Señor, te conocía que eres hombre duro, que siegas donde no sembraste, y recoges donde no esparciste;"
+        "Y llegando también el que había recibido un ",
+        {
+          "entryId": "glosario_talento",
+          "form": "talento"
+        },
+        ", dijo: Señor, te conocía que eres hombre duro, que siegas donde no sembraste, y recoges donde no esparciste;"
       ]
     },
     {
       "verse": 25,
       "segments": [
-        "Y tuve miedo, y fui, y escondí tu talento en la tierra: he aquí tienes lo que es tuyo."
+        "Y tuve miedo, y fui, y escondí tu ",
+        {
+          "entryId": "glosario_talento",
+          "form": "talento"
+        },
+        " en la tierra: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " tienes lo que es tuyo."
       ]
     },
     {
@@ -174,7 +270,17 @@
     {
       "verse": 28,
       "segments": [
-        "Quitadle pues el talento, y dadlo al que tiene diez talentos."
+        "Quitadle pues el ",
+        {
+          "entryId": "glosario_talento",
+          "form": "talento"
+        },
+        ", y dadlo al que tiene diez ",
+        {
+          "entryId": "glosario_talento",
+          "form": "talentos"
+        },
+        "."
       ]
     },
     {

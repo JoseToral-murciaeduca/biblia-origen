@@ -1,0 +1,418 @@
+{
+  "bookId": "loukas",
+  "titleEntryId": "book_loukas",
+  "bookTitle": "Loukas",
+  "chapter": 7,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "Y COMO acabó todas sus palabras oyéndole el pueblo, entró en ",
+        {
+          "entryId": "kefar_najum",
+          "form": "Kefar Najum"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Y el siervo de un centurión, al cual tenía él en estima, estaba enfermo y a punto de morir."
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Y como oyó hablar de ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", envió a él los ancianos de los Judíos, rogándole que viniese y librase a su siervo."
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Y viniendo ellos a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", rogáronle con diligencia, diciéndole: Porque es digno de concederle esto;"
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Que ama nuestra nación, y él nos edificó una sinagoga."
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " fue con ellos. Mas como ya no estuviesen lejos de su casa, envió el centurión amigos a él, diciéndole: Señor, no te incomodes, que no soy digno que entres debajo de mi tejado;"
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "Por lo cual ni aun me tuve por digno de venir a ti; mas di la palabra, y mi siervo será sano."
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Porque también yo soy hombre puesto en potestad, que tengo debajo de mí soldados; y digo a éste: Ve, y va; y al otro: Ven, y viene; y a mi siervo: Haz esto, y lo hace."
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Lo cual oyendo ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", se maravilló de él, y vuelto, dijo a las gentes que le seguían: Os digo que ni aun en Israel he hallado tanta fe."
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Y vueltos a casa los que habían sido enviados, hallaron sano al siervo que había estado enfermo."
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "Y aconteció después, que él iba a la ciudad que se llama ",
+        {
+          "entryId": "naim",
+          "form": "Nain"
+        },
+        ", e iban con él muchos de sus discípulos, y gran compañía."
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Y como llegó cerca de la puerta de la ciudad, he aquí que sacaban fuera a un difunto, unigénito de su madre, la cual también era viuda: y había con ella grande compañía de la ciudad."
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Y como el Señor la vio, compadecióse de ella, y le dice: No llores."
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Y acercándose, tocó el féretro: y los que lo llevaban, pararon. Y dice: Mancebo, a ti digo, levántate."
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Entonces se incorporó el que había muerto, y comenzó a hablar. Y dióle a su madre."
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "Y todos tuvieron miedo, y glorificaban a Dios, diciendo: Que un gran profeta se ha levantado entre nosotros; y que Dios ha visitado a su pueblo."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Y salió esta fama de él por toda ",
+        {
+          "entryId": "yehuda_region",
+          "form": "Yehudá"
+        },
+        ", y por toda la tierra de alrededor."
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Y sus discípulos dieron a ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        " las nuevas de todas estas cosas: y llamó ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        " a dos de sus discípulos,"
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Y envió a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", diciendo: ¿Eres tú aquél que había de venir, o esperaremos a otro?"
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Y como los hombres vinieron a él, dijeron: ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan el Bautista"
+        },
+        " nos ha enviado a ti, diciendo: ¿Eres tú aquél que había de venir, o esperaremos a otro?"
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "Y en la misma hora sanó a muchos de enfermedades y plagas, y de espíritus malos; y a muchos ciegos dio la vista."
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "Y respondiendo ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", les dijo: Id, dad las nuevas a ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        " de lo que habéis visto y oído: que los ciegos ven, los cojos andan, los leprosos son limpiados, los sordos oyen, los muertos resucitan, a los pobres es anunciado el ",
+        {
+          "entryId": "euangelion",
+          "form": "evangelio"
+        },
+        ":"
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "Y bienaventurado es el que no fuere escandalizado en mí."
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "Y como se fueron los mensajeros de ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        ", comenzó a hablar de ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        " a las gentes: ¿Qué salisteis a ver al desierto? ¿una caña que es agitada por el viento?"
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "Mas ¿qué salisteis a ver? ¿un hombre cubierto de vestidos delicados? He aquí, los que están en vestido precioso, y viven en delicias, en los palacios de los reyes están."
+      ]
+    },
+    {
+      "verse": 26,
+      "segments": [
+        "Mas ¿qué salisteis a ver? ¿un profeta? También os digo, y aun más que profeta."
+      ]
+    },
+    {
+      "verse": 27,
+      "segments": [
+        "Este es de quien está escrito: He aquí, envío mi mensajero delante de tu faz, el cual aparejará tu camino delante de ti."
+      ]
+    },
+    {
+      "verse": 28,
+      "segments": [
+        "Porque os digo que entre los nacidos de mujeres, no hay mayor profeta que ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan el Bautista"
+        },
+        ": mas el más pequeño en el reino de los cielos es mayor que él."
+      ]
+    },
+    {
+      "verse": 29,
+      "segments": [
+        "Y todo el pueblo oyéndole, y los publicanos, justificaron a Dios, bautizándose con el bautismo de ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 30,
+      "segments": [
+        "Mas los ",
+        {
+          "entryId": "perushim",
+          "form": "Perushim"
+        },
+        " y los sabios de la ley, desecharon el consejo de Dios contra sí mismos, no siendo bautizados de él."
+      ]
+    },
+    {
+      "verse": 31,
+      "segments": [
+        "Y dice el Señor: ¿A quién, pues, compararé los hombres de esta generación, y a qué son semejantes?"
+      ]
+    },
+    {
+      "verse": 32,
+      "segments": [
+        "Semejantes son a los muchachos sentados en la plaza, y que dan voces los unos a los otros, y dicen: Os tañimos con flautas, y no bailasteis: os endechamos, y no llorasteis."
+      ]
+    },
+    {
+      "verse": 33,
+      "segments": [
+        "Porque vino ",
+        {
+          "entryId": "yojanan_bautista",
+          "form": "Yojanan el Bautista"
+        },
+        ", que ni comía pan, ni bebía vino, y decís: Demonio tiene."
+      ]
+    },
+    {
+      "verse": 34,
+      "segments": [
+        "Vino el Hijo del hombre, que come y bebe, y decís: He aquí un hombre comilón, y bebedor de vino, amigo de publicanos y de pecadores."
+      ]
+    },
+    {
+      "verse": 35,
+      "segments": [
+        "Mas la sabiduría es justificada de todos sus hijos."
+      ]
+    },
+    {
+      "verse": 36,
+      "segments": [
+        "Y le rogó uno de los ",
+        {
+          "entryId": "perushim",
+          "form": "Perushim"
+        },
+        ", que comiese con él. Y entrado en casa del Fariseo, sentóse a la mesa."
+      ]
+    },
+    {
+      "verse": 37,
+      "segments": [
+        "Y he aquí una mujer que había sido pecadora en la ciudad, como entendió que estaba a la mesa en casa de aquel Fariseo, trajo un alabastro de ungüento,"
+      ]
+    },
+    {
+      "verse": 38,
+      "segments": [
+        "Y estando detrás a sus pies, comenzó llorando a regar con lágrimas sus pies, y los limpiaba con los cabellos de su cabeza; y besaba sus pies, y los ungía con el ungüento."
+      ]
+    },
+    {
+      "verse": 39,
+      "segments": [
+        "Y como vio esto el Fariseo que le había convidado, habló entre sí, diciendo: Este, si fuera profeta, conocería quién y cuál es la mujer que le toca, que es pecadora."
+      ]
+    },
+    {
+      "verse": 40,
+      "segments": [
+        "Entonces respondiendo ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", le dijo: Simón, una cosa tengo que decirte. Y él dice: Di, Maestro."
+      ]
+    },
+    {
+      "verse": 41,
+      "segments": [
+        "Un acreedor tenía dos deudores: el uno le debía quinientos denarios, y el otro cincuenta;"
+      ]
+    },
+    {
+      "verse": 42,
+      "segments": [
+        "Y no teniendo ellos de qué pagar, perdonó a ambos. Di, pues, ¿cuál de éstos le amará más?"
+      ]
+    },
+    {
+      "verse": 43,
+      "segments": [
+        "Y respondiendo Simón, dijo: Pienso que aquél al cual perdonó más. Y él le dijo: Rectamente has juzgado."
+      ]
+    },
+    {
+      "verse": 44,
+      "segments": [
+        "Y vuelto a la mujer, dijo a Simón: ¿Ves esta mujer? Entré en tu casa, no diste agua para mis pies; mas ésta ha regado mis pies con lágrimas, y los ha limpiado con los cabellos."
+      ]
+    },
+    {
+      "verse": 45,
+      "segments": [
+        "No me diste beso, mas ésta, desde que entré, no ha cesado de besar mis pies."
+      ]
+    },
+    {
+      "verse": 46,
+      "segments": [
+        "No ungiste mi cabeza con óleo; mas ésta ha ungido con ungüento mis pies."
+      ]
+    },
+    {
+      "verse": 47,
+      "segments": [
+        "Por lo cual te digo que sus muchos pecados son perdonados, porque amó mucho; mas al que se perdona poco, poco ama."
+      ]
+    },
+    {
+      "verse": 48,
+      "segments": [
+        "Y a ella dijo: Los pecados te son perdonados."
+      ]
+    },
+    {
+      "verse": 49,
+      "segments": [
+        "Y los que estaban juntamente sentados a la mesa, comenzaron a decir entre sí: ¿Quién es éste, que también perdona pecados?"
+      ]
+    },
+    {
+      "verse": 50,
+      "segments": [
+        "Y dijo a la mujer: Tu fe te ha salvado, ve en paz."
+      ]
+    }
+  ]
+}

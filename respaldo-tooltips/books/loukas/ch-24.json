@@ -1,0 +1,446 @@
+{
+  "bookId": "loukas",
+  "titleEntryId": "book_loukas",
+  "bookTitle": "Loukas",
+  "chapter": 24,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "Y EL primer día de la semana, muy de mañana, vinieron al sepulcro, trayendo las drogas aromáticas que habían aparejado, y algunas otras mujeres con ellas."
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Y hallaron la piedra revuelta del sepulcro."
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Y entrando, no hallaron el cuerpo del Señor ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Y aconteció, que estando ellas espantadas de esto, he aquí se pararon junto a ellas dos varones con vestiduras resplandecientes;"
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Y como tuviesen ellas temor, y bajasen el rostro a tierra, les dijeron: ¿Por qué buscáis entre los muertos al que vive?"
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "No está aquí, mas ha resucitado: acordaos de lo que os habló, cuando aun estaba en ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        ","
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "Diciendo: Es menester que el Hijo del hombre sea entregado en manos de hombres pecadores, y que sea crucificado, y resucite al tercer día."
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Entonces ellas se acordaron de sus palabras,"
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Y volviendo del sepulcro, dieron nuevas de todas estas cosas a los once, y a todos los demás."
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Y eran ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        " Magdalena, y ",
+        {
+          "entryId": "yojana",
+          "form": "Yojana"
+        },
+        ", y ",
+        {
+          "entryId": "miryam",
+          "form": "Miryam"
+        },
+        " madre de Jacobo, y las demás con ellas, las que dijeron estas cosas a los apóstoles."
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "Mas a ellos les parecían como locura las palabras de ellas, y no las creyeron."
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Pero levantándose ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Kefa"
+        },
+        ", corrió al sepulcro: y como miró dentro, vio solos los lienzos echados; y se fue maravillándose de lo que había sucedido."
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Y he aquí, dos de ellos iban el mismo día a una aldea que estaba de ",
+        {
+          "entryId": "yerushalayim",
+          "form": "Yerushalayim"
+        },
+        " sesenta estadios, llamada ",
+        {
+          "entryId": "emmaus",
+          "form": "Emmaous"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "E iban hablando entre sí de todas aquellas cosas que habían acaecido."
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Y aconteció que yendo hablando entre sí, y preguntándose el uno al otro, el mismo ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " se llegó, e iba con ellos juntamente."
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "Mas los ojos de ellos estaban embargados, para que no le conociesen."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Y díjoles: ¿Qué pláticas son estas que tratáis entre vosotros andando, y estáis tristes?"
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Y respondiendo el uno, que se llamaba ",
+        {
+          "entryId": "kleopas",
+          "form": "Kleopas"
+        },
+        ", le dijo: ¿Tú sólo peregrino eres en ",
+        {
+          "entryId": "yerushalayim",
+          "form": "Yerushalayim"
+        },
+        ", y no has sabido las cosas que en ella han acontecido estos días?"
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "Entonces él les dijo: ¿Qué cosas? Y ellos le dijeron: De ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " Nazareno, el cual fue varón profeta, poderoso en obra y en palabra delante de Dios y de todo el pueblo;"
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Y cómo le entregaron los príncipes de los sacerdotes y nuestros príncipes a condenación de muerte, y le crucificaron."
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "Mas nosotros esperábamos que él era el que había de redimir a Israel: y ahora sobre todo esto, hoy es el tercer día que esto ha acontecido."
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "Aunque también unas mujeres de los nuestros nos han espantado, las cuales antes del día fueron al sepulcro:"
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "Y no hallando su cuerpo, vinieron diciendo que también habían visto visión de ángeles, los cuales dijeron que él vive."
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "Y fueron algunos de los nuestros al sepulcro, y hallaron así como las mujeres habían dicho; mas a él no le vieron."
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "Entonces él les dijo: ¡Oh insensatos, y tardos de corazón para creer todo lo que los profetas han dicho!"
+      ]
+    },
+    {
+      "verse": 26,
+      "segments": [
+        "¿No era necesario que el ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        " padeciera estas cosas, y que entrara en su gloria?"
+      ]
+    },
+    {
+      "verse": 27,
+      "segments": [
+        "Y comenzando desde ",
+        {
+          "entryId": "moshe",
+          "form": "Moshe"
+        },
+        ", y de todos los profetas, declarábales en todas las Escrituras lo que de él decían."
+      ]
+    },
+    {
+      "verse": 28,
+      "segments": [
+        "Y llegaron a la aldea a donde iban: y él hizo como que iba más lejos."
+      ]
+    },
+    {
+      "verse": 29,
+      "segments": [
+        "Mas ellos le detuvieron por fuerza, diciendo: Quédate con nosotros, porque se hace tarde, y el día ya ha declinado. Entró pues a estarse con ellos."
+      ]
+    },
+    {
+      "verse": 30,
+      "segments": [
+        "Y aconteció, que estando sentado con ellos a la mesa, tomando el pan, bendijo, y partió, y dióles."
+      ]
+    },
+    {
+      "verse": 31,
+      "segments": [
+        "Entonces fueron abiertos los ojos de ellos, y le conocieron; mas él se desapareció de los ojos de ellos."
+      ]
+    },
+    {
+      "verse": 32,
+      "segments": [
+        "Y decían el uno al otro: ¿No ardía nuestro corazón en nosotros, mientras nos hablaba en el camino, y cuando nos abría las Escrituras?"
+      ]
+    },
+    {
+      "verse": 33,
+      "segments": [
+        "Y levantándose en la misma hora, tornáronse a ",
+        {
+          "entryId": "yerushalayim",
+          "form": "Yerushalayim"
+        },
+        ", y hallaron a los once reunidos, y a los que estaban con ellos."
+      ]
+    },
+    {
+      "verse": 34,
+      "segments": [
+        "Que decían: Ha resucitado el Señor verdaderamente, y ha aparecido a ",
+        {
+          "entryId": "simon_kefa",
+          "form": "Shimón"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 35,
+      "segments": [
+        "Entonces ellos contaban las cosas que les habían acontecido en el camino, y cómo había sido conocido de ellos al partir el pan."
+      ]
+    },
+    {
+      "verse": 36,
+      "segments": [
+        "Y entre tanto que ellos hablaban estas cosas, él se puso en medio de ellos, y les dijo: Paz a vosotros."
+      ]
+    },
+    {
+      "verse": 37,
+      "segments": [
+        "Entonces ellos espantados y asombrados, pensaban que veían espíritu."
+      ]
+    },
+    {
+      "verse": 38,
+      "segments": [
+        "Mas él les dice: ¿Por qué estáis turbados, y suben pensamientos a vuestros corazones?"
+      ]
+    },
+    {
+      "verse": 39,
+      "segments": [
+        "Mirad mis manos y mis pies, que yo mismo soy: palpad, y ved; que el espíritu ni tiene carne ni huesos, como veis que yo tengo."
+      ]
+    },
+    {
+      "verse": 40,
+      "segments": [
+        "Y en diciendo esto, les mostró las manos y los pies."
+      ]
+    },
+    {
+      "verse": 41,
+      "segments": [
+        "Y no creyéndolo aún ellos de gozo, y maravillados, díjoles: ¿Tenéis aquí algo de comer?"
+      ]
+    },
+    {
+      "verse": 42,
+      "segments": [
+        "Entonces ellos le presentaron parte de un pez asado, y un panal de miel."
+      ]
+    },
+    {
+      "verse": 43,
+      "segments": [
+        "Y él tomó, y comió delante de ellos."
+      ]
+    },
+    {
+      "verse": 44,
+      "segments": [
+        "Y él les dijo: Estas son las palabras que os hablé, estando aún con vosotros: que era necesario que se cumpliesen todas las cosas que están escritas de mí en la ley de ",
+        {
+          "entryId": "moshe",
+          "form": "Moshe"
+        },
+        ", y en los profetas, y en los salmos."
+      ]
+    },
+    {
+      "verse": 45,
+      "segments": [
+        "Entonces les abrió el sentido, para que entendiesen las Escrituras;"
+      ]
+    },
+    {
+      "verse": 46,
+      "segments": [
+        "Y díjoles: Así está escrito, y así fue necesario que el ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        " padeciese, y resucitase de los muertos al tercer día;"
+      ]
+    },
+    {
+      "verse": 47,
+      "segments": [
+        "Y que se predicase en su nombre el ",
+        {
+          "entryId": "metanoia",
+          "form": "arrepentimiento"
+        },
+        " y la remisión de pecados en todas las naciones, comenzando de ",
+        {
+          "entryId": "yerushalayim",
+          "form": "Yerushalayim"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 48,
+      "segments": [
+        "Y vosotros sois testigos de estas cosas."
+      ]
+    },
+    {
+      "verse": 49,
+      "segments": [
+        "Y he aquí, yo enviaré la promesa de mi Padre sobre vosotros: mas vosotros asentad en la ciudad de ",
+        {
+          "entryId": "yerushalayim",
+          "form": "Yerushalayim"
+        },
+        ", hasta que seáis investidos de potencia de lo alto."
+      ]
+    },
+    {
+      "verse": 50,
+      "segments": [
+        "Y sacólos fuera hasta ",
+        {
+          "entryId": "beit_ania",
+          "form": "Beit Ania"
+        },
+        ", y alzando sus manos, los bendijo."
+      ]
+    },
+    {
+      "verse": 51,
+      "segments": [
+        "Y aconteció que bendiciéndolos, se fue de ellos; y era llevado arriba al cielo."
+      ]
+    },
+    {
+      "verse": 52,
+      "segments": [
+        "Y ellos, después de haberle adorado, se volvieron a ",
+        {
+          "entryId": "yerushalayim",
+          "form": "Yerushalayim"
+        },
+        " con gran gozo;"
+      ]
+    },
+    {
+      "verse": 53,
+      "segments": [
+        "Y estaban siempre en el templo, alabando y bendiciendo a Dios. ",
+        {
+          "entryId": "amen",
+          "form": "Amén"
+        },
+        "."
+      ]
+    }
+  ]
+}

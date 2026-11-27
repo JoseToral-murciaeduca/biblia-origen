@@ -25,13 +25,23 @@
     {
       "verse": 4,
       "segments": [
-        "O ¿cómo dirás a tu hermano: Espera, echaré de tu ojo la mota, y he aquí la viga en tu ojo?"
+        "O ¿cómo dirás a tu hermano: Espera, echaré de tu ojo la mota, y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " la viga en tu ojo?"
       ]
     },
     {
       "verse": 5,
       "segments": [
-        "¡Hipócrita! echa primero la viga de tu ojo, y entonces mirarás en echar la mota del ojo de tu hermano."
+        "¡",
+        {
+          "entryId": "glosario_hipócrita",
+          "form": "Hipócrita"
+        },
+        "! echa primero la viga de tu ojo, y entonces mirarás en echar la mota del ojo de tu hermano."
       ]
     },
     {
@@ -91,7 +101,12 @@
     {
       "verse": 15,
       "segments": [
-        "Y guardaos de los falsos profetas, que vienen a vosotros con vestidos de ovejas, mas de dentro son lobos rapaces."
+        "Y guardaos de los falsos profetas, que vienen a vosotros con vestidos de ovejas, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " de dentro son lobos rapaces."
       ]
     },
     {
@@ -103,7 +118,12 @@
     {
       "verse": 17,
       "segments": [
-        "Así, todo buen árbol lleva buenos frutos; mas el árbol maleado lleva malos frutos."
+        "Así, todo buen árbol lleva buenos frutos; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " el árbol maleado lleva malos frutos."
       ]
     },
     {
@@ -127,7 +147,12 @@
     {
       "verse": 21,
       "segments": [
-        "No todo el que me dice: Señor, Señor, entrará en el reino de los cielos: mas el que hiciere la voluntad de mi Padre que está en los cielos."
+        "No todo el que me dice: Señor, Señor, entrará en el reino de los cielos: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " el que hiciere la voluntad de mi Padre que está en los cielos."
       ]
     },
     {

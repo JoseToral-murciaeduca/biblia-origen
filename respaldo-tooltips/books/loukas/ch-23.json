@@ -1,0 +1,561 @@
+{
+  "bookId": "loukas",
+  "titleEntryId": "book_loukas",
+  "bookTitle": "Loukas",
+  "chapter": 23,
+  "verses": [
+    {
+      "verse": 1,
+      "segments": [
+        "LEVANTÁNDOSE entonces toda la multitud de ellos, lleváronle a ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 2,
+      "segments": [
+        "Y comenzaron a acusarle, diciendo: A éste hemos hallado que pervierte la nación, y que veda dar tributo a César, diciendo que él es el ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        ", el rey."
+      ]
+    },
+    {
+      "verse": 3,
+      "segments": [
+        "Entonces ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        " le preguntó, diciendo: ¿Eres tú el Rey de los Judíos? Y respondiéndole él, dijo: Tú lo dices."
+      ]
+    },
+    {
+      "verse": 4,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        " dijo a los príncipes de los sacerdotes, y a las gentes: Ninguna culpa hallo en este hombre."
+      ]
+    },
+    {
+      "verse": 5,
+      "segments": [
+        "Mas ellos porfiaban, diciendo: Alborota al pueblo, enseñando por toda ",
+        {
+          "entryId": "yehuda_region",
+          "form": "Yehudá"
+        },
+        ", comenzando desde ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        " hasta aquí."
+      ]
+    },
+    {
+      "verse": 6,
+      "segments": [
+        "Entonces ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        ", oyendo de ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        ", preguntó si el hombre era Galileo."
+      ]
+    },
+    {
+      "verse": 7,
+      "segments": [
+        "Y como entendió que era de la jurisdicción de ",
+        {
+          "entryId": "herodes",
+          "form": "Herodes"
+        },
+        ", le remitió a ",
+        {
+          "entryId": "herodes",
+          "form": "Herodes"
+        },
+        ", el cual también estaba en ",
+        {
+          "entryId": "yerushalayim",
+          "form": "Yerushalayim"
+        },
+        " en aquellos días."
+      ]
+    },
+    {
+      "verse": 8,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "herodes",
+          "form": "Herodes"
+        },
+        ", viendo a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", holgóse mucho, porque hacía mucho que deseaba verle; porque había oído de él muchas cosas, y tenía esperanza que le vería hacer alguna señal."
+      ]
+    },
+    {
+      "verse": 9,
+      "segments": [
+        "Y le preguntaba con muchas palabras; mas él nada le respondió:"
+      ]
+    },
+    {
+      "verse": 10,
+      "segments": [
+        "Y estaban los príncipes de los sacerdotes y los escribas acusándole con gran porfía."
+      ]
+    },
+    {
+      "verse": 11,
+      "segments": [
+        "Mas ",
+        {
+          "entryId": "herodes",
+          "form": "Herodes"
+        },
+        " con su corte le menospreció, y escarneció, vistiéndole de una ropa rica; y volvióle a enviar a ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 12,
+      "segments": [
+        "Y fueron hechos amigos entre sí ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        " y ",
+        {
+          "entryId": "herodes",
+          "form": "Herodes"
+        },
+        " en el mismo día; porque antes eran enemigos entre sí."
+      ]
+    },
+    {
+      "verse": 13,
+      "segments": [
+        "Entonces ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        ", convocando los príncipes de los sacerdotes, y los magistrados, y el pueblo,"
+      ]
+    },
+    {
+      "verse": 14,
+      "segments": [
+        "Les dijo: Me habéis presentado a éste por hombre que desvía al pueblo: y he aquí, preguntando yo delante de vosotros, no he hallado culpa alguna en este hombre de aquéllas de que le acusáis."
+      ]
+    },
+    {
+      "verse": 15,
+      "segments": [
+        "Y ni aun ",
+        {
+          "entryId": "herodes",
+          "form": "Herodes"
+        },
+        "; porque os remití a él, y he aquí, ninguna cosa digna de muerte ha hecho."
+      ]
+    },
+    {
+      "verse": 16,
+      "segments": [
+        "Le soltaré, pues, castigado."
+      ]
+    },
+    {
+      "verse": 17,
+      "segments": [
+        "Y tenía necesidad de soltarles uno en cada fiesta."
+      ]
+    },
+    {
+      "verse": 18,
+      "segments": [
+        "Mas toda la multitud dio voces a una, diciendo: Quita a éste, y suéltanos a ",
+        {
+          "entryId": "bar_abba",
+          "form": "Bar-Abba"
+        },
+        ":"
+      ]
+    },
+    {
+      "verse": 19,
+      "segments": [
+        "(El cual había sido echado en la cárcel por una sedición hecha en la ciudad, y una muerte.)"
+      ]
+    },
+    {
+      "verse": 20,
+      "segments": [
+        "Y hablóles otra vez ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        ", queriendo soltar a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 21,
+      "segments": [
+        "Pero ellos volvieron a dar voces, diciendo: Crucifícale, crucifícale."
+      ]
+    },
+    {
+      "verse": 22,
+      "segments": [
+        "Y él les dijo la tercera vez: ¿Pues qué mal ha hecho éste? Ninguna culpa de muerte he hallado en él: le castigaré, pues, y le soltaré."
+      ]
+    },
+    {
+      "verse": 23,
+      "segments": [
+        "Mas ellos instaban a grandes voces, pidiendo que fuese crucificado. Y las voces de ellos y de los príncipes de los sacerdotes crecían."
+      ]
+    },
+    {
+      "verse": 24,
+      "segments": [
+        "Entonces ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        " juzgó que se hiciese lo que ellos pedían;"
+      ]
+    },
+    {
+      "verse": 25,
+      "segments": [
+        "Y les soltó a aquél que había sido echado en la cárcel por sedición y una muerte, al cual habían pedido; y entregó a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " a la voluntad de ellos."
+      ]
+    },
+    {
+      "verse": 26,
+      "segments": [
+        "Y llevándole, tomaron a un Simón Cireneo, que venía del campo, y le pusieron encima la cruz para que la llevase tras ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 27,
+      "segments": [
+        "Y le seguía una grande multitud de pueblo, y de mujeres, las cuales le lloraban y lamentaban."
+      ]
+    },
+    {
+      "verse": 28,
+      "segments": [
+        "Mas ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", vuelto a ellas, les dice: Hijas de ",
+        {
+          "entryId": "yerushalayim",
+          "form": "Yerushalayim"
+        },
+        ", no me lloréis a mí, mas llorad por vosotras mismas, y por vuestros hijos."
+      ]
+    },
+    {
+      "verse": 29,
+      "segments": [
+        "Porque he aquí vendrán días en que dirán: Bienaventuradas las estériles, y los vientres que no engendraron, y los pechos que no criaron."
+      ]
+    },
+    {
+      "verse": 30,
+      "segments": [
+        "Entonces comenzarán a decir a los montes: Caed sobre nosotros: y a los collados: Cubridnos."
+      ]
+    },
+    {
+      "verse": 31,
+      "segments": [
+        "Porque si en el árbol verde hacen estas cosas, ¿en el seco, qué se hará?"
+      ]
+    },
+    {
+      "verse": 32,
+      "segments": [
+        "Y llevaban también con él otros dos, malhechores, a ser muertos."
+      ]
+    },
+    {
+      "verse": 33,
+      "segments": [
+        "Y como vinieron al lugar que se llama de la Calavera, le crucificaron allí, y a los malhechores, uno a la derecha, y otro a la izquierda."
+      ]
+    },
+    {
+      "verse": 34,
+      "segments": [
+        "Y ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " decía: Padre, perdónalos, porque no saben lo que hacen. Y partiendo sus vestidos, echaron suertes."
+      ]
+    },
+    {
+      "verse": 35,
+      "segments": [
+        "Y el pueblo estaba mirando; y se burlaban de él los príncipes con ellos, diciendo: A otros hizo salvos: sálvese a sí, si éste es el Mesías, el escogido de Dios."
+      ]
+    },
+    {
+      "verse": 36,
+      "segments": [
+        "Escarnecían de él también los soldados, llegándose y presentándole vinagre,"
+      ]
+    },
+    {
+      "verse": 37,
+      "segments": [
+        "Y diciendo: Si tú eres el Rey de los Judíos, sálvate a ti mismo."
+      ]
+    },
+    {
+      "verse": 38,
+      "segments": [
+        "Y había también sobre él un título escrito con letras griegas, y latinas, y hebraicas: ESTE ES EL REY DE LOS JUDIOS."
+      ]
+    },
+    {
+      "verse": 39,
+      "segments": [
+        "Y uno de los malhechores que estaban colgados, le injuriaba, diciendo: Si tú eres el ",
+        {
+          "entryId": "mashiaj",
+          "form": "Mashiaj"
+        },
+        ", sálvate a ti mismo y a nosotros."
+      ]
+    },
+    {
+      "verse": 40,
+      "segments": [
+        "Y respondiendo el otro, reprendióle, diciendo: ¿Ni aun tú temes a Dios, estando en la misma condenación?"
+      ]
+    },
+    {
+      "verse": 41,
+      "segments": [
+        "Y nosotros, a la verdad, justamente padecemos; porque recibimos lo que merecieron nuestros hechos: mas éste ningún mal hizo."
+      ]
+    },
+    {
+      "verse": 42,
+      "segments": [
+        "Y dijo a ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ": Acuérdate de mí cuando vinieres a tu reino."
+      ]
+    },
+    {
+      "verse": 43,
+      "segments": [
+        "Entonces ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        " le dijo: De cierto te digo, que hoy estarás conmigo en el ",
+        {
+          "entryId": "paradeisos",
+          "form": "Parádeisos"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 44,
+      "segments": [
+        "Y cuando era como la hora de sexta, fueron hechas tinieblas sobre toda la tierra hasta la hora de nona."
+      ]
+    },
+    {
+      "verse": 45,
+      "segments": [
+        "Y el sol se obscureció: y el velo del templo se rompió por medio."
+      ]
+    },
+    {
+      "verse": 46,
+      "segments": [
+        "Entonces ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        ", clamando a gran voz, dijo: Padre, en tus manos encomiendo mi espíritu. Y habiendo dicho esto, espiró."
+      ]
+    },
+    {
+      "verse": 47,
+      "segments": [
+        "Y como el centurión vio lo que había acontecido, dio gloria a Dios, diciendo: Verdaderamente este hombre era justo."
+      ]
+    },
+    {
+      "verse": 48,
+      "segments": [
+        "Y toda la multitud de los que estaban presentes a este espectáculo, viendo lo que había acontecido, se volvían hiriendo sus pechos."
+      ]
+    },
+    {
+      "verse": 49,
+      "segments": [
+        "Mas todos sus conocidos, y las mujeres que le habían seguido desde ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        ", estaban lejos mirando estas cosas."
+      ]
+    },
+    {
+      "verse": 50,
+      "segments": [
+        "Y he aquí un varón llamado ",
+        {
+          "entryId": "yosef",
+          "form": "Yosef"
+        },
+        ", el cual era senador, varón bueno y justo,"
+      ]
+    },
+    {
+      "verse": 51,
+      "segments": [
+        "(El cual no había consentido en el consejo ni en los hechos de ellos), de Arimatea, ciudad de la ",
+        {
+          "entryId": "yehuda_region",
+          "form": "Yehudá"
+        },
+        ", el cual también esperaba el reino de Dios;"
+      ]
+    },
+    {
+      "verse": 52,
+      "segments": [
+        "Este llegó a ",
+        {
+          "entryId": "pilatus",
+          "form": "Pilatus"
+        },
+        ", y pidió el cuerpo de ",
+        {
+          "entryId": "yeshua",
+          "form": "Yeshua"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 53,
+      "segments": [
+        "Y quitado, lo envolvió en una sábana, y le puso en un sepulcro abierto en una peña, en el cual ninguno había aún sido puesto."
+      ]
+    },
+    {
+      "verse": 54,
+      "segments": [
+        "Y era día de la víspera de la ",
+        {
+          "entryId": "pesaj",
+          "form": "Pesaj"
+        },
+        "; y estaba para rayar el ",
+        {
+          "entryId": "shabbat",
+          "form": "Shabbat"
+        },
+        "."
+      ]
+    },
+    {
+      "verse": 55,
+      "segments": [
+        "Y las mujeres que con él habían venido de ",
+        {
+          "entryId": "galil",
+          "form": "Galil"
+        },
+        ", siguieron también y vieron el sepulcro, y cómo fue puesto su cuerpo."
+      ]
+    },
+    {
+      "verse": 56,
+      "segments": [
+        "Y vueltas, aparejaron drogas aromáticas y ungüentos; y reposaron el ",
+        {
+          "entryId": "shabbat",
+          "form": "Shabbat"
+        },
+        ", conforme al mandamiento."
+      ]
+    }
+  ],
+  "textualNotes": [
+    {
+      "verse": 34,
+      "note": "La oración de perdón al comienzo de 23:34 presenta variantes de inclusión; se conserva RV1909.",
+      "source": "https://openwordbible.org/variants/"
+    }
+  ]
+}

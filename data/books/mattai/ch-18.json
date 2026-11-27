@@ -58,7 +58,12 @@
     {
       "verse": 7,
       "segments": [
-        "¡Ay del mundo por los escándalos! porque necesario es que vengan escándalos; mas ¡ay de aquel hombre por el cual viene el escándalo!"
+        "¡Ay del mundo por los escándalos! porque necesario es que vengan escándalos; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " ¡ay de aquel hombre por el cual viene el escándalo!"
       ]
     },
     {
@@ -122,7 +127,11 @@
     {
       "verse": 16,
       "segments": [
-        "Mas si no te oyere, toma aún contigo uno o dos, para que en boca de dos o de tres testigos conste toda palabra."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " si no te oyere, toma aún contigo uno o dos, para que en boca de dos o de tres testigos conste toda palabra."
       ]
     },
     {
@@ -138,7 +147,12 @@
           "entryId": "ekklesia",
           "form": "iglesia"
         },
-        ", tenle por étnico y publicano."
+        ", tenle por étnico y ",
+        {
+          "entryId": "glosario_publicano",
+          "form": "publicano"
+        },
+        "."
       ]
     },
     {
@@ -181,7 +195,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        " le dice: No te digo hasta siete, mas aun hasta setenta veces siete."
+        " le dice: No te digo hasta siete, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " aun hasta setenta veces siete."
       ]
     },
     {
@@ -193,13 +212,22 @@
     {
       "verse": 24,
       "segments": [
-        "Y comenzando a hacer cuentas, le fue presentado uno que le debía diez mil talentos."
+        "Y comenzando a hacer cuentas, le fue presentado uno que le debía diez mil ",
+        {
+          "entryId": "glosario_talento",
+          "form": "talentos"
+        },
+        "."
       ]
     },
     {
       "verse": 25,
       "segments": [
-        "Mas a éste, no pudiendo pagar, mandó su señor venderle, y a su mujer e hijos, con todo lo que tenía, y que se le pagase."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " a éste, no pudiendo pagar, mandó su señor venderle, y a su mujer e hijos, con todo lo que tenía, y que se le pagase."
       ]
     },
     {
@@ -217,7 +245,12 @@
     {
       "verse": 28,
       "segments": [
-        "Y saliendo aquel siervo, halló a uno de sus consiervos, que le debía cien denarios; y trabando de él, le ahogaba, diciendo: Págame lo que debes."
+        "Y saliendo aquel siervo, halló a uno de sus consiervos, que le debía cien ",
+        {
+          "entryId": "glosario_denario",
+          "form": "denarios"
+        },
+        "; y trabando de él, le ahogaba, diciendo: Págame lo que debes."
       ]
     },
     {
@@ -229,7 +262,11 @@
     {
       "verse": 30,
       "segments": [
-        "Mas él no quiso; sino fue, y le echó en la cárcel hasta que pagase la deuda."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " él no quiso; sino fue, y le echó en la cárcel hasta que pagase la deuda."
       ]
     },
     {

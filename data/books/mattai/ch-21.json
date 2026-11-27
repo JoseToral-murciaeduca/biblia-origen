@@ -29,7 +29,12 @@
     {
       "verse": 3,
       "segments": [
-        "Y si alguno os dijere algo, decid: El Señor los ha menester. Y luego los dejará."
+        "Y si alguno os dijere algo, decid: El Señor los ha ",
+        {
+          "entryId": "glosario_menester",
+          "form": "menester"
+        },
+        ". Y luego los dejará."
       ]
     },
     {
@@ -41,7 +46,17 @@
     {
       "verse": 5,
       "segments": [
-        "Decid a la hija de Sión: He aquí, tu Rey viene a ti, manso, y sentado sobre una asna, y sobre un pollino, hijo de animal de yugo."
+        "Decid a la hija de Sión: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        ", tu Rey viene a ti, manso, y sentado sobre una asna, y sobre un pollino, hijo de animal de ",
+        {
+          "entryId": "glosario_yugo",
+          "form": "yugo"
+        },
+        "."
       ]
     },
     {
@@ -144,7 +159,12 @@
     {
       "verse": 13,
       "segments": [
-        "Y les dice: Escrito está: Mi casa, casa de oración será llamada; mas vosotros cueva de ladrones la habéis hecho."
+        "Y les dice: Escrito está: Mi casa, casa de oración será llamada; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " vosotros cueva de ladrones la habéis hecho."
       ]
     },
     {
@@ -156,7 +176,11 @@
     {
       "verse": 15,
       "segments": [
-        "Mas los príncipes de los sacerdotes y los escribas, viendo las maravillas que hacía, y a los muchachos aclamando en el templo y diciendo: ¡",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " los príncipes de los sacerdotes y los escribas, viendo las maravillas que hacía, y a los muchachos aclamando en el templo y diciendo: ¡",
         {
           "entryId": "hosanna",
           "form": "Hoshia na"
@@ -222,7 +246,12 @@
           "entryId": "amen",
           "form": "Amén"
         },
-        " os digo, que si tuviereis fe, y no dudareis, no sólo haréis esto de la higuera: mas si a este monte dijereis: Quítate y échate en la mar, será hecho."
+        " os digo, que si tuviereis fe, y no dudareis, no sólo haréis esto de la higuera: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " si a este monte dijereis: Quítate y échate en la mar, será hecho."
       ]
     },
     {
@@ -284,13 +313,22 @@
     {
       "verse": 28,
       "segments": [
-        "Mas, ¿qué os parece? Un hombre tenía dos hijos, y llegando al primero, le dijo: Hijo, ve hoy a trabajar en mi viña."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        ", ¿qué os parece? Un hombre tenía dos hijos, y llegando al primero, le dijo: Hijo, ve hoy a trabajar en mi viña."
       ]
     },
     {
       "verse": 29,
       "segments": [
-        "Y respondiendo él, dijo: No quiero; mas después, arrepentido, fue."
+        "Y respondiendo él, dijo: No quiero; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " después, arrepentido, fue."
       ]
     },
     {
@@ -312,7 +350,12 @@
           "entryId": "amen",
           "form": "Amén"
         },
-        " os digo, que los publicanos y las rameras os van delante al reino de ",
+        " os digo, que los ",
+        {
+          "entryId": "glosario_publicano",
+          "form": "publicanos"
+        },
+        " y las rameras os van delante al reino de ",
         {
           "entryId": "elohim",
           "form": "Elohim"
@@ -328,13 +371,28 @@
           "entryId": "yojanan_bautista",
           "form": "Yojanan"
         },
-        " en camino de justicia, y no le creísteis; y los publicanos y las rameras le creyeron; y vosotros, viendo esto, no os arrepentisteis después para creerle."
+        " en camino de justicia, y no le creísteis; y los ",
+        {
+          "entryId": "glosario_publicano",
+          "form": "publicanos"
+        },
+        " y las rameras le creyeron; y vosotros, viendo esto, no os arrepentisteis después para creerle."
       ]
     },
     {
       "verse": 33,
       "segments": [
-        "Oid otra parábola: Fue un hombre, padre de familia, el cual plantó una viña; y la cercó de vallado, y cavó en ella un lagar, y edificó una torre, y la dio a renta a labradores, y se partió lejos."
+        "Oid otra ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábola"
+        },
+        ": Fue un hombre, padre de familia, el cual plantó una viña; y la cercó de vallado, y cavó en ella un ",
+        {
+          "entryId": "glosario_lagar",
+          "form": "lagar"
+        },
+        ", y edificó una torre, y la dio a renta a labradores, y se partió lejos."
       ]
     },
     {
@@ -346,7 +404,11 @@
     {
       "verse": 35,
       "segments": [
-        "Mas los labradores, tomando a los siervos, al uno hirieron, y al otro mataron, y al otro apedrearon."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " los labradores, tomando a los siervos, al uno hirieron, y al otro mataron, y al otro apedrearon."
       ]
     },
     {
@@ -364,7 +426,11 @@
     {
       "verse": 38,
       "segments": [
-        "Mas los labradores, viendo al hijo, dijeron entre sí: Este es el heredero; venid, matémosle, y tomemos su heredad."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " los labradores, viendo al hijo, dijeron entre sí: Este es el heredero; venid, matémosle, y tomemos su heredad."
       ]
     },
     {
@@ -421,7 +487,12 @@
           "entryId": "perushim",
           "form": "Perushim"
         },
-        " sus parábolas, entendieron que hablaba de ellos."
+        " sus ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábolas"
+        },
+        ", entendieron que hablaba de ellos."
       ]
     },
     {

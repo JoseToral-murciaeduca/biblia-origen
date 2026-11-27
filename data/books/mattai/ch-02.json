@@ -22,7 +22,12 @@
           "entryId": "yehuda_region",
           "form": "Yehudá"
         },
-        " en días del rey Herodes, he aquí unos magos vinieron del oriente a ",
+        " en días del rey Herodes, ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " unos magos vinieron del oriente a ",
         {
           "entryId": "yerushalayim",
           "form": "Yerushalayim"
@@ -105,7 +110,12 @@
     {
       "verse": 9,
       "segments": [
-        "Y ellos, habiendo oído al rey, se fueron: y he aquí la estrella que habían visto en el oriente, iba delante de ellos, hasta que llegando, se puso sobre donde estaba el niño."
+        "Y ellos, habiendo oído al rey, se fueron: y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " la estrella que habían visto en el oriente, iba delante de ellos, hasta que llegando, se puso sobre donde estaba el niño."
       ]
     },
     {
@@ -122,7 +132,12 @@
           "entryId": "miryam",
           "form": "Miryam"
         },
-        ", y postrándose, le adoraron; y abriendo sus tesoros, le ofrecieron dones, oro e incienso y mirra."
+        ", y postrándose, le adoraron; y abriendo sus tesoros, le ofrecieron dones, oro e incienso y ",
+        {
+          "entryId": "glosario_mirra",
+          "form": "mirra"
+        },
+        "."
       ]
     },
     {
@@ -134,7 +149,12 @@
     {
       "verse": 13,
       "segments": [
-        "Y partidos ellos, he aquí el ángel del Señor aparece en sueños a ",
+        "Y partidos ellos, ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " el ángel del Señor aparece en sueños a ",
         {
           "entryId": "yosef",
           "form": "Yosef"
@@ -185,7 +205,16 @@
     {
       "verse": 19,
       "segments": [
-        "Mas muerto Herodes, he aquí el ángel del Señor aparece en sueños a ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " muerto Herodes, ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " el ángel del Señor aparece en sueños a ",
         {
           "entryId": "yosef",
           "form": "Yosef"
@@ -213,7 +242,12 @@
           "entryId": "yehuda_region",
           "form": "Yehudá"
         },
-        " en lugar de Herodes su padre, temió ir allá: mas amonestado por revelación en sueños, se fue a las partes de ",
+        " en lugar de Herodes su padre, temió ir allá: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " amonestado por revelación en sueños, se fue a las partes de ",
         {
           "entryId": "galil",
           "form": "Galil"

@@ -83,7 +83,12 @@
     {
       "verse": 7,
       "segments": [
-        "Y parió a su hijo primogénito, y le envolvió en pañales, y acostóle en un pesebre, porque no había lugar para ellos en el mesón."
+        "Y parió a su hijo ",
+        {
+          "entryId": "glosario_primogénito",
+          "form": "primogénito"
+        },
+        ", y le envolvió en pañales, y acostóle en un pesebre, porque no había lugar para ellos en el mesón."
       ]
     },
     {
@@ -95,13 +100,27 @@
     {
       "verse": 9,
       "segments": [
-        "Y he aquí el ángel del Señor vino sobre ellos, y la claridad de Dios los cercó de resplandor; y tuvieron gran temor."
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " el ángel del Señor vino sobre ellos, y la claridad de Dios los cercó de resplandor; y tuvieron gran temor."
       ]
     },
     {
       "verse": 10,
       "segments": [
-        "Mas el ángel les dijo: No temáis; porque he aquí os doy nuevas de gran gozo, que será para todo el pueblo:"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " el ángel les dijo: No temáis; porque ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " os doy nuevas de gran gozo, que será para todo el pueblo:"
       ]
     },
     {
@@ -180,7 +199,11 @@
     {
       "verse": 19,
       "segments": [
-        "Mas ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ",
         {
           "entryId": "miryam",
           "form": "Miryam"
@@ -236,7 +259,12 @@
     {
       "verse": 25,
       "segments": [
-        "Y he aquí, había un hombre en ",
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        ", había un hombre en ",
         {
           "entryId": "yerushalayim",
           "form": "Yerushalayim"
@@ -308,7 +336,12 @@
     {
       "verse": 32,
       "segments": [
-        "Luz para ser revelada a los Gentiles, y la gloria de tu pueblo Israel."
+        "Luz para ser revelada a los ",
+        {
+          "entryId": "glosario_gentil",
+          "form": "Gentiles"
+        },
+        ", y la gloria de tu pueblo Israel."
       ]
     },
     {
@@ -335,7 +368,12 @@
           "entryId": "miryam",
           "form": "Miryam"
         },
-        ": He aquí, éste es puesto para caída y para levantamiento de muchos en Israel; y para señal a la que será contradicho;"
+        ": ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        ", éste es puesto para caída y para levantamiento de muchos en Israel; y para señal a la que será contradicho;"
       ]
     },
     {
@@ -364,7 +402,12 @@
     {
       "verse": 38,
       "segments": [
-        "Y ésta, sobreviniendo en la misma hora, juntamente confesaba al Señor, y hablaba de él a todos los que esperaban la redención en ",
+        "Y ésta, sobreviniendo en la misma hora, juntamente confesaba al Señor, y hablaba de él a todos los que esperaban la ",
+        {
+          "entryId": "glosario_redención",
+          "form": "redención"
+        },
+        " en ",
         {
           "entryId": "yerushalayim",
           "form": "Yerushalayim"
@@ -375,7 +418,11 @@
     {
       "verse": 39,
       "segments": [
-        "Mas como cumplieron todas las cosas según la ley del Señor, se volvieron a ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " como cumplieron todas las cosas según la ley del Señor, se volvieron a ",
         {
           "entryId": "galil",
           "form": "Galil"
@@ -451,7 +498,11 @@
     {
       "verse": 45,
       "segments": [
-        "Mas como no le hallasen, volvieron a ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " como no le hallasen, volvieron a ",
         {
           "entryId": "yerushalayim",
           "form": "Yerushalayim"
@@ -474,7 +525,12 @@
     {
       "verse": 48,
       "segments": [
-        "Y cuando le vieron, se maravillaron; y díjole su madre: Hijo, ¿por qué nos has hecho así? He aquí, tu padre y yo te hemos buscado con dolor."
+        "Y cuando le vieron, se maravillaron; y díjole su madre: Hijo, ¿por qué nos has hecho así? ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        ", tu padre y yo te hemos buscado con dolor."
       ]
     },
     {
@@ -486,7 +542,11 @@
     {
       "verse": 50,
       "segments": [
-        "Mas ellos no entendieron las palabras que les habló."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ellos no entendieron las palabras que les habló."
       ]
     },
     {

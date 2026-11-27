@@ -12,7 +12,17 @@
           "entryId": "miryam",
           "form": "Miryam"
         },
-        " Magdalena vino de mañana, siendo aún obscuro, al sepulcro; y vio la piedra quitada del sepulcro."
+        " Magdalena vino de mañana, siendo aún obscuro, al ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        "; y vio la piedra quitada del ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        "."
       ]
     },
     {
@@ -28,7 +38,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        ", y les dice: Han llevado al Señor del sepulcro, y no sabemos dónde le han puesto."
+        ", y les dice: Han llevado al Señor del ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        ", y no sabemos dónde le han puesto."
       ]
     },
     {
@@ -39,24 +54,44 @@
           "entryId": "simon_kefa",
           "form": "Kefa"
         },
-        ", y el otro discípulo, y vinieron al sepulcro."
+        ", y el otro discípulo, y vinieron al ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        "."
       ]
     },
     {
       "verse": 4,
       "segments": [
-        "Y corrían los dos juntos; mas el otro discípulo corrió más presto que ",
+        "Y corrían los dos juntos; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " el otro discípulo corrió más presto que ",
         {
           "entryId": "simon_kefa",
           "form": "Kefa"
         },
-        ", y llegó primero al sepulcro."
+        ", y llegó primero al ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        "."
       ]
     },
     {
       "verse": 5,
       "segments": [
-        "Y bajándose a mirar, vio los lienzos echados; mas no entró."
+        "Y bajándose a mirar, vio los lienzos echados; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " no entró."
       ]
     },
     {
@@ -67,7 +102,12 @@
           "entryId": "simon_kefa",
           "form": "Shimón Kefa"
         },
-        " siguiéndole, y entró en el sepulcro, y vio los lienzos echados,"
+        " siguiéndole, y entró en el ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        ", y vio los lienzos echados,"
       ]
     },
     {
@@ -79,7 +119,12 @@
     {
       "verse": 8,
       "segments": [
-        "Y entonces entró también el otro discípulo, que había venido primero al sepulcro, y vio, y creyó."
+        "Y entonces entró también el otro discípulo, que había venido primero al ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        ", y vio, y creyó."
       ]
     },
     {
@@ -97,12 +142,26 @@
     {
       "verse": 11,
       "segments": [
-        "Empero ",
+        {
+          "entryId": "glosario_empero",
+          "form": "Empero"
+        },
+        " ",
         {
           "entryId": "miryam",
           "form": "Miryam"
         },
-        " estaba fuera llorando junto al sepulcro: y estando llorando, bajóse a mirar el sepulcro;"
+        " estaba fuera llorando junto al ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        ": y estando llorando, bajóse a mirar el ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        ";"
       ]
     },
     {
@@ -130,7 +189,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        " que estaba allí; mas no sabía que era ",
+        " que estaba allí; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " no sabía que era ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -178,7 +242,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        ": No me toques: porque aun no he subido a mi Padre: mas ve a mis hermanos, y diles: Subo a mi Padre y a vuestro Padre, a mi Dios y a vuestro Dios."
+        ": No me toques: porque aun no he subido a mi Padre: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " ve a mis hermanos, y diles: Subo a mi Padre y a vuestro Padre, a mi Dios y a vuestro Dios."
       ]
     },
     {
@@ -240,7 +309,11 @@
     {
       "verse": 24,
       "segments": [
-        "Empero ",
+        {
+          "entryId": "glosario_empero",
+          "form": "Empero"
+        },
+        " ",
         {
           "entryId": "toma",
           "form": "Toma"
@@ -332,7 +405,12 @@
     {
       "verse": 31,
       "segments": [
-        "Estas empero son escritas, para que creáis que ",
+        "Estas ",
+        {
+          "entryId": "glosario_empero",
+          "form": "empero"
+        },
+        " son escritas, para que creáis que ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"

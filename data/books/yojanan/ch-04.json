@@ -60,7 +60,12 @@
     {
       "verse": 4,
       "segments": [
-        "Y era menester que pasase por ",
+        "Y era ",
+        {
+          "entryId": "glosario_menester",
+          "form": "menester"
+        },
+        " que pasase por ",
         {
           "entryId": "shomron_region",
           "form": "Shomron"
@@ -130,7 +135,22 @@
     {
       "verse": 9,
       "segments": [
-        "Y la mujer Samaritana le dice: ¿Cómo tú, siendo Judío, me pides a mí de beber, que soy mujer Samaritana? porque los Judíos no se tratan con los Samaritanos."
+        "Y la mujer ",
+        {
+          "entryId": "glosario_samaritano",
+          "form": "Samaritana"
+        },
+        " le dice: ¿Cómo tú, siendo Judío, me pides a mí de beber, que soy mujer ",
+        {
+          "entryId": "glosario_samaritano",
+          "form": "Samaritana"
+        },
+        "? porque los Judíos no se tratan con los ",
+        {
+          "entryId": "glosario_samaritano",
+          "form": "Samaritanos"
+        },
+        "."
       ]
     },
     {
@@ -175,7 +195,16 @@
     {
       "verse": 14,
       "segments": [
-        "Mas el que bebiere del agua que yo le daré, para siempre no tendrá sed: mas el agua que yo le daré, será en él una fuente de agua que salte para vida eterna."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " el que bebiere del agua que yo le daré, para siempre no tendrá sed: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " el agua que yo le daré, será en él una fuente de agua que salte para vida eterna."
       ]
     },
     {
@@ -253,7 +282,11 @@
     {
       "verse": 23,
       "segments": [
-        "Mas la hora viene, y ahora es, cuando los verdaderos adoradores adorarán al Padre en espíritu y en verdad; porque también el Padre tales adoradores busca que le adoren."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " la hora viene, y ahora es, cuando los verdaderos adoradores adorarán al Padre en espíritu y en verdad; porque también el Padre tales adoradores busca que le adoren."
       ]
     },
     {
@@ -292,7 +325,12 @@
     {
       "verse": 27,
       "segments": [
-        "Y en esto vinieron sus discípulos, y maravilláronse de que hablaba con mujer; mas ninguno dijo: ¿Qué preguntas? o, ¿Qué hablas con ella?"
+        "Y en esto vinieron sus discípulos, y maravilláronse de que hablaba con mujer; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " ninguno dijo: ¿Qué preguntas? o, ¿Qué hablas con ella?"
       ]
     },
     {
@@ -355,7 +393,12 @@
     {
       "verse": 35,
       "segments": [
-        "¿No decís vosotros: Aun hay cuatro meses hasta que llegue la siega? He aquí os digo: Alzad vuestros ojos, y mirad las regiones, porque ya están blancas para la siega."
+        "¿No decís vosotros: Aun hay cuatro meses hasta que llegue la siega? ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        " os digo: Alzad vuestros ojos, y mirad las regiones, porque ya están blancas para la siega."
       ]
     },
     {
@@ -379,13 +422,23 @@
     {
       "verse": 39,
       "segments": [
-        "Y muchos de los Samaritanos de aquella ciudad creyeron en él por la palabra de la mujer, que daba testimonio, diciendo: Que me dijo todo lo que he hecho."
+        "Y muchos de los ",
+        {
+          "entryId": "glosario_samaritano",
+          "form": "Samaritanos"
+        },
+        " de aquella ciudad creyeron en él por la palabra de la mujer, que daba testimonio, diciendo: Que me dijo todo lo que he hecho."
       ]
     },
     {
       "verse": 40,
       "segments": [
-        "Viniendo pues los Samaritanos a él, rogáronle que se quedase allí: y se quedó allí dos días."
+        "Viniendo pues los ",
+        {
+          "entryId": "glosario_samaritano",
+          "form": "Samaritanos"
+        },
+        " a él, rogáronle que se quedase allí: y se quedó allí dos días."
       ]
     },
     {

@@ -57,7 +57,17 @@
     {
       "verse": 6,
       "segments": [
-        "Y oiréis guerras, y rumores de guerras: mirad que no os turbéis; porque es menester que todo esto acontezca; mas aún no es el fin."
+        "Y oiréis guerras, y rumores de guerras: mirad que no os turbéis; porque es ",
+        {
+          "entryId": "glosario_menester",
+          "form": "menester"
+        },
+        " que todo esto acontezca; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " aún no es el fin."
       ]
     },
     {
@@ -99,7 +109,11 @@
     {
       "verse": 13,
       "segments": [
-        "Mas el que perseverare hasta el fin, éste será salvo."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " el que perseverare hasta el fin, éste será salvo."
       ]
     },
     {
@@ -110,7 +124,12 @@
           "entryId": "euangelion",
           "form": "evangelio"
         },
-        " del reino en todo el mundo, por testimonio a todos los Gentiles; y entonces vendrá el fin."
+        " del reino en todo el mundo, por testimonio a todos los ",
+        {
+          "entryId": "glosario_gentil",
+          "form": "Gentiles"
+        },
+        "; y entonces vendrá el fin."
       ]
     },
     {
@@ -145,7 +164,11 @@
     {
       "verse": 19,
       "segments": [
-        "Mas ¡ay de las preñadas, y de las que crían en aquellos días!"
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ¡ay de las preñadas, y de las que crían en aquellos días!"
       ]
     },
     {
@@ -168,13 +191,23 @@
     {
       "verse": 22,
       "segments": [
-        "Y si aquellos días no fuesen acortados, ninguna carne sería salva; mas por causa de los escogidos, aquellos días serán acortados."
+        "Y si aquellos días no fuesen acortados, ninguna carne sería salva; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " por causa de los escogidos, aquellos días serán acortados."
       ]
     },
     {
       "verse": 23,
       "segments": [
-        "Entonces, si alguno os dijere: He aquí está el ",
+        "Entonces, si alguno os dijere: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        " está el ",
         {
           "entryId": "mashiaj",
           "form": "Mashiaj"
@@ -191,13 +224,27 @@
     {
       "verse": 25,
       "segments": [
-        "He aquí os lo he dicho antes."
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        " os lo he dicho antes."
       ]
     },
     {
       "verse": 26,
       "segments": [
-        "Así que, si os dijeren: He aquí en el desierto está; no salgáis: He aquí en las cámaras; no creáis."
+        "Así que, si os dijeren: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        " en el desierto está; no salgáis: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        " en las cámaras; no creáis."
       ]
     },
     {
@@ -233,7 +280,12 @@
     {
       "verse": 32,
       "segments": [
-        "De la higuera aprended la parábola: Cuando ya su rama se enternece, y las hojas brotan, sabéis que el verano está cerca."
+        "De la higuera aprended la ",
+        {
+          "entryId": "glosario_parábola",
+          "form": "parábola"
+        },
+        ": Cuando ya su rama se enternece, y las hojas brotan, sabéis que el verano está cerca."
       ]
     },
     {
@@ -255,19 +307,32 @@
     {
       "verse": 35,
       "segments": [
-        "El cielo y la tierra pasarán, mas mis palabras no pasarán."
+        "El cielo y la tierra pasarán, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " mis palabras no pasarán."
       ]
     },
     {
       "verse": 36,
       "segments": [
-        "Empero del día y hora nadie sabe, ni aun los ángeles de los cielos, sino mi Padre solo."
+        {
+          "entryId": "glosario_empero",
+          "form": "Empero"
+        },
+        " del día y hora nadie sabe, ni aun los ángeles de los cielos, sino mi Padre solo."
       ]
     },
     {
       "verse": 37,
       "segments": [
-        "Mas como los días de Noé, así será la venida del Hijo del hombre."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " como los días de Noé, así será la venida del Hijo del hombre."
       ]
     },
     {
@@ -303,7 +368,12 @@
     {
       "verse": 43,
       "segments": [
-        "Esto empero sabed, que si el padre de la familia supiese a cuál vela el ladrón había de venir, velaría, y no dejaría minar su casa."
+        "Esto ",
+        {
+          "entryId": "glosario_empero",
+          "form": "empero"
+        },
+        " sabed, que si el padre de la familia supiese a cuál vela el ladrón había de venir, velaría, y no dejaría minar su casa."
       ]
     },
     {
@@ -355,7 +425,12 @@
     {
       "verse": 51,
       "segments": [
-        "Y le cortará por medio, y pondrá su parte con los hipócritas: allí será el lloro y el crujir de dientes."
+        "Y le cortará por medio, y pondrá su parte con los ",
+        {
+          "entryId": "glosario_hipócrita",
+          "form": "hipócritas"
+        },
+        ": allí será el lloro y el crujir de dientes."
       ]
     }
   ]

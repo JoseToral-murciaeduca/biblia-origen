@@ -13,25 +13,45 @@
     {
       "verse": 2,
       "segments": [
-        "Y salido él del barco, luego le salió al encuentro, de los sepulcros, un hombre con un espíritu inmundo,"
+        "Y salido él del barco, luego le salió al encuentro, de los ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcros"
+        },
+        ", un hombre con un espíritu inmundo,"
       ]
     },
     {
       "verse": 3,
       "segments": [
-        "Que tenía domicilio en los sepulcros, y ni aun con cadenas le podía alguien atar;"
+        "Que tenía domicilio en los ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcros"
+        },
+        ", y ni aun con cadenas le podía alguien atar;"
       ]
     },
     {
       "verse": 4,
       "segments": [
-        "Porque muchas veces había sido atado con grillos y cadenas, mas las cadenas habían sido hechas pedazos por él, y los grillos desmenuzados; y nadie le podía domar."
+        "Porque muchas veces había sido atado con grillos y cadenas, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " las cadenas habían sido hechas pedazos por él, y los grillos desmenuzados; y nadie le podía domar."
       ]
     },
     {
       "verse": 5,
       "segments": [
-        "Y siempre, de día y de noche, andaba dando voces en los montes y en los sepulcros, e hiriéndose con las piedras."
+        "Y siempre, de día y de noche, andaba dando voces en los montes y en los ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcros"
+        },
+        ", e hiriéndose con las piedras."
       ]
     },
     {
@@ -145,7 +165,11 @@
     {
       "verse": 19,
       "segments": [
-        "Mas ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -235,7 +259,12 @@
     {
       "verse": 29,
       "segments": [
-        "Y luego la fuente de su sangre se secó; y sintió en el cuerpo que estaba sana de aquel azote."
+        "Y luego la fuente de su sangre se secó; y sintió en el cuerpo que estaba sana de aquel ",
+        {
+          "entryId": "glosario_azote",
+          "form": "azote"
+        },
+        "."
       ]
     },
     {
@@ -270,7 +299,12 @@
     {
       "verse": 34,
       "segments": [
-        "Y él le dijo: Hija, tu fe te ha hecho salva: ve en paz, y queda sana de tu azote."
+        "Y él le dijo: Hija, tu fe te ha hecho salva: ve en paz, y queda sana de tu ",
+        {
+          "entryId": "glosario_azote",
+          "form": "azote"
+        },
+        "."
       ]
     },
     {
@@ -282,7 +316,11 @@
     {
       "verse": 36,
       "segments": [
-        "Mas luego ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " luego ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -325,13 +363,23 @@
     {
       "verse": 39,
       "segments": [
-        "Y entrando, les dice: ¿Por qué alborotáis y lloráis? La muchacha no es muerta, mas duerme."
+        "Y entrando, les dice: ¿Por qué alborotáis y lloráis? La muchacha no es muerta, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " duerme."
       ]
     },
     {
       "verse": 40,
       "segments": [
-        "Y hacían burla de él: mas él, echados fuera todos, toma al padre y a la madre de la muchacha, y a los que estaban con él, y entra donde la muchacha estaba."
+        "Y hacían burla de él: ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " él, echados fuera todos, toma al padre y a la madre de la muchacha, y a los que estaban con él, y entra donde la muchacha estaba."
       ]
     },
     {
@@ -354,7 +402,11 @@
     {
       "verse": 43,
       "segments": [
-        "Mas él les mandó mucho que nadie lo supiese, y dijo que le diesen de comer."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " él les mandó mucho que nadie lo supiese, y dijo que le diesen de comer."
       ]
     }
   ]

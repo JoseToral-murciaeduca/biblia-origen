@@ -13,7 +13,12 @@
     {
       "verse": 2,
       "segments": [
-        "Y he aquí un leproso vino, y le adoraba, diciendo: Señor, si quisieres, puedes limpiarme."
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " un leproso vino, y le adoraba, diciendo: Señor, si quisieres, puedes limpiarme."
       ]
     },
     {
@@ -35,7 +40,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        " le dijo: Mira, no lo digas a nadie; mas ve, muéstrate al sacerdote, y ofrece el presente que mandó ",
+        " le dijo: Mira, no lo digas a nadie; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " ve, muéstrate al sacerdote, y ofrece el presente que mandó ",
         {
           "entryId": "moshe",
           "form": "Moshe"
@@ -56,7 +66,12 @@
           "entryId": "kefar_najum",
           "form": "Kefar Najum"
         },
-        ", vino a él un centurión, rogándole,"
+        ", vino a él un ",
+        {
+          "entryId": "glosario_centurión",
+          "form": "centurión"
+        },
+        ", rogándole,"
       ]
     },
     {
@@ -79,7 +94,17 @@
     {
       "verse": 8,
       "segments": [
-        "Y respondió el centurión, y dijo: Señor, no soy digno de que entres debajo de mi techado; mas solamente di la palabra, y mi mozo sanará."
+        "Y respondió el ",
+        {
+          "entryId": "glosario_centurión",
+          "form": "centurión"
+        },
+        ", y dijo: Señor, no soy digno de que entres debajo de mi techado; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " solamente di la palabra, y mi mozo sanará."
       ]
     },
     {
@@ -128,7 +153,11 @@
     {
       "verse": 12,
       "segments": [
-        "Mas los hijos del reino serán echados a las tinieblas de afuera: allí será el lloro y el crujir de dientes."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " los hijos del reino serán echados a las tinieblas de afuera: allí será el lloro y el crujir de dientes."
       ]
     },
     {
@@ -139,7 +168,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        " dijo al centurión: Ve, y como creiste te sea hecho. Y su mozo fue sano en el mismo momento."
+        " dijo al ",
+        {
+          "entryId": "glosario_centurión",
+          "form": "centurión"
+        },
+        ": Ve, y como creiste te sea hecho. Y su mozo fue sano en el mismo momento."
       ]
     },
     {
@@ -206,7 +240,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        " le dijo: Las zorras tienen cavernas, y las aves del cielo nidos; mas el Hijo del hombre no tiene donde recueste su cabeza."
+        " le dijo: Las zorras tienen cavernas, y las aves del cielo nidos; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " el Hijo del hombre no tiene donde recueste su cabeza."
       ]
     },
     {
@@ -235,7 +274,17 @@
     {
       "verse": 24,
       "segments": [
-        "Y he aquí, fue hecho en la mar un gran movimiento, que el barco se cubría de las ondas; mas él dormía."
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        ", fue hecho en la mar un gran movimiento, que el barco se cubría de las ondas; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " él dormía."
       ]
     },
     {
@@ -259,13 +308,23 @@
     {
       "verse": 28,
       "segments": [
-        "Y como él hubo llegado en la otra ribera al país de los Gergesenos, le vinieron al encuentro dos endemoniados que salían de los sepulcros, fieros en gran manera, que nadie podía pasar por aquel camino."
+        "Y como él hubo llegado en la otra ribera al país de los Gergesenos, le vinieron al encuentro dos endemoniados que salían de los ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcros"
+        },
+        ", fieros en gran manera, que nadie podía pasar por aquel camino."
       ]
     },
     {
       "verse": 29,
       "segments": [
-        "Y he aquí clamaron, diciendo: ¿Qué tenemos contigo, ",
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " clamaron, diciendo: ¿Qué tenemos contigo, ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -293,7 +352,12 @@
     {
       "verse": 32,
       "segments": [
-        "Y les dijo: Id. Y ellos salieron, y se fueron a aquel hato de puercos: y he aquí, todo el hato de los puercos se precipitó de un despeñadero en la mar, y murieron en las aguas."
+        "Y les dijo: Id. Y ellos salieron, y se fueron a aquel hato de puercos: y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        ", todo el hato de los puercos se precipitó de un despeñadero en la mar, y murieron en las aguas."
       ]
     },
     {
@@ -305,7 +369,12 @@
     {
       "verse": 34,
       "segments": [
-        "Y he aquí, toda la ciudad salió a encontrar a ",
+        "Y ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        ", toda la ciudad salió a encontrar a ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"

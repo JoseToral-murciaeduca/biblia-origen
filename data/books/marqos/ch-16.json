@@ -28,13 +28,23 @@
     {
       "verse": 2,
       "segments": [
-        "Y muy de mañana, el primer día de la semana, vienen al sepulcro, ya salido el sol."
+        "Y muy de mañana, el primer día de la semana, vienen al ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        ", ya salido el sol."
       ]
     },
     {
       "verse": 3,
       "segments": [
-        "Y decían entre sí: ¿Quién nos revolverá la piedra de la puerta del sepulcro?"
+        "Y decían entre sí: ¿Quién nos revolverá la piedra de la puerta del ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        "?"
       ]
     },
     {
@@ -46,24 +56,42 @@
     {
       "verse": 5,
       "segments": [
-        "Y entradas en el sepulcro, vieron un mancebo sentado al lado derecho, cubierto de una larga ropa blanca; y se espantaron."
+        "Y entradas en el ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        ", vieron un mancebo sentado al lado derecho, cubierto de una larga ropa blanca; y se espantaron."
       ]
     },
     {
       "verse": 6,
       "segments": [
-        "Mas él les dice: No os asustéis: buscáis a ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " él les dice: No os asustéis: buscáis a ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        " Nazareno, el que fue crucificado; resucitado há, no está aquí; he aquí el lugar en donde le pusieron."
+        " Nazareno, el que fue crucificado; resucitado há, no está aquí; ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "he aquí"
+        },
+        " el lugar en donde le pusieron."
       ]
     },
     {
       "verse": 7,
       "segments": [
-        "Mas id, decid a sus discípulos y a ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " id, decid a sus discípulos y a ",
         {
           "entryId": "simon_kefa",
           "form": "Kefa"
@@ -79,13 +107,22 @@
     {
       "verse": 8,
       "segments": [
-        "Y ellas se fueron huyendo del sepulcro; porque las había tomado temblor y espanto; ni decían nada a nadie, porque tenían miedo."
+        "Y ellas se fueron huyendo del ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcro"
+        },
+        "; porque las había tomado temblor y espanto; ni decían nada a nadie, porque tenían miedo."
       ]
     },
     {
       "verse": 9,
       "segments": [
-        "Mas como ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " como ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -113,7 +150,11 @@
     {
       "verse": 12,
       "segments": [
-        "Mas después apareció en otra forma a dos de ellos que iban caminando, yendo al campo."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " después apareció en otra forma a dos de ellos que iban caminando, yendo al campo."
       ]
     },
     {
@@ -142,7 +183,12 @@
     {
       "verse": 16,
       "segments": [
-        "El que creyere y fuere bautizado, será salvo; mas el que no creyere, será condenado."
+        "El que creyere y fuere bautizado, será salvo; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " el que no creyere, será condenado."
       ]
     },
     {

@@ -7,7 +7,12 @@
     {
       "verse": 1,
       "segments": [
-        "EN aquel tiempo Herodes el tetrarca oyó la fama de ",
+        "EN aquel tiempo Herodes el ",
+        {
+          "entryId": "glosario_tetrarca",
+          "form": "tetrarca"
+        },
+        " oyó la fama de ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -56,13 +61,22 @@
     {
       "verse": 5,
       "segments": [
-        "Y quería matarle, mas temía al pueblo; porque le tenían como a profeta."
+        "Y quería matarle, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " temía al pueblo; porque le tenían como a profeta."
       ]
     },
     {
       "verse": 6,
       "segments": [
-        "Mas celebrándose el día del nacimiento de Herodes, la hija de Herodías danzó en medio, y agradó a Herodes."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " celebrándose el día del nacimiento de Herodes, la hija de Herodías danzó en medio, y agradó a Herodes."
       ]
     },
     {
@@ -85,7 +99,12 @@
     {
       "verse": 9,
       "segments": [
-        "Entonces el rey se entristeció; mas por el juramento, y por los que estaban juntamente a la mesa, mandó que se le diese."
+        "Entonces el rey se entristeció; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " por el juramento, y por los que estaban juntamente a la mesa, mandó que se le diese."
       ]
     },
     {
@@ -211,7 +230,11 @@
     {
       "verse": 25,
       "segments": [
-        "Mas a la cuarta vela de la noche, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " a la cuarta vela de la noche, ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -228,7 +251,11 @@
     {
       "verse": 27,
       "segments": [
-        "Mas luego ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " luego ",
         {
           "entryId": "yeshua",
           "form": "Yeshua"
@@ -266,7 +293,11 @@
     {
       "verse": 30,
       "segments": [
-        "Mas viendo el viento fuerte, tuvo miedo; y comenzándose a hundir, dio voces, diciendo: Señor, sálvame."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " viendo el viento fuerte, tuvo miedo; y comenzándose a hundir, dio voces, diciendo: Señor, sálvame."
       ]
     },
     {

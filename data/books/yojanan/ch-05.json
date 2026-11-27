@@ -135,7 +135,12 @@
           "entryId": "yeshua",
           "form": "Yeshua"
         },
-        " en el templo, y díjole: He aquí, has sido sanado; no peques más, porque no te venga alguna cosa peor."
+        " en el templo, y díjole: ",
+        {
+          "entryId": "glosario_he_aquí",
+          "form": "He aquí"
+        },
+        ", has sido sanado; no peques más, porque no te venga alguna cosa peor."
       ]
     },
     {
@@ -213,7 +218,12 @@
     {
       "verse": 22,
       "segments": [
-        "Porque el Padre a nadie juzga, mas todo el juicio dio al Hijo;"
+        "Porque el Padre a nadie juzga, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " todo el juicio dio al Hijo;"
       ]
     },
     {
@@ -225,7 +235,12 @@
     {
       "verse": 24,
       "segments": [
-        "De cierto, de cierto os digo: El que oye mi palabra, y cree al que me ha enviado, tiene vida eterna; y no vendrá a condenación, mas pasó de muerte a vida."
+        "De cierto, de cierto os digo: El que oye mi palabra, y cree al que me ha enviado, tiene vida eterna; y no vendrá a condenación, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " pasó de muerte a vida."
       ]
     },
     {
@@ -249,19 +264,34 @@
     {
       "verse": 28,
       "segments": [
-        "No os maravilléis de esto; porque vendrá hora, cuando todos los que están en los sepulcros oirán su voz;"
+        "No os maravilléis de esto; porque vendrá hora, cuando todos los que están en los ",
+        {
+          "entryId": "glosario_sepulcro",
+          "form": "sepulcros"
+        },
+        " oirán su voz;"
       ]
     },
     {
       "verse": 29,
       "segments": [
-        "Y los que hicieron bien, saldrán a resurrección de vida; mas los que hicieron mal, a resurrección de condenación."
+        "Y los que hicieron bien, saldrán a resurrección de vida; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " los que hicieron mal, a resurrección de condenación."
       ]
     },
     {
       "verse": 30,
       "segments": [
-        "No puedo yo de mí mismo hacer nada: como oigo, juzgo: y mi juicio es justo; porque no busco mi voluntad, mas la voluntad del que me envió, del Padre."
+        "No puedo yo de mí mismo hacer nada: como oigo, juzgo: y mi juicio es justo; porque no busco mi voluntad, ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " la voluntad del que me envió, del Padre."
       ]
     },
     {
@@ -290,7 +320,16 @@
     {
       "verse": 34,
       "segments": [
-        "Empero yo no tomo el testimonio de hombre; mas digo esto, para que vosotros seáis salvos."
+        {
+          "entryId": "glosario_empero",
+          "form": "Empero"
+        },
+        " yo no tomo el testimonio de hombre; ",
+        {
+          "entryId": "glosario_mas",
+          "form": "mas"
+        },
+        " digo esto, para que vosotros seáis salvos."
       ]
     },
     {
@@ -302,7 +341,11 @@
     {
       "verse": 36,
       "segments": [
-        "Mas yo tengo mayor testimonio que el de ",
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " yo tengo mayor testimonio que el de ",
         {
           "entryId": "yojanan_bautista",
           "form": "Yojanan"
@@ -343,7 +386,11 @@
     {
       "verse": 42,
       "segments": [
-        "Mas yo os conozco, que no tenéis amor de Dios en vosotros."
+        {
+          "entryId": "glosario_mas",
+          "form": "Mas"
+        },
+        " yo os conozco, que no tenéis amor de Dios en vosotros."
       ]
     },
     {
