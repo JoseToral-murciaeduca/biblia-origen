@@ -2388,6 +2388,19 @@ body {
 
 }
 
+.library-epigraph::before,
+.library-epigraph__quote::before {
+  content: none;
+}
+
+.library-epigraph__ornament {
+  display: block;
+  margin-bottom: 0.45rem;
+  font-size: 0.85rem;
+  color: var(--gold);
+  line-height: 1;
+}
+
 .library-epigraph__quote .term-btn {
 
   font: inherit;
